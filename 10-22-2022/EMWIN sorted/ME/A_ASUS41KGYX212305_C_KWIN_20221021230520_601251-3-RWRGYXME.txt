@@ -1,0 +1,91 @@
+ASUS41 KGYX 212305
+RWRGYX
+WEATHER ROUNDUP FOR MAINE AND NEW HAMPSHIRE
+NATIONAL WEATHER SERVICE GRAY ME
+700 PM EDT FRI OCT 21 2022
+
+MEZ002-005-006-010-012-015-018-020-021-024-026-027-029-220000-
+MAINE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND       CLEAR     50  40  68 S5        30.13R                  
+SANFORD        CLEAR     42  38  85 CALM      30.13R                  
+BAR HARBOR     CLEAR     50  41  71 SW6       30.14R                  
+WISCASSET      CLEAR     44  38  79 CALM      30.15R                  
+ROCKLAND       CLEAR     47  39  74 SW5       30.14R                  
+FRYEBURG       CLEAR     39  34  82 CALM      30.12R                  
+LEWISTONAUBURN CLEAR     47  36  65 S6        30.12R                  
+AUGUSTA        CLEAR     50  36  58 S6        30.13R                  
+WATERVILLE     CLEAR     48  35  60 S3        30.10R                  
+BANGOR         CLEAR     50  37  61 S6        30.12R                  
+GREENVILLE       N/A     46  28  49 VRB3      30.06R                  
+MILLINOCKET    CLEAR     44  37  76 CALM      30.10R                  
+HOULTON        CLEAR     45  33  63 S5        30.06R                  
+PRESQUE ISLE   CLEAR     47  32  56 S8        30.06R                  
+FRENCHVILLE    CLEAR     46  30  53 S6        30.03R                  
+CARIBOU        CLEAR     48  30  49 S5        30.04R                  
+$$
+
+NHZ002-005-008-009-011-012-014-220000-
+NEW HAMPSHIRE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTSMOUTH     CLEAR     49  44  82 SE7       30.12R                  
+ROCHESTER      CLEAR     51  39  63 S3        30.12R                  
+NASHUA         CLEAR     48  40  73 CALM      30.12R                  
+MANCHESTER     PTCLDY    50  35  56 CALM      30.10R                  
+CONCORD        CLEAR     46  33  60 CALM      30.11R                  
+LACONIA        CLEAR     45  35  68 CALM      30.11R                  
+BERLIN         CLEAR     40  33  76 CALM      30.08R                  
+WHITEFIELD     CLEAR     39  32  76 CALM      30.08R                  
+JAFFREY        CLEAR     44  35  70 S3        30.12R                  
+KEENE          CLEAR     46  36  68 CALM      30.12R                  
+LEBANON        CLEAR     41  34  76 CALM      30.08R                  
+MT WASHINGTON  PTCLDY    34  -2  21 SW31G38     N/A  WCI  20          
+$$
+
+VTZ005-007-008-220000-
+VERMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST JOHNSBURY     N/A     46  31  55 MISG      30.06R                  
+MONTPELIER     CLEAR     50  25  37 S7        30.10R                  
+BURLINGTON     CLEAR     54  27  35 S12       30.03R                  
+$$
+
+MAZ007-012-024-CTZ003-RIZ002-NYZ038-NYZ072-220000-
+SOUTHERN NEW ENGLAND AND NY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WORCESTER      CLEAR     50  33  52 SW6       30.12R                  
+NANTUCKET      CLEAR     58  48  69 S9        30.18R                  
+PROVIDENCE     CLEAR     54  44  69 S5        30.15R                  
+HARTFORD       PTCLDY    55  29  36 S6        30.12R                  
+ALBANY         CLEAR     54  30  40 SE7       30.08R                  
+NEW YORK CITY  PTCLDY    58  33  39 S9        30.13R                  
+$$
+
+ANZ081-ANZ082-ANZ150-NHZ014-MEZ023>029-220000-
+COASTAL MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+MOUNT DESERT ROC 2200   54     190/ 14/ 14 1020.3R
+MATINICUS ROCK   2200   54     210/ 19/ 20 1020.3R
+ISLE OF SHOALS   2200   55     150/ 18/ 19 1018.9R
+JEFFREYS LEDGE   2226      56                N/A     2/ 8
+CASHES LEDGE BUO 2250   56 55  190/ 10/ 12 1020.5R   3/ 9
+GEORGES BANK BUO 2250      63              1022.0R   5/14
+$$
+
+.............KEY..............
+   WCI - WIND CHILL
+   TC  - TEMPERATURE IN CELSIUS
+   VSB - VISIBILITY IN MILES
+   HX  - HEAT INDEX
+   FAIR- INDICATES FEW OR NO CLOUDS BELOW 12,000 FT, WITH NO 
+         SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+  

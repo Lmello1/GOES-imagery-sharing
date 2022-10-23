@@ -1,0 +1,71 @@
+FPUS63 KMKX 220231
+SFTWI 
+WIZ001>074-221100-
+
+Tabular State Forecast for Wisconsin
+National Weather Service Milwaukee/Sullivan WI
+931 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...NORTHERN WISCONSIN...
+   Ashland
+   Ptcldy   Sunny    Mocldy   Ptcldy   Ptcldy   Mocldy   Mocldy   
+   40/69    52/72    57/71    40/52    35/50    34/52    35/52    
+    00/00    00/10    80/50    40/20    30/30    20/10    20/30   
+
+   Hayward
+   Sunny    Ptcldy   Mocldy   Ptcldy   Ptcldy   Mocldy   Mocldy   
+   39/69    52/70    58/69    37/50    32/50    32/50    34/52    
+    00/00    00/10    70/50    40/20    30/20    20/10    20/30   
+
+   Rhinelander
+   Sunny    Ptcldy   Mocldy   Mocldy   Mocldy   Ptcldy   Mocldy   
+   37/69    52/67    56/68    43/51    37/48    33/49    34/50    
+    00/00    00/10    70/50    60/30    40/30    20/10    20/30   
+
+...CENTRAL WISCONSIN...
+   Eau Claire
+   Sunny    Ptcldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+   42/76    57/73    62/72    43/52    38/52    37/53    38/54    
+    00/00    00/10    70/50    50/30    40/20    10/10    20/30   
+
+   Wausau
+   Sunny    Ptcldy   Mocldy   Mocldy   Mocldy   Ptcldy   Mocldy   
+   40/72    55/71    61/71    48/54    41/52    38/53    39/54    
+    00/00    00/10    70/50    60/40    40/30    20/10    20/30   
+
+   Green Bay
+   Sunny    Sunny    Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   
+   42/73    55/70    59/71    53/59    45/54    40/53    40/53    
+    00/00    00/10    70/40    50/40    50/40    10/10    20/20   
+
+...SOUTHERN WISCONSIN...
+   La Crosse
+   Sunny    Ptcldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+   46/78    59/75    64/73    44/52    40/52    38/54    39/54    
+    00/00    00/10    60/50    60/40    40/30    10/10    20/30   
+
+   Madison
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Mocldy   
+   48/77    58/73    62/74    51/58    44/55    39/54    40/55    
+    00/00    00/10    50/40    60/50    50/30    10/10    20/30   
+
+   Milwaukee
+   Sunny    Sunny    Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/74    57/69    59/70    55/63    47/57    43/56    44/56    
+    00/00    00/10    50/20    50/50    60/30    10/10    20/20   
+
+
+$$
+

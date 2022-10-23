@@ -1,0 +1,77 @@
+FPUS61 KCAR 220148
+SFTCAR
+STZ000-221000-
+
+Tabular State Forecast for Maine
+National Weather Service Caribou ME
+948 PM EDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Northern Maine...
+   Caribou, ME
+   Sunny    Sunny    Rain     Mocldy   Ptcldy   Ptcldy   Ptcldy   
+   36/62    39/66    43/61    47/65    50/68    50/63    42/57    
+    00/00    00/00    10/60    50/20    10/20    30/30    30/20   
+
+   Clayton Lake, ME     
+   Sunny    Sunny    Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   32/63    37/66    42/60    45/65    47/67    47/62    40/56    
+    00/00    00/00    10/40    30/10    10/20    30/30    30/20   
+
+   Frenchville, ME    
+   Sunny    Sunny    Rain     Mocldy   Ptcldy   Ptcldy   Ptcldy   
+   37/62    38/65    43/60    48/65    50/67    50/62    42/55    
+    00/00    00/00    10/50    40/20    10/20    30/30    30/20   
+
+   Houlton, ME   
+   Sunny    Ptcldy   Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   
+   35/62    37/66    44/61    48/65    49/68    50/64    44/58    
+    00/00    00/00    20/70    50/20    10/20    30/40    30/20   
+
+   Presque Isle, ME
+   Sunny    Sunny    Rain     Mocldy   Ptcldy   Ptcldy   Ptcldy   
+   35/61    37/65    43/59    48/65    49/68    50/63    43/57    
+    00/00    00/00    10/60    50/20    10/20    30/30    30/20   
+
+   Greenville, ME
+   Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   35/61    39/64    45/58    48/65    51/66    51/62    44/57    
+    00/00    00/00    30/60    40/10    10/20    40/40    30/20   
+
+   Millinocket, ME   
+   Sunny    Ptcldy   Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   
+   37/62    40/65    45/60    49/65    52/67    52/63    45/59    
+    00/00    00/00    30/70    50/20    10/20    40/40    30/20   
+
+
+...Penobscot Valley and Downeast Maine...
+   Bangor ME
+   Sunny    Ptcldy   Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   
+   39/64    43/66    48/61    50/66    53/67    53/64    47/60    
+    00/00    00/10    50/70    50/20    20/20    40/40    30/20   
+
+   Bar Harbor ME
+   Sunny    Ptcldy   Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   
+   42/62    45/65    49/61    50/64    52/65    52/64    48/61    
+    00/00    00/10    60/70    60/30    20/20    40/40    30/20   
+
+   Eastport ME
+   Sunny    Ptcldy   Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   
+   44/62    46/63    49/59    52/63    52/64    52/63    49/60    
+    00/00    00/00    50/70    60/40    20/20    40/40    30/20   
+
+
+$$
+

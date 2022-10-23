@@ -1,0 +1,37 @@
+ASUS65 KREV 220038
+RTPNV 
+
+Regional Temperature and Precipitation Table National Weather 
+Service Reno Nevada 513 PM PDT Fri Oct 21 2022
+
+Values represent 18 hour highs, 18 hour lows and precipitation over
+the last 24 hours.
+
+Snow depth is measured daily and is valid as of 5 PM PDT.
+.BR REV 1021 P DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Nevada
+:Automated Temperature and Precipitation Stations
+:...............................................................
+:       Station              Max / Min / 24 hr /  Snow /  Snow
+:        Name                Temp/ Temp/ Pcpn  /  Fall /  Depth
+:...............................................................
+EKO  : Elko                :  76 /  27 /    T  /       /     
+ELY  : Ely                 :  69 /  28 /  0.00 /       /     
+P68  : Eureka              :  72 /  33 /  0.00 /       /     
+NFL  : Fallon Naval Air St :  81 /  46 /  0.00 /       /     
+LAS  : Harry Reid Intl Air :  85 /  62 /  0.00 /       /     
+LOL  : Lovelock Airport    :   M /   M /  0.00 /       /     
+DRA  : Desert Rock         :  81 /  48 /  0.00 /       /     
+RNO  : Reno Airport        :  81 /  42 /  0.00 /   0.0 /    0
+TVL  : South Lake Tahoe Ai :  69 /  29 /  0.00 /       /     
+TPH  : Tonopah Airport     :  75 /  38 /  0.00 /       /     
+WMC  : Winnemucca          :  79 /   M /  0.00 /       /     
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision=. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+$$

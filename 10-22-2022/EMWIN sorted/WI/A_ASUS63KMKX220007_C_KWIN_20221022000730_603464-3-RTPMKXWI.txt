@@ -1,0 +1,45 @@
+ASUS63 KMKX 220007
+RTPMKX
+Max/min Temperature And Precipitation Table For Southeast And
+South-central Wisconsin
+National Weather Service Milwaukee/Sullivan WI
+707 PM CDT Fri Oct 21 2022
+
+High and low temperatures are for the previous 18 hours ending at
+7 PM. Precipitation and new snow are for the previous 24 hours
+ending at 7 PM. Snow on the ground is as of 7 PM.
+ 
+.BR MKE 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                                       Snow   Snow
+:                                     High Low  Precip  Fall   Depth
+:                                     Temp Temp  (In.)  (In.)  (In.)
+MKE  : Milwaukee                 ASOS: 77 / 39 / 0.00 /  0.0 /   0
+MSN  : Madison                   ASOS: 76 / 35 / 0.00 /  0.0 /   0
+FLD  : Fond du Lac               ASOS: 77 / 36 / 0.00
+SBM  : Sheboygan                 ASOS: 78 / 33 / 0.00
+ENW  : Kenosha                   ASOS: 77 / 43 / 0.00
+RAC  : Racine                    ASOS: 75 / 43 / 0.00
+LNR  : Lone Rock                 ASOS: 81 / 33 / 0.00
+C35  : Reedsburg                 AWOS: 74 / 35
+DLL  : Baraboo/WI Dells          AWOS: 73 / 35
+UNU  : Juneau                    AWOS: 74 / 35
+ETB  : West Bend                 AWOS: 73 / 32
+MRJ  : Mineral Point             AWOS: 73 / 41
+C29  : Middleton                 AWOS: 77 / 42
+RYV  : Watertown                 AWOS: 76 / 32
+UES  : Waukesha                  AWOS: 73 / 37
+MWC  : Milw.- Timmerman          AWOS: 75 / 34
+EFT  : Monroe                    AWOS: 76 / 39
+JVL  : Janesville                AWOS: 79 / 36
+BUU  : Burlington                AWOS: 76 / 29
+.End
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at: www.ncei.noaa.gov
+
+$$
+

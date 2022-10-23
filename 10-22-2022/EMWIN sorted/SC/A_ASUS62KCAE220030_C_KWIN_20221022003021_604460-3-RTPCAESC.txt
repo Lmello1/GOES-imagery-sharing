@@ -1,0 +1,53 @@
+ASUS62 KCAE 220030
+RTPCAE
+
+REGIONAL MAX/MIN TEMPERATURE AND PRECIPITATION TABLE
+NATIONAL WEATHER SERVICE COLUMBIA SC
+830 PM EDT FRI OCT 21 2022 
+
+.BR CAE 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+
+:VALUES REPRESENT LOWS OVER THE PAST 18 HOURS...
+:HIGHS OVER THE PAST 12 HOURS AND PRECIPITATION OVER THE
+:PAST 24 HOURS...EXCEPT CHARLESTON DOWNTOWN DATA IS VALID
+:FOR THE PERIOD  MIDNIGHT TO 500 PM EDT.
+:
+:                               MAX    MIN
+:ID     LOCATION                TEMP   TEMP     PCPN 
+:...FOOTHILLS...
+GMU  : GREENVILLE           :   68  /   37  /   0.00   
+GSP  : GREER                :   67  /   33  /   0.00   
+AND  : ANDERSON             :   70  /   33  /   0.00   
+CEU  : CLEMSON              :   68  /   34  /   T      
+:
+:...PIEDMONT...
+UZA  : ROCK HILL            :   68  /   30  /   0.00   
+GRD  : GREENWOOD            :   68  /   30  /   0.00   
+:
+:...SOUTH MIDLANDS...
+CAE  : COLUMBIA             :   71  /   33  /   0.00   
+CUB  : OWENS FIELD          :   71  /   37  /   0.00   
+MMT  : MCENTIRE ANG         :   70  /   31  /   0.00   
+OGB  : ORANGEBURG           :   70  /   37  /   0.00   
+SSC  : SUMTER SHAW AF       :   72  /   35  /   0.00   
+:
+:...NORTH MIDLANDS AND PEE DEE...
+FLO  : FLORENCE             :   71  /   34  /   0.00   
+UDG  : DARLINGTON           :   71  /   33  /   0.00   
+:
+:...NORTH COAST...
+CRE  : N. MYRTLE BEACH      :   69  /   38  /   0.00   
+:
+:...SOUTH COAST...
+NBC  : BEAUFORT MCAS        :   73  /   40  /   0.00   
+CHS  : CHARLESTON AIRPORT   :   71  /   41  /   0.00   
+CHLS1: CHARLESTON DOWNTOWN  :   69  /   54  /   0.00   
+
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY
+CONTROL BY THE NATIONAL CLIMATIC DATA CENTER /NCDC/. THEREFORE...
+THESE DATA ARE SUBJECT TO REVISION. FINAL AND CERTIFIED CLIMATE
+DATA CAN BE ACCESSED AT WWW.NCDC.NOAA.GOV.
+
+$$

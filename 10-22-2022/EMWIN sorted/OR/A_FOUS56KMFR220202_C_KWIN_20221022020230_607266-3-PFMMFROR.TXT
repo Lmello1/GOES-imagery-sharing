@@ -1,0 +1,370 @@
+FOUS56 KMFR 220202
+PFMMFR
+
+Point Forecast Matrices
+National Weather Service Medford, OR
+702 PM PDT Fri Oct 21 2022
+
+CAZ085-221200-
+Alturas-Modoc CA
+41.48N 120.57W Elev. 4373 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          50          24          48          16
+Temp                58 53 50 43 41 45 48 45 38 33 29 27 28 39 46 48 38 27 22 19
+Dewpt               33 39 42 37 36 34 28 23 26 28 26 24 23 25 21 19 22 19 19 17
+RH                  39 59 74 79 82 65 46 41 62 82 88 88 81 57 37 31 52 71 88 92
+Wind dir             W  W  W NW  W NW NW NW NW  W  W NW  N  N  N  N NE NE  E SE
+Wind spd            13 17 21 19 13 18 18 17 12 11  9  6  5 10 11 10  5  4  1  1
+Wind gust                 33 29                                                
+Clouds              B2 OV OV B2 B2 B1 B1 B1 B1 B1 B1 B1 B1 SC SC CL FW FW FW SC
+PoP 12hr                     80          60          30           0           0
+QPF 12hr                   0.07        0.05        0.04           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                 S  D  D                                                   
+Rain shwrs                    L  L  S  S  C                                    
+Snowshwrs                                 C  C  C  C                           
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          58      29    57      29    47      23    54      21    59
+Temp          41 57 40   32 45 56 40   34 42 44 32   26 41 53 32   23 44 56
+Dewpt         22 28 31   27 33 33 33   31 33 26 28   26 30 26 24   19 26 25
+PWind dir         S       W    SW      SW     W      NW    NE       E    SE
+Wind char        LT      LT    LT      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC B1   B1 B1 SC B1   B2 B2 B2 B1   SC B1 FW FW   SC B1 SC
+PoP 12hr         10      30    20      50    50      10     5       5    10
+Rain                 C    S  S  S  C    C  C                               
+Rain shwrs                                 C  C                            
+Snow                         S             C                               
+Snowshwrs                                  C                               
+
+$$
+ORZ029-221200-
+Klamath Falls-Klamath OR
+42.16N 121.73W Elev. 4091 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          48          27          52          20
+Temp                56 52 46 41 39 44 46 43 38 35 33 31 31 41 50 51 40 31 28 24
+Dewpt               47 50 43 38 38 34 27 28 32 31 30 28 28 30 27 26 32 28 26 23
+RH                  72 93 89 89 96 68 47 55 79 85 89 88 88 65 41 37 73 88 92 96
+Wind dir             W  W  W  W  W NW  W  W  W  W  W NW NW NW NW NW NW NW  N SE
+Wind spd            17 19 19 16 13 16 18 19 14 11  8  4  4  5  8  9  6  4  3  2
+Wind gust              29 29             29                                    
+Clouds              OV OV OV OV OV B2 B2 B2 B2 B1 B1 B1 B1 SC SC CL FW FW SC B1
+PoP 12hr                     80          70          60           5           0
+QPF 12hr                   0.09        0.05        0.13           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                 D  D  D                                                   
+Rain shwrs                    L  L  C  C  L  L  C                              
+Snowshwrs                                 L  L  C  C                           
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      30    53      31    47      26    53      25    57
+Temp          42 54 41   34 44 49 38   35 42 45 35   29 42 53 35   27 44 55
+Dewpt         31 40 37   32 39 33 35   33 37 32 33   29 35 29 28   22 30 30
+PWind dir         S       W    SW       W     W      NW     E       S    SE
+Wind char        LT      LT    LT      GN    GN      GN    LT      LT    LT
+Avg clouds    B1 B1 B1   B1 B1 B1 B1   B2 OV B1 B1   B1 B1 SC FW   SC B1 SC
+PoP 12hr         30      40    30      60    50      10     5      10    20
+Rain              C  C    C  S  C  C    L  C                              S
+Rain shwrs                                 C  C                            
+Snow                                       C                           S   
+Snowshwrs                                  C                               
+
+$$
+ORZ031-221200-
+Lakeview-Lake OR
+42.17N 120.40W Elev. 4734 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      36          48          24          49          17
+Temp                51 49 45 39 36 43 46 43 35 30 30 27 28 40 47 48 35 25 23 20
+Dewpt               37 44 42 36 36 33 26 24 26 27 27 25 26 29 26 23 24 20 21 19
+RH                  59 83 89 89100 67 45 47 69 88 88 92 92 64 43 37 64 81 92 96
+Wind dir            SW SW  W  W  W  W  W NW NW NW NW  N  N  N  N  N  N  N NE SW
+Wind spd            18 20 25 23 17 23 19 18 11 11 11  6  9 12 12 11  6  6  4  4
+Wind gust              32 37 34    34 29                                       
+Clouds              OV OV OV B2 B2 B2 B2 B1 B1 B1 B1 B1 B1 SC SC CL FW FW SC SC
+PoP 12hr                     80          60          40           0           0
+QPF 12hr                   0.08        0.08        0.12           0           0
+Snow 12hr                 00-00       00-00           1                        
+Rain                 C  D  D                                                   
+Rain shwrs                    L  L  C  C                                       
+Snowshwrs                        L        C  C  C  C                           
+Wind                 Y  Y  Y                                                   
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      27    54      27    45      22    52      20    56
+Temp          41 52 38   30 45 52 35   31 40 42 29   25 41 50 29   23 43 52
+Dewpt         26 34 33   28 35 33 32   30 33 27 27   25 31 28 23   20 28 26
+PWind dir        SW      SW    SW      SW     W      NW     W      SE     S
+Wind char        LT      GN    GN      GN    GN      GN    LT      LT    LT
+Avg clouds    B1 SC B1   B1 B1 SC B1   B2 OV B2 B1   B1 B1 FW FW   SC B1 SC
+PoP 12hr         20      30    20      50    50      10     5      10    10
+Rain              S  C    S  S  S  C    C                                  
+Rain shwrs                                    C                            
+Snow                         S          C  C                               
+Snowshwrs                                  C                               
+
+$$
+ORZ026-221200-
+Medford-Jackson OR
+42.37N 122.87W Elev. 1329 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          55          40          57          33
+Temp                65 60 55 51 49 51 53 52 50 47 45 43 41 48 55 57 50 42 38 36
+Dewpt               52 52 49 47 47 45 43 41 40 39 40 38 38 41 37 35 35 33 33 33
+RH                  63 75 80 86 93 80 69 66 68 74 82 82 89 77 51 43 56 70 82 89
+Wind dir            NW  W SW  W NW  W NW NW NW NW  W  W NW NW  N NW  E  E  E  E
+Wind spd             8  6  6  8  5  5  6  6  6  4  3  3  2  2  3  4  3  2  2  2
+Clouds              OV OV OV OV OV OV OV OV OV OV OV B2 B1 SC SC FW SC SC SC B2
+PoP 12hr                     90          90          90           5           5
+QPF 12hr                   0.11        0.16        0.15           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 D  D  D                                                  C
+Rain shwrs                    D  D  D  D  D  D  L  L                           
+Tstms                         S  S  S  S                                       
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          59      42    59      42    55      38    61      37    64
+Temp          46 59 51   44 48 56 49   44 48 54 47   41 47 60 45   39 48 62
+Dewpt         38 43 43   44 46 43 42   43 45 40 40   40 42 39 35   35 38 40
+PWind dir         E      NW     N       W     W       W     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2   B2 B1 B1 B2   OV OV B2 B1   B1 B1 SC SC   SC B1 B1
+PoP 12hr         60      60    40      80    70      20    10      20    40
+Rain           C  L  L    C  C  C  L    D  L                   S    S  C  C
+Rain shwrs                                 L  L  S                         
+
+$$
+CAZ081-221200-
+Montague-Siskiyou CA
+41.79N 122.47W Elev. 2648 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          54          34          53          29
+Temp                62 60 53 48 42 44 49 49 46 45 43 40 35 41 49 52 46 41 37 33
+Dewpt               42 46 41 36 36 33 30 31 33 33 33 31 31 31 29 28 29 25 24 24
+RH                  48 60 64 63 79 65 48 50 60 62 67 70 85 67 46 39 51 52 59 69
+Wind dir             W  W  W NW  W NW  W  W  W  W NW  N  N NW  N  N  N NE  E  E
+Wind spd             8 14 13 10  9 12 12 14 12  6  4  3  3  4  8 10  5  4  2  2
+Clouds              OV OV OV OV OV B2 B2 B2 B2 B2 B2 B1 B1 SC SC FW FW SC SC B1
+PoP 12hr                     80          70          60           5           0
+QPF 12hr                   0.08        0.09        0.12           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 L  D  D                                                   
+Rain shwrs                    L  L  C  C  L  L  C  C                           
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          61      40    58      39    52      34    58      34    62
+Temp          44 60 52   44 45 54 48   44 44 50 46   38 43 57 44   37 45 59
+Dewpt         27 36 35   35 39 36 34   35 38 34 33   29 33 32 27   24 29 31
+PWind dir         S      NW    NW       W     W       N    NE      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1   B1 B1 B1 B1   B2 B2 B1 B1   B1 B1 FW SC   SC B1 B1
+PoP 12hr         40      40    30      70    60      20    10      20    30
+Rain              C  C    C  C  C  C    L  L                        S  S  C
+Rain shwrs                                 L  C  S                         
+
+$$
+CAZ082-221200-
+Mount Shasta-Siskiyou CA
+41.31N 122.32W Elev. 3533 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          52          30          52          28
+Temp                59 53 50 45 43 48 50 45 39 35 33 31 31 43 51 48 37 32 31 30
+Dewpt               45 46 46 43 40 38 30 29 33 30 29 28 28 32 27 25 27 26 25 24
+RH                  60 77 86 93 89 68 46 53 79 82 85 88 88 65 39 40 67 78 78 78
+Wind dir             N  N  N NW NW  N NW NW NW NW NW NW NW NW NW NW  N  N  N  N
+Wind spd             6  9 10  8  9 11 12 11  9  8  4 10 10 10 10  9  4  3  3  2
+Clouds              B2 B2 B2 B2 B2 B1 B1 B1 B2 B1 B1 SC SC SC SC CL FW FW SC SC
+PoP 12hr                     60          50          30           0           0
+QPF 12hr                   0.07        0.06        0.13           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 C  L  L                                                   
+Rain shwrs                    C  C  C  C  C  C  C  C                           
+Snowshwrs                                          C                           
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          61      35    57      35    50      31    58      30    60
+Temp          53 57 43   37 49 52 40   38 46 46 36   33 50 54 36   32 50 55
+Dewpt         33 38 39   36 39 35 37   37 37 32 33   31 34 30 28   25 30 28
+PWind dir         N       W     S       W    NW       N     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC B1   B1 B1 B1 B1   B2 B2 B1 B1   B1 SC FW FW   SC SC SC
+PoP 12hr         20      30    30      60    50      10     5      10    30
+Rain              S  C    S  C  C  C    L  C                           S  C
+Rain shwrs                                 C  C                            
+Snow                                                                   S   
+
+$$
+ORZ021-221200-
+North Bend-Coos OR
+43.42N 124.25W Elev. 16 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          62          45          64          46
+Temp                56 54 53 51 50 57 59 58 52 51 48 47 46 57 63 61 52 49 48 48
+Dewpt               54 51 50 47 46 50 51 50 48 47 45 45 44 49 49 48 45 43 43 43
+RH                  93 90 89 86 86 77 75 75 86 86 89 93 93 75 60 62 77 80 83 83
+Wind dir             W  W  W NW NW  W NW NW NW NW NW  N  E SW NW NW NE NE SE  S
+Wind spd            17 12 11 14  9  9 10 11  6  4  4  5  4  3  4  5  3  3  3  5
+Clouds              OV OV OV OV OV OV OV OV OV B2 B2 B2 B1 B1 B1 SC B1 B2 B2 OV
+PoP 12hr                     90         100          80           5          30
+QPF 12hr                   0.15        0.39        0.17           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 D  D                                                  C  L
+Rain shwrs                 D  D  D  D  D  D  D  L  L                    C      
+Tstms                      S  S  S  C  C  C  S                                 
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          63      48    64      49    63      47    65      48    66
+Temp          59 61 55   51 59 58 53   51 59 59 51   49 59 62 52   50 60 62
+Dewpt         52 55 53   49 53 51 49   49 52 50 47   46 50 50 47   45 48 51
+PWind dir         S       S     S      SW     W      SW    SE      SW     S
+Wind char        GN      LT    LT      GN    LT      LT    LT      LT    GN
+Avg clouds    OV OV B2   B2 B2 B2 OV   OV OV B2 B2   B2 B1 B1 B1   B2 B2 B2
+PoP 12hr         80      60    60      90    70      30    20      40    50
+Rain           L  D  L    C  C  L  D    D  L             S  S  C    C  C  C
+Rain shwrs                                 L  C  C    S  S                 
+
+$$
+ORZ023-221200-
+Roseburg-Douglas OR
+43.25N 123.35W Elev. 525 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          53          42          57          40
+Temp                60 56 52 49 48 47 50 51 51 49 46 44 42 46 54 57 52 47 42 42
+Dewpt               54 51 48 47 47 47 47 45 45 44 42 41 40 46 44 42 42 39 37 37
+RH                  81 83 86 93 96100 89 80 80 83 86 89 93100 69 57 69 74 82 82
+Wind dir            SW NW SW  W NW NW  W SW SW SW  W  W SW NW  N  N  N  E SE SE
+Wind spd             9  6  6  8  5  5  5  6  6  4  2  1  1  1  3  4  1  3  2  2
+Clouds              OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B1 FW SC SC B2 B2
+PoP 12hr                    100         100         100          10          20
+QPF 12hr                   0.23        0.34        0.23           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 D  D                                                  S  L
+Rain shwrs                 D  D  D  D  D  D  D  L  L                    S      
+Tstms                      S  S  S  C  S  S  S                                 
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      46    57      45    55      43    61      42    62
+Temp          43 55 54   49 50 55 50   48 48 53 48   44 47 61 49   44 47 60
+Dewpt         43 46 49   49 50 47 46   46 48 48 45   43 47 48 42   41 45 48
+PWind dir         S       S     S      SW    SW      SW     S       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV OV B2   B2 B2 B2 OV   OV OV B2 B1   B1 B1 SC SC   B1 B2 B2
+PoP 12hr         80      70    60      90    80      30    20      30    50
+Rain           L  D  L    C  C  L  D    D  D                S  S    C  C  C
+Rain shwrs                                 D  L  C    S                    
+
+$$
+ORZ024-221200-
+Sexton Mountain-Josephine OR
+42.62N 123.37W Elev. 3837 ft
+702 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          53          38          56          40
+Temp                55 52 48 46 43 46 49 49 47 46 44 41 38 46 52 55 49 45 42 42
+Dewpt               47 44 41 40 39 41 43 42 39 38 38 35 35 39 38 37 35 32 31 32
+RH                  74 74 77 79 86 83 80 77 74 73 79 79 89 76 59 51 58 60 65 67
+Wind dir             W NW  W NW NW  W  W  W  W NW NW NW NW  N  N  N  N NE  E SE
+Wind spd             8  8  6  8  5  5  5  5  4  3  4  3  2  3  5  5  2  3  3  3
+Clouds              OV OV OV OV OV OV OV OV OV OV OV B1 B2 B1 SC FW SC SC B1 B2
+PoP 12hr                     90          90          90          10          10
+QPF 12hr                   0.11        0.21        0.15           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 D  D                                                     C
+Rain shwrs                 D  D  D  D  D  D  D  L  L                           
+Tstms                      S  S  S  S  S  S  S                                 
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          56      45    57      44    54      41    61      41    62
+Temp          47 55 52   49 51 54 49   48 48 52 47   44 50 60 48   43 49 59
+Dewpt         38 45 43   44 48 44 41   41 45 43 38   37 42 41 35   34 39 41
+PWind dir        SE      SW    SW       W     W       W    SE      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2   B1 B1 B1 B2   OV B2 B2 B1   B1 B1 SC SC   B1 B1 B1
+PoP 12hr         70      60    50      90    70      20    10      30    40
+Rain           C  L  L    C  C  C  D    D  L                   S    C  C  C
+Rain shwrs                                 L  L  S                         
+
+$$
+
+Visit us at www.weather.gov/medford

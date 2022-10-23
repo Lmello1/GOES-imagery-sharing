@@ -1,0 +1,104 @@
+ASUS64 KLUB 220021
+RTPTX 
+Texas Temperature and Precipitation Table
+National Weather Service Lubbock TX
+721 PM CDT Fri Oct 21 2022
+
+Data through 7 PM CDT
+Highest last 18 hours. Lowest last 18 hours...1 AM TO 7 PM CDT
+Precip last 24 hours...ending at 7 PM CDT
+
+.BR LUB 1021 C DH18/TAIRZS/TAIRZI/PPDRZZ
+:
+:ID   LOCATION                 HIGH  LOW    PCPN
+:                                           24HR
+:
+:...NORTH TEXAS...
+ABI  :Abilene ASOS          :   89 / 53 /   0.00
+GKY  :Arlington             :   91 / 45 /   0.00
+CRS  :Corsicana             :   89 / 53 /   0.00
+DAL  :Dallas Love Field     :   90 / 52 /   0.00
+DFW  :DFW Airport           :   92 / 51 /   0.00
+DTO  :Denton                :   92 / 41 /   0.00
+AFW  :Fort Worth Alliance   :   91 / 51 /   0.00
+FTW  :Fort Worth Meacham    :   92 / 49 /   0.00
+GGG  :Longview              :   86 / 51 /   0.00
+LFK  :Lufkin                :   85 / 52 /   0.00
+TKI  :McKinney              :   89 / 44 /   0.00
+MWL  :Mineral Wells         :   94 / 44 /   0.00
+PRX  :Paris                 :   88 / 46 /   0.00
+TPL  :Temple                :   90 / 52 /   0.00
+TRL  :Terrell               :   89 / 48 /   0.00
+TYR  :Tyler                 :   87 / 50 /   0.00
+ACT  :Waco                  :   92 / 52 /   0.00
+SPS  :Wichita Falls Municipa:   93 / 45 /   0.00
+:...WEST TEXAS...
+AMA  :Amarillo              :   84 / 47 /   0.00
+HHF  :Canadian Airport      :   91 / 35 /   0.00
+CTLT2:Castolon-Big Bend NP  :   89 / 51 /   0.00
+CDS  :Childress             :   90 / 51 /   0.00
+DHT  :Dalhart               :   85 / 37 /   0.00
+6R6  :Dryden                :   82 / 48 /   0.00
+ELP  :El Paso               :   84 / 50 /   0.00
+FST  :Fort Stockton         :   84 / 54 /   0.00
+GDP  :Guadalupe Pass        :   75 / 49 /   0.00
+LBB  :Lubbock               :   83 / 47 /   0.00
+MRF  :Marfa                 :   79 / 38 /   0.00
+MAF  :Midland               :   82 / 49 /   0.00
+MUST2:Muleshoe              :   83 / 40 /   0.00
+ODO  :Odessa                :   84 / 50 /   0.00
+PEQ  :Pecos                 :   87 / 45 /   0.00
+PRS  :Presidio              :   85 / 53 /   0.00
+SJT  :San Angelo ASOS       :   87 / 49 /   0.00
+INK  :Wink                  :   86 / 45 /   0.00
+:...SOUTH TEXAS...
+ALI  :Alice                 :   86 / 48 /   0.00
+ATT  :Austin Mabry          :   88 / 56 /   0.00
+AUS  :Austin Bergstrom      :   87 / 56 /   0.00
+BPT  :Beaumont              :   84 / 53 /   0.00
+BRO  :Brownsville           :   86 / 58 /   0.00
+BMQ  :Burnet                :   87 / 53 /   0.00
+CLL  :College Station       :   87 / 60 /   0.00
+CXO  :Conroe                :   84 / 58 /   0.00
+CRP  :Corpus Christi        :   85 / 53 /   0.00
+NGP  :Navy Corpus           :   84 / 65 /   0.00
+COT  :Cotulla               :   88 / 55 /   0.00
+DRT  :Del Rio               :   83 / 53 /   0.00
+GLS  :Galveston             :   81 / 70 /   0.00
+GTU  :Georgetown            :   86 / 54 /   0.00
+HRL  :Harlingen             :   88 / 55 /   0.00
+HDO  :Hondo                 :   85 / 48 /   0.00
+HOU  :Houston Hobby         :   85 / 57 /   0.00
+IAH  :Houston Bush          :   84 / 60 /   0.00
+UTS  :Huntsville            :   86 / 62 /   0.00
+JCT  :Junction ASOS         :   86 / 45 /   0.00
+NQI  :Kingsville            :   87 / 51 /   0.00
+LRD  :Laredo                :   87 / 59 /   0.00
+MFE  :McAllen               :   87 / 56 /   0.00
+BAZ  :New Braunfels         :   87 / 53 /   0.00
+PSX  :Palacios              :   80 / 60 /   0.00
+LVJ  :Pearland              :   84 / 56 /   0.00
+RKP  :Rockport              :   84 / 65 /   0.00
+SAT  :San Antonio           :   84 / 56 /   0.00
+SSF  :San Antonio Stinson   :   86 / 52 /   0.00
+HYI  :San Marcos            :   84 /  M /   0.00
+DWH  :Tomball               :   86 / 58 /   0.00
+VCT  :Victoria              :   87 / 59 /   0.00
+:...OTHERS...
+SHV  :Shreveport            :   87 / 53 /   0.00
+TXK  :Texarkana             :   87 / 55 /   0.00
+.END
+
+Texas Temperature Extremes:
+Highest...94 degrees at Mineral Wells
+Lowest....35 degrees at Canadian
+
+
+ These data are preliminary and have not undergone final 
+ quality control by the National Centers for Environmental
+ Information /NCEI/. Therefore these data are subject to 
+ revision.  Final and certified Climate Data can be accessed
+ at www.ncei.noaa.gov .
+ 
+$$
+

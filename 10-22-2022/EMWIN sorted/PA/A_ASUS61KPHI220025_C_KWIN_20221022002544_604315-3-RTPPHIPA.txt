@@ -1,0 +1,86 @@
+ASUS61 KPHI 220025
+RTPPHI
+
+Max/Min Temperature and Precipitation Table for New Jersey...
+Eastern Pennsylvania...Delaware...and Eastern Maryland
+National Weather Service Mount Holly NJ
+0825 PM EDT Fri Oct 21 2022
+
+Values represent lows over the last 18 hours...
+highs over the last 18 hours and precipitation over the 
+last 24 hours.
+
+.BR PHI 1021 E DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                 MAX     MIN             SNOW   SNOW
+:ID        LOCATION               TEMP    TEMP    PCPN    FALL   DEPTH
+:
+:...NORTHERN NEW JERSEY...
+12N  : Andover Airport         :   65  /   32 /   0.01/      M/     M/
+TTN  : Mercer County AP        :   63  /   33 /   0.00/      M/     M/
+FWN  : Sussex Airport          :   65  /   29 /   0.00/      M/     M/
+MMU  : Morristown              :   66  /   28 /   0.00/      M/     M/
+TEB  : Teterboro               :   65  /   37 /      T/      M/     M/
+CDW  : Caldwell                :   65  /   33 /   0.00/      M/     M/
+EWR  : Newark Liberty          :   67  /   41 /   0.00/      M/     M/
+SMQ  : Somerville Airport      :   65  /   29 /   0.00/      M/     M/
+BLM  : Belmar Airport          :   64  /   38 /   0.00/      M/     M/
+:
+:...SOUTHERN NEW JERSEY...
+ACY  : Atlantic City Airport   :   66  /   36 /   0.00/      M/     M/
+VAY  : South Jersey Regional AP:   66  /   50 /   0.00/      M/     M/
+WRI  : Mcguire AFB             :   67  /   34 /   0.00/      M/     M/
+MIV  : Millville AP            :   66  /   33 /   0.00/      M/     M/
+WWD  : Wildwood Airport        :   66  /   41 /   0.00/      M/     M/
+ATLN4: Atlantic City Marina    :   61  /   51 /      M/      M/     M/
+:
+:...EASTERN PENNSYLVANIA...
+PHL  : Philadelphia AP         :   65  /   41 /   0.00/      M/     M/
+ABE  : Lehigh Valley Intl      :   63  /   28 /   0.00/      M/     M/
+RDG  : Reading AP              :   64  /   34 /   0.00/      M/     M/
+MPO  : Mount Pocono AP         :   56  /   26 /   0.00/      M/     M/
+AVP  : Wilkes-Barre AP         :   62  /   34 /   0.00/      M/     M/
+PTW  : Pottstown AP            :   62  /   29 /   0.00/      M/     M/
+DYL  : Doylestown AP           :   64  /   34 /   0.00/      M/     M/
+PNE  : Northeast Philadelphia  :   65  /   37 /   0.00/      M/     M/
+SEG  : Selinsgrove AP          :   63  /   27 /   0.00/      M/     M/
+THV  : York AP                 :   65  /   29 /   0.00/      M/     M/
+LNS  : Lancaster AP            :   64  /   33 /   0.00/      M/     M/
+UKT  : Quakertown AP           :   63  /   28 /   0.00/      M/     M/
+22N  : Lehighton AP            :   61  /   25 /      M/      M/     M/
+OQN  : Brandywine AP           :   63  /   36 /   0.00/      M/     M/
+CKZ  : Pennridge AP            :   63  /   30 /      M/      M/     M/
+:
+:...DELAWARE AND EASTERN MARYLAND...
+ILG  : Wilmington Airport      :   65  /   37 /   0.00/      M/     M/
+33N  : Delaware Airpark        :   66  /   36 /      M/      M/     M/
+DOV  : Dover AFB               :   65  /   39 /   0.00/      M/     M/
+GED  : Georgetown AP           :   69  /   38 /   0.00/      M/     M/
+ESN  : Easton Airport          :   66  /   39 /      M/      M/     M/
+NAK  : Annapolis Naval Academy :   63  /   42 /   0.00/      M/     M/
+OXB  : Ocean City AP           :    M  /    M /   0.00/      M/     M/
+SBY  : Salisbury AP            :   70  /   38 /   0.00/      M/     M/
+BWI  : BWI Thurgood Marshall AP:   68  /   35 /   0.00/      M/     M/
+:
+.END
+:
+.BR PHI 1021 E DH00/TAIRZX/DH07/TAIRZP
+:
+:...OTHER COASTAL OBSERVATIONS...
+SDHN4: Sandy Hook              :   60  /   49
+MTLN4: Mantoloking             :   60  /   44
+CMAN4: Cape May Ferry          :   62  /   54
+LWSD1: Lewes                   :   62  /   46
+CAMM2: Cambridge               :   67  /   45
+TCBM2: Tolchester Beach        :   62  /   41
+DELD1: Delaware City           :   65  /   40
+PHBP1: USCG Washington St Phila:   65  /   45
+NBLP1: Newbold Island          :   64  /   41
+.END
+:
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision. Final and certified climate data
+can be accessed at www.ncdc.noaa.gov
+:
+$$

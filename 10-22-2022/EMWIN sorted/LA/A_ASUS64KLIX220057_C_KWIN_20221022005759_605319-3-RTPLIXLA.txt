@@ -1,0 +1,46 @@
+ASUS64 KLIX 220057
+RTPLA 
+Max/Min Temperature and Precipitation Summary for Louisiana
+National Weather Service Orleans/Baton Rouge, LA
+757 PM CDT Fri Oct 21 2022
+
+
+High Temperature During Past 18 Hours
+Low Temperature During Past 18 Hours
+Precipitation Past 24 hours Ending at 7 PM Local Time
+
+
+.BR LIX 1021 CD DH19/TAIRZS/TAIRZI/PPDRZZ
+
+
+:ID    Station                    High   Low   24-Hour 
+                                               Precip
+ASD  :Slidell                       : 79  / 45  / 0.00
+BTR  :Baton Rouge                   : 84  / 48  / 0.00
+LNQ  :Boothville                    : 79  / 53  / 0.00
+MSY  :New Orleans International     : 79  / 51  / 0.00
+NEW  :New Orleans Lakefront AP      : 78  / 53  / 0.00
+7N0  :New Orleans Downtown Heliport : 79  / 58  / 0.00
+BXA  :Bogalusa Carr Field           : 83  / 42  / 0.00
+GAO  :Galliano                      : 78  / 42  / 0.00
+REG  :Gonzales Regional Airport     : 83  / 47  / 0.00
+PTN  :Patterson                     : 80  / 49  / 0.00
+MLU  :Monroe                        : 87  / 51  / 0.00
+AEX  :Alexandria Intl               : 87  / 53  / 0.00
+ESF  :Alexandria Esler              : 85  / 46  / 0.00
+LCH  :Lake Charles                  : 81  / 52  / 0.00
+LFT  :Lafayette                     : 85  / 54  / 0.00
+ARA  :New Iberia                    : 82  / 51  / 0.00
+
+
+.END
+ 
+This data is preliminary and has not undergone final quality
+control by the National Centers for Environmental Information
+(NCEI), formerly the National Climatic Data Center(NCDC). 
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

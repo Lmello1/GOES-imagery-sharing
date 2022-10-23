@@ -1,0 +1,27 @@
+ABNA26 KWBC 220230
+TPTNAM
+
+HOURLY TEMPERATURE/WEATHER FOR NORTH AMERICAN CITIES
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+1000 PM EDT FRI OCT 21 2022
+
+CITY                     F    C      WEATHER
+
+ACAPULCO                 78   26      CLDY     
+BERMUDA                  77   25      VCSH     
+CALGARY                  37    3      CLDY     
+FREEPORT               NO DATA
+HAVANA                   64   18      FAIR     
+KINGSTON                 82   28      FAIR     
+MERIDA                 NO DATA
+MEXICO CITY            NO DATA
+MONTREAL                 51   11      FAIR     
+NASSAU                 NO DATA
+OTTAWA                   50   10      WINDY    
+REGINA                   41    5      CLDY     
+ST. THOMAS VI            82   28      FAIR     
+SAN JUAN                 82   28      PCLDY    
+TORONTO                  57   14      FAIR     
+WINNIPEG                 48    9      -RA      
+
+$$ 

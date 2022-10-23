@@ -1,0 +1,49 @@
+ASUS63 KGLD 220015
+RTPGLD
+
+Max/Min Temperature And Precipitation Table
+For Extreme Southwest Nebraska...Northwest Kansas
+And East Central Colorado
+National Weather Service Goodland Ks
+615 PM MDT Fri Oct 21 2022
+
+.BR GLD  1021  CS DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Values represent 18 hour highs....lows over the last 18 hours and
+:precipitation over the last 24 hours ending at 6 PM CST/7 PM CDT
+:Central time zone
+:
+:..............................................................
+: Id    Station              Max  / Min  /    24 hr    / Snow
+:        name                temp / temp / pcpn / snow / depth
+:..............................................................
+:
+: First order /asos/ sites 
+ HLC : Hill City KS Airport:  88  /  40  / 0.00  /      /     
+ MCK : McCook NE Airport   :  79  /  44  / 0.00 /      /     
+.End
+:
+:
+.BR GLD  1021  MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Values represent 18 hour highs....lows over the last 18 hours and
+:precipitation over the last 24 hours ending at 5 PM MST/6 PM MDT
+:Mountain time zone
+:
+:..............................................................
+: Id    Station              Max  / Min  /    24 hr    / Snow
+:        name                temp / temp / pcpn / snow / depth
+:..............................................................
+:
+: First order /asos/ sites 
+ GLD : Goodland KS Airport :  80  /  48  / 0.00 / 0.0  /  0   
+ ITR : Burlington CO Arpt  :  81  /  42  / 0.00 /      /     
+.End
+ 
+These data are preliminary and have not undergone final quality
+control by the National Centers for Enviromental Information 
+(NCEI).  Therefore, these data are subject to revision.  Final 
+and certified climate data can be accessed at: 
+http://www.ncei.noaa.gov.
+ 
+$$

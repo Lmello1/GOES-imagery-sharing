@@ -1,0 +1,88 @@
+FPUS64 KFWD 212254
+SFTFWD
+TXZ083>162-165>167-174-175-221100-
+
+Tabular State Forecast for Texas
+National Weather Service Fort Worth TX
+553 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+Corsicana TX
+   Sunny    Sunny    Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   64/87    67/87    68/80    58/68    48/73    50/77    55/75    
+    00/00    00/00    10/60    80/30    00/00    00/10    30/30   
+
+Dallas TX
+   PtCldy   PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   66/86    67/87    70/76    55/67    49/72    52/75    56/72    
+    00/00    00/00    20/80    70/30    00/00    00/10    30/30   
+
+Dallas-Ft. Worth Airport TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   65/88    67/86    68/76    55/67    48/72    52/75    56/72    
+    00/00    00/00    20/80    70/20    00/00    00/10    30/30   
+
+Denton TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   62/88    64/86    66/75    50/67    43/72    47/75    52/72    
+    00/00    00/00    20/80    70/20    00/00    00/10    30/30   
+
+Paris TX
+   Sunny    PtCldy   Tstrms   PtCldy   Sunny    Sunny    PtCldy   
+   63/85    66/85    67/78    55/65    44/68    46/72    52/70    
+    00/00    00/00    10/70    80/40    00/00    00/10    30/30   
+
+Temple TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   62/87    65/88    68/81    55/72    46/77    50/80    55/78    
+    00/00    00/00    10/60    70/20    00/00    00/10    20/30   
+
+Terrell TX
+   Sunny    PtCldy   Tstrms   PtCldy   Sunny    Sunny    PtCldy   
+   63/86    66/85    68/78    55/67    46/72    48/75    53/73    
+    00/00    00/00    10/70    80/30    00/00    00/10    30/30   
+
+Waco TX
+   Sunny    Sunny    Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   63/88    67/90    69/81    56/73    46/77    50/80    55/78    
+    00/00    00/00    10/70    70/20    00/00    00/10    20/30   
+
+Gatesville TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   61/86    65/87    68/80    54/70    45/75    50/79    57/77    
+    00/00    00/00    20/70    70/20    00/00    00/10    20/20   
+
+Stephenville TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   60/87    63/85    65/75    50/66    44/74    49/76    54/74    
+    00/00    00/00    20/70    60/10    00/00    00/10    20/20   
+
+Mineral Wells TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   61/91    64/89    66/76    50/68    44/75    48/79    53/74    
+    00/00    00/00    30/80    60/20    00/00    00/10    30/20   
+
+Graham TX
+   Sunny    PtCldy   Tstrms   Sunny    Sunny    Sunny    PtCldy   
+   63/92    65/88    65/76    48/65    43/75    50/78    53/71    
+    00/00    00/00    30/70    60/10    00/00    00/10    20/20   
+
+Palestine TX
+   Sunny    Sunny    Tstrms   PtCldy   Sunny    Sunny    PtCldy   
+   62/85    64/86    68/81    55/68    44/72    47/76    54/73    
+    00/00    00/00    10/50    70/40    00/00    00/10    20/30   
+
+
+$$
+

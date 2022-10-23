@@ -1,0 +1,21 @@
+SHUS65 KMWI 212244
+FWOBOI
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+21-OCT-22 22:44:42 GMT
+ 
+Listing of Forecasted Observations (Boise, ID)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD1 PD2
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- ---  --  --
+NWS Office:  BOI/Zone: 424
+TICKVI 421104 221022 13 F 2  62  27  27 1 1 180 13  0  69  43  43  15   0   0
+TICKVI 421104 221023 13 F 2  40  26  57 1 1 315  8  0  62  36  78  27  13   0
+TICKVI 421104 221024 13 F 2  42  23  48 1 1 248  7  0  42  30  73  48   0   0
+TICKVI 421104 221025 13 F 1  44  26  49 1 1 315  5  0  44  30  70  44   0   0
+Count:     4  Zone Average:  47  26  45          8  0  54  35  66  34   3   0
+ 
+ 
+ 
+End of WIMS Bulletin @ 21-OCT-22 22:44:42 GMT
+

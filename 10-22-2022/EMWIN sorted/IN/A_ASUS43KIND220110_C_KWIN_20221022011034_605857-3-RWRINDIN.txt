@@ -1,0 +1,124 @@
+ASUS43 KIND 220110
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+900 PM EDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-220200-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ CLEAR     68  39  34 S7        29.75R                  
+KNOX *+        CLEAR     63  36  36 S10       29.79S                  
+LA PORTE +     CLEAR     62  44  50 S6        29.79R                  
+MICHIGAN CITY+ CLEAR     64  36  34 S13G20    29.77R                  
+MONTICELLO +   CLEAR     64  35  33 S8        29.84R                  
+RENSSELAER +   CLEAR     61  36  39 S8        29.82R                  
+VALPARAISO     CLEAR     67  37  33 S10G20    29.79R                  
+
+$$
+
+LMZ046-743>745-220200-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP WIND        PRES
+                       AIR  DIR/SP/G
+                 (UTC) (F)  (DEG/KT/KT) (MB)
+BURNS HARBOR     0040   69  180/ 10/ 14 1007.8R
+MICHIGAN CITY    0040   69              1006.2R
+5NW MICH CITY    0030   65                N/A
+
+$$
+
+INZ004-005-014>016-021>024-220200-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        CLEAR     64  38  37 S8        29.80S                  
+GOSHEN         CLEAR     63  38  39 S15       29.81R                  
+LOGANSPORT +   CLEAR     61  36  39 S9        29.86R                  
+PERU/GRISSOM   CLEAR     61  36  39 S12       29.84R                  
+ROCHESTER +    PTCLDY    64  37  36 S12G17    29.83R                  
+SOUTH BEND     CLEAR     65  38  36 S13       29.80R                  
+WARSAW +       CLEAR     63  37  38 SW7       29.84R                  
+
+$$
+
+INZ006>009-017-018-025>027-220200-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      MOCLDY    61  37  41 S9        29.83R                  
+AUBURN +       CLEAR     61  37  41 SW5       29.85R                  
+FORT WAYNE     CLEAR     59  37  44 S12       29.86R                  
+HUNTINGTON +   CLEAR    N/A N/A N/A S6        29.87R                  
+KENDALLVILLE + FAIR      61  39  43 S9        29.84R                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-220200-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  CLEAR     56  29  36 S8        29.87R                  
+LAFAYETTE      CLEAR     64  36  35 S8        29.84R                  
+TERRE HAUTE    CLEAR     63  37  38 S9        29.87R                  
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-220200-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANDERSON       CLEAR     60  29  31 S7        29.91R                  
+COLUMBUS       CLEAR     59  30  33 S10       29.93R                  
+FISHERS *+     CLEAR     61  38  42 CALM      29.90R                  
+FRANKFORT +    MOCLDY    59  36  41 S10       29.86R                  
+GREENWOOD *+   CLEAR     60  38  43 S8        29.92R                  
+INDIANAPOLIS   PTCLDY    61  35  37 S9        29.89R                  
+-EAGLE CREEK   CLEAR     62  35  36 S3        29.89R                  
+KOKOMO +       CLEAR     62  36  37 S14       29.88R                  
+MT COMFORT *+  CLEAR     59  36  41 S7        29.91S                  
+SHELBYVILLE    CLEAR     61  34  36 S7        29.91R                  
+ZIONSVILLE +   CLEAR     58  36  42 S10       29.89S                  
+
+$$
+
+INZ033-034-041-042-049-050-058-059-220200-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         CLEAR     64  32  30 S14       29.89R                  
+
+$$
+
+INZ060-061-067>069-081>083-085>088-220200-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     CLEAR     64  37  36 SE3       29.91R                  
+HUNTINGBURG *+ CLEAR     64  37  36 SE8       29.92S                  
+WASHINGTON +   CLEAR     58  36  43 S9        29.90R                  
+
+$$
+
+INZ062-063-066-070>080-084-089>092-220200-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BLOOMINGTON    CLEAR     60  35  39 S7        29.90S                  
+MADISON *+     CLEAR     59  34  38 SE6       29.98S                  
+
+$$
+
+  

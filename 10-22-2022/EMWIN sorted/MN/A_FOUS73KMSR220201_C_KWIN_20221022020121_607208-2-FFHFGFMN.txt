@@ -1,0 +1,29 @@
+FOUS73 KMSR 220201
+FFHFGF
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+900 PM CDT FRI OCT 21 2022
+                                                                        
+GRAND FORKS HYDROLOGIC SERVICE AREA                                     
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221022 Z DH00/DC2210220200 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** MINNESOTA HEADWATER POINTS ***                                  
+:                                                                       
+CSRM5     3.5/  4.0/  4.5 :CAMPBELL MN 1W        SO FK RABBIT R
+MALM5     3.3/  3.5/  4.3 :MALUNG MN 2NW         ROSEAU R BLO SO FK
+:                                                                       
+:   *** NORTH DAKOTA HEADWATER POINTS ***                               
+:                                                                       
+DWGN8     3.5/  4.0/  4.5 :DWIGHT ND 1NE         ANTELOPE CR
+HGRN8     3.5/  4.0/  4.5 :HILLSBORO ND          GOOSE R
+LTRN8     2.5/  2.7/  2.9 :LARIMORE ND 5ENE      TURTLE R
+.END
+$$

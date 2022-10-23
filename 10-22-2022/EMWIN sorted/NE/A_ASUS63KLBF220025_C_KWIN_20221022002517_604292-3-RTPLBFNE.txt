@@ -1,0 +1,54 @@
+ASUS63 KLBF 220025
+RTPLBF
+Max/Min Temperature and Precipitation Table for
+Western and North Central Nebraska
+National Weather Service North Platte NE
+725 PM CDT Fri Oct 21 2022
+
+: Temperature values represent highs and lows over the past 18 hours
+: and precipitation, including snowfall and snow depth ending at
+: 7 PM Central Daylight Time.
+
+.BR LBF 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDDRZZ
+:
+:      Station Name          18 Hr / 18 Hr / 24-Hour / Snow / Snow
+:                             Max  /  Min  / Precip  / Fall / Depth
+LBF  : North Platte Airport:   79  /  32   /   0.00  /  0.0 /  0
+VTN  : Valentine Airport   :   73  /  34   /   0.00  /  0.0 /  0
+BBW  : Broken Bow Airport  :   76  /  36   /   0.00  /    M /  M
+ANW  : Ainsworth Airport   :   73  /  42   /   0.00  /    M /  M
+ONL  : O'Neill Airport     :   71  /  43   /   0.00  /    M /  M
+TIF  : Thedford Airport    :   75  /  38   /   0.00  /    M /  M
+.End
+
+: Temperature values represent highs and lows over the past 18 hours
+: and precipitation, including snowfall and snow depth ending at
+: 6 PM Mountain Daylight Time.
+
+.BR LBF 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDDRZZ
+:
+:      Station Name          18 Hr / 18 Hr / 24-Hour / Snow / Snow
+:                             Max  /  Min  / Precip  / Fall / Depth
+IML  : Imperial Airport    :   80  /  46   /   0.00  /    M /  M
+OGA  : Ogallala Airport    :   80  /  37   /   0.00  /    M /  M
+GRN  : Gordon Airport      :   74  /  35   /   0.00  /    M /  M
+.End
+
+Cooperative Observations
+
+Values are for the past 24 hours in Local Time
+
+.BR LBF 1021 C DH19/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Station Name            Obs   / Max  / Min  / 24-Hr  / Snow / Snow
+:                        Hour  / Temp / Temp / Precip / Fall / Depth
+BRYN1: Brady          : DH1800 /  77  /  37  /  0.00  /  0.0 /    0
+.End
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+ 
+$$
+

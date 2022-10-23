@@ -1,0 +1,58 @@
+ASUS62 KJAX 220030
+RTPJAX
+
+
+Max/Min Temp And Precip Table For NE Florida/SE Georgia
+National Weather Service Jacksonville FL
+830 PM EDT Fri Oct 21 2022
+
+.BR JAX 1021 E DH20/TAIRZS/TAIRZI/PPDRZZ
+:
+:            * Airport Observations *
+:Values represent lows over the last 18 hours...
+:highs over the last 18 hours and precipitation
+:over the last 24 hours 
+:
+:
+:               Northeast Florida                
+:................................................
+:                               MAX   MIN        
+:ID        LOCATION             TEMP  TEMP   PCPN
+:................................................
+JAX  : JACKSONVILLE INTL      :  73 /  42 /  0.00
+CRG  : CRAIG MUNICIPAL        :  72 /  46 /  0.00
+NRB  : MAYPORT NAVAL STATION  :  70 /  56 /  0.00
+NIP  : JACKSONVILLE NAS       :  73 /  53 /  0.00
+SGJ  : ST AUGUSTINE AIRPORT   :  70 /  50 /  0.00
+GNV  : GAINESVILLE REGIONAL   :  74 /  39 /  0.00
+OCF* : OCALA INTL             :  74 /  43 
+:
+:
+:               Southeast Georgia
+:................................................
+:                               MAX   MIN        
+:ID        LOCATION             TEMP  TEMP   PCPN
+:................................................
+AMG  : ALMA - BACON COUNTY    :  73 /  37 /  0.00
+SSI  : MALCOLM MCKINNON       :  71 /  48 /  0.00
+BQK* : BRUNSWICK GOLDEN ISLES :  71 /  37 
+JES* : JESUP - WAYNE COUNTY   :  70 /  32 
+AYS* : WAYCROSS - WARE COUNTY :  71 /  39 
+DQH* : DOUGLAS MUNICIPAL      :  70 /  37 
+HOE* : HOMERVILLE             :  71 /  34 
+:
+.END
+
+*The sites above with an asterisk represent the highest
+ and lowest temperatures that were reported on the METAR
+ observations that transmit three times an hour and may
+ not represent the actual high or low for that site.
+ These sites do not measure precipitation. 
+
+ All data above are preliminary and have not undergone final
+ quality control by the National Climatic Data Center /NCDC/.
+ Therefore...these data are subject to revision. Final and
+ certified climate data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

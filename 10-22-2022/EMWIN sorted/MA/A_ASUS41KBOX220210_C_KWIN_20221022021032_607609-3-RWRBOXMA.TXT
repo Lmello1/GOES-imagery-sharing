@@ -1,0 +1,129 @@
+ASUS41 KBOX 220210
+RWRBOX
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BOSTON/NORTON MA
+1000 PM EDT FRI OCT 21 2022
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+MAZALL-220300-
+EASTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOSTON         CLEAR     54  45  71 S9        30.18R                  
+BEVERLY        CLEAR     51  43  74 S3        30.16R                  
+LAWRENCE       CLEAR     48  42  80 SW3       30.18R                  
+BEDFORD        CLEAR     49  41  74 SW5       30.16R                  
+NORWOOD        CLEAR     47  44  90 S3        30.18R                  
+MARSHFIELD     CLEAR     50  43  76 SW6       30.19R                  
+PLYMOUTH       CLEAR     46  43  89 CALM      30.19R                  
+TAUNTON          N/A    N/A N/A N/A MISG      30.19R                  
+NEW BEDFORD    CLEAR     43  43 100 CALM      30.19R                  
+$$
+
+MAZALL-220300-
+CAPE COD AND THE ISLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FALMOUTH       CLEAR     45  43  93 CALM      30.20R                  
+HYANNIS        CLEAR     56  45  66 S8        30.19R                  
+CHATHAM        CLEAR     56  49  77 SW3       30.22R                  
+PROVINCETOWN   CLEAR     56  49  77 S9        30.21R                  
+NANTUCKET      CLEAR     55  46  71 SW7       30.21R                  
+MARTHAS VNYRD  CLEAR     41  39  93 SW3       30.21R                  
+$$
+ 
+MAZALL-220300-
+CENTRAL AND WESTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WORCESTER      CLEAR     45  38  76 SW8       30.16R                  
+FITCHBURG      CLEAR     39  34  82 CALM      30.17R                  
+ORANGE         CLEAR     37  33  85 CALM      30.17R                  
+SPRINGFIELD    CLEAR     39  33  80 CALM      30.14R                  
+WESTFIELD      CLEAR     40  35  83 CALM      30.16R                  
+NORTH ADAMS    CLEAR     43  32  65 SE6       30.14R                  
+PITTSFIELD     CLEAR     37  30  75 CALM      30.13R                  
+$$
+ 
+RIZALL-220300-
+RHODE ISLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PROVIDENCE     CLEAR     48  45  89 CALM      30.19R                  
+NEWPORT        CLEAR     54  45  71 S6        30.19R                  
+BLOCK ISLAND   CLEAR     56  44  64 SW9       30.21R                  
+SMITHFIELD     CLEAR     48  44  86 CALM      30.18R                  
+WESTERLY       CLEAR     57  47  69 SW7       30.19R                  
+$$
+ 
+CTZALL-220300-
+CONNECTICUT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRADLEY INTL   CLEAR     45  35  68 CALM      30.17R                  
+HARTFORD       CLEAR     45  39  79 S3        30.17R                  
+BRIDGEPORT     CLEAR     58  47  66 SW12      30.17R                  
+DANBURY        CLEAR     46  37  71 CALM      30.18R                  
+GROTON         CLEAR     59  49  69 SW12      30.18R                  
+NEW HAVEN      CLEAR     60  46  59 SW5       30.17R                  
+CHESTER        FAIR      50  45  81 S5        30.18R                  
+MERIDEN        CLEAR     40  35  83 CALM      30.18R                  
+WILLIMANTIC    CLEAR     41  40  96 CALM      30.18R                  
+OXFORD         CLEAR     47  39  74 CALM      30.17R                  
+$$
+
+MEZ002-015-021-024-NHZ003-005-008-011-012-014-VTZ005-008-220300-
+NORTHERN NEW ENGLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND ME    CLEAR     43  40  89 CALM      30.15S                  
+BANGOR ME      CLEAR     45  36  70 S5        30.15R                  
+CONCORD NH     CLEAR     37  33  85 MISG      30.15R                  
+MANCHESTER NH  CLEAR     43  36  76 CALM      30.14R                  
+NASHUA NH      CLEAR     39  39 100 CALM      30.17R                  
+PORTSMOUTH NH  CLEAR     47  44  88 SW3       30.15R                  
+JAFFREY NH     CLEAR     37  33  85 CALM      30.15R                  
+KEENE NH       CLEAR     35  34  96 CALM      30.16R                  
+BURLINGTON VT  CLEAR     51  28  41 S10       30.08R                  
+MT. WASHINGTON PTCLDY    36   5  27 W35         N/A  WCI  22          
+$$
+
+NYZ052-076-220300-
+EASTERN NEW YORK
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBANY         CLEAR     48  32  53 S6        30.13R                  
+NEW YORK CITY  CLEAR     57  39  51 S6        30.16R                  
+$$
+ 
+ANZALL-220300-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+BOSTON BUOY      0150      57  200/ 12/ 14 1022.3R         2/10
+BUZZARDS BAY     0100   60     210/ 14/ 15 1022.4R
+NANTUCKET SOUND  0150   61 61  200/ 12/ 14 1022.6R         1/ 2
+MASS BAY-STELLWA 0004   57 57  190/ 14/ 16 1020.0R  1 7/8  2/ 4
+ISLE OF SHOALS   0100   57     200/ 19/ 20 1020.0R
+S OF BLOCK IS    0156      61                N/A           3/10
+$$
+
+......................KEY.........................
+  SKY/WX - SKY CONDITION/PRESENT WEATHER
+  TMP    - TEMPERATURE IN FAHRENHEIT
+  DWPT   - DEWPOINT IN FAHRENHEIT
+  RH     - RELATIVE HUMIDITY IN PERCENT
+  WIND   - DIRECTION AND SPEED IN MPH
+  PRES   - MEAN SEA LEVEL PRESSURE IN INCHES OF HG
+  WCI    - WIND CHILL INDEX
+  VSB    - VISIBILITY IN MILES
+  HX     - HEAT INDEX
+  TC     - TEMPERATURE IN CELSIUS
+  VRB    - VARIABLE WIND DIRECTION
+  N/A    - NOT AVAILABLE
+  

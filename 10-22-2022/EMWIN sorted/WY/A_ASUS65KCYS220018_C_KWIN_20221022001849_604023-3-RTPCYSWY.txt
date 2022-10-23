@@ -1,0 +1,81 @@
+ASUS65 KCYS 220018
+RTPCYS
+
+Regional Temperature and Precipitation Table
+National Weather Service Cheyenne WY
+618 PM MDT Fri Oct 21 2022
+
+Values represent lows over the last 18 hours,
+highs over the last 18 hours, and precipitation 
+over the last 24 hours, ending at 5 pm
+
+.BR CYS 1021 M DH17/TAIRZS/TAIRZI/PPDRZZ
+
+
+:         Southeast Wyoming Airport Locations
+:
+:  M indicates missing data
+:
+:                               Max   Min
+:ID    Location           Elev  Temp  Temp  Pcpn
+:
+CYS  : Cheyenne ASOS      6140:  73 /  46 / 0.00
+DWX  : Dixon AWOS         6520:   M /   M / 
+DGW  : Douglas ASOS       4930:  76 /  30 / 0.00
+LAR  : Laramie ASOS       7275:  66 /  36 / 0.00
+82V  : Pine Bluffs AWOS    5150:  75 /  37 / 
+RWL  : Rawlins ASOS       6745:  66 /  39 / 0.00
+SAA  : Saratoga AWOS      7010:  64 /  30 / 
+TOR  : Torrington ASOS    4205:   M /   M / 0.00
+EAN  : Wheatland AWOS     4776:  76 /  51 / 
+:
+:         Nebraska Panhandle Airport Locations
+:
+:  M indicates missing data
+:
+:                               Max   Min
+:ID    Location           Elev  Temp  Temp  Pcpn
+:
+AIA  : Alliance ASOS      3930:  77 /  31 / 0.00
+CDR  : Chadron ASOS       3295:  79 /  30 / 0.00
+IBM  : Kimball AWOS       4925:  77 /  41 / 0.00
+BFF  : Scottsbluff ASOS    3960:  81 /  37 / 0.00
+SNY  : Sidney ASOS        4305:  81 /  41 / 0.00
+:
+.END
+:
+:         Southeast Wyoming Cooperative Observations
+:
+:  Values are for the previous 24 hours.  In some weather situations,
+:  reported high temperatures may reflect conditions from the 
+:  previous day.  
+:  
+:  M indicates missing data
+:
+.BR CYS 1021 M DH02/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+: 
+:                               Obs     Max  Min         Snow  Snow
+:ID    Location           Elev  Time    Temp Temp  Pcpn  Fall  Depth
+:
+CYSW4: Cheyenne NWS       6140: DH1700/  72/  44/  0.00/  0.0/    0
+:
+:
+:         Nebraska Panhandle Cooperative Observations
+:
+:  Values are for the previous 24 hours.  In some weather situations,
+:  reported high temperatures may reflect conditions from the 
+:  previous day.  
+:   
+:  M indicates missing data
+:
+:                               Obs     Max  Min         Snow  Snow
+:ID    Location           Elev  Time    Temp Temp  Pcpn  Fall  Depth
+:
+AGAN1: Agate 3E           4670: DH1600/  79/  22/  0.00/  0.0/    0
+:
+.END
+:
+All values provided in this product are preliminary, pending final 
+certification by the National Centers for Environmental Information.
+  
+$$

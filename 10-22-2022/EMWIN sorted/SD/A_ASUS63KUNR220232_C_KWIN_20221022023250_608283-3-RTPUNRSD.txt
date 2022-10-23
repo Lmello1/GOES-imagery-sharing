@@ -1,0 +1,28 @@
+ASUS63 KUNR 220232
+RTPUNR
+Max/Min Temperature and Precipitation Table for
+Western South Dakota and Northeastern Wyoming
+National Weather Service Rapid City SD
+832 PM MDT Fri Oct 21 2022
+
+Cooperative observations in local time
+"M" indicates missing data
+Values are for the past 24 hours ending at observation /ob/ time
+
+.BR UNR 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:Location                 Obs     High  Low    24 hr   Snow  Snow
+:                         Time    Temp  Temp   Pcpn    Fall  Depth
+FTMS2:Ft Meade SD       :DH1800 /  78 /  42 /  0.00 /  0.0 /   0 
+GILW4:Gillette 4SE WY   :DH1630 /  76 /  36 /  0.00 /  0.0 /   0 
+HOSS2:Hot Springs SD    :DH1600 /  78 /  29 /  0.00 /  0.0 /   0 
+INTS2:Interior 3NE SD   :DH1600 /  81 /  44 /  0.00 /  0.0 /   0 
+LEMS2:Lemmon SD         :DH1700 /  70 /  41 /  0.00 /  0.0 /   0 
+MVLS2:Milesville SD     :DH1800 /  69 /  39 /  0.00 /  0.0 /   0 
+.END
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$

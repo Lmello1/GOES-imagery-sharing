@@ -1,0 +1,160 @@
+FPUS82 KCHS 220010
+OPUCHS
+
+TEST...KCHS/KSAV Gateway Observations...TEST
+National Weather Service Charleston SC
+800 PM EDT FRI OCT 21 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+SCZ050-WAZ558-NCZ071-TXZ119-213-PAZ071-DCZ001-FLZ074-172-MI076-
+NYZ176-178-MAZ016-IL014-TNZ027-NJZ106-GAZ044-MD014-220100-
+
+...Gateway Observations for Charleston International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Chas Airport   CLEAR     58  43  57 CALM      30.11R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  71;                                
+
+Seattle        LGT RAIN  48  45  89 S6        29.73F                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  51; 6HR PCP:  0.12;                
+
+Charlotte      CLEAR     54  30  40 CALM      30.12R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  68;                                
+
+Dallas DFW     PTCLDY    84  46  26 S16       29.78S                  
+6HR MIN TEMP:  83; 6HR MAX TEMP:  92;                                
+
+Dallas Love    PTCLDY    84  47  27 S10       29.80R                  
+6HR MIN TEMP:  82; 6HR MAX TEMP:  90;                                
+
+Philladelphia  CLEAR     57  37  47 S8        30.15R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  65;                                
+
+Wash National  PTCLDY    57  40  52 S3        30.14R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  68;                                
+
+Baltimore      PTCLDY    56  34  43 S3        30.13R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  68;                                
+
+Miami          MOCLDY    76  64  66 N8        29.95R                  
+6HR MIN TEMP:  76; 6HR MAX TEMP:  83; 6HR PCP:  0.03;                
+
+Detroit        PTCLDY    60  37  42 S9        29.82R                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  70;                                
+
+Newark         CLEAR     58  42  55 S5        30.14R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  67;                                
+
+Laguardia      CLEAR     57  40  52 S7        30.14R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  64;                                
+
+J F K          CLEAR     56  43  61 S9        30.16R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  64;                                
+
+Boston Logan   CLEAR     57  44  62 S13       30.15R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  61;                                
+
+Ft. Lauderdale MOCLDY    75  64  68 N9        29.95R                  
+6HR MIN TEMP:  75; 6HR MAX TEMP:  83;                                
+
+Chicago O'Hare PTCLDY    71  37  28 S13       29.69R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  76;                                
+
+Chicago Midway CLEAR     73  38  27 S12       29.71R                  
+6HR MIN TEMP:  71; 6HR MAX TEMP:  78;                                
+
+Houston Bush   PTCLDY    78  58  49 S10G20    29.94R                  
+6HR MIN TEMP:  78; 6HR MAX TEMP:  84;                                
+
+Houston Hobby  PTCLDY    76  57  51 S13       29.96R                  
+6HR MIN TEMP:  76; 6HR MAX TEMP:  85;                                
+
+Nashville      PTCLDY    68  36  30 S12       29.99R                  
+6HR MIN TEMP:  67; 6HR MAX TEMP:  76;                                
+
+Atlanta        PTCLDY    59  39  47 W3        30.10R                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  70;                                
+
+London Heathrw MOCLDY    59  57  94 SW10      29.59S                  
+
+$$
+ 
+GAZ044-118-TXZ119-213-NCZ071-DCZ001-MDZ014-506-PAZ021-071-NJZ106-
+NYZ176-178-MAZ106-OHZ011-021-055-MIZ076-KYZ091-ILZ014-INZ047-
+MNZ060-ONZ431-220100-
+
+...Gateway Observations for Savannah International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  CLEAR     57  39  51 CALM      30.11R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  72;                                
+
+Atlanta        PTCLDY    59  39  47 W3        30.10R                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  70;                                
+
+Charlotte      CLEAR     54  30  40 CALM      30.12R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  68;                                
+
+Dallas DFW     PTCLDY    84  46  26 S16       29.78S                  
+6HR MIN TEMP:  83; 6HR MAX TEMP:  92;                                
+
+Houston Bush   PTCLDY    78  58  49 S10G20    29.94R                  
+6HR MIN TEMP:  78; 6HR MAX TEMP:  84;                                
+
+Wash National  PTCLDY    57  40  52 S3        30.14R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  68;                                
+
+Wash Dulles    CLEAR     53  32  44 SE7       30.12R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  67;                                
+
+Baltimore      PTCLDY    56  34  43 S3        30.13R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  68;                                
+
+Philadelphia   CLEAR     57  37  47 S8        30.15R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  65;                                
+
+Newark         CLEAR     58  42  55 S5        30.14R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  67;                                
+
+Laguardia      CLEAR     57  40  52 S7        30.14R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  64;                                
+
+J F K          CLEAR     56  43  61 S9        30.16R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  64;                                
+
+Boston         CLEAR     57  44  62 S13       30.15R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  61;                                
+
+Pittsburg      CLEAR     55  31  39 S5        30.02R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  63;                                
+
+Akron          PTCLDY    57  32  38 S13       29.98R                  
+6HR MIN TEMP:  55; 6HR MAX TEMP:  67;                                
+
+Cleveland      CLEAR     61  32  33 S13       29.91R                  
+6HR MIN TEMP:  61; 6HR MAX TEMP:  68;                                
+
+Cincinnati     PTCLDY    57  33  40 S8        29.95S                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  71;                                
+
+Columbus       CLEAR     56  33  42 S7        29.97R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  70;                                
+
+Detroit        PTCLDY    60  37  42 S9        29.82R                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  70;                                
+
+Chicago O'Hare PTCLDY    71  37  28 S13       29.69R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  76;                                
+
+Minneapolis    MOCLDY    58  34  40 N5        29.61R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  68;                                
+
+Indianapolis   PTCLDY    63  35  35 S10       29.88R                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  75;                                
+
+Toronto Canada CLEAR     59  37  44 S9        29.87R                  
+
+$$
+  

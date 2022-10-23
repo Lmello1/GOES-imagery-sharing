@@ -1,0 +1,54 @@
+ASUS63 KOAX 220017
+RTPOAX
+
+Evening Temperature and Precipitation Table
+National Weather Service Omaha/Valley Nebraska
+715 PM CDT Fri Oct 21 2022
+
+Values represent 18 hour highs, 18 hour lows and precipitation over
+the last 24 hours.
+
+Snow depth is measured daily and is valid as of 7 PM CDT.
+.BR OAX 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Eastern Nebraska and southwest Iowa
+:Temperature and precipitation stations
+:................................................................
+:       Station              Max / Min  / 24 hr   / Snow  /  Snow
+:        Name                Temp/ Temp / Pcpn    / Fall  /  Depth
+:................................................................
+:Nebraska
+:
+BVN  : Albion Airport      :  76 /  34 /  0.00 /     M /    M
+BIE  : Beatrice Airport    :  81 /  46 /  0.00 /     M /    M
+BTA  : Blair Airport       :  78 /  49 /  0.00 /     M /    M
+OLU  : Columbus Airport    :  79 /  33 /  0.00 /     M /    M
+FNB  : Falls City Arpt     :  87 /  43 /  0.00 /     M /    M
+FET  : Fremont Airport     :  80 /  36 /  0.00 /     M /    M
+LNK  : Lincoln Airport     :  79 /  45 /  0.00 /   0.0 /    0
+AFK  : Nebraska City Arpt  :  81 /  54 /  0.00 /     M /    M
+OFK  : Norfolk Airport     :  78 /  35 /  0.00 /   0.0 /    0
+OFF  : Offutt AFB          :  78 /  42 /     M /     M /    M
+OMA  : Omaha Eppley Field  :  77 /  41 /  0.00 /   0.0 /    0
+MLE  : Omaha-Millard Arpt  :  77 /  39 /  0.00 /     M /    M
+PMV  : Plattsmouth Arpt    :  77 /  48 /  0.00 /     M /    M
+TQE  : Tekamah Airport     :  80 /  36 /  0.00 /     M /    M
+OAXN1: Valley              :  80 /  44 /  0.00 /   0.0 /    0
+AHQ  : Wahoo Airport       :  80 /  37 /  0.00 /     M /    M
+LCG  : Wayne Airport       :  76 /  34 /  0.00 /     M /    M
+:
+:Iowa
+:
+ICL  : Clarinda Airport    :  82 /  36 /  0.00 /     M /    M
+CBF  : Council Bluffs      :  75 /  50 /  0.00 /     M /    M
+HNR  : Harlan Airport      :  77 /  34 /  0.00 /     M /    M
+RDK  : Red Oak Airport     :  79 /  39 /  0.00 /     M /    M
+SDA  : Shenandoah Arpt     :  82 /  43 /  0.00 /     M /    M
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+$$

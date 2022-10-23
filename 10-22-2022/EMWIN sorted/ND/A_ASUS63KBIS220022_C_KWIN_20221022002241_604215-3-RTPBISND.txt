@@ -1,0 +1,51 @@
+ASUS63 KBIS 220022
+RTPBIS
+
+
+Regional Temperature And Precipitation Summary
+National Weather Service Bismarck ND
+ISSUED BY National Weather Service Grand Forks ND
+722 PM CDT Fri Oct 21 2022
+
+.BR BIS  1021  C DH19/TAIRZY/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:VALUES REPRESENT 12 HOUR HIGHS...LOWS OVER THE LAST 18 HOURS
+:AND PRECIPITATION OVER THE LAST 24 HOURS ENDING AT 7 PM CDT.
+:ASOS SITES ARE AUTOMATED AND MAY UNDER-ESTIMATE WINTER PRECIP.
+:
+:CENTRAL TIME ZONE STATIONS
+:................................................................
+:       STATION              MAX / MIN  / 24-HR  / SNOW / SNOW
+:        NAME                TEMP/ TEMP / PRECIP / FALL / DEPTH
+:................................................................
+:
+BIS  : Bismarck ASOS      :  59  /  35  /  0.00 /    M  /   M 
+JMS  : Jamestown FAA      :  62  /  41  /  0.00 /    M  /   M 
+MOT  : Minot FAA          :  53  /  39  /    T  /    M  /   M 
+XWA  : Williston Basin Air:  48  /  38  /  0.04 /    M  /   M 
+N60  : Garrison ASOS      :  M   /  M   /  0.01 /    M  /   M 
+MIB  : Minot Air Force Bas:  M   /  M   /  0.00 /    M  /   M 
+.END
+.BR BIS  1021  M DH18/TAIRZY/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:MOUNTAIN TIME ZONE STATIONS
+DIK  : Dickinson Theodore :  63  /  35  /  0.00 /    M  /   M 
+HEI  : Hettinger ASOS     :  69  /  37  /  0.00 /    M  /   M 
+.END
+.BR BIS  1021  C DH18/TX/TN/PP/SF/SD
+:
+:COOPERATIVE OBSERVATIONS
+:VALUES ARE FOR THE PREVIOUS 24 HOURS
+:CENTRAL TIME ZONE
+CBYN8:  Crosby            :  M   /  M   /    M  /    M  /   M 
+WEFN8:  Williston EXP. ST.:  M   /  M   /    M  /    M  /   M 
+.END
+
+
+ These data are preliminary and have not undergone final quality
+ control by the National Center for Environmental Information /NCEI/.
+ Therefore these data are subject to revision. Final and certified
+ climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

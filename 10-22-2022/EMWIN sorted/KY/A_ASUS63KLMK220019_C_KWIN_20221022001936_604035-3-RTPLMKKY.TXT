@@ -1,0 +1,133 @@
+ASUS63 KLMK 220019
+RTPLMK
+Max/Min Temperature and Precipitation Table for Central Kentucky
+National Weather Service Louisville KY
+819 PM EDT Fri Oct 21 2022
+
+High Temperature Past 18 Hours
+Low Temperature Past 18 Hours
+24 Hour Precipitation Ending at 7PM EST/8PM EDT
+ 
+.BR LMK 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:                                Hi    Lo    Pcpn
+:...Southern Indiana...
+:
+HNB : Huntingburg             :  75 /  46 /  0.00
+:
+:...Central Kentucky...
+:
+BWG : Bowling Green Apt       :  75 /  33 /  0.00
+FTK : Fort Knox               :  73 /  39 /  0.00
+FFT : Frankfort               :  72 /  34 /  0.00
+LEX : Lexington Apt           :  71 /  41 /  0.00
+SDF : Louisville-Intl Apt     :  75 /  44 /  0.00
+LOU : Louisville-Bowman Apt   :  73 /  41 /  0.00
+.END
+ 
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center (NCDC). Therefore,
+these data are subject to revision. Final and certified climate
+data can be accessed at www.ncdc.noaa.gov.
+ 
+.BR LMK 1021 ES DH19/TAIRPS/TAIRPI/PPDRPZ
+:
+:...Central Kentucky Mesonet Stations...
+:
+ALBNKY : Albany 1N            :  71 /  30 /  0.00
+FARMKY : Bowling Green 5S     :  73 /  32 /  0.00
+EWPKKY : Bowling Green 6NE    :  73 /  30 /  0.00
+BRNDKY : Brandenburg 4SW      :  73 /  40 /  0.00
+GRDRKY : Burkesville 3W       :  73 /  25 /  0.00
+BNGLKY : Campbellsville 7W    :  71 /  26 /  0.00
+CARLKY : Carlisle 1NW         :  69 /  42 /  0.00
+CMBAKY : Columbia 3N          :  71 /  37 /  0.00
+RBSNKY : Cynthiana 8N         :  71 /  27 /  0.00
+DANVKY : Danville 3SW         :  70 /  37 /  0.00
+RNDHKY : Edmonton 5W          :  71 /  36 /  0.00
+CCLAKY : Elizabethtown 8W     :  73 /  33 /  0.00
+LSMLKY : Frankfort 7S         :  71 /  37 /  0.00
+SWZRKY : Franklin 4SW         :  73 /  37 /  0.00
+MROKKY : Glasgow 11W          :  72 /  40 /  0.00
+HARDKY : Hardinsburg 2SSW     :  74 /  42 /  0.00
+HRDBKY : Harrodsburg 3N       :  71 /  37 /  0.00
+HTFDKY : Hartford 3E          :  76 /  38 /  0.00
+HDGVKY : Hodgenville 2E       :  71 /  42 /  0.00
+LGRNKY : La Grange 6NW        :  71 /  42 /  0.00
+LRTOKY : Lebanon 8NW          :  72 /  37 /  0.00
+BLRKKY : Leitchfield 3W       :  73 /  38 /  0.00
+LXGNKY : Lexington 7S         :  69 /  37 /  0.00
+PCWNKY : Liberty 3SW          :  69 /  29 /  0.00
+WDBYKY : Morgantown 4SE       :  75 /  29 /  0.00
+HDYVKY : Munfordville 6E      :  72 /  32 /  0.00
+ELSTKY : Richmond 8E          :  70 /  28 /  0.00
+RSVLKY : Russellville 2W      :  74 /  43 /  0.00
+SCTVKY : Scottsville 2W       :  72 /  43 /  0.00
+CROPKY : Shelbyville 9NNE     :  71 /  40 /  0.00
+FCHVKY : Shelbyville 10W      :  71 /  38 /  0.00
+WADDKY : Shelbyville 10 SSE   :  71 /  37 /  0.00
+CRMTKY : Shepherdsville 6SE   :  73 /  38 /  0.00
+LGNTKY : Stanford 4NE         :  71 /  36 /  0.00
+GAMAKY : Tompkinsville 7SW    :  71 /  31 /  0.00
+WNCHKY : Winchester 3NW       :  70 /  39 /  0.00
+.END
+
+
+24 Hour Precipitation Ending at 7PM EST/8PM EDT
+ 
+.BR LMK 1021 ES DH19/PPDRRZ
+:
+:...Louisville MSD Network...
+:
+MSDTR01 : D. R. Guthrie WQTC                  :  0.00
+MSDTR02 : PRP Fire Station Training Center    :  0.00
+MSDTR03 : Shively Pump Station                :  0.00
+MSDTR04 : Morris Forman WQTC                  :  0.00
+MSDTR05 : Beargrass Creek Pumping Station     :  0.00
+MSDTR06 : Hite Creek WQTC                     :  0.00
+MSDTR07 : Floyds Fork WQTC                    :  0.00
+MSDTR08 : Fern Creek Fire Station #3          :  0.00
+MSDTR09 : Cedar Creek WQTC                    :  0.00
+MSDTR10 : Camp Horine                         :  0.00
+MSDTR11 : Northern Ditch Pumping Station      :  0.00
+MSDTR12 : Nightingale Pumping Station         :  0.00
+MSDTR13 : St. Matthews Elementary             :  0.00
+MSDTR14 : Lea Ann Way Pumping Station         :  0.00
+MSDTR15 : Grand Avenue Pumping Station        :  0.00
+MSDTR16 : Stopher Elementary                  :  0.00
+MSDTR17 : Mt. St. Francis                     :  0.00
+MSDTR18 : IVY Tech                            :  0.00
+MSDTR19 : Fairdale High School                :  0.00
+MSDTR20 : Pond Creek Pumping Station          :  0.00
+MSDTR21 : Wheeler Basin                       :  0.00
+MSDTR22 : Billtown Road Pumping Station       :  0.00
+MSDTR23 : Transylvania Beach Pumping Station  :  0.00
+MSDTR24 : Spencer County Middle School        :  0.00
+MSDTR25 : Piccadilly                          :  0.00
+MSDTR26 : Buechel Basin                       :  0.00
+MSDTR27 : St. Michael Elementary              :  0.00
+MSDTR28 : Simpsonville Fire Station           :  0.00
+MSDTR29 : Hayswood Nature Reserve             :  0.00
+MSDTR30 : LGE Compressor Station              :  0.00
+MSDTR31 : South Central High School           :  0.00
+MSDTR32 : Corydon Waste Water Treatment Plant :  0.00
+MSDTR33 : A.B. Sawyer Park                    :  0.00
+MSDTR34 : Roosevelt-Perry Elementary          :  0.00
+MSDTR35 : Dunn Elementary                     :  0.00
+MSDTR36 : Klondike Elementary                 :  0.00
+MSDTR37 : Stuart Middle School                :  0.00
+MSDTR38 : Oldham County High School           :  0.00
+MSDTR39 : Bullitt East High School            :  0.00
+MSDTR40 : Zoneton Middle School               :  0.00
+MSDTR41 : Shepherdsville Elementary School    :  0.00
+MSDTR42 : University of Louisville            :  0.00
+MSDTR43 : Lanesville                          :  0.00
+MSDTR44 : Clarksville - Town Council          :  0.00
+MSDTR45 : Clarksville - Emery Crossing        :  0.00
+MSDTR46 : Clarksville - Newman Ave            :  0.00
+.END
+ 
+These data are from networks outside the NWS.
+
+$$
+

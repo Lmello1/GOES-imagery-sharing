@@ -1,0 +1,22 @@
+FOUS74 KORN 220019
+FFHLSX
+                                                                        
+HEADWATER GUIDANCE FOR HSA.....ST. LOUIS MO                             
+                                                                        
+NATIONAL WEATHER SERVICE                                                
+LOWER MISSISSIPPI RIVER FORECAST CENTER, SLIDELL LA                     
+719 PM CDT FRI OCT 21 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN HEADWATERS.                                           
+                                                                        
+.B SIL 221022 Z DH00/DC2210220019 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:.....MISSOURI                                                          
+:                                                                       
+ANNM7     3.5/  5.0/  5.5 :ANNAPOLIS, MO         BLACK R.
+.END
+$$

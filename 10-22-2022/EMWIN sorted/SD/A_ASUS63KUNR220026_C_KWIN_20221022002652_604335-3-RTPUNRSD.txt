@@ -1,0 +1,38 @@
+ASUS63 KUNR 220026
+RTPUNR
+Max/Min Temperature and Precipitation Table for
+Western South Dakota and Northeastern Wyoming
+National Weather Service Rapid City SD
+626 PM MDT Fri Oct 21 2022
+
+Values represent 18 hour highs...lows over the last 18 hours and
+precipitation for the last 24 hours ending at 6 pm MDT /7 pm CDT/
+"M" indicates missing data
+
+.BR UNR 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                      Max    Min    24 hr  Snow   Snow
+: Location             Temp   Temp   Pcpn   Fall   Depth
+2WX  : Buffalo        :  71 /  41 /  0.00 /      /    
+CUT  : Custer AP      :  66 /  37 /  0.00 /      /    
+D07  : Faith AP       :  67 /  40 /  0.00 /      /    
+IEN  : Pine Ridge AP  :  76 /  28 /  0.00 /      /    
+PHP  : Philip AP      :  74 /  39 /  0.00 /      /    
+RAP  : Rapid City AP  :  74 /  37 /  0.00 /      /    
+UNRS2: Rapid City NWS :  74 /  43 /  0.00 /  0.0 /   0
+GCC  : Gillette AP    :  74 /  36 /  0.00 /      /    
+.END
+
+.BR UNR 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                      Max    Min    24 hr  Snow   Snow
+: Location             Temp   Temp   Pcpn   Fall   Depth
+ICR  : Winner AP      :  73 /  43 /  0.00 /      /    
+.END
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$

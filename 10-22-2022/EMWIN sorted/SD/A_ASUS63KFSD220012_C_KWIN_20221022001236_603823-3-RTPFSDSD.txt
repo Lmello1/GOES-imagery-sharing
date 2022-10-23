@@ -1,0 +1,64 @@
+ASUS63 KFSD 220012
+RTPFSD
+Max/Min Temperature and Precipitation Table For
+SE South Dakota/SW Minnesota/NW Iowa/NE Nebraska
+National Weather Service Sioux Falls SD
+712 PM CDT Fri Oct 21 2022
+
+Values represent Lows over the last 18 hours...
+Highs over the last 18 hours and Precipitation over the
+last 24 hours
+
+.BR FSD 1021 C DH19/TAIRZSZ/TAIRZIZ/PPDRZZZ
+:
+:                               MAX     MIN             
+:ID    LOCATION                 TEMP    TEMP     PCPN   
+:
+: ASOS Airports
+:
+HON :Huron SD               :    67  /   42   /   0.00
+MHE :Mitchell SD            :    69  /   46   /   0.00
+FSD :Sioux Falls SD         :    73  /   42   /   0.00
+SUX :Sioux City IA          :    77  /   35   /   0.00
+SPW :Spencer IA             :    74  /   38   /   0.00
+:
+.END
+:
+.BR FSD 1021 C DH19/TAIRZSZ/TAIRZIZ
+:
+: AWOS Airports - Temperature only
+:
+: Southeast South Dakota...
+:
+BKX :Brookings SD           :     M  /    M
+9V9 :Chamberlain SD         :    69  /   42
+MDS :Madison SD             :    66  /   45
+YKN :Yankton SD             :    72  /   44
+:
+: Southwest Minnesota...
+:
+LYV :Luverne MN             :    68  /   32
+DVP :Slayton MN             :    65  /   44
+MJQ :Jackson MN             :    68  /   45
+MML :Marshall MN            :    65  /   47
+PQN :Pipestone MN           :     M  /    M
+TKC :Tracy MN               :    65  /   51
+MWM :Windom MN              :    64  /   41
+OTG :Worthington MN         :    67  /   42
+:
+: Northwest Iowa...
+:
+CKP :Cherokee IA            :    75  /   35
+LRJ :Le Mars IA             :    73  /   36
+SXK :Maurice IA             :    72  /   43
+SHL :Sheldon IA             :    72  /   36
+SLB :Storm Lake IA          :    73  /   46
+.End
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

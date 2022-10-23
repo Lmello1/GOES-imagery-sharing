@@ -1,0 +1,113 @@
+ASUS64 KAMA 220039
+RTPAMA
+Regional Temperature And Precipitation Table
+National Weather Service Amarillo TX
+739 PM CDT Fri Oct 21 2022
+
+Data below provided by the National Weather Service
+Values represent high and low temperatures for past
+18 hours and total precipitation over 
+the last 24 hours ending at 6 pm CST/7 pm CDT.
+
+
+.B AMA 1021 DC202210211930 DH18/TAIRZX/TAIRZN/PPDRZZ
+: 
+:ID   ASOS             MAX    MIN   24HR    
+:     LOCATION         TEMP   TEMP  PCPN   
+:..........................................................
+AMA : Amarillo       :  84 /  47 /  0.00
+BGD : Borger         :  87 /  58 /  0.00
+DHT : Dalhart        :  85 /  37 /  0.00
+GUY : Guymon         :  88 /  41 /  0.00
+:
+.BR AMA 1021 DC202210211930 DH18/TAIRZX/TAIRZN
+:   
+:ID   AWOS                  MAX   MIN       
+:     LOCATION              TEMP  TEMP     
+:..........................................................
+HHF : Canadian Airport   :  91 /  35
+DUX : Dumas Airport      :  83 /  48
+HRX : Hereford Airport   :  85 /  45
+PPA : Pampa Airport      :  88 /  49
+PYX : Perryton Airport   :  87 /  47
+E42 : Spearman Airport   :  88 /  47
+BPC : Mesa Vista Ranch   :  88 /  46
+:
+.BR AMA 1021 DC202210211930 DH18/TAIRZX/TAIRZN
+:   
+:ID   MESONET                     MAX    MIN  
+:     LOCATION                    TEMP   TEMP         
+:...........................................................
+:        
+ Texas Panhandle
+ADXT2 : Adrian 6WSW             :  81 /  55
+ANXT2 : Amarillo 15NNW          :  87 /  47
+ASOT2 : Amarillo 7SSE           :  86 /  46
+AMNT2 : Amarillo 9NNE           :  86 /  43
+BLST2 : Bootleg 11WNW           :  81 /  46
+BGXT2 : Borger 7E               :  86 /  53
+BYST2 : Boys Ranch 1WSW         :  86 /  36
+CNST2 : Canadian 6E             :  92 /  40
+CEST2 : Clarendon 2W            :  87 /  55
+CLUT2 : Claude 12SSW            :  85 /  58
+DOZT2 : Dozier 3W               :  90 /  43
+DMAT2 : Dumas 3SE               :  85 /  52
+FIHT2 : Fritch 1WNW             :  86 /  53
+GNIT2 : Goodnight               :  87 /  50
+HEST2 : Hereford 2NW            :  83 /  44
+MLMT2 : Lake McClellan 2NW      :  86 /  49
+LPBT2 : Lipscomb 8W             :  90 /  50
+MCST2 : Mclean 1E               :  86 /  56
+MIMT2 : Miami 10E               :  89 /  58
+PDJT2 : Palo Duro 4E (JA Ranch) :  89 /  52
+PDFT2 : Palo Duro Canyon Floor  :  89 /  57
+PDST2 : Palo Duro Canyon Rim    :  86 /  53
+PDWT2 : Palo Duro Reservoir 1NW :  90 /  47
+PAMT2 : Pampa 2E                :  86 /  51
+PHLT2 : Panhandle 1SSW          :  85 /  43
+PTXT2 : Pantex 1ESE             :  85 /  44
+ROMT2 : Romero 11SSW            :  84 /  44
+STNT2 : Stinnett 1NNW           :  86 /  49
+SFOT2 : Stratford 4WNW          :  86 /  42
+SUNT2 : Sunray 9NNE             :  86 /  48
+TXNT2 : Texline 2N              :  82 /  44
+UMST2 : Umbarger 3NNE           :  85 /  45
+VGST2 : Vega 4E                 :  82 /  44
+WGTT2 : Wellington 6SE          :  91 /  49
+:
+ Oklahoma Panhandle
+BVSO2 : Beaver 1SSW             :  90 /  39
+BCSO2 : Boise City 3SSE         :  83 /  44
+EVSO2 : Eva 12NE                :  86 /  39
+GDSO2 : Goodwell 2E             :  88 /  46
+HKSO2 : Hooker 1W               :  88 /  36
+KTSO2 : Kenton 5SE              :  83 /  38
+SPSO2 : Slapout 8W              :  90 /  48
+:
+.BR AMA 1021 DC202210211930 DH18/TAIRZX/TAIRZN
+:   
+:ID     RAWS                 MAX   MIN    
+:       LOCATION             TEMP  TEMP          
+:..........................................................
+:
+CEDT2 : Cedar              :  88 /  55
+WHRT2 : Wheeler            :  90 /  45
+BLGT2 : Bootleg            :  82 /  45
+:
+.BR AMA 1021 DC202210211930 DH18/TAIRZX/TAIRZN
+:
+:ID     SUPPLEMENTAL          24HR
+:       DATA                  PCPN
+:..........................................................
+:
+GSRT2 : Goodnight 5N       :  0.00
+HTBT2 : Hereford           :  0.00
+:
+This data is preliminary and has not undergone final quality
+control by the National Centers For Environmental Information /NCEI/.
+
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

@@ -1,0 +1,34 @@
+FKPZ24 KNHC 220245
+TCAPZ4
+ 
+HURRICANE ROSLYN ICAO ADVISORY NUMBER   9
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP192022
+0300 UTC SAT OCT 22 2022
+ 
+TC ADVISORY
+DTG:                      20221022/0300Z
+TCAC:                     KNHC
+TC:                       ROSLYN
+ADVISORY NR:              2022/009
+OBS PSN:                  22/0300Z N1642 W10536
+MOV:                      WNW 06KT
+INTST CHANGE:             INTSF
+C:                        0982HPA
+MAX WIND:                 075KT
+FCST PSN +3 HR:           22/0600Z N1700 W10543
+FCST MAX WIND +3 HR:      080KT
+FCST PSN +9 HR:           22/1200Z N1736 W10600
+FCST MAX WIND +9 HR:      090KT
+FCST PSN +15 HR:          22/1800Z N1827 W10606
+FCST MAX WIND +15 HR:     095KT
+FCST PSN +21 HR:          23/0000Z N1918 W10612
+FCST MAX WIND +21 HR:     095KT
+FCST PSN +27 HR:          23/0600Z N2021 W10554
+FCST MAX WIND +27 HR:     095KT
+RMK:                      THE FORECAST POSITION INFORMATION IN
+                          THIS PRODUCT IS INTERPOLATED FROM
+                          OFFICIAL FORECAST DATA VALID AT 0000...
+                          0600...1200...AND 1800Z.
+NXT MSG:                  20221022/0900Z
+ 
+$$

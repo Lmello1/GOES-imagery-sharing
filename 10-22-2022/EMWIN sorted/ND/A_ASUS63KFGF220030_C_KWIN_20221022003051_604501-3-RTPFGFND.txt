@@ -1,0 +1,84 @@
+ASUS63 KFGF 220030
+RTPFGF
+Evening Temperature and Precipitation Summary
+National Weather Service Grand Forks ND
+730 PM CDT Fri Oct 21 2022
+
+    Max/Min Temperature and Precipitation table for
+    Eastern North Dakota and Northwestern Minnesota
+                    (Evening-All Season)
+
+    High temperatures over the last 12 hours
+      ...Lows over the last 18 hours
+        ...Precipitation for the past 24 hours**
+             ending at 00Z or 7pm CDT...6pm CST
+
+    ** 24-hr precip might not be reported between 1 Nov and 1 Mar
+
+.BR FAR 1021 CS DH18/TAIRZS/TAIRZI/PPD/SF/SD
+:     Evening RTP For Central Time...
+:..................................................................
+:   Eastern North Dakota and Northwest Minnesota
+:        Automated Weather Station reports
+:..................................................................
+:       Station               Max /  Min  / 24-hr  / Snow / Snow
+:        Name                 Temp/  Temp / Precip / Fall / Depth
+:..................................................................
+:                Min/Max from between-hour ASOS reports
+GRFN8: Grand Forks NWS    :   64  /  42   / 0.00   /  0.0 /  0
+GFK  : Grand Forks Airport:   65  /  41   / 0.00   /  0.0 /  0
+RDR  : Grand Forks AFB    :    M  /   M   / 0.00   /      / 
+FAR  : Fargo              :   63  /  38   / 0.00   /  0.0 /  0
+DVL  : Devils Lake        :   57  /  38   /    T   /      / 
+BDE  : Baudette           :   62  /  44   / 0.00   /      / 
+BJI  : Bemidji            :   59  /  44   / 0.00   /      / 
+PKD  : Park Rapids        :   61  /  37   / 0.00   /      / 
+TVF  : Thief River Falls  :   62  /  40   / 0.00   /      / 
+:                Min/Max from hourly AWOS reports
+:                    Temperature only AWOS
+9D7  : Cando              :   55  /  37   /        /      /    
+2C8  : Cavalier           :   63  /  43   /        /      /    
+S32  : Cooperstown        :   61  /  39   /        /      /    
+GAF  : Grafton            :   63  /   M   /        /      /    
+GWR  : Gwinner            :   63  /  45   /        /      /    
+D55  : Langdon            :   61  /  39   /        /      /    
+BAC  : Valley City        :   59  /  39   /        /      /    
+BWP  : Wahpeton           :   63  /  41   /        /      /    
+96D  : Walhalla           :   63  /  45   /        /      /    
+CKN  : Crookston          :   64  /  37   /        /      /    
+DTL  : Detroit Lakes      :   61  /  43   /        /      /    
+Y63  : Elbow Lake         :   61  /  39   /        /      /    
+FFM  : Fergus Falls       :   63  /  39   /        /      /    
+FGN  : Flag Island        :   57  /  45   /        /      /    
+FSE  : Fosston            :   61  /  39   /        /      /    
+HCO  : Hallock            :   64  /  37   /        /      /    
+JKJ  : Moorhead           :   63  /  45   /        /      /    
+ROX  : Roseau             :   63  /  43   /        /      /    
+ADC  : Wadena             :   63  /  46   /        /      /    
+RRT  : Warroad            :   59  /  41   /        /      /    
+VWU  : Waskish            :   61  /  46   /        /      /    
+:                       RAWS Stations
+FRTN8: Fort Totten        :   60  /  38   /        /      /    
+HMDN8: Hampden            :   56  /  38   /        /      /    
+SNGN8: Sheyenne           :   65  /  43   /        /      /    
+AGRM5: Agassiz            :   62  /  37   /        /      /    
+BDRM5: Badoura            :   61  /  46   /        /      /    
+BTTM5: Baudette           :   61  /  44   /        /      /    
+ITCM5: Itasca             :   62  /  44   /        /      /    
+KDNM5: Kelliher           :   60  /  44   /        /      /    
+KITM5: Karlstad           :   63  /  40   /        /      /    
+RNRM5: Roseau             :   60  /  42   /        /      /    
+:
+:   Temperatures that are based on hourly observations from
+:      Automated Weather Stations may not capture the Highs
+:      or Lows that occur between the tops of the hours
+.END
+
+These data are preliminary and have not undergone final quality
+ control by the National Centers for Environmental Information
+  (NCEI). Therefore, these data are subject to revision. Final
+   and certified climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+    weather.gov/fgf
+

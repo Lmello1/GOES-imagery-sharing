@@ -1,0 +1,160 @@
+FPUS61 KRLX 212332
+SFTRLX
+WVZ001>099-221000-
+
+Tabular State Forecast for West Virginia
+National Weather Service Charleston WV
+732 PM EDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...West Virginia/Eastern Panhandle...
+   Martinsburg
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   36/68    38/65    46/70    47/72    54/71    53/69    49/67    
+    00/00    00/20    20/10    10/10    10/20    20/10    10/20   
+
+   Petersburg
+   Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   38/72    38/68    43/74    45/75    52/73    49/71    46/69    
+    00/00    00/10    10/00    10/10    10/20    20/10    10/20   
+
+
+...West Virginia/Mountains...
+   Beckley
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   37/66    40/67    44/69    48/69    53/68    48/65    47/65    
+    00/00    00/00    00/00    00/10    20/20    20/10    10/20   
+
+   Elkins
+   Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   34/71    36/70    41/73    45/74    52/72    47/67    44/67    
+    00/00    00/10    10/00    00/10    20/20    20/10    10/20   
+
+   Snowshoe
+   Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   37/57    37/57    41/61    45/60    48/57    46/56    43/54    
+    00/00    00/10    10/00    10/10    20/20    20/10    10/20   
+
+   Summersville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/68    40/69    44/71    47/71    54/69    47/65    46/66    
+    00/00    00/00    00/00    00/10    20/20    20/10    10/20   
+
+
+...West Virginia/North Central...
+   Clarksburg
+   Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/73    43/72    46/75    50/77    55/75    52/69    49/70    
+    00/00    00/00    00/00    00/10    20/20    20/10    10/20   
+
+   Morgantown
+   Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   43/69    42/70    45/72    48/73    55/71    51/64    48/65    
+    00/00    00/10    10/00    00/10    20/20    20/10    10/20   
+
+   Sutton
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   40/73    40/73    45/75    48/76    55/73    50/68    48/70    
+    00/00    00/00    00/00    00/10    20/20    20/10    10/20   
+
+
+...West Virginia/Northern Panhandle...
+   Wheeling
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   44/69    44/70    45/71    50/73    55/70    51/64    48/65    
+    00/00    00/00    00/00    00/10    20/30    30/10    10/20   
+
+
+...West Virginia/Northwest...
+   Parkersburg
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   40/71    42/72    44/74    48/75    55/71    49/68    47/67    
+    00/00    00/00    00/00    00/10    20/30    20/10    10/20   
+
+   Spencer
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   41/71    41/72    44/74    48/75    55/71    49/67    48/68    
+    00/00    00/00    00/00    00/10    20/30    20/10    10/20   
+
+
+...West Virginia/Southeast...
+   Bluefield
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   35/65    36/65    42/68    45/67    52/66    47/64    46/64    
+    00/00    00/00    00/00    00/10    20/20    20/10    10/20   
+
+   Lewisburg
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   34/66    34/65    42/70    45/68    50/67    47/66    46/65    
+    00/00    00/00    00/00    10/10    20/20    20/10    10/20   
+
+
+...West Virginia/Southwest...
+   Williamson
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   43/72    43/72    45/74    49/75    56/72    51/68    50/70    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+...West Virginia/West Central...
+   Charleston
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/72    44/72    47/74    50/75    57/73    51/68    50/69    
+    00/00    00/00    00/00    00/10    20/30    20/10    10/20   
+
+   Huntington
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/74    44/74    45/76    49/77    55/72    49/68    48/70    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+...Ohio/Southeastern...
+   Athens
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/74    42/75    42/76    46/76    52/72    46/68    45/70    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+   Marietta
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/72    41/72    42/74    47/75    54/71    49/67    47/67    
+    00/00    00/00    00/00    00/10    20/30    20/10    10/20   
+
+   Jackson
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   40/74    42/75    42/76    46/76    52/72    46/68    46/69    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+...Kentucky/Northeastern...
+   Ashland
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/75    44/75    45/77    48/77    55/72    48/69    48/70    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+   Grayson
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   41/74    42/75    43/76    46/76    53/70    47/67    46/69    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+...Virginia/Southwestern...
+   Clintwood
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   37/69    38/70    41/72    43/73    52/70    46/66    46/68    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+$$
+

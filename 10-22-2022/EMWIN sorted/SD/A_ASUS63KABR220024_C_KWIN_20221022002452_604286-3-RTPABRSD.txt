@@ -1,0 +1,88 @@
+ASUS63 KABR 220024
+RTPABR
+
+Evening Temperature and Precipitation Table
+National Weather Service Aberdeen SD
+715 PM CDT Fri Oct 21 2022
+
+Values represent 18 hour highs, 18 hour lows and precipitation over
+the last 24 hours, ending at 7 PM CDT.
+
+Snow depth is measured daily and is valid as of 7 PM CDT.
+.BR ABR 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota
+:Temperature and precipitation stations
+:................................................................
+:       Station              Max / Min  / 24 hr   / Snow  /  Snow
+:        Name                Temp/ Temp / Pcpn    / Fall  /  Depth
+:................................................................
+:South Dakota
+:
+ABR  : Aberdeen            :  67 /  38 /  0.00 /   0.0 /    0
+MBG  : Mobridge AP         :  68 /  43 /  0.00 /   0.0 /    0
+PIR  : Pierre Regional AP  :  69 /  46 /  0.00 /   0.0 /    0
+8D3  : Sisseton AP         :  68 /  52 /  0.00 /   0.0 /    0
+ATY  : Watertown Regional  :  61 /  42 /  0.00 /   0.0 /    0
+:
+:Minnesota
+:
+VVV  : Ortonville MN       :  63 /  48 /     M /     M /    M
+ETH  : Wheaton MN          :  63 /  46 /     M /     M /    M
+:
+.END
+
+.BR ABR 1021 C DH19/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota Cooperative Weather Observer
+:Temperature and Precipitation Reports
+:Values are for the past 24 hours ending at the reported time.
+:.................................................................
+:      Station           Report  Max / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp  Temp /  Pcpn  /  Fall / Depth
+:.................................................................
+:
+ANVS2:  Andover         : DH1200/  68 /  38  /  0.00  /   0.0 /   0
+BRIS2:  Britton         : DH0700/  69 /  28  /  0.00  /     M /   M
+CLWS2:  Castlewood COOP : DH0600/  68 /  27  /  0.00  /     M /   M
+CAKS2:  Clark No 2      : DH0600/  68 /  37  /  0.00  /     M /   M
+ERKS2:  Eureka          : DH0800/  75 /  39  /  0.00  /     M /   M
+FAUS2:  Faulkton 1NW    : DH0800/  76 /  43  /  0.00  /     M /   M
+GNVS2:  Gann Valley     : DH0705/  78 /  31  /  0.00  /     M /   M
+KENS2:  Kennebec        : DH1800/  80 /  40  /  0.00  /     M /   M
+MCGS2:  McLaughlin      : DH0800/  80 /  39  /  0.00  /     M /   M
+MLBS2:  Milbank         : DH0730/  70 /  39  /  0.00  /   0.0 /   0
+MURS2:  Murdo           : DH0900/  80 /  44  /  0.00  /     M /   M
+ROYS2:  Roy Lake State P: DH0800/  64 /  35  /  0.00  /   0.0 /   0
+TURS2:  Turton          : DH0700/  72 /  37  /  0.00  /     M /   M
+VTRS2:  Victor 4NNE     : DH0700/  69 /  33  /  0.00  /     M /   M
+WBRS2:  Webster         : DH0800/  66 /  39  /  0.00  /     M /   M
+ARTM5:  Artichoke Lake  : DH1800/  64 /  42  /  0.00  /   0.0 /   0
+BRVM5:  Browns Valley   : DH0600/  72 /  30  /  0.00  /   0.0 /   0
+WHTM5:  Wheaton         : DH0800/  67 /  33  /  0.00  /   0.0 /   0
+:
+.END
+.BR ABR 1021 C DH19/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota Cooperative Weather Observer
+:24 hour precipitation - These stations report precipitation only.
+:................................................................
+:       Station                  Report    24 hr  /  Snow /  Snow
+:        Name                     Time     Pcpn   /  Fall /  Depth
+:................................................................
+:
+
+DOLS2:  Doland            :      DH0800/   0.00   /   0.0 /    0
+AYES2:  Hayes 6E          :      DH0600/   0.00   /     M /    M
+SIWS2:  Sisseton 3 W      :      DH0700/   0.00   /   0.0 /    0
+WATS2:  Watertown         :      DH0600/   0.00   /     M /    M
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+
+
+$$

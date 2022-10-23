@@ -1,0 +1,140 @@
+FGUS55 KGJT 220040
+RVDGJT
+Daily River and Reservoir Summary
+National Weather Service Grand Junction CO
+640 PM MDT Fri Oct 21 2022
+
+.B GJT 1021 E DC202210211840 DH07/HGIRG/DRH+24/HGIFM/DRH+48/HGIFM/
+: 
+:   Station                 Flood 7-8a.m. 24-Hr   7-8 a.m.
+: ID    Name                Stage Stage  Change  Forecasts
+:                                               Sat    Sun
+: Upper Colorado River
+PSBC2  :State Bridge        10.0:  2.6/:-0.01:  2.6 /  2.6 /
+EGLC2  :Dotsero             12.0:  2.7/: 0.04:  2.7 /  2.7 /
+GCOC2  :Glenwood Springs    16.5:  4.2/:-0.01:  4.3 /  4.3 /
+WETC2  :Raven                0.0:  0.9/: 0.02:  0.7 /  0.7 /
+:
+: Middle Colorado River
+PCCC2  :Cameo                8.0:  2.3/:-0.03:  2.3 /  2.3 /
+CAMC2  :Cameo               12.5:  4.2/: 0.02:  4.2 /  4.2 /
+:
+: Lower Colorado River
+CCUC2  :CO-UT State Line    15.0:  3.4/:-0.07:  3.3 /  3.4 /
+CLRU1  :Cisco               19.0:  2.4/: 0.08:  2.3 /  2.3 /
+:
+: Dolores River
+DRRC2  :Rico                 5.8:  1.6/:-0.01:  1.6 /  1.6 /
+DOLC2  :Dolores              8.0:  2.3/:-0.03:  2.3 /  2.3 /
+DRMC2  :Mcphee Reservoir     8.0:  0.6/: 0.00:  0.6 /  0.6 /
+DBDC2  :Bedrock             11.0:  2.2/: 0.01:  2.2 /  2.2 /
+DOLU1  :Cisco               14.0:  7.1/:-0.02:  7.1 /  7.1 /
+:
+: Eagle River
+RERC2  :Red Cliff            6.0:  2.6/: 0.00:  2.5 /  2.5 /
+GRVC2  :Vail                10.2:  4.6/:-0.01:  4.6 /  4.6 /
+GPSC2  :Gypsum               9.0:  4.2/: 0.00:  4.2 /  4.2 /
+:
+: Green River
+DURU1  :Randlett            13.3:  4.8/:-0.03:  4.8 /  4.8 /
+GRVU1  :Green River         15.0:  6.3/:-0.01:  6.3 /  6.3 /
+LSRC2  :Slater               9.5:  3.1/: 0.01:  3.1 /  3.2 /
+SLFC2  :Slater              12.0:  3.8/: 0.03:  3.8 /  4.0 /
+WTRU1  :Whiterocks           5.8:  2.1/:-0.01:  2.1 /  2.1 /
+JESU1  :Jensen              10.8:  2.8/:-0.01:  2.7 /  2.7 /
+:
+: Yampa River
+YASC2  :Stagecoach Reservo   8.0:  2.2/: 0.00:  2.2 /  2.2 /
+YMSC2  :Stagecoach Reservo   7.8:  2.2/: 0.00:  2.2 /  2.2 /
+STMC2  :Steamboat Springs    7.5:  1.2/: 0.01:  1.1 /  1.1 /
+ENMC2  :Milner               7.5:  1.6/:-0.01:  1.6 /  1.6 /
+ELHC2  :Hayden               8.0:  2.5/:-0.01:  2.5 /  2.5 /
+CGGC2  :Craig               10.8:  0.9/: 0.01:  0.9 /  0.9 /
+LILC2  :Lily                12.0:  1.0/:-0.10:  1.0 /  1.1 /
+YDLC2  :Deerlodge Park      13.5:  2.2/:-0.03:  2.1 /  2.1 /
+:
+: White River
+WHBC2  :Rangely below Bois   8.0:  2.8/: 0.01:  2.8 /  2.8 /
+WATU1  :Watson              10.0:  2.2/:-0.01:  2.2 /  2.2 /
+:
+: Upper Gunnison River
+TRAC2  :Taylor Park         11.3:  1.3/:-0.01:  1.3 /  1.3 /
+ALTC2  :Almont               5.0:  1.6/:-0.01:  1.6 /  1.6 /
+ALEC2  :Almont               7.0:  2.7/: 0.01:  2.7 /  2.7 /
+GUSC2  :Gunnison             5.5:  1.1/: 0.00:  1.1 /  1.1 /
+SOMC2  :Somerset             8.0:  1.4/:-0.03:  1.4 /  1.4 /
+:
+: Lower Gunnison River
+SCCC2  :Cedaredge            3.8:  1.0/:-0.01:  1.0 /  1.0 /
+DELC2  :Delta               12.0:  1.6/: 0.02:  1.6 /  1.6 /
+GJNC2  :Grand Junction      13.0:  3.0/: 0.01:  3.0 /  3.0 /
+:
+: Uncompahgre River
+UCRC2  :Ridgway              5.8:  2.0/: 0.01:  2.0 /  2.0 /
+DCKC2  :Ridgway              5.8:  2.7/:-0.01:  2.7 /  2.7 /
+CLOC2  :Colona               9.5:  3.5/:-0.02:  3.5 /  3.5 /
+:
+: San Juan River
+CDRC2  :Cedar Hill          10.5:  4.6/:-0.03:  4.5 /  4.5 /
+PSPC2  :Pagosa Springs      10.5:  3.9/:-0.01:  3.9 /  3.9 /
+BFFU1  :Bluff               23.0:  6.0/:-0.24:  6.2 /  5.9 /
+LPSC2  :La Plata River at    9.0:  3.6/:-0.01:  3.5 /  3.5 /
+MNRC2  :Mancos               6.0:  3.6/:-0.02:  3.6 /  3.6 /
+NAVC2  :Chromo               7.0:  1.2/: 0.00:  1.2 /  1.2 /
+LPHC2  :Hesperus             5.5:  3.5/: 0.00:  3.5 /  3.4 /
+.End
+:
+.B GJT 1021 DH12/TW
+: River Water Temperatures
+CAMC2  :Cameo              CO :   49
+CCUC2  :CO-UT State Line   CO :   53
+CLRU1  :Cisco              UT :   53
+DBDC2  :Bedrock            CO :   47
+DOLU1  :Cisco              UT :   53
+DURU1  :Randlett           UT :   48
+GJNC2  :Grand Junction     CO :   52
+GWSC2  :Glenwood Springs   CO :   44
+JESU1  :Jensen             UT :   52
+MBLC2  :Maybell            CO :   47
+:
+.End
+:
+.B GJT 1021 DH12/HP
+:   Station                   Pool      24-HR
+: ID    Name                  Height    Change
+: Reservoir Pool Heights and Changes
+CRFC2  :Crawford Reservoir :  6492.9 :  -0.2
+FTGC2  :Fruit Growers Dam  :  5465.1 :  -0.1
+HMAC2  :Homestake Reservoi :   171.4 :  -0.0
+LEMC2  :Lemon Reservoir    :  8098.9 :   0.2
+MPSC2  :Morrow Point Reser :  7157.1 :  -0.5
+PRSC2  :Bardine            :  6380.2 :  -0.1
+RBSC2  :Ridgway Reservoir  :  6851.5 :   0.0
+RRGC2  :Rifle Gap Reservoi :  5916.1 :   0.3
+RURC2  :Ruedi Reservoir    :  7727.5 :  -0.2
+SJAC2  :Silver Jack Reserv :  8863.2 :  -0.0
+TPIC2  :Taylor Park Reserv :  9308.8 :  -0.0
+VCRC2  :Vallecito Reservoi :  7634.3 :   0.2
+VEGC2  :Vega Dam           :  7941.3 :   0.0
+YACC2  :Yamcola Reservoir  :    40.0 :   0.2
+:
+.End
+
+
+
+Flood stages are defined as those levels which may threaten life and 
+property. 
+
+These forecasts may not take into account fluctuations caused by 
+reservoir releases. Forecasts include all precipitation through this 
+morning, plus the effects of projected precipitation through the 
+following 48 hours. 
+
+During periods of high water or flooding...Crest forecast updates can
+be obtained in river flood warnings (DENFLWGJT) and river flood 
+statements (DENFLSGJT). Updated hydrologic information is also 
+available at www.weather.gov/gjt. 
+
+ 
+$$
+

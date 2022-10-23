@@ -1,0 +1,68 @@
+ASUS61 KGYX 220025
+RTPGYX
+
+
+Max/min Temperature And Precipitation Table For
+Maine And New Hampshire
+National Weather Service Gray ME
+825 PM EDT Fri Oct 21 2022
+
+High temperature today since 2 am
+Low temperature today since 2 am
+24 hour precipitation ending at 8 pm
+Snow depth at 8 pm
+
+
+.Br gyx 1021 es dh19/tairzs/tairzi/ppdrzz/sfdrzz/sdirzz
+:
+:  ...Maine...
+:
+:                              Max    Min             Snow   Snow
+:Id         Location           Temp   Temp    Pcpn    Fall   Depth
+AUG  : Augusta - ASOS        :  60  /  35 /   0.00 /     /  
+BGR  : Bangor - ASOS         :  60  /  33 /   0.00 /     /  
+BHB  : Bar Harbor - AWOS     :  58  /  39 /   0.00 /     /      
+CAR  : Caribou - ASOS        :  55  /  37 /   0.00 /     /      
+FVE  : Frenchville - ASOS    :  52  /  38 /   0.00 /     /      
+IZG  : Fryeburg - ASOS       :  58  /  25 /   0.00 /     /      
+GYX  : Gray - NWS            :  58  /  37 /   0.00 / 0.0 /     0
+GNR  : Greenville - ASOS     :  55  /  34 /   0.00 /     /      
+HUL  : Houlton - ASOS        :  57  /  32 /   0.00 /     /      
+LEW  : Lewiston/Auburn  AWOS :  58  /  28 /   0.00 /     /      
+MLT  : Millinocket - ASOS    :  58  /  32 /   0.00 /     /      
+PWM  : Portland - ASOS       :  59  /  33 /   0.00 / 0.0 /     0
+PQI  : Presque Isle - AWOS   :  56  /  37 /   0.00 /     /      
+RKD  : Rockland - AWOS       :  58  /  37 /   0.00 /     /      
+SFM  : Sanford - AWOS        :  61  /  27 /   0.00 /     /      
+WVL  : Waterville - AWOS     :  58  /  32 /   0.00 /     /      
+IWI  : Wiscasset - ASOS      :  60  /  32 /   0.00 /     /      
+:
+:  ...New Hampshire...
+:
+:                              Max    Min             Snow   Snow
+:Id         Location           Temp   Temp    Pcpn    Fall   Depth
+BML  : Berlin - ASOS         :  59  /  24 /   0.00 /     /      
+CON  : Concord - ASOS        :  62  /  27 /   0.00 / 0.0 /     0
+AFN  : Jaffrey - ASOS        :  60  /  29 /   0.00 /     /      
+EEN  : Keene - AWOS          :  60  /  26 /   0.00 /     /      
+LCI  : Laconia - AWOS        :  59  /  32 /   0.00 /     /      
+LEB  : Lebanon - ASOS        :  60  /  27 /   0.00 /     /      
+MHT  : Manchester - ASOS     :  64  /  32 /   0.00 / 0.0 /     0
+MWN  : Mount Washington      :  35  /  19 /   0.00 / 0.0 /     0
+ASH  : Nashua  - AWOS        :  64  /  29 /   0.00 /     /      
+1P1  : Plymouth - AWOS       :  59  /  25 /   0.00 /     /      
+PSM  : Portsmouth            :  62  /  37 /   0.00 / 0.0 /     0
+DAW  : Rochester - ASOS      :  62  /  31 /   0.00 /     /      
+HIE  : Whitefield - ASOS     :  56  /  23 /   0.00 /     /      
+.End
+
+
+ These data are preliminary and have not undergone final quality
+ control by the National Centers for Environmental Information 
+(NCEI).
+ Therefore these data are subject to revision. Final and certified
+ climate data can be accessed at www.ncei.noaa.gov.
+
+
+ $$
+

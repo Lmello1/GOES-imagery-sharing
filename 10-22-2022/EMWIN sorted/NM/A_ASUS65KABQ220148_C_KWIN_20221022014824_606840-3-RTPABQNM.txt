@@ -1,0 +1,65 @@
+ASUS65 KABQ 220148
+RTPABQ
+Max/Min Temperature And Precipitation Table For
+North And Central New Mexico
+National Weather Service Albuquerque NM
+748 PM MDT Fri Oct 21 2022
+
+  Aviation Stations
+
+
+Values represent High and Low temperatures over the last 18 hours
+Ending at 5 PM MST
+Precipitation and Snowfall last 24 hours ending at 5 PM MST
+
+
+.BR ABQ 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                Max   Min           Snow Snow
+:Id    Location           Elev   Temp  Temp   Pcpn   Fall Depth
+ABQ  : ABQ Sunport        5351:   75 /  43 /  0.00/      /    
+BRG  : Belen Airport      5194:   76 /  40 /  0.00/      /    
+CVS  : Cannon AFB         4295:   79 /  45 /  0.00/      /    
+CAO  : Clayton            4964:   81 /  49 /  0.00/      /    
+CQC  : Clines Corners     7087:   65 /  34 /  0.00/      /    
+CVN  : Clovis Airport     4216:   80 /  46 /  0.00/      /    
+AEG  : Double Eagle Arpt  5837:   73 /  36 /     M/      /    
+FMN  : Farmington         5502:   73 /  34 /  0.00/      /    
+GUP  : Gallup             6473:   69 /  30 /  0.00/      /    
+GNT  : Grants             6522:   69 /  27 /     M/      /    
+LVS  : Las Vegas Airport  6877:   74 /  38 /  0.00/      /    
+RTN  : Raton Airport      6348:   78 /  30 /  0.00/      /    
+ROW  : Roswell            3668:   85 /  43 /  0.00/      /    
+SRR  : Ruidoso Airport    6811:   66 /  45 /  0.00/      /    
+SAF  : Santa Fe Airport   6348:   71 /  35 /  0.00/      /    
+SXU  : Santa Rosa         4790:   78 /  48 /  0.00/      /    
+ONM  : Socorro            4849:   76 /  41 /  0.00/      /    
+SKX  : Taos Airport       7090:   67 /  28 /  0.00/      /    
+TCC  : Tucumcari          4065:   81 /  48 /  0.00/      /    
+.END
+
+
+  Cooperative Observer Stations
+
+
+High temperature...Low temperature and Precipitation and Snow
+Fall over the last 24 hours
+
+
+.BR ABQ 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                           Obs     Max   Min          Snow Snow
+:Id    Location       Elev  Time    Temp  Temp   Pcpn  Fall Depth
+DCPN5: Capulin        6840: DH1800/  73 /  28 /  0.00/     /    
+PORN5: Portales       4010: DH1700/  81 /  44 /  0.00/     /    
+QMDN5: Quemado        6878: DH1600/  68 /  30 /  0.00/     /    
+TORN5: Torreon Navajo 6700: DH1730/  69 /  34 /  0.00/     /    
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/. Therefore, these
+data are subject to revision. Final and certified climate data can be
+accessed at www.ncdc.noaa.gov.
+
+
+$$
+

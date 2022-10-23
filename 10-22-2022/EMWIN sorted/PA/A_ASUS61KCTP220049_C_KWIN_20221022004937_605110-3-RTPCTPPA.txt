@@ -1,0 +1,87 @@
+ASUS61 KCTP 220049
+RTPCTP
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR PENNSYLVANIA
+NATIONAL WEATHER SERVICE STATE COLLEGE PA
+845 PM EDT FRI OCT 21 2022
+
+.BR CTP  1022  Z DH00/TAIRZY/TAIRZI/PP
+
+::Automated Surface Observing Systems (ASOS) Sites
+:Automated Temperature and Precipitation Data -
+:12 Hour High/24 Hour Low Ending 7 pm EST/8 pm EDT and 
+:24 Hour Accumulated Precipitation Data ending at 7 pm EST/8 pm EDT
+:Pennsylvania -- Temperature and Precipitation Stations
+:......................................................
+:       Station             Max / Min  / 24-Hour 
+:        Name               Temp/ Temp / Precip
+:......................................................
+:
+ABE : Allentown          :   63 /  28  / 0.00  
+AOO : Altoona            :   63 /  28  / 0.00  
+BFD : Bradford           :   61 /  26  / 0.00  
+CXY : Capitol City       :   66 /  35  / 0.00  
+FIG : Clearfield         :   63 /  26  / 0.00  
+DYL : Doylestown         :   64 /  34  / 0.00  
+DUJ : Dubois             :   61 /  36  / 0.00  
+ERI : Erie               :   66 /  38  / 0.00  
+MDT : Harrisburg         :   65 /  35  / 0.00  
+JST : Johnstown          :   60 /  34  / 0.00  
+LNS : Lancaster          :   64 /  33  / 0.00  
+GKJ : Meadville          :   63 /  37  / 0.00  
+MPO : Mt. Pocono         :   56 /  26  / 0.00  
+PNE : NE Philadelphia    :   65 /  37  / 0.00  
+PHL : Philadelphia       :   65 /  41  / 0.00  
+AGC : Pittsburgh         :   63 /  39  / 0.00  
+PIT : Pittsburgh Intl    :   63 /  34  / 0.00  
+PTW : Pottstown          :   62 /  29  / 0.00  
+RDG : Reading            :   64 /  34  / 0.00  
+AVP : Scranton           :   62 /  34  / 0.00  
+SEG : Selinsgrove        :   63 /  27  / 0.00  
+IPT : Williamsport       :   61 /  31  / 0.00  
+THV : York               :   65 /  29  / 0.00  
+:
+.END
+
+
+T = Trace
+M = Missing
+:- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+.BR CTP  1022  Z DH00/TAIRZY/TAIRZI
+
+:Automated Weather Observing Systems (AWOS) Sites
+:Automated Temperature Data - 12 Hour High/18 Hour Low
+:Ending 7 pm EST/8 pm EDT
+:................................................................
+:       Station              Max / Min  
+:        Name                Temp/ Temp 
+:................................................................
+:
+BVI : Beaver County        :  66 /  38
+LOM : Blue Bell            :  65 /  31
+BTP : Butler               :  63 /  35
+MQS : Coatesville          :  63 /  36
+FKL : Franklin             :  61 /  31
+MUI : Ft Indiantown Gap    :  62 /  28
+IDI : Indiana              :  63 /  32
+LBE : Latrobe              :  63 /  30
+UCP : New Castle           :  65 /  32
+UKT : Quakertown           :  63 /  28
+UNV : University Park      :  61 /  32
+.END
+:
+The temperature data for AWOS sites represent the highest and
+lowest temperatures that were reported on the metar observations
+that transmit three times an hour and may not represent the actual
+high or low for that site.  These sites do not measure precipitation.
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information /NCEI/.
+Therefore these data are subject to revision.  Final and certified
+climate data can be accessed at www.ncei.noaa.gov
+
+:- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+$$

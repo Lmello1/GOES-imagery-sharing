@@ -1,0 +1,456 @@
+FOUS53 KPAH 220011
+PFMPAH
+
+Point Forecast Matrices
+National Weather Service PADUCAH KY
+711 PM CDT Fri Oct 21 2022
+
+KYZ005-221000-
+PADUCAH-MCCRACKEN KY
+37.06N  88.77W Elev. 394 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          80          58          81          56
+Temp                60 59 58 58 70 78 79 71 64 62 61 60 70 78 80 71 65 61 58 57
+Dewpt               49 49 49 50 55 55 53 53 51 51 52 51 52 51 49 49 49 47 46 46
+RH                  67 69 72 75 59 45 41 53 63 67 72 72 53 39 34 46 56 60 64 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  5  6 12 13 12  8  9  9  9  8 12 13 12  6  6  5  5  5
+Wind gust                       24 24 23 18 23 21 20 21 27 26 23               
+Clouds              FW SC SC SC SC SC B1 B1 SC FW FW FW FW SC SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          82      57    77      48    66      43    69      46    72
+Temp          79 73   61 58 74 68   55 49 63 59   48 44 66 61   50 46 69 63
+Dewpt         50 48   48 49 52 54   51 46 45 45   45 43 45 46   47 45 48 48
+PWind dir         S       S     S       S    SW      SW     E       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 B1 B2   B2 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr          5      30    60      50    10       5     5      10    20
+Rain shwrs                C  C  L    C  S                                 S
+
+$$
+
+KYZ009-221000-
+MURRAY-CALLOWAY KY
+36.66N  88.37W Elev. 576 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          77          58          77          56
+Temp                62 61 60 60 68 76 77 68 64 62 60 60 68 75 76 67 64 61 58 57
+Dewpt               49 50 51 52 55 54 52 51 50 52 52 50 51 49 47 47 47 47 47 47
+RH                  62 67 72 75 63 46 42 54 60 70 75 69 54 40 36 49 54 60 67 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9  9 10 10 14 14 14  9 10 10 10 10 13 16 13  6  8  8  6  6
+Wind gust              19       25          23 23 21       26 24               
+Clouds              SC FW B1 B1 SC SC B1 B1 SC FW FW FW FW SC SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    74      51    65      46    68      49    70
+Temp          76 70   61 58 72 68   58 51 62 59   50 46 66 60   52 49 68 63
+Dewpt         47 47   49 51 51 54   54 49 44 46   47 46 45 46   49 49 47 48
+PWind dir         S       S     S       S    SW      NW    NE      NE    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    GN
+Avg clouds    SC SC   B1 B1 B1 B2   B2 B1 B1 SC   FW FW FW FW   SC SC SC SC
+PoP 12hr          5      20    60      50    10       5     5      10    20
+Rain shwrs                S  C  L    C  S                                 S
+
+$$
+
+KYZ018-221000-
+HENDERSON-HENDERSON KY
+37.80N  87.68W Elev. 387 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          78          57          78          55
+Temp                56 55 54 54 67 76 78 69 63 61 59 59 68 76 77 68 63 61 58 56
+Dewpt               42 45 46 47 55 57 55 55 53 52 52 51 53 52 50 49 49 48 47 46
+RH                  59 69 74 77 65 52 45 61 70 72 78 75 59 43 39 51 60 62 67 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             6  8  8  9 13 16 14  9  9  9  9 10 13 16 13  8  8  8  6  6
+Wind gust                       25                      24                     
+Clouds              SC SC SC SC FW SC B1 B1 SC SC FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    75      50    63      42    66      46    69
+Temp          76 70   61 57 72 68   58 51 61 57   47 42 63 59   49 46 66 61
+Dewpt         50 49   48 49 54 56   56 50 49 49   46 42 48 48   49 46 51 51
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B2 B1 B1 B1   B2 B1 B1 SC   SC FW FW FW   SC SC SC SC
+PoP 12hr          5      20    50      50    20       5     5      10    20
+Rain shwrs                S  C  C    C  C  S                              S
+
+$$
+
+KYZ019-221000-
+OWENSBORO-DAVIESS KY
+37.74N  87.17W Elev. 407 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          79          56          78          55
+Temp                59 57 56 56 68 76 78 69 64 60 58 58 67 75 77 69 63 60 58 56
+Dewpt               42 45 47 47 54 57 56 56 55 54 53 52 52 52 50 50 49 48 47 47
+RH                  53 64 72 72 61 52 47 63 73 81 83 80 59 45 39 51 60 64 67 72
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             6  8  8  9 11 13 12  6  8  6  6  8 11 13 12  6  6  5  5  5
+Clouds              FW SC SC SC SC SC SC B1 SC SC FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    76      53    65      46    68      49    70
+Temp          76 70   62 57 73 70   60 53 62 59   50 46 65 61   52 49 67 63
+Dewpt         50 50   49 49 54 56   58 52 50 51   48 46 48 50   50 49 52 52
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 B1 B1   B2 B1 B1 SC   SC FW FW FW   SC SC SC SC
+PoP 12hr          5      10    40      50    20       5     5      10    20
+Rain shwrs                   S  C    C  C  S                              S
+
+$$
+
+KYZ017-221000-
+FORT CAMPBELL-CHRISTIAN KY
+36.67N  87.49W Elev. 573 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          78          54          78          52
+Temp                61 59 58 58 69 76 78 69 64 61 57 56 68 76 77 67 63 58 55 53
+Dewpt               47 48 48 49 55 54 52 51 53 54 52 50 50 48 46 47 48 48 47 47
+RH                  60 67 69 72 61 46 40 53 67 78 83 80 52 37 33 49 58 69 74 80
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             6  8  9  8 13 13 13  8  8  8  8  6 13 13 13  6  5  5  5  5
+Clouds              SC SC SC SC SC SC SC B1 SC SC FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          80      56    78      52    66      44    70      48    72
+Temp          77 70   61 57 75 71   60 52 64 59   49 44 67 62   53 48 69 64
+Dewpt         47 47   51 51 51 54   57 52 47 48   49 44 46 47   51 48 49 50
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 B1 B1   B2 B1 B1 SC   FW FW FW FW   SC SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+
+INZ086-221000-
+EVANSVILLE-VANDERBURGH IN
+38.02N  87.53W Elev. 421 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          79          57          79          56
+Temp                59 57 54 54 66 76 79 71 63 61 59 60 68 77 77 70 64 61 58 56
+Dewpt               43 46 47 48 54 55 55 54 53 52 52 51 52 52 50 48 49 48 47 46
+RH                  55 67 77 80 65 48 44 55 70 72 78 72 57 42 39 45 58 62 67 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  6  6  8 13 13 14  9  8  8  8  9 13 14 13  9  6  8  6  5
+Wind gust                                               24 25                  
+Clouds              SC FW SC SC B1 B1 SC B1 SC FW FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    75      52    65      45    67      48    70
+Temp          77 72   63 58 73 69   60 52 62 59   49 45 64 60   51 48 67 63
+Dewpt         50 48   49 49 52 53   57 50 48 47   46 44 46 47   49 48 50 50
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B2 B1 B1 B2   B2 B1 B1 SC   SC FW FW FW   SC SC SC SC
+PoP 12hr          5      20    50      50    20       5     5      10    20
+Rain shwrs                S  C  C    C  C  S                              S
+
+$$
+
+ILZ084-221000-
+CARBONDALE-JACKSON IL
+37.77N  89.25W Elev. 430 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          79          59          78          58
+Temp                60 55 54 55 67 77 79 71 65 62 60 62 68 75 77 72 65 64 60 58
+Dewpt               48 49 48 49 57 58 56 55 55 53 53 53 57 57 55 54 52 49 48 48
+RH                  64 80 80 80 70 52 45 57 70 72 78 72 68 54 47 53 63 58 64 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  6  9 14 17 16 10 10 10 10 12 16 18 17 10  9 10  9  8
+Wind gust                       27 27 26 24 23 21 28 29 31 31 28 24 23 23 19 18
+Clouds              FW B1 B1 B2 SC SC SC B1 SC FW FW FW FW SC SC SC B1 B1 B1 SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    73      47    62      40    65      44    67
+Temp          76 72   63 59 70 65   53 47 59 56   45 41 62 58   47 45 65 61
+Dewpt         55 51   50 52 56 57   53 47 47 46   45 41 47 48   47 45 51 50
+PWind dir         S       S     S       S     W       W     E       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 OV   B2 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      40    70      50    10       5     5      10    20
+Rain shwrs             S  C  C  L    C  S                              S  S
+
+$$
+
+ILZ075-221000-
+MOUNT VERNON-JEFFERSON IL
+38.32N  88.85W Elev. 480 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          80          59          79          58
+Temp                58 56 54 55 67 77 79 71 65 62 61 60 68 76 78 71 65 63 60 58
+Dewpt               45 46 47 48 56 56 55 55 55 52 52 53 55 55 53 52 52 49 47 47
+RH                  62 69 77 77 68 48 44 57 70 70 72 78 63 48 42 51 63 60 62 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  5  8 13 16 16 10  9 10 10 10 14 17 17 10 10 10  8  6
+Wind gust              16 16 18 25       23 23 24 24 27 29 28 27 24 23 20 19 17
+Clouds              SC SC B1 B1 SC SC B1 B2 SC FW FW FW FW SC B1 B1 SC SC SC SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    73      47    63      41    65      45    67
+Temp          76 72   61 57 70 66   55 48 60 57   46 41 62 57   48 45 64 60
+Dewpt         53 52   49 51 55 54   54 47 46 46   45 41 46 47   48 45 51 50
+PWind dir         S       S     S       S    SW       W     E       E    SE
+Wind char        GN      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 B2   B2 B1 SC SC   SC FW FW FW   SC SC SC SC
+PoP 12hr         10      30    70      60    10       5     5      10    20
+Rain shwrs             S  C  C  L    L  C                              S  S
+
+$$
+
+ILZ086-221000-
+HARRISBURG-SALINE IL
+37.81N  88.55W Elev. 398 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          79          58          78          57
+Temp                59 57 55 57 68 77 79 71 65 61 60 61 69 76 77 70 65 62 59 57
+Dewpt               49 49 50 51 59 60 58 58 56 53 53 53 57 56 54 53 52 49 47 47
+RH                  69 75 83 80 73 56 49 63 73 75 78 75 66 50 45 55 63 62 64 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  5  8 13 16 14  8  8  8  9 10 13 16 14  8  8  6  5  5
+Wind gust                       26       19 21 21 20 23 26 27 25 19 19 17      
+Clouds              SC SC B1 B1 SC B1 B1 B2 SC FW FW FW FW SC SC SC SC B1 SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    73      47    62      42    66      45    68
+Temp          76 71   61 57 71 67   55 48 59 57   47 42 63 59   49 46 65 62
+Dewpt         55 52   50 51 57 59   55 48 49 49   47 42 49 50   49 46 53 53
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 B2   B2 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr          5      30    60      50    10       5     5      10    20
+Rain shwrs                C  C  L    C  C                                 S
+
+$$
+
+MOZ087-221000-
+CAPE GIRARDEAU-CAPE GIRARDEAU MO
+37.22N  89.57W Elev. 339 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          80          59          80          58
+Temp                59 55 54 56 68 78 80 73 65 63 61 61 68 77 79 72 66 63 60 58
+Dewpt               49 49 49 51 58 58 55 55 53 52 53 54 57 57 55 54 52 49 48 48
+RH                  69 80 83 83 70 50 42 53 65 67 75 78 68 50 44 53 61 60 64 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  5  9 14 17 16 11 10 10 10 11 16 18 18 11 10  9  9  8
+Wind gust                       25       24 29 25 23 24 29 31 28 23 21 19      
+Clouds              FW SC B1 B1 SC SC B1 B1 SC FW FW FW SC SC SC SC SC SC B1 SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    73      47    64      42    67      46    70
+Temp          76 73   62 58 70 66   53 47 61 58   47 43 64 60   50 46 67 63
+Dewpt         54 49   50 52 57 56   52 46 47 47   46 43 47 48   49 46 51 50
+PWind dir         S       S     S      SW     W      NW     E       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 OV   B1 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      40    70      50    10       5     5      10    20
+Rain shwrs             S  C  C  L    C  S                              S  S
+Tstms                           S                                          
+
+$$
+
+MOZ109-221000-
+POPLAR BLUFF-BUTLER MO
+36.77N  90.32W Elev. 328 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          80          58          80          58
+Temp                57 54 53 54 68 77 80 72 65 63 61 60 68 76 79 72 66 64 60 58
+Dewpt               50 48 49 50 57 57 54 54 54 53 54 55 57 58 56 56 54 53 52 52
+RH                  77 80 86 86 68 50 41 53 68 70 78 84 68 54 45 57 65 67 75 80
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             4  3  4  6 13 16 16 10 10 10 10 11 14 18 17 10  9  9  6  6
+Wind gust                          26    21 21 21    21 28 28    20 20         
+Clouds              CL B1 B1 SC B1 SC B1 B1 FW FW FW SC SC SC SC B1 SC B1 B1 SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    72      46    65      42    68      45    70
+Temp          76 71   62 58 69 64   52 47 62 58   47 42 65 60   49 45 67 62
+Dewpt         55 51   52 54 57 54   49 45 46 46   45 42 47 47   47 45 49 49
+PWind dir         S       S     S      SW     W      NW     E       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 OV   B1 SC SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      50    70      40    10       5     5      10    20
+Rain shwrs             S  C  L  L    C  S                              S  S
+Tstms                           S                                          
+
+$$
+
+MOZ111-221000-
+SIKESTON-SCOTT MO
+36.90N  89.56W Elev. 315 ft
+711 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          79          61          79          59
+Temp                61 59 58 59 69 77 79 71 66 63 62 62 68 76 78 72 66 64 61 59
+Dewpt               50 50 50 52 58 57 54 55 53 52 53 54 56 56 54 52 50 48 48 48
+RH                  67 72 75 78 68 50 42 57 63 67 72 75 65 50 43 49 56 56 62 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  5  6  9 14 16 14 10 11 10 10 11 16 17 16 10 10  9  8  8
+Wind gust                       25    25 20 27 26 24 26 29 29 26 20 21 19      
+Clouds              FW SC B1 SC SC SC B1 B2 SC FW FW FW SC SC FW SC B1 B1 B1 SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      59    73      48    63      45    66      47    69
+Temp          76 72   63 60 70 66   53 48 60 57   48 45 63 60   50 47 66 63
+Dewpt         53 49   51 53 56 56   52 47 47 47   46 44 47 48   49 47 51 50
+PWind dir         S       S     S      SW     W      NW     E      NE    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B1 B2 B2 OV   B1 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      30    70      40    10       5     5      10    20
+Rain shwrs             S  C  C  L    C  S                                 S
+Tstms                           S                                          
+
+$$
+

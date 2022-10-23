@@ -1,0 +1,65 @@
+ASUS65 KPSR 220200
+RTPPSR
+
+
+Max/Min Temperature and Precipitation Table for South-central and 
+Southwest Arizona and Extreme Southeast California
+National Weather Service Phoenix AZ
+700 PM MST Fri Oct 21 2022
+
+       Arizona Automated Station Observations
+ 
+Values represent highs and lows over the last 18 hours...
+and 24 hour precipitation ending at 5:00 pm MST.
+ 
+Data reported from automated gauges:
+*  Climate Reference Network sites
++  ASOS site maintained by others
+   All others are ASOS maintained by the National Weather Service
+
+.BR PSR 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+: 
+:                                       Max   Min   24-Hr Snow  Snow
+:Id       Station                 Elev  Temp  Temp  Pcpn  Fall  Depth
+FFZ   :   Mesa Falcon Field       1394 :  87 / 67 / 0.00 /      /    
+DVT   :   Phoenix Deer Valley     1476 :  87 / 63 / 0.00 /      /    
+PHX   :   Phoenix Sky Harbor      1107 :  90 / 68 / 0.00 /      /    
+SDL   :   Scottsdale Airport      1510 :  88 / 64 / 0.00 /      /    
+NYL   :+  Yuma Airport             213 :  91 / 67 / 0.00 /      /    
+RPSA3 :*  Yuma Red Bluff Pavement  600 :  91 / 63 / 0.00 /      /    
+.END
+ 
+Values reported below are 24-hour readings taken at the noted
+local observation time.
+Data provided by National Weather Service Cooperative Observers
+ 
+.BR PSR 1021 MS DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs     Max   Min    24-Hr  Snow  Snow
+:Id    Station         Elev    Time    Temp  Temp   Pcpn   Fall Depth
+CFEA3 :Carefree        2530: DH1600/    87 /  63 /  0.00/    M/    M
+EMSA3 :East Mesa       1518: DH1800/    89 /  60 /  0.00/    M/    M
+ROBA3 :Eloy 6NW        1495: DH1800/    92 /  57 /  0.00/    M/    M
+APNA3 :Lst Dutchman SP 2070: DH1600/    88 /  59 /  0.00/    M/    M
+PPKA3 :Pinnacle Pk SP  2570: DH1802/    85 /  63 /  0.00/    M/    M
+YOUA3 :Youngtown       1135: DHM   /     M /   M /     M/    M/    M
+.END
+ 
+       California Automated Station Observations
+ 
+Values represent highs and lows over the last 18 hours...
+and 24 hour precipitation ending at 5:00 pm MST.
+ 
+Data reported from automated gauges:
+*  Climate Reference Network sites
++  ASOS site maintained by others
+   All others are ASOS maintained by the National Weather Service
+
+.BR PSR 1021 PS DH16/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                       Max   Min   24-Hr Snow  Snow
+:Id       Station                 Elev  Temp  Temp  Pcpn  Fall  Depth
+BLH   :   Blythe Airport           392 :  91 / 64 / 0.00 /      /    
+IPL   :   Imperial Airport         -56 :  92 / 64 / 0.00 /      /    
+.END
+

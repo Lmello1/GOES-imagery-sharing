@@ -1,0 +1,83 @@
+ASUS66 KSTO 220100
+RTPCA 
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR CALIFORNIA
+NATIONAL WEATHER SERVICE SACRAMENTO CA
+555 PM PDT FRI OCT 21 2022
+:
+:18 HOUR MAXIMUM TEMPERATURE ENDING AT 5:00 PM
+:18 HOUR MINIMUM TEMPERATURE ENDING AT 5:00 PM
+:24 HOUR ACCUMULATED PRECIPITATION ENDING AT 5:00 PM
+.BR STO 1021 P DH17/TX/TN/PP/SD
+:
+:
+:ID        STATION             ELEV : HIGH / LOW / PCPN / SNODEP
+:
+:  ...NORTHWEST CALIFORNIA...
+CEC  :     CRESCENT CITY         57 :   63 /  50 /    T /     M
+ACV  :     ARCATA ARPT          225 :   60 /  48 / 0.00 /     M
+EKA  :     EUREKA                19 :   62 /  50 /    T /     M
+UKI  :     UKIAH                620 :   85 /  45 / 0.00 /     M
+:
+:  ...NORTHEAST CALIFORNIA/ NORTHERN MOUNTAINS...
+AAT  :     ALTURAS             4400 :   58 /  26 / 0.00 /     M
+MHS  :     MOUNT SHASTA        3590 :   74 /  45 / 0.00 /     M
+SIY  :     MONTAGUE/SISKIYOU   2635 :   75 /  41 / 0.00 /     M
+:
+:  ...SACRAMENTO VALLEY...
+RDD  :     REDDING AP           502 :   84 /  50 / 0.00 /     M
+MYV  :     MARYSVILLE AP         62 :   86 /  49 / 0.00 /     M
+SAC  :     SACRAMENTO EXEC AP    21 :   81 /  52 / 0.00 /     M
+VCB  :     VACAVILLE AP         113 :   83 /  49 / 0.00 /     M
+:
+:  ...SIERRA NEVADA...
+BLU  :     BLUE CANYON         5280 :   70 /  57 / 0.00 /     M
+TVL  :     SOUTH LAKE TAHOE    6314 :   69 /  29 / 0.00 /     M
+YYVC1:     YOSEMITE NP         3966 :   79 /  50 / 0.00 /     M
+BIH  :     BISHOP              4102 :   81 /  35 / 0.00 /     M
+:
+:  ...SAN FRANCISCO BAY AREA...
+OAK  :     OAKLAND AP            86 :   64 /  53 / 0.00 /     M
+SFO  :     SFO AIRPORT            8 :   67 /  52 / 0.00 /     M
+SFOC1:     SAN FRANCISCO        150 :   59 /  53 / 0.00 /     M
+SJC  :     SAN JOSE              51 :   72 /  55 / 0.00 /     M
+STS  :     SANTA ROSA           125 :   68 /  48 / 0.00 /     M
+:
+:  ...CENTRAL COAST...
+SCRC1:     SANTA CRUZ           130 :   66 /  56 / 0.00 /     M
+MTR  :     MONTEREY NWS         165 :    M /   M /    M /     M
+1MB  :     MORRO BAY              5 :   62 /  56 / 0.00 /     M
+SBP  :     SAN LUIS OBISPO      208 :   75 /  55 / 0.00 /     M
+PISC1:     PISMO BEACH           18 :    M /   M /    M /     M
+:
+:  ...SAN JOAQUIN VALLEY...
+SCK  :     STOCKTON              29 :   87 /  52 / 0.00 /     M
+MOD  :     MODESTO               97 :   87 /  51 / 0.00 /     M
+FAT  :     FRESNO               333 :   90 /  61 / 0.00 /     M
+BFL  :     BAKERSFIELD          497 :   90 /  65 / 0.00 /     M
+:
+:  ...SOUTHERN CALIFORNIA COAST AND MOUNTAINS...
+BBLC1:     BIG BEAR LAKE       6790 :   66 /  35 / 0.00 /     M
+CQT  :     LA DOWNTOWN / USC    185 :   78 /  65 / 0.00 /     M
+LAX  :     LA AIRPORT           126 :   76 /  65 / 0.00 /     M
+LOXC1:     OXNARD                63 :   74 /  54 / 0.00 /     M
+SBA  :     SANTA BARBARA AP       9 :   70 /  59 / 0.00 /     M
+VTUC1:     VENTURA              280 :   72 /  54 / 0.00 /     M
+LGB  :     LONG BEACH            58 :   76 /  66 / 0.00 /     M
+BUR  :     BURBANK              775 :   82 /  63 / 0.00 /     M
+POMC1:     POMONA/FAIRPLEX     1040 :    M /   M /    M /     M
+UCRC1:     RIVERSIDE            986 :   84 /  57 / 0.00 /     M
+STAC1:     SANTA ANA            135 :   82 /  64 / 0.00 /     M
+SGX  :     RANCHO BERNARDO      690 :   78 /  58 / 0.00 /     M
+SAN  :     SAN DIEGO             15 :   73 /  65 / 0.00 /     M
+:
+:  ...SOUTHERN CALIFORNIA DESERTS...
+DEVC1:     DEATH VALLEY        -194 :   96 /  64 / 0.00 /     0
+NID  :     CHINA LAKE          2283 :   87 /  49 / 0.00 /     M
+EDW  :     EDWARDS AFB         2302 :   87 /  69 / 0.00 /     M
+PSP  :     PALM SPRINGS         425 :   95 /  68 / 0.00 /     M
+BLH  :     BLYTHE AP            392 :   91 /  64 / 0.00 /     M
+IPL  :     IMPERIAL AP          -56 :   92 /  64 / 0.00 /     M
+:
+.END
+
+$$

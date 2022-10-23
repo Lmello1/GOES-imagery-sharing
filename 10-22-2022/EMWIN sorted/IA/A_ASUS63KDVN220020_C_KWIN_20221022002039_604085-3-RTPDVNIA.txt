@@ -1,0 +1,70 @@
+ASUS63 KDVN 220020
+RTPDVN
+
+
+Max/Min Temperature and Precipitation Table for
+Eastern IA/Northwestern IL/Northeastern MO
+National Weather Service Quad Cities IA/IL
+720 PM CDT Fri Oct 21 2022
+
+Values represent highs over the last 18 hours...
+lows over the last 18 hours and 24-hour precipitation
+ending at 7 PM central time
+
+.BR DVN 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                           Max   Min           Snow   Snow
+:ID     Location            Temp  Temp   Pcpn   Fall   Depth
+:
+:ASOS Sites
+BRL  : Burlington Arpt    :  81 /  40 /  0.00 /    M /   M
+CID  : Cedar Rapids Arpt  :  83 /  37 /  0.00 /    M /   M
+DVN  : Davenport Arpt     :  80 /  37 /  0.00 /  0.0 /   0
+DBQ  : Dubuque Arpt       :  79 /  34 /  0.00 /  0.0 /   0
+IOW  : Iowa City Arpt     :  85 /  34 /  0.00 /    M /   M
+MLI  : Quad City Arpt     :  81 /  35 /  0.00 /  0.0 /   0
+:
+:AWOS Sites--Data provided by NWS partners
+CWI  : Clinton Arpt       :  79 /  37 /       /      /
+FFL  : Fairfield Arpt     :  84 /  43 /       /      /
+FSW  : Fort Madison Arpt  :  82 /  45 /       /      /
+FEP  : Freeport Arpt      :  79 /  37 /       /      /
+IIB  : Independence Arpt  :  76 /  35 /       /      /
+EOK  : Keokuk Arpt        :  81 /  41 /       /      /
+MQB  : Macomb Arpt        :  80 /  37 /       /      /
+MPZ  : Mt Pleasant Arpt   :  82 /  39 /       /      /
+MUT  : Muscatine Arpt     :  84 /  32 /       /      /
+SQI  : Sterling Arpt      :  80 /  33 /       /      /
+VTI  : Vinton Arpt        :  81 /  40 /       /      /
+AWG  : Washington Arpt    :  84 /  39 /       /      /
+.END
+
+
+Cooperative Observations
+Values are for the previous 24 hours
+.BR DVN 1021 C DH19/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:       Station             Obs     Max   Min           Snow  Snow
+:ID     Name                Time    Temp  Temp   Pcpn   Fall  Depth
+:
+:
+:East Central Iowa...
+:
+CRPI4: Cedar Rapids #1    : DH1700/  82 /  34 /  0.00 /  0.0 /   0
+VNTI4: Vinton             : DH1700/  80 /  23 /  0.00 /      /    
+:
+:Northwest Illinois...
+:
+HNPI2: Hennepin           : DH1700/  75 /  38 /  0.00 /  0.0 /   0
+:
+.END
+
+These data are preliminary and have not undergone final quality 
+control; therefore, these data are subject to revision. Final and 
+certified climate data can be accessed at the National Centers for 
+Environmental Information (NCEI - formerly NCDC) at 
+www.ncei.noaa.gov.
+
+$$
+
+DC 

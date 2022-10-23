@@ -1,0 +1,55 @@
+ASUS63 KDTX 220014
+RTPDTX
+EVENING TEMPERATURE AND PRECIPITATION SUMMARY
+NATIONAL WEATHER SERVICE DETROIT/PONTIAC MI
+813 PM EDT Fri Oct 21 2022
+
+Values represent 18 hour high...low over the last 18 hours
+and precipitation over the last 24 hours since 8 PM EDT.
+
+
+.BR DTX  1021  ES DH19/TAIRZS/TAIRZI/TA/PPDRZZ/SFDRZZ/SDIRZZ
+
+
+:SOUTHEAST MICHIGAN -- TEMPERATURE AND PRECIPITATION STATIONS
+:........................................................
+:       STATION              MAX  / MIN  / 8 PM / 24-HR
+:        NAME                TEMP / TEMP / TEMP / PRECIP
+:........................................................
+WHKM4: NWS White Lake      :   68 /  29  /  58  / 0.00  
+ADG  : Adrian Airport      :   71 /  30  /  61  / 0.00
+ARB  : Ann Arbor Airport   :   69 /  25  /  61  / 0.00  
+BAX  :*Bad Axe Airport     :   66 /  33  /  57  / 
+CFS  :*Caro Airport-Tuscola:   69 /  30  /  61  /   
+DET  : Detroit City Airport:   69 /  35  /  63  / 0.00  
+DTW  : Detroit Metro Airprt:   70 /  35  /  60  / 0.00  
+FNT  : Flint Bishop Airport:   71 /  35  /  60  / 0.00  
+ONZ  :*Grosse Ile Airport  :   60 /  42  /  51  /   
+OZW  :*Howell Airport      :   69 /  34  /  61  /   
+DUH  :*Lambertville Airport:   72 /  39  /  65  /   
+D95  :*Lapeer Dupont Airprt:   69 /  29  /  60  /   
+IKW  :*Midland Airport     :   69 /  30  /  63  / 
+TTF  :*Monroe Airport      :   71 /  38  /  60  / 
+MTC  :*Mt Clemens Selfridge:   64 /  32  /  53  /   
+RNP  :*Owosso Airport      :   70 /  35  /  63  /   
+PTK  : Pontiac Airport     :   66 /  30  /  60  / 0.00  
+P58  : Port Hope           :   66 /  37  /  57  / 0.00  
+PHN  :*Port Huron Airport  :   64 /  28  /  55  /   
+MBS  : Saginaw - Tri Cities:   69 /  34  /  62  / 0.00 
+HYX  :*Saginaw-Harry Browne:   69 /  34  /  59  /   
+VLL  :*Oakland/Troy Airport:   69 /  32  /  59  /   
+.END
+
+
+*The temperature data for these sites represent the highest and 
+ lowest temperatures that were reported on the METAR observations
+ that transmit three times an hour and may not represent the actual
+ high or low for that site. These sites do not measure precipitation.
+
+
+*All data above is preliminary and has not undergone final quality 
+control by the National Center For Environmental Information /NCEI/. 
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+$$
+

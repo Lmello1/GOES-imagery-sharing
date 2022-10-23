@@ -1,0 +1,660 @@
+FOUS51 KRLX 212331
+AFMRLX
+
+Area Forecast Matrices
+National Weather Service Charleston WV
+731 PM EDT Fri Oct 21 2022
+
+WVZ015-026-220900-
+Kanawha-Boone-
+Including the cities of Charleston, South Charleston, 
+Saint Albans, and Madison
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42    63 71 75          43    64 72 75          46
+Temp             53 47 45 43 42 59 69 69 57 51 49 46 44 60 70 69 57 51 48 48 47
+Dewpt            39 39 37 36 35 42 45 47 47 44 42 40 40 46 45 45 46 46 46 45 46
+RH               59 74 73 76 76 53 42 45 69 77 77 79 86 60 41 42 67 83 93 89 96
+Wind dir          S  S  S  S SE  S  S  S SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd          3  4  3  3  4  3  4  3  3  4  4  3  3  2  2  3  2  3  3  3  3
+Clouds           CL CL FW FW FW FW FW FW FW FW FW SC FW FW FW FW CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      49    74      56    72      50    67      49    69
+Temp          71 59   52 51 72 63   58 57 70 61   53 51 65 57   51 50 67 58
+Dewpt         49 51   50 50 54 54   54 55 57 54   52 50 51 51   50 49 54 53
+PWind dir        SE      SE     S      SE     S      SW     N       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   SC B1 B1 SC   SC B1 B1 SC   FW SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+KYZ101>103-105-WVZ005-006-220900-
+Greenup-Carter-Boyd-Lawrence KY-Wayne-Cabell-
+Including the cities of Flatwoods, Raceland, Russell, Grayson, 
+Olive Hill, Carter Caves State Park, Grayson Lake State Park, 
+Ashland, Cannonsburg, Louisa, Yatesville Lake State Park, Kenova, 
+Ceredo, Wayne, and Huntington
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          73          43          74          44
+Temp             54 48 45 43 42 58 70 71 60 53 49 46 44 59 71 71 59 52 49 47 45
+Dewpt            38 38 36 35 35 41 46 48 49 47 44 43 41 46 45 45 46 46 45 44 43
+RH               54 68 70 73 76 53 42 44 67 80 83 89 89 62 39 39 62 80 86 89 93
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE  S SE SE SE SE SE SE  S
+Wind spd          3  3  3  3  3  4  4  4  2  2  2  2  2  2  2  2  2  2  2  2  2
+Wind gust                    13                                                
+Clouds           FW FW FW FW SC SC FW FW FW FW SC SC SC FW FW FW FW FW FW SC FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      47    76      54    71      48    67      48    69
+Temp          72 60   52 48 73 63   58 56 69 60   52 48 65 57   50 49 66 58
+Dewpt         47 49   48 47 51 52   52 53 54 51   50 48 49 49   48 48 51 52
+PWind dir         S      SE     S      SE    SW      SW     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   B1 B1 B1 SC   SC SC SC SC   FW SC SC SC
+PoP 12hr          0       5    10      30    30      20    10      10    20
+Rain shwrs                           S  C  C  S    S                   S  S
+
+$$
+OHZ076-WVZ009>011-019-220900-
+Washington-Wood-Pleasants-Tyler-Ritchie-
+Including the cities of Marietta, Belpre, Parkersburg, Vienna, 
+St. Marys, Belmont, Paden City, Sistersville, Middlebourne, 
+Harrisville, and Pennsboro
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          71    38 41 44          71          44
+Temp             52 46 44 41 40 58 68 69 56 50 47 44 42 58 69 69 56 50 47 46 45
+Dewpt            38 38 37 36 35 42 45 47 47 46 43 41 40 46 45 46 46 46 46 44 44
+RH               59 73 76 82 82 55 43 45 72 86 86 89 93 64 42 44 69 86 96 93 96
+Wind dir          S  S  S  S SE  S  S  S SE SE SE SE  E SE SE SE  E SE SE SE SE
+Wind spd          3  3  3  3  3  4  4  4  2  2  2  2  2  2  2  2  1  2  2  2  2
+Clouds           FW FW FW FW FW CL FW FW FW FW SC SC SC FW SC FW FW CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      48    74      54    70      49    66      47    67
+Temp          70 58   50 49 71 61   57 55 68 59   53 49 63 55   50 48 65 56
+Dewpt         50 51   49 48 54 54   53 53 57 54   51 49 50 50   49 48 52 52
+PWind dir        SE      SE     S      SE     S      SW     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC B1 SC B1   B1 B1 B1 SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    30      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+WVZ020-031-032-220900-
+Doddridge-Harrison-Taylor-
+Including the cities of West Union, Clarksburg, Bridgeport, 
+and Grafton
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          70          39          71          44
+Temp             51 45 43 41 40 59 69 68 55 49 45 42 41 58 69 68 55 50 47 45 44
+Dewpt            37 37 36 34 33 42 43 45 45 43 40 39 38 45 45 46 46 46 45 44 44
+RH               59 73 76 76 76 53 39 43 69 80 82 89 89 62 42 45 72 86 93 96100
+Wind dir          S  S SE SE SE  S  S  S SE SE SE  E  E SE  E  E  E SE SE  E SE
+Wind spd          3  3  3  3  3  4  4  3  2  2  2  2  2  2  2  2  2  2  2  2  2
+Clouds           FW CL FW FW FW FW FW FW FW FW FW SC SC SC SC SC FW FW FW FW SC
+PoP 12hr                      0           0           0           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      47    75      53    72      50    66      47    67
+Temp          70 57   50 48 72 61   55 54 69 59   53 50 64 55   49 48 66 56
+Dewpt         50 51   49 47 53 53   52 52 57 55   52 50 51 50   48 47 53 52
+PWind dir        SE      SE     S      SE     S      SW    NW       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B1 B1 B1   SC B1 B1 SC   SC SC SC SC
+PoP 12hr          0       5     5      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+WVZ013-014-220900-
+Lincoln-Putnam-
+Including the cities of Harts, Alum Creek, Hamlin, Teays Valley, 
+and Hurricane
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          72          43          73          45
+Temp             54 47 44 42 42 59 70 71 58 51 48 46 44 59 71 71 57 51 48 46 45
+Dewpt            40 39 37 36 35 43 47 50 49 46 43 41 40 47 47 47 48 46 46 45 44
+RH               59 74 76 79 76 55 44 47 72 83 83 83 86 64 42 42 72 83 93 96 96
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE  S SE SE  E SE SE SE SE
+Wind spd          3  3  3  3  3  4  4  4  2  3  3  2  2  2  2  2  2  2  2  2  2
+Clouds           FW FW FW FW SC FW FW FW FW FW FW SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      48    75      55    73      49    68      48    69
+Temp          72 59   51 49 73 62   58 57 71 60   52 49 65 57   50 49 67 58
+Dewpt         51 52   50 49 55 55   54 54 57 54   51 49 52 52   50 49 55 54
+PWind dir        SE      SE     S      SE    SW      SW     N       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   SC B1 B1 SC   SC SC SC SC   FW SC SC SC
+PoP 12hr          0       5    10      30    30      20    10      10    20
+Rain shwrs                           S  S  C  S    S                   S  S
+
+$$
+WVZ525-526-220900-
+Northwest Randolph-Southeast Randolph-
+Including the cities of Elkins and Harman
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                34 36 40    57 65 71    34 38 41    54 64 70    38 41 45
+Temp             46 42 40 38 37 55 63 62 49 44 42 40 39 55 62 60 49 46 44 43 43
+Dewpt            34 32 30 30 29 37 37 40 39 37 35 34 33 39 38 42 43 43 42 42 41
+RH               63 67 67 73 72 51 38 44 68 76 76 79 79 55 41 51 80 89 93 96 93
+Wind dir          S  S  S  S  S  S  S SE SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd          4  4  4  3  3  2  2  3  3  3  3  3  2  2  3  3  3  3  3  2  2
+Wind gust        14 16 16 14 13          13 14 14 13 12 12    13 16 14 13 12 12
+Clouds           CL CL CL FW FW CL FW FW FW FW FW SC SC SC SC SC SC FW FW SC SC
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      45    68      51    65      46    61      44    61
+Temp          65 53   47 47 67 55   53 52 63 54   50 48 59 51   46 45 60 51
+Dewpt         45 47   44 43 48 50   49 49 53 52   49 47 48 47   45 44 49 48
+PWind dir        SE      SE     S      SE     S      SW    NW      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B2 B1 B1   B1 B1 SC SC   SC SC B1 B1
+PoP 12hr          5       5    10      20    20      20    10      10    30
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+WVZ027>030-220900-
+Clay-Braxton-Gilmer-Lewis-
+Including the cities of Clay, Sutton, Gassaway, Burnsville, 
+Glenville, and Weston
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40    68 71 74          40    68 72 74          45
+Temp             51 45 43 41 40 59 69 69 55 49 46 43 41 59 69 68 55 50 47 46 45
+Dewpt            39 37 35 34 33 42 43 45 46 43 40 38 37 45 44 46 46 46 45 45 44
+RH               63 73 73 76 76 53 39 42 72 80 79 82 85 60 40 45 72 86 93 96 96
+Wind dir          S  S  S  S SE  S  S  S SE SE SE SE SE SE  E  E  E SE SE SE SE
+Wind spd          3  4  3  3  3  3  3  3  2  3  3  2  2  2  2  2  2  2  2  2  2
+Wind gust              13 13                                                   
+Clouds           CL CL FW FW FW FW FW FW FW FW FW SC SC FW SC FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      48    75      55    72      50    67      47    68
+Temp          71 57   50 49 72 61   56 55 69 59   53 50 64 55   50 48 66 56
+Dewpt         50 51   49 48 53 54   52 52 57 55   52 50 51 50   49 48 53 52
+PWind dir         S      SE     S       S     S       S    NW       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B1 B1 SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+WVZ008-016>018-220900-
+Jackson WV-Roane-Wirt-Calhoun-
+Including the cities of Ravenswood, Ripley, Spencer, Elizabeth, 
+and Grantsville
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          71    38 42 44          72          44
+Temp             53 46 44 42 41 58 69 70 57 51 48 45 43 58 69 70 56 50 47 46 45
+Dewpt            39 39 37 35 35 42 45 47 48 45 42 40 39 45 45 46 46 46 46 45 44
+RH               59 76 76 76 79 55 42 44 72 80 80 82 86 62 42 42 69 86 96 96 96
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE SE SE SE  E SE SE SE SE
+Wind spd          3  3  3  3  3  3  4  4  2  3  3  2  2  2  2  2  2  2  2  2  2
+Clouds           FW FW FW FW SC FW FW FW FW FW SC SC SC FW FW FW FW CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      48    75      55    71      49    67      48    68
+Temp          71 58   51 50 72 62   58 56 69 60   53 49 64 56   50 49 66 57
+Dewpt         50 51   49 49 54 54   53 53 57 54   51 49 51 51   49 48 53 53
+PWind dir         S      SE     S       S     S      SW    NW       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC B1 SC SC   B1 B1 B1 SC   SC B1 SC SC   FW SC SC SC
+PoP 12hr          0       5    10      20    30      20    10      10    20
+Rain shwrs                              S  C  S    S                   S  S
+
+$$
+OHZ075-084-085-220900-
+Athens-Vinton-Meigs-
+Including the cities of Athens, McArthur, Hamden, and Pomeroy
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          72          42          73          43
+Temp             53 46 44 41 40 58 69 71 58 52 49 46 44 60 70 71 57 51 48 45 44
+Dewpt            37 37 36 36 35 41 44 47 48 46 43 42 40 45 45 45 46 45 44 43 43
+RH               54 71 73 82 82 53 40 42 69 80 80 86 86 58 41 39 67 80 86 93 96
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE SE SE SE SE SE SE SE  E
+Wind spd          2  2  2  2  2  3  4  3  2  2  1  1  1  1  2  2  1  1  1  1  0
+Clouds           FW FW FW FW SC FW FW FW FW FW FW SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      47    75      53    71      47    66      47    68
+Temp          71 59   51 48 71 61   57 55 68 58   51 48 63 55   49 48 65 56
+Dewpt         47 49   47 47 50 53   52 52 54 52   49 47 47 49   47 47 50 51
+PWind dir         S      SE     S      SE     S       W     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC B1 SC SC   B1 B2 B1 SC   SC B1 SC SC   SC SC B1 SC
+PoP 12hr          0       5    10      30    30      20    10      10    20
+Rain shwrs                           S  C  C  C    S                   S  S
+
+$$
+WVZ519>522-220900-
+Northwest Nicholas-Southeast Nicholas-Northwest Webster-
+Southeast Webster-
+Including the cities of Summersville, Craigsville, Birch River, 
+Richwood, Holly River State, Webster Springs, and Cowen
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39    59 66 72    36 41 43    60 67 72    41 44 47
+Temp             48 45 42 40 40 57 64 64 52 47 45 43 42 58 65 64 53 49 46 45 45
+Dewpt            37 35 33 32 32 41 42 44 43 39 37 36 35 43 42 45 45 45 44 44 43
+RH               65 68 70 73 73 55 45 48 71 74 73 76 76 57 43 50 74 86 93 96 93
+Wind dir         SE SE SE  S SE  S SW  S SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd          5  5  5  5  4  3  3  3  4  5  5  5  4  2  2  3  3  4  4  4  3
+Clouds           CL CL FW FW FW FW FW FW FW FW FW SC SC FW SC FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      48    69      54    66      48    63      47    63
+Temp          67 55   50 49 67 58   56 55 64 57   51 49 61 53   49 48 62 54
+Dewpt         49 50   47 46 52 53   52 52 56 54   51 48 51 50   47 47 53 52
+PWind dir         S      SE     S      SE     S       S     N      SE     S
+Wind char        LT      LT    LT      GN    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B1 B1 SC   B1 B1 SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                           S  S  S  S    S                   S  S
+
+$$
+OHZ066-067-220900-
+Perry-Morgan-
+Including the cities of New Lexington, Crooksville, Somerset, 
+McConnelsville, and Stockport
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          70          43          71          44
+Temp             54 48 45 43 41 58 67 69 58 52 49 46 44 59 69 69 57 51 48 46 45
+Dewpt            36 36 36 36 35 40 45 47 48 46 43 41 40 45 46 46 46 45 44 43 43
+RH               50 63 70 76 79 51 45 45 69 80 80 83 86 60 44 44 67 80 86 89 93
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd          3  3  3  3  3  4  5  4  2  2  2  2  2  2  2  2  1  1  2  1  1
+Clouds           FW FW CL FW FW FW FW CL FW FW FW FW FW FW FW FW FW CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          72      48    73      53    68      48    64      47    65
+Temp          69 59   52 49 70 61   57 55 66 58   51 49 61 55   49 48 62 56
+Dewpt         48 49   47 47 51 53   52 52 55 52   49 47 47 48   46 46 51 51
+PWind dir         S      SE     S      SE     S       W     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC B1 SC SC   B1 B2 B1 SC   SC B1 SC SC   SC SC B1 SC
+PoP 12hr          0       5    10      30    30      20    10      10    20
+Rain shwrs                           S  C  C  C    S                   S  S
+
+$$
+OHZ083-086-087-WVZ007-220900-
+Jackson OH-Gallia-Lawrence OH-Mason-
+Including the cities of Jackson, Wellston, Oak Hill, Gallipolis, 
+Ironton, Lake Vesuvius, South Point, Point Pleasant, 
+and New Haven
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          74          43          75          43
+Temp             54 46 44 42 41 59 70 72 59 52 49 46 44 60 72 72 58 51 48 46 45
+Dewpt            37 38 37 36 35 41 45 47 49 47 44 42 41 46 45 45 46 46 44 43 43
+RH               52 73 76 79 79 51 41 41 69 83 83 86 89 60 38 38 64 83 86 89 93
+Wind dir          S  S  S  S  S  S  S  S SE SE SE SE SE  S SE SE SE SE SE SE SE
+Wind spd          2  2  2  2  2  3  4  3  2  2  2  1  1  1  2  2  1  1  1  1  1
+Clouds           SC FW FW FW SC FW FW FW FW FW SC SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      47    76      54    72      48    68      47    69
+Temp          72 60   51 49 73 63   58 56 70 59   51 49 65 57   50 49 66 58
+Dewpt         48 48   48 47 51 53   52 53 54 52   49 48 48 49   48 48 51 52
+PWind dir         S      SE     S      SE    SW       W     N      NE    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC B1 SC SC   B1 B1 B1 SC   SC SC SC SC   FW SC B1 SC
+PoP 12hr          0       5    10      30    30      20    10      10    20
+Rain shwrs                           S  C  C  C    S                   S  S
+
+$$
+WVZ039-040-220900-
+Upshur-Barbour-
+Including the cities of Buckhannon, Philippi, and Belington
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39    64 70 73          40    65 70 73    41 44 47
+Temp             48 44 41 40 39 58 67 67 54 48 45 43 42 59 67 66 54 50 47 46 45
+Dewpt            37 35 34 33 33 40 40 43 43 40 38 37 36 43 42 45 45 45 44 44 44
+RH               65 70 76 76 79 51 37 42 66 74 76 79 79 55 40 47 71 83 89 93 96
+Wind dir          S  S  S  S  S  S SW  S SE SE SE SE SE SE  E  E SE SE SE SE SE
+Wind spd          3  4  3  3  3  2  3  2  2  3  3  3  2  2  2  2  2  3  2  2  2
+Clouds           CL CL FW FW FW CL FW FW FW FW FW SC SC SC SC SC FW FW FW FW FW
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      47    74      53    71      49    65      47    67
+Temp          69 56   50 49 71 59   55 54 68 58   53 50 63 54   49 48 65 55
+Dewpt         48 50   47 46 51 52   50 52 56 54   52 50 50 49   47 47 52 50
+PWind dir        SE      SE     S      SE     S       S    NW       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B1 B1 B1   B1 B1 SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    30
+Rain shwrs                              S  S  S    S  S                S  C
+
+$$
+WVZ515>518-220900-
+Northwest Raleigh-Southeast Raleigh-Northwest Fayette-
+Southeast Fayette-
+Including the cities of Bradley, Prosperity, Sophia, Beckley, 
+Oak Hill, Fayetteville, Montgomery, and Meadow Bridge
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                35 39 43    61 67 75    36 40 45    61 67 75    41 44 47
+Temp             50 45 43 40 39 57 65 64 53 48 46 43 42 57 65 64 53 49 47 46 45
+Dewpt            37 35 33 32 32 39 41 43 42 40 38 37 37 42 41 43 43 44 44 44 43
+RH               61 68 67 73 76 51 41 46 66 74 73 79 82 57 41 46 69 83 89 93 93
+Wind dir         SE SE SE SE SE  S  S SE SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd          4  4  4  3  4  3  4  4  4  4  4  4  4  3  3  4  3  4  4  3  3
+Wind gust           14                      14 14                              
+Clouds           CL CL FW FW FW FW FW SC SC FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      48    70      54    68      48    64      48    65
+Temp          67 56   50 49 67 60   56 55 66 58   52 49 62 54   50 49 64 56
+Dewpt         47 49   48 47 51 53   52 52 55 53   51 49 50 49   48 48 52 51
+PWind dir        SE      SE    SE      SE     S       S    NE      SE    SE
+Wind char        LT      LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B1 B1 SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+VAZ003-004-220900-
+Dickenson-Buchanan-
+Including the cities of Clintwood, Grundy, and Vansant
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39    63 69 74    36 39 42    65 70 75          43
+Temp             49 44 42 40 39 57 67 67 54 47 44 42 40 57 68 67 54 49 46 45 44
+Dewpt            36 35 34 33 32 40 44 45 45 42 39 38 37 44 44 45 45 42 42 42 42
+RH               61 70 73 76 76 53 43 45 71 83 82 86 89 62 42 45 71 77 86 89 93
+Wind dir          S  S  S  S  S  S  S  S  S SE SE SE SE SE  E  E SE SE SE SE SE
+Wind spd          4  4  4  4  4  3  2  2  2  3  4  4  3  2  2  2  2  4  4  4  4
+Clouds           CL FW FW FW FW FW FW FW FW FW SC SC FW FW FW CL CL FW FW SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      46    73      53    71      48    66      47    69
+Temp          69 56   49 47 70 59   55 54 68 58   51 48 64 55   50 48 66 57
+Dewpt         48 49   47 46 52 53   52 52 56 53   50 48 52 51   49 48 54 53
+PWind dir        SE      SE    SE      SE     S       S    NE      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   SC B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                           S  S  S  S    S                   S  S
+
+$$
+WVZ523-524-220900-
+Northwest Pocahontas-Southeast Pocahontas-
+Including the cities of Snowshoe and Marlinton
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      36    56 63 68    33 36 40    57 62 67    38 41 45
+Temp             43 39 38 37 36 53 61 60 47 42 40 38 38 54 61 59 49 45 43 43 42
+Dewpt            33 31 30 29 28 36 37 39 38 35 34 33 32 38 38 42 43 42 41 41 41
+RH               67 73 73 72 72 52 41 46 71 76 79 82 79 54 42 53 80 89 93 93 96
+Wind dir          S  S  S SW  W  S  S SE SE SE  E  E NE  E SE SE  E  E  E SE  N
+Wind spd          3  3  3  3  2  2  2  3  2  2  3  3  2  2  3  3  2  3  2  2  2
+Wind gust        16 16 16 14             13 13 14 13 12          13 14 13 13 12
+Clouds           CL CL CL FW CL CL FW FW FW FW SC SC SC SC SC SC FW FW SC SC FW
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      44    65      49    62      46    61      44    61
+Temp          65 52   47 45 64 54   51 50 61 54   49 46 60 51   46 45 60 51
+Dewpt         46 47   44 43 49 51   49 49 53 52   48 46 48 47   44 44 50 49
+PWind dir        SE      SE     S      SE     S       W     N      NE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC SC   B1 B2 B1 B1   B1 B1 SC SC   SC SC SC B1
+PoP 12hr          5       5    10      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$
+WVZ024-025-220900-
+Mingo-Logan-
+Including the cities of Williamson, Logan, Chapmanville, and Man
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                39 42 45    65 70 74    39 43 46    65 71 75          46
+Temp             53 47 45 43 42 57 68 69 57 51 49 46 44 58 69 69 57 52 49 48 47
+Dewpt            39 38 37 36 35 42 45 47 47 45 42 41 40 45 45 45 46 45 46 46 46
+RH               59 71 73 76 76 57 43 45 69 80 77 83 86 62 42 42 67 77 89 93 96
+Wind dir          S  S  S  S SE  S  S SE SE SE SE SE SE SE SE SE  E SE SE SE SE
+Wind spd          4  4  4  4  4  4  3  3  3  4  4  4  3  2  2  2  3  4  3  4  3
+Clouds           FW FW FW FW FW FW FW FW FW FW FW SC FW FW FW FW FW FW FW SC FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      49    73      56    71      50    66      50    68
+Temp          70 59   52 50 71 63   58 57 70 61   53 51 64 57   51 50 66 58
+Dewpt         49 50   50 49 53 54   54 55 56 53   52 50 51 51   51 50 54 53
+PWind dir        SE      SE    SE      SE     S       S    NE       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   SC B1 B1 SC   SC SC SC SC   FW SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                           S  S  S  S    S                   S  S
+
+$$
+WVZ033-034-220900-
+McDowell-Wyoming-
+Including the cities of Welch, Gary, War, Mullens, Oceana, 
+and Pineville
+731 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      38    62 68 73    38 40 44    62 69 73          44
+Temp             51 45 42 40 39 57 67 67 55 49 46 43 41 57 67 66 55 50 47 46 46
+Dewpt            37 36 35 33 33 40 41 43 43 41 39 38 37 43 42 43 43 44 45 45 44
+RH               59 70 76 76 79 53 39 42 64 74 76 82 85 59 40 43 64 80 93 96 93
+Wind dir          S SE SE SE SE  S  S SE SE SE SE SE SE SE  E  E SE SE SE SE SE
+Wind spd          3  4  3  3  3  2  2  3  4  4  4  3  3  2  2  3  3  4  3  3  3
+Clouds           CL CL FW FW FW FW FW FW SC FW FW FW FW FW FW FW CL FW FW SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      47    71      55    69      49    65      48    67
+Temp          68 58   51 49 69 61   57 55 68 60   53 50 64 56   51 49 66 58
+Dewpt         47 49   49 48 51 53   53 53 55 53   51 49 51 50   49 49 53 52
+PWind dir        SE      SE    SE      SE     S       S    NE      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   B1 B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       5    10      20    20      20    10      10    20
+Rain shwrs                              S  S  S    S                   S  S
+
+$$

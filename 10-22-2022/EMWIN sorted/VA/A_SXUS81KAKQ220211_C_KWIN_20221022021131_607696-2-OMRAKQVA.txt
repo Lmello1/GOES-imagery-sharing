@@ -1,0 +1,67 @@
+SXUS81 KAKQ 220211
+OMRAKQ
+
+MARINE/BUOY REPORTS
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+1000 PM EDT FRI OCT 21 2022
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+LEWES DE         0118      61                N/A
+OCEAN CITY INLET 0118      62                N/A
+BUOY 44009       0150   61 62  140/  8/ 10 1022.5    2
+BRANDYWINE LGT   0042          190/ 15/ 17   N/A
+THOMAS POINT MD  0200   60     140/  9/ 10 1022.4
+GOOSES REEF MD   0048   56 61  160/  6/  6 1021.5    1
+COVE POINT MD    0042          120/  7/  8   N/A
+PINEY POINT MD   0042          190/ 10/ 12   N/A
+BISHOPS HEAD MD  0118      60                N/A
+POTOMAC MD       0048   57     160/ 12/ 14   N/A
+SOLOMONS ISLAND  0118      63                N/A
+LEWISETTA VA     0118      60                N/A
+WALLOPS ISL BUOY 0156      62                N/A     2
+WACHAPREAGUE VA  0118      60                N/A
+RAPPAHANNOCK LGT 0042          130/  6/  7   N/A
+STINGRAY PT      0048   58 62  150/ 12/ 16   N/A     1
+YORKTOWN VA      0118      63                N/A
+YORK RIVER RANGE 0042          130/ 12/ 12   N/A
+BUOY 44072 YORK  0048   59 63  120/ 12/ 12   N/A     1
+$$
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BALTIMORE HARBOR 0118      63                N/A
+TOLCHESTER BEACH 0112      58                N/A
+FRANCIS S KEY BR 0042          180/  8/  9   N/A
+CAMBRIDGE MD     0118      60                N/A
+WASHINGTON DC    0118      60                N/A
+DAHLGREN         0118      61                N/A
+WILLOUBY STN     0042           80/  3/  5   N/A
+S CRANEY ISL VA  0042          100/  5/  8   N/A
+DOMINION TERM    0042          110/  8/ 10   N/A
+SOUTH CRANEY ISL 0042          100/  5/  8   N/A
+MONEY POINT      0118      64                N/A
+SEWELLS POINT    0118      63                N/A
+KIPTOPEKE VA     0118      66                N/A
+CHES BAY BRIDGE  0042          110/  7/  9   N/A
+JAMESTOWN VA     0048   56     110/  8/ 10   N/A     0
+YORK SPIT VA     0048   59 63  120/ 12/ 12   N/A     1
+CAPE HENRY VA    0042           80/  8/  9   N/A
+CAPE HENRY BUOY  0126      64                N/A     2
+1ST LANDING BUOY 0048   59 63   90/ 12/ 14 1021.7    1
+BUOY 44025       0150      62              1021.3    2
+BUOY 44066       0150   61 66  170/  6/  8 1021.8    2
+DUCK PIER        0118      66                N/A
+44100 DUCK FRF   0156      67                N/A     2
+44056 DUCK FRF   0156      67                N/A     2
+OREGON INLET NC  0112      62                N/A
+HATTERAS NC      0112      65                N/A
+BUOY 41025       0150      77   30/ 14/ 21 1019.6
+CAPE LOOKOUT NC  0100   64      20/ 13/ 16 1020.4
+WALLOPS ISL      0156      62                N/A     2
+$$
+  

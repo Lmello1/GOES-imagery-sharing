@@ -1,0 +1,158 @@
+FPUS64 KAMA 212322
+SFTAMA
+TXZ001>020-OKZ001>003-221100-
+
+Tabular State Forecast for Texas/Oklahoma Panhandles
+National Weather Service Amarillo TX
+622 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+ Amarillo   
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   55/82    60/81    51/64    35/60    37/67    42/70    40/59    
+    00/00    00/10    30/40    40/10    00/00    00/10    20/10   
+
+ Beaver     
+   Sunny    Windy    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   45/87    60/86    48/62    35/61    34/67    39/71    38/61    
+    00/00    00/10    20/30    30/10    00/00    00/10    20/10   
+
+ Boise City 
+   Sunny    Windy    Mocldy   Sunny    Sunny    Sunny    Sunny    
+   46/81    55/77    40/56    30/59    32/64    37/66    34/57    
+    00/00    00/00    10/40    30/10    00/00    00/10    20/10   
+
+ Borger     
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   54/86    63/85    52/66    37/63    38/69    44/72    42/63    
+    00/00    00/10    20/40    40/10    00/00    00/10    20/10   
+
+ Boys Ranch 
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   50/83    59/81    49/64    33/63    35/67    41/71    39/60    
+    00/00    00/00    20/40    40/10    00/00    00/10    20/10   
+
+ Canadian   
+   Sunny    Dust     Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   51/87    63/85    51/65    36/60    37/67    42/71    42/62    
+    00/00    00/10    30/40    40/20    00/00    00/10    20/10   
+
+ Canyon     
+   Ptcldy   Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   54/82    59/81    50/65    34/61    37/67    42/71    39/60    
+    00/00    00/10    30/40    40/10    00/00    00/10    20/10   
+
+ Clarendon  
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   57/86    62/84    54/69    38/60    39/67    42/71    44/61    
+    00/00    00/10    40/40    50/20    00/00    00/10    20/10   
+
+ Claude     
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   55/83    61/83    51/65    35/60    37/67    42/70    42/59    
+    00/00    00/10    30/40    50/10    00/00    00/10    20/10   
+
+ Dalhart    
+   Sunny    Windy    Mocldy   Sunny    Sunny    Sunny    Sunny    
+   45/81    55/77    43/58    30/60    32/65    37/66    34/58    
+    00/00    00/00    10/40    30/10    00/00    00/10    20/10   
+
+ Dumas      
+   Sunny    Windy    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   50/81    58/79    47/59    32/59    34/65    40/68    37/57    
+    00/00    00/00    20/40    40/10    00/00    00/10    20/10   
+
+ Guymon     
+   Sunny    Windy    Mocldy   Sunny    Sunny    Sunny    Sunny    
+   47/85    59/83    46/59    32/62    34/67    39/69    37/59    
+    00/00    00/00    10/30    30/10    00/00    00/10    20/10   
+
+ Hartley    
+   Sunny    Windy    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   47/80    57/77    46/58    31/60    34/64    39/66    37/57    
+    00/00    00/00    10/40    40/10    00/00    00/10    20/10   
+
+ Hereford   
+   Ptcldy   Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   55/81    59/80    51/65    35/60    37/67    42/70    39/60    
+    00/00    00/10    30/40    40/10    00/00    00/00    20/10   
+
+ Kenton     
+   Sunny    Windy    Mocldy   Sunny    Sunny    Ptcldy   Sunny    
+   46/81    55/75    40/52    30/60    33/64    37/64    34/58    
+    00/00    00/00    10/40    20/00    00/00    00/10    20/10   
+
+ Lipscomb   
+   Sunny    Dust     Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   50/87    63/86    51/64    36/60    37/67    42/70    42/61    
+    00/00    00/10    30/40    40/20    00/00    00/10    20/10   
+
+ Miami      
+   Sunny    Dust     Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   55/86    63/85    51/65    37/60    38/67    42/70    42/61    
+    00/00    00/10    30/40    40/20    00/00    00/10    20/10   
+
+ Panhandle  
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   55/83    61/82    50/64    35/59    37/66    42/69    41/59    
+    00/00    00/10    30/40    40/10    00/00    00/10    20/10   
+
+ Pampa      
+   Sunny    Dust     Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   55/84    62/84    51/64    36/59    38/66    43/70    42/60    
+    00/00    00/10    30/40    40/20    00/00    00/10    20/10   
+
+ Perryton   
+   Sunny    Windy    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   47/85    59/84    47/61    33/60    34/66    40/69    38/59    
+    00/00    00/10    20/40    40/10    00/00    00/10    20/10   
+
+ Shamrock   
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   55/89    62/85    56/71    39/62    39/69    42/72    44/62    
+    00/00    00/10    40/40    50/20    00/00    00/10    20/10   
+
+ Spearman   
+   Sunny    Windy    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+   49/84    61/83    48/61    34/60    35/66    41/69    39/59    
+    00/00    00/10    20/40    40/10    00/00    00/10    20/10   
+
+ Stratford  
+   Sunny    Windy    Mocldy   Sunny    Sunny    Sunny    Sunny    
+   46/81    57/78    44/56    32/60    34/65    38/67    35/57    
+    00/00    00/00    10/40    30/10    00/00    00/10    20/10   
+
+ Texline    
+   Sunny    Windy    Mocldy   Sunny    Sunny    Sunny    Sunny    
+   47/79    54/73    40/53    30/57    32/62    37/63    34/57    
+    00/00    00/00    10/40    30/00    00/00    00/10    20/10   
+
+ Vega       
+   Ptcldy   Dust     Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+   54/79    59/77    48/61    33/59    36/65    42/68    38/57    
+    00/00    00/00    20/40    40/10    00/00    00/10    20/10   
+
+ Wellington 
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   53/89    62/86    57/71    40/63    39/69    42/73    45/63    
+    00/00    00/10    40/40    50/20    00/00    00/10    20/10   
+
+ Wheeler    
+   Sunny    Dust     Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   55/88    62/85    54/69    38/60    39/67    42/71    44/62    
+    00/00    00/10    40/40    40/20    00/00    00/10    20/10   
+
+
+$$
+

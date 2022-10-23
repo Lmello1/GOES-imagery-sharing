@@ -1,0 +1,64 @@
+ASUS64 KLZK 220017
+RTPLZK
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR ARKANSAS
+NATIONAL WEATHER SERVICE LITTLE ROCK AR
+717 PM CDT Fri Oct 21 2022
+
+Calendar Day high and low temperature...and 24-hour
+precipitation. All times are in Central Standard.
+
+.B LZK 1021 C DH00/TAIRZX/DH06/TAIRZP/PPDRZZ 
+:
+:These stations are quality controlled by the NWS.
+:
+LZK : North Little Rock  :  79  /  48  /   0.00
+LIT : Little Rock        :  82  /  45  /   0.00
+HOT : Hot Springs Arpt   :  82  /  43  /   0.00
+FSM : Fort Smith Arpt    :  87  /  43  /   0.00
+FYV : Fayetteville Arpt  :  84  /  35  /   0.00
+HRO : Harrison           :  84  /  43  /   0.00
+JBR : Jonesboro Arpt     :  79  /  43  /   0.00
+ELD : El Dorado          :  82  /  47  /   0.00
+TXK : Texarkana          :  87  /  55  /   0.00
+PBF : Pine Bluff Arpt    :  84  /  45  /   0.00
+BPK : Mountain Home Arpt :  84  /  43  /   0.00
+RUE : Russellville       :  85  /  39  /   0.00
+MWT : Mount Ida          :  83  /  39  /   0.00
+M19 : Newport Arpt       :  79  /  39  /   0.00
+LLQ : Monticello Arpt    :  84  /  48  /   0.00
+XNA : Highfill Arpt      :  82  /  38  /   0.00
+HKA : Blytheville Arpt   :  80  /  46  /   0.00
+AWM : West Memphis Arpt  :  81  /  44  /   0.00
+DEQ : DeQueen            :  85  /  41  /   0.00
+:
+:The following stations are not quality controlled by 
+:the NWS.
+:
+ROG : Rogers Arpt        :  83  /  42  /   0.00
+VBT : Bentonville Arpt   :  83  /  42  /   0.00
+SLG : Siloam Springs Apt :  83  /  39  /   0.00
+BVX : Batesville Arpt    :  79  /  47  /   0.00
+FLP : Flippin Arpt       :  84  /  38  /   0.00
+ARG : Walnut Ridge Arpt  :  78  /  42  /   0.00
+SRC : Searcy Arpt        :  81  /  38  /   0.00
+SGT : Stuttgart Arpt     :  82  /  46  /   0.00
+LRF : Little Rock AFB    :  80  /  38  /   0.00
+4M9 : Corning Arpt       :  77  /  43  /   0.00
+CDH : Camden Harrell Fld :  82  /  46  /   0.00
+MEZ : Mena Arpt          :  82  /  37  /   0.00
+CCA : Clinton Arpt       :  81  /  34  /   0.00
+CXW : Conway Arpt        :  81  /  39  /   0.00
+SUZ : Saline County Arpt :  81  /  41  /   0.00
+ASG : Springdale Arpt    :  82  /  43  /   0.00
+:
+.End
+ 
+These data are preliminary and have not undergone final
+quality control by the National Center for Environmental
+Information (NCEI). Therefore, these data are subject to
+revision. Final and certified climate data can be accessed
+at www.ncdc.noaa.gov.
+ 
+
+$$

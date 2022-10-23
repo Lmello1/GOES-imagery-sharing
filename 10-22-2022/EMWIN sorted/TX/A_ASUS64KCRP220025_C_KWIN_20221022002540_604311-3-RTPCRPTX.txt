@@ -1,0 +1,42 @@
+ASUS64 KCRP 220025
+RTPCRP
+EVENING TEMPERATURE AND PRECIPITATION SUMMARY FOR SOUTH TEXAS
+NATIONAL WEATHER SERVICE CORPUS CHRISTI TX
+725 PM CDT Fri Oct 21 2022
+
+Values represent the 18 hour high and 18 hour low and precipitation
+over the past 24 hours ending at 6 PM CST/7 PM CDT
+
+
+.BR CRP 1021 C DH19/TAIRZS/TAIRZI/PPDDZZ
+:
+:
+:        STATION                   HIGH   LOW    24-HR
+:         NAME                     TEMP   TEMP   PCPN 
+:
+KALI: Alice Airport/ASOS        :    86 /  48 /  0.00
+KBEA: Beeville AWOS             :    85 /  53
+KCRP: Corpus Christi ASOS       :    85 /  53 /  0.00
+KCOT: Cotulla ASOS              :    88 /  55 /  0.00
+KHBV: Hebbronville AWOS         :    85 /  53
+KLRD: Laredo Airport            :    87 /  59 /  0.00
+KTFP: McCampbell AWOS           :    82 /  64
+KNGP: NAS Corpus Christi ASOS   :    84 /  65 /  0.00
+KNQI: NAS Kingsville ASOS       :    87 /  51 /  0.00
+KPSX: Palacios ASOS             :    80 /  60 /  0.00
+KPEZ: Pleasanton AWOS           :    87 /  50
+KPKV: Port Lavaca AWOS          :    85 /  58
+KRAS: Port Aransas AWOS         :     M /   M
+KRBO: Robstown AWOS             :    85 /  54
+KRKP: Rockport ASOS             :    84 /  65 /  0.00
+KT69: Sinton AWOS               :    84 /  50
+KVCT: Victoria Airport ASOS     :    87 /  59 /  0.00
+.END
+
+These data are preliminary and have not undergone final quality
+control (QC) by NCEI. Therefore these data are subject to revision.
+Final and certified climate data can be accessed at the National
+Centers for Environmental Information (NCEI) - www.ncei.noaa.gov
+
+$$
+

@@ -1,0 +1,204 @@
+FOUS53 KDLH 220237
+PFMDLH
+FOUS53 KDLH 220237
+PFMDLH
+
+Point Forecast Matrices
+National Weather Service Duluth MN
+937 PM CDT Fri Oct 21 2022
+
+MNZ037-221000-
+Duluth- St. Louis MN
+46.83N  92.18W Elev. 1424 ft
+937 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          60          47          67          56
+Temp                45 45 44 43 51 58 59 51 48 49 50 50 57 63 66 61 58 59 59 59
+Dewpt               34 36 37 38 41 42 43 43 44 44 45 46 49 52 53 52 54 55 55 55
+RH                  65 70 76 82 68 55 55 74 86 83 83 86 75 67 63 72 86 87 87 87
+Wind dir            SW SW  S SE SE  E  E  E  E  E  E  E SE SE  E  E SE SE SE  S
+Wind spd             3  3  3  4  9 11 12 10  8  6  6  6 10 12 12 11 11 11 12 12
+Clouds              B1 B1 B1 B2 B1 SC SC FW FW SC FW SC FW SC SC B1 B2 B2 B2 B2
+PoP 12hr                      5           5           5          10          80
+QPF 12hr                      0           0           0           0        0.29
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  C
+Tstms                                                                C  C  S  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      38    48      34    47      34    47      36    49
+Temp          63 53   45 39 45 43   39 35 44 42   37 35 44 42   39 36 46 43
+Dewpt         52 44   40 36 35 33   34 32 33 33   32 32 34 34   35 34 37 37
+PWind dir         S      SW     W      NW    NW      NW    SW       S    SW
+Wind char        BZ      GN    GN      LT    GN      GN    GN      LT    GN
+Avg clouds    B2 B2   B2 B2 B1 B1   B1 B1 B1 SC   B1 B2 B2 B2   B2 B2 B2 B1
+PoP 12hr         40      30    20      20    20      10    10      30    20
+Rain shwrs     C  C    C  S     S    S  S  S                     C  C  S  S
+Tstms          C                                                           
+
+$$
+MNZ010-221000-
+International Falls- Koochiching MN
+48.56N  93.43W Elev. 1179 ft
+937 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          58          44          67          54
+Temp                46 44 43 42 48 55 56 53 48 47 46 46 54 63 66 59 55 56 56 57
+Dewpt               34 35 36 37 41 42 42 42 41 42 42 42 47 52 53 53 53 55 55 55
+RH                  63 70 76 82 77 61 59 66 77 83 86 86 77 67 63 80 93 96 96 93
+Wind dir             S SW  S SE SE SE  E  E  E  E  E  E SE SE SE  E SE SE SE SE
+Wind spd             3  4  3  3  6  8  8  8  6  6  5  4  6  9 10  8  9  9  9  9
+Wind gust                                                                    23
+Clouds              B2 OV OV OV OV OV OV B2 SC SC SC SC SC SC SC B1 B1 B2 B2 B2
+PoP 12hr                     30          20           5           5          80
+QPF 12hr                      0           0           0           0        0.26
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                                   C  C  D  D  L
+Tstms                                                                S  C  C  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      35    44      31    44      30    46      34    48
+Temp          62 51   42 36 42 40   35 32 41 39   34 31 43 41   37 35 45 42
+Dewpt         53 44   37 33 33 32   32 30 32 31   30 30 34 33   33 32 35 34
+PWind dir         S       W     W      SW     W       W    SW      SW    SW
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B2 B2 B1   B1 B1 B2 B1   B1 B2 B2 B2   B2 B2 B1 SC
+PoP 12hr         60      40    20      20    20      10    20      30    10
+Rain shwrs     L  L    C  S  S       S  S  S                S    C  C      
+Snowshwrs                                  S                               
+Tstms          C  S                                                        
+
+$$
+MNZ034-221000-
+Brainerd- Crow Wing MN
+46.39N  94.13W Elev. 1227 ft
+937 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          67          51          70          56
+Temp                45 45 43 44 51 62 67 60 57 55 53 54 60 67 69 66 63 61 61 62
+Dewpt               34 36 37 38 41 41 42 44 45 44 45 47 52 54 55 56 57 58 57 55
+RH                  65 70 79 79 68 46 40 55 64 66 74 77 75 63 61 70 81 90 87 78
+Wind dir             S  S SE SE SE SE SE SE SE  S SE SE SE SE SE SE SE SE  S  S
+Wind spd             3  3  5  8 11 11 11  6  6  8  6  9 12 13 14 12 12 12 11 13
+Wind gust                                               23 25 26 25 26 29 26 31
+Clouds              B1 B2 B1 B1 B1 SC FW FW FW FW FW FW FW SC SC SC B1 B2 B2 SC
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  C  C  S  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      35    48      32    48      34    48      35    50
+Temp          59 50   41 36 45 43   37 33 45 42   37 35 45 43   38 36 47 44
+Dewpt         47 41   36 33 33 33   33 31 33 33   32 30 33 35   35 34 37 37
+PWind dir        SW       W     W       W    NW       W     S       S     W
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B1 B1 SC   SC B1 SC SC   B1 B2 B2 B2   B2 B2 B1 B1
+PoP 12hr         40      20    10      20    10      10    20      30    20
+Rain shwrs     C  C    S                S                   S    C  C  S   
+Tstms          C                                                           
+
+$$
+WIZ008-221000-
+Hayward- Sawyer WI
+46.02N  91.45W Elev. 823 ft
+937 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          69          53          72          58
+Temp                42 42 41 41 54 65 68 63 59 58 56 55 62 69 71 67 62 61 60 60
+Dewpt               35 37 36 37 42 44 46 47 48 48 48 48 53 55 55 55 55 56 57 57
+RH                  76 82 82 85 64 46 45 56 67 69 74 77 72 61 57 65 78 84 90 90
+Wind dir             W  S SE SE SE SE  S  S  S  S  S SE SE SE SE SE SE  S  S  S
+Wind spd             1  2  3  5  9 10 10  9 10  9  9  8 10 13 13 11 12 13 12 13
+Wind gust                                               23 24 27 25 25 26 24 24
+Clouds              FW FW SC B1 SC SC FW FW FW FW FW FW SC SC SC SC B2 B2 B2 B1
+PoP 12hr                      0           0           5          10          70
+QPF 12hr                      0           0           0           0        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                                S  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      37    50      32    50      32    50      34    51
+Temp          66 57   47 38 48 44   37 35 48 44   36 33 48 45   38 35 48 46
+Dewpt         55 49   42 37 37 36   35 33 36 36   33 32 36 37   35 34 38 38
+PWind dir         S      SW    SW      NW    NW       W     S      SE    SW
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 B1   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B1
+PoP 12hr         50      40    20      30    20      20    10      20    30
+Rain shwrs     C  C    C  C  S  S    C  C  S  S    S             S  S  C  S
+Tstms          S                                                           
+
+$$
+WIZ003-221000-
+Ashland- Ashland WI
+46.55N  90.88W Elev. 1214 ft
+937 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          66          52          72          58
+Temp                40 42 41 39 52 63 64 56 56 57 55 55 62 68 71 65 61 61 60 60
+Dewpt               37 38 38 38 42 46 47 47 47 47 48 48 53 56 55 54 54 56 56 56
+RH                  89 86 89 96 69 54 54 72 72 69 77 77 72 65 57 68 78 84 87 87
+Wind dir            SW SW  S SE SE  E  E NE  S  S  S  S  S  S SE SE  S  S  S  S
+Wind spd             4  4  3  3  4  8  6  5  6  8  6  5  8 10 10  8  9 10 10 10
+Wind gust                                               18    21 21 20 21 21 25
+Clouds              SC SC SC B1 B1 SC FW FW FW FW FW FW FW SC SC B1 B1 B2 B2 B1
+PoP 12hr                      5           5           5          10          80
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  C
+Tstms                                                                S  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      40    52      35    50      34    52      35    52
+Temp          68 58   49 41 50 45   39 38 48 44   37 35 49 46   39 36 49 46
+Dewpt         57 49   43 39 40 38   37 36 38 37   34 33 37 37   36 35 40 39
+PWind dir         S      SW    SW       W    NW       W    SW       S    SW
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B1 B2   B1 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B1
+PoP 12hr         50      40    20      30    30      20    10      20    30
+Rain shwrs     C  C    C  C  S  S    C  C  C  S    S             S  S  S  C
+Tstms          S                                                           
+
+$$

@@ -1,0 +1,103 @@
+ASUS65 KBOU 220231
+RTPBOU
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+NORTHEAST AND NORTH CENTRAL COLORADO
+NATIONAL WEATHER SERVICE DENVER CO
+831 PM MDT FRI OCT 21 2022
+
+AIRPORT LOCATIONS...VALUES ARE HIGHS AND LOWS FOR THE LAST 18 HOURS
+AND PRECIPITATION FOR THE LAST 24 HOURS.
+
+.BR BOU 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDDRZZ
+
+:      STATION                  ELEV  DAY/                   SNOW SNOW
+:      NAME                     FEET  HOUR  HIGH  LOW  PCPN  FALL DEPTH
+
+APA  : CENTENNIAL AIRPORT ::          2118:  75 / 45 /    0 /   M /  M
+DEN  : DENVER INTL AIRPORT::          2118:  78 / 52 /    0 /   M /  M
+LIC  : LIMON AIRPORT      ::          2118:  78 / 32 /    0 /   M /  M
+AKO  : AKRON              ::          2118:  77 / 43 /    0 /   M /  M
+.END
+
+DATA FROM COOPERATIVE AND AMATEUR RADIO OBSERVERS.
+REPORTS ARE FOR THE 24 HOURS ENDING AT OBSERVATION TIME.
+
+.BR BOU 1021 M DH19/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDDRZZ
+
+:      STATION                  ELEV  DAY/                   SNOW SNOW
+:      NAME                     FEET  HOUR  HIGH  LOW  PCPN  FALL DEPTH
+
+...NORTHERN COLORADO FRONT RANGE...
+
+EAGC2: AURORA/EAGLECREST  ::        :DH2107/   M / 44 /    0 /   0 /  0
+DUAC2: DENVER STAPLETON   ::        :DH2107/   M /  M /    0 /   0 /  0
+WUDC2: ENGLEWOOD 2SSE     ::        :DH2107/   M / 38 /    0 /   0 /  0
+ENLC2: ENGLEWOOD 1SSE     ::        :DH2107/   M / 36 /    0 /   0 /  0
+NRTC2: NORTHGLENN         ::        :DH2107/   M / 41 /    0 /   0 /  0
+WSMC2: WESTMINSTER 5NE    ::        :DH2107/   M / 36 /    0 /   0 /  0
+CSLC2: CASTLE ROCK 1NE    ::        :DH2107/   M / 30 /    0 /   0 /  0
+ELAC2: ELIZABETH 3NW      ::   6594 :DH2107/   M / 45 /    0 /   0 /  0
+BOUC2: BOULDER            ::        :DH2117/  77 / 49 /    0 /   0 /  0
+BDU  : BOULDER AIRPORT    ::        :DH2120/  77 / 50 /    M /   M /  M
+LAFC2: LAFAYETTE          ::        :DH2107/   M / 51 /    0 /   0 /  0
+LONC2: LONGMONT 2ESE      ::        :DH2107/   M / 40 /    0 /   0 /  0
+THUC2: LYONS 7S           ::        :DH2107/   M / 53 /    0 /   0 /  0
+LTLC2: MARSTON RESERVOIR  ::        :DH2107/   M / 42 /    0 /   0 /  0
+BJC  : ROCKY MTN METRO AP ::        :DH2120/  75 / 55 /    M /   M /  M
+FORC2: FORT COLLINS CSU   ::        :DH2119/  78 / 45 /    0 /   0 /  0
+FNL  : FT COLLINS/LOVELAND::        :DH2118/  79 / 42 /    0 /   M /  M
+LVDC2: LOVELAND 2N        ::        :DH2106/   M / 29 /    0 /   0 /  0
+
+...NORTHEAST COLORADO...
+
+EIK  : ERIE               ::        :DH2120/  79 / 43 /    M /   M /  M
+FSNC2: FIRESTONE          ::        :DH2107/   M / 41 /    0 /   0 /  0
+GXY  : GREELEY AIRPORT    ::        :DH2118/  79 / 36 /    0 /   M /  M
+FMM  : FORT MORGAN AIRPORT::        :DH2120/  77 / 39 /    M /   M /  M
+GENC2: GENOA              ::        :DH2109/   M / 49 /    0 /   M /  M
+GEAC2: GENOA HAMNET       ::        :DH2107/   M / 37 /    0 /   0 /  0
+KRVC2: KARVAL             ::        :DH2106/   M / 41 /    0 /   M /  M
+STLC2: LEROY 5WSW         ::        :DH2107/   M / 39 /    0 /   0 /  0
+STK  : STERLING AIRPORT   ::        :DH2120/  79 / 37 /    M /   M /  M
+AKRC2: AKRON 4E           ::        :DH2108/   M / 43 /    0 /   0 /  0
+LNDC2: LINDON 5WNW        ::        :DH2107/   M / 26 /    0 /   0 /  0
+SDGC2: SEDGWICK 5S        ::        :DH2108/   M / 41 /    0 /   0 /  0
+HOLC2: HOLYOKE            ::        :DH2107/   M / 34 /    0 /   0 /  0
+HEQ  : HOLYOKE AIRPORT    ::        :DH2120/  84 / 43 /    M /   M /  M
+
+...NORTH CENTRAL COLORADO...
+
+WLDC2: WALDEN             ::   8100 :DH2109/   M / 23 /    0 /   0 /  0
+ 33V : WALDEN AIRPORT     ::   8100 :DH2120/  59 / 30 /    M /   M /  M
+FRZC2: FRASER             ::   8600 :DH2116/  61 / 17 /    0 /   M /  M
+GRNBY: GRANBY             ::   8207 :DH2120/  61 / 23 /    M /   M /  M
+GDLC2: GRAND LAKE 6SSW    ::   8300 :DH2116/  61 / 24 /    0 /   M /  M
+ 20V : KREMMLING AIRPORT  ::   7400 :DH2120/  64 / 19 /    M /   M /  M
+WIFC2: WILLIAMS FORK DAM  ::   7650 :DH2108/   M / 23 /    0 /   0 /  0
+GCRC2: CABIN CREEK        ::  10000 :DH2106/   M / 31 /    0 /   0 /  0
+C99  : DAKOTA HILL        ::  10938 :DH2120/  45 / 34 /    M /   M /  M
+DLLC2: DILLON 1E          ::   9100 :DH2107/   M / 21 /    0 /   0 /  0
+WTPC2: WINTER PARK        ::   9100 :DH2108/   M /  M /    0 /   0 /  0
+GRRC2: GROSS RESERVOIR    ::   7950 :DH2107/   M / 36 /    0 /   0 /  0
+VDAC2: VIRGINIA DALE 7ENE ::   7000 :DH2107/   M / 44 /    0 /   0 /  0
+ASIC2: ASPEN SPRINGS      ::   9000 :DH2107/   M / 42 /    0 /   0 /  0
+CHEC2: CHEESMAN           ::   6800 :DH2107/   M / 32 /    0 /   0 /  0
+GRTC2: GRANT              ::   8700 :DH2107/   M / 26 /    0 /   0 /  0
+SSDC2: STRONTIA SPGS DAM  ::   5800 :DH2107/   M / 33 /    0 /   0 /  0
+ANTC2: ANTERO RESERVOIR   ::   8900 :DH2107/   M / 14 /    0 /   0 /  0
+LGEC2: LAKE GEORGE        ::   8000 :DH2107/   M / 18 /    0 /   0 /  0
+LGRC2: LAKE GEORGE 8SW    ::   8500 :DH2107/   M / 26 /    0 /   0 /  0
+
+:EXTREMES FOR NORTHEAST AND NORTH CENTRAL COLORADO
+
+:HIGH...   HOLYOKE AIRPORT        84  LOW...    ANTERO RESERVOIR       14
+
+:PRECIP... AKRON                     0
+
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY
+CONTROL BY THE NATIONAL CLIMATIC DATA CENTER /NCDC/.  THEREFORE...
+THESE DATA ARE SUBJECT TO REVISION.  FINAL AND CERTIFIED CLIMATE DATA
+CAN BE ACCESSED AT WWW.NCDC.NOAA.GOV.

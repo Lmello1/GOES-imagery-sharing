@@ -1,0 +1,74 @@
+FPUS82 KCHS 220110
+OPUCHS
+
+TEST...KCHS/KSAV Gateway Observations...TEST
+National Weather Service Charleston SC
+900 PM EDT FRI OCT 21 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+SCZ050-WAZ558-NCZ071-TXZ119-213-PAZ071-DCZ001-FLZ074-172-MI076-
+NYZ176-178-MAZ016-IL014-TNZ027-NJZ106-GAZ044-MD014-220200-
+
+...Gateway Observations for Charleston International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Chas Airport   CLEAR     53  45  74 CALM      30.13R                  
+Seattle        LGT RAIN  47  45  93 S5        29.71F                  
+Charlotte      CLEAR     49  32  52 CALM      30.14R                  
+Dallas DFW     CLEAR     81  47  30 S15G26    29.80R                  
+Dallas Love    CLEAR     81  47  30 S14G21    29.81R                  
+Philladelphia  CLEAR     55  36  48 SW5       30.16R                  
+Wash National  PTCLDY    56  42  59 S8        30.16R                  
+Baltimore      PTCLDY    48  37  65 CALM      30.14R                  
+Miami          CLOUDY    75  64  68 N10       29.98R                  
+Detroit        PTCLDY    58  37  45 S10       29.84R                  
+Newark         CLEAR     56  40  55 S3        30.15R                  
+Laguardia      CLEAR     58  40  51 S7        30.15R                  
+J F K          CLEAR     57  44  62 S12       30.16S                  
+Boston Logan   NOT AVBL                                               
+Ft. Lauderdale MOCLDY    74  63  68 VRB7      29.97R                  
+Chicago O'Hare CLEAR     70  38  31 S12G24    29.71R                  
+Chicago Midway CLEAR     71  38  29 S15G25    29.73R                  
+Houston Bush   CLEAR     75  58  55 S10       29.97R                  
+Houston Hobby  CLEAR     73  58  59 S12       29.99R                  
+Nashville      PTCLDY    65  37  35 S12       30.00R                  
+Atlanta        PTCLDY    58  38  47 SE5       30.12R                  
+London Heathrw MOCLDY    59  55  88 SW8       29.62R                  
+
+$$
+ 
+GAZ044-118-TXZ119-213-NCZ071-DCZ001-MDZ014-506-PAZ021-071-NJZ106-
+NYZ176-178-MAZ106-OHZ011-021-055-MIZ076-KYZ091-ILZ014-INZ047-
+MNZ060-ONZ431-220200-
+
+...Gateway Observations for Savannah International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  CLEAR     53  41  63 CALM      30.13R                  
+Atlanta        PTCLDY    58  38  47 SE5       30.12R                  
+Charlotte      CLEAR     49  32  52 CALM      30.14R                  
+Dallas DFW     CLEAR     81  47  30 S15G26    29.80R                  
+Houston Bush   CLEAR     75  58  55 S10       29.97R                  
+Wash National  PTCLDY    56  42  59 S8        30.16R                  
+Wash Dulles    CLEAR     53  32  44 S6        30.14R                  
+Baltimore      PTCLDY    48  37  65 CALM      30.14R                  
+Philadelphia   CLEAR     55  36  48 SW5       30.16R                  
+Newark         CLEAR     56  40  55 S3        30.15R                  
+Laguardia      CLEAR     58  40  51 S7        30.15R                  
+J F K          CLEAR     57  44  62 S12       30.16S                  
+Boston         NOT AVBL                                               
+Pittsburg      PTCLDY    52  31  44 S3        30.03R                  
+Akron          CLEAR     56  32  40 S12       29.99R                  
+Cleveland      CLEAR     60  32  34 S14G21    29.92R                  
+Cincinnati     CLEAR     56  33  42 S7        29.96R                  
+Columbus       CLEAR     53  33  47 SE6       29.99R                  
+Detroit        PTCLDY    58  37  45 S10       29.84R                  
+Chicago O'Hare CLEAR     70  38  31 S12G24    29.71R                  
+Minneapolis    MOCLDY    57  35  43 CALM      29.63R                  
+Indianapolis   PTCLDY    61  35  37 S9        29.89R                  
+Toronto Canada CLEAR     55  37  50 S7        29.87S                  
+
+$$
+  

@@ -1,0 +1,138 @@
+ASUS45 KPSR 220110
+RWRAZ 
+
+ARIZONA HOURLY REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE PHOENIX AZ
+600 PM MST FRI OCT 21 2022
+
+NOTE: FAIR INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+AZZ001>003-036-220200-
+NORTHWEST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BULLHEAD CITY  CLEAR     88  37  16 S13       29.73F                  
+KINGMAN        CLEAR     72  37  28 SW10      29.91F                  
+$$
+
+AZZ004>008-015-016-018-220200-
+NORTH CENTRAL ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND CANYON   CLEAR     57  33  40 SW6       30.06F                  
+WILLIAMS       CLEAR     57  36  44 SW7       30.08F                  
+PRESCOTT       CLEAR     63  40  42 SW9       30.00F                  
+FLAGSTAFF      CLEAR     57  38  48 SW8       30.09F                  
+PAYSON         CLEAR     64  39  39 CALM      30.04S                  
+PAGE           CLEAR     73  27  18 SW5       29.87F                  
+$$
+
+AZZ009>014-017-220200-
+NORTHEAST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WINSLOW        CLEAR     68  38  33 W10       29.97F                  
+WINDOW ROCK    CLEAR     57  36  45 S6        30.05S                  
+SHOW LOW       CLEAR     61  36  39 SW10      30.09S                  
+$$
+
+AZZ540-542>544-546-548-220200-
+GREATER PHOENIX AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PHOENIX        PTCLDY    86  47  25 W9        29.78S                  
+BUCKEYE        CLEAR     82  52  34 CALM      29.79F                  
+GLENDALE       PTCLDY    84  50  30 SW5       29.78F                  
+LUKE AFB       CLEAR     84  48  28 W6        29.77F                  
+DEER VALLEY    CLEAR     82  46  28 SW7       29.81F                  
+SCOTTSDALE     CLEAR     84  48  28 W5        29.82F                  
+MESA-FALCON    CLEAR     85  48  27 NW6       29.80S                  
+MESA-GATEWAY   CLEAR     82  52  34 W6        29.92R                  
+CHANDLER       CLEAR     86  48  26 SW9       29.80F                  
+$$
+
+AZZ539-553-220200-
+SOUTHWEST MARICOPA COUNTY AND PINAL COUNTY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CASA GRANDE    CLEAR     82  51  34 NW6       29.82S                  
+GILA BEND      PTCLDY    87  47  24 SW8       29.78F                  
+$$
+
+AZZ503-504-507>509-220200-
+SOUTHEAST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TUCSON         CLEAR     84  49  29 W8        29.90R                  
+DAVIS-MONTHAN  CLEAR     83  48  29 W10       29.87R                  
+RYAN FIELD     CLEAR     84  48  28 SW7       29.86S                  
+NOGALES        CLEAR     74  53  48 SW8       29.98S                  
+SIERRA VISTA   CLEAR     72  51  46 SW9       30.04R                  
+SAFFORD        CLEAR     76  45  33 W7        29.88S                  
+$$
+
+AZZ532-220200-
+SOUTHWEST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YUMA           CLEAR     88  50  27 SW5       29.75S                  
+$$
+
+CAZ041-043-047-048-061-525>527-560>570-220200-
+SOUTHERN CALIFORNIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOWNTOWN L.A.  CLEAR     69  63  81 W3        29.84S                  
+L.A. AIRPORT   MOCLDY    67  62  84 W12       29.84S                  
+SAN DIEGO      MOCLDY    71  61  70 S6        29.86F                  
+BURBANK        CLEAR     75  60  59 S10       29.83S                  
+ONTARIO        CLEAR     75  59  57 SW12      29.83S                  
+RIVERSIDE      CLEAR     76  56  49 W8        29.83R                  
+PALM SPRINGS   CLEAR     89  44  20 E7        29.76S                  
+EL CENTRO NAS  CLEAR     90  47  22 SE6       29.74F                  
+IMPERIAL       CLEAR     90  43  19 SE5       29.72F                  
+BLYTHE         CLEAR     88  47  24 SE6       29.74F                  
+NEEDLES        CLEAR     88  41  19 SW10      29.76F                  
+$$
+
+NVZ020-UTZ003-220200-
+SOUTHERN NEVADA-UTAH
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAS VEGAS      PTCLDY    83  31  15 S8        29.79F                  
+SALT LAKE CITY PTCLDY    69  19  15 S7        29.75F                  
+$$
+
+NMZ009-TXZ055-220200-
+NEW MEXICO-WEST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBUQUERQUE    PTCLDY    69  36  29 W10       29.97S                  
+EL PASO        PTCLDY    77  46  33 W7        29.95S                  
+$$
+
+
+........................KEY........................
+SKY/WX - SKY CONDITION/WEATHER
+TMP    - TEMPERATURE IN FAHRENHEIT
+DP     - DEW POINT IN FAHRENHEIT
+RH     - RELATIVE HUMIDITY IN PERCENT
+WIND   - DIRECTION AND SPEED IN MILES PER HOUR (MPH)
+VRB    - VARIABLE WIND DIRECTION
+PRES   - MEAN SEA LEVEL PRESSURE IN INCHES OF MERCURY
+         F - FALLING PRESSURE   R - RISING PRESSURE
+         S - STEADY PRESSURE
+VSB    - VISIBILITY IN MILES
+HX     - HEAT INDEX IN FAHRENHEIT
+WCI    - WIND CHILL INDEX IN FAHRENHEIT
+TC     - TEMPERATURE IN CELSIUS WHICH IS ALSO KNOWN AS
+         TEMPERATURE IN CENTIGRADE
+AFB    - AIR FORCE BASE
+         LUKE AFB IS LUKE AIR FORCE BASE
+         DAVIS-MONTHAN IS DAVIS-MONTHAN AIR FORCE BASE
+NAS    - NAVAL AIR STATION
+         EL CENTRO NAS IS EL CENTRO NAVAL AIR STATION
+N/A    - NOT AVAILABLE
+
+  

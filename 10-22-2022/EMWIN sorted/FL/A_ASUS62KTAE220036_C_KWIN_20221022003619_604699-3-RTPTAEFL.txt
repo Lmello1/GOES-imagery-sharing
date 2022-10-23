@@ -1,0 +1,60 @@
+ASUS62 KTAE 220036
+RTPTAE
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+SOUTHEAST AL...EASTERN FL PANHANDLE ...
+SOUTHWEST GA AND FL BIG BEND
+NATIONAL WEATHER SERVICE TALLAHASSEE FL
+836 PM EDT Fri Oct 21 2022
+
+High temperature past 18 hours
+Low temperature past 18 hours
+24 hour precipitation ending at 8pm edt / 7pm cdt
+
+
+.Br tae 1021 e dh20/tairzx/dh20/tairzp/ppdrzz
+:Airport observations - Eastern Time Zone
+:As of 8PM EDT
+:
+:                                 max   min
+:                                 temp  temp  pcpn
+:
+TLH  : Tallahassee              :  74 /  35 /  0.00
+AAF  : Apalachicola             :  74 /  43 /  0.00
+CTY  : Cross City               :  75 /  34 /  0.00
+ABY  : Albany                   :  72 /  36 /  0.00
+VAD  : Moody AFB                :  70 /  38 /  0.00
+VLD  : Valdosta                 :  73 /  37 /  0.00
+FZG  : Fitzgerald               :  71 /  38 /  0.00
+BGE  : Bainbridge               :  72 /  37 /
+BIJ  : Blakely                  :  72 /  34 /
+MGR  : Moultrie                 :  70 /  37 /
+TVI  : Thomasville              :  70 /  37 /
+:
+.End
+
+
+.Br tae 1021 c dh19/tairzx/dh19/tairzp/ppdrzz
+:
+:Airport observations - Central Time Zone
+:As of 7PM CDT
+:
+:                                  max   min
+:                                  temp  temp   pcpn
+:
+ECP  : Panama City NW Intl Apt  :  76 /  40 /  0.00
+PAM  : Tyndall AFB              :  74 /  47 /  0.00
+TDR  : Tyndall AFB Runway       :  78 /  48 /  0.00
+MAI  : Marianna                 :  73 /  38 /  0.00
+54J  : DeFuniak Springs Apt     :  72 /  43 /     M
+BCR  : Tri-County Airport       :  77 /  37 /  0.00
+DHN  : Dothan                   :  74 /  39 /  0.00
+OZR  : Ozark - Cairns Air Field :  71 /  38 /  0.00
+LOR  : Ft Rucker Heliport       :  72 /  35 /  0.00
+SXS  : Ft Rucker Heliport 3     :  72 /  40 /  0.00
+HEY  : Hanchey Apt              :  73 /  36 /  0.00
+:
+.End
+
+
+$$
+

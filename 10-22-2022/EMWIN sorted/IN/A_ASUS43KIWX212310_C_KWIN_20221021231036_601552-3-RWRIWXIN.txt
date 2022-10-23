@@ -1,0 +1,90 @@
+ASUS43 KIWX 212310
+RWRIWX
+
+KIWX WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NORTHERN INDIANA
+700 PM EDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. 
+
+* THESE STATIONS ARE NOT UNDER NWS QUALITY CONTROL. THEY ALSO MAY NOT 
+  REPORT WEATHER SUCH AS PRECIPITATION OR FOG. 
+
+INZ001>027-220000-
+NORTHERN INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY*          CLEAR     72  39  30 S6        29.72R                  
+VALPARAISO     CLEAR     72  37  28 S15G22    29.75R                  
+MICHIGAN CITY* CLEAR     70  36  28 S9        29.73S                  
+LAPORTE*       CLEAR     69  45  41 CALM      29.75R                  
+KNOX*          CLEAR     68  36  30 S13       29.75S                  
+SOUTH BEND     CLEAR     69  38  32 S13G25    29.75R                  
+ELKHART*       CLEAR     69  38  33 S9        29.76S                  
+GOSHEN         CLEAR     67  38  34 S16G24    29.78R                  
+MONTICELLO*    CLEAR     69  34  27 S8        29.79S                  
+LOGANSPORT*    CLEAR     64  34  32 S10       29.83R                  
+ROCHESTER*     CLEAR     68  37  32 S9        29.80R                  
+PLYMOUTH*      CLEAR     70  36  28 S12G18    29.76S                  
+WARSAW*        CLEAR     68  37  32 S5        29.80R                  
+AUBURN*        CLEAR     66  37  34 SW7       29.82R                  
+FORT WAYNE     PTCLDY    64  36  35 S12       29.83S                  
+HUNTINGTON*    CLEAR    N/A N/A N/A S7        29.83R                  
+PERU/GRISSOM   CLEAR     67  35  31 SW13      29.81R                  
+
+$$
+INZ028>050-220000-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAFAYETTE      CLEAR     70  35  27 S9G18     29.80R                  
+KOKOMO*        CLEAR     67  36  31 S13       29.85R                  
+MARION*        CLEAR     65  37  35 S10       29.85S                  
+MUNCIE*        PTCLDY    69  32  25 S10G20    29.87R                  
+INDIANAPOLIS   MOCLDY    67  34  29 S13       29.86S                  
+
+$$
+MIZ043>046-050>051-056>058-064>065-071>073-077>080-220000-
+SOUTHWEST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATTLE CREEK   CLEAR     66  39  37 S13       29.74S                  
+BENTON HARBOR  CLEAR     70  40  33 S9G18     29.70S                  
+COLDWATER*     CLEAR     67  37  33 S5        29.78R                  
+HILLSDALE*     CLEAR     64  33  31 S8        29.79R                  
+HOLLAND        CLEAR     65  41  41 S9        29.68R                  
+GRAND RAPIDS   PTCLDY    64  41  42 S10       29.70S                  
+KALAMAZOO      CLEAR     63  40  42 S9        29.74S                  
+STURGIS*       CLEAR     64  35  33 S9        29.77R                  
+THREE RIVERS*  FAIR      68  37  32 S12       29.75S                  
+
+$$
+OHZ001>008-015>018-024>025-220000-
+NORTHWEST OHIO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WAUSEON*       FAIR      66  36  32 SW12      29.81S                  
+DEFIANCE       CLEAR     68  36  30 S12G23    29.82R                  
+FINDLAY        CLEAR     65  36  34 S14       29.86R                  
+OTTAWA*        FAIR      68  28  22 SW14      29.87S                  
+TOLEDO EXPRESS CLEAR     70  36  28 S7        29.82R                  
+VAN WERT*      FAIR      66  32  28 S12G23    29.86R                  
+LIMA           CLEAR     65  34  31 S10       29.89R                  
+
+$$
+AND FOR LAKE MICHIGAN COASTAL AND OPEN LAKE BUOY OBSERVATIONS
+  
+STATION/POSITION TEMP    WIND        PRES    VSBY  WAVE
+                 AIR SEA DIR/SP/G                  HT/PER
+                 (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+CALUMET HARBOR           180/ 10/ 17 1005.0
+MICHIGAN CITY     73                 1005.0R
+BURNS HARBOR      73     190/  8/ 10 1006.8R
+SOUTH LAKE BUOY   56 48  180/ 17/ 21 1003.8S         4/ 5
+4 MI NW BRIDGMAN  64 56  290/ 12/ 14 1005.9R         2/ 3
+MICHIGAN CITY     65                   N/A           2/ 3
+
+$$
+&&
+  

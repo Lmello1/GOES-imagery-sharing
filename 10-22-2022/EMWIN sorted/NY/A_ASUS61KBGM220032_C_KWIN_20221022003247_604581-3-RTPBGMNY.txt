@@ -1,0 +1,32 @@
+ASUS61 KBGM 220032
+RTPBGM
+
+Regional Max/Min Temperature and Precipitation Table
+National Weather Service Binghamton NY
+830 PM EDT Fri Oct 21 2022
+
+.BR BGM 1021 E DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:    Location             Obs     Today   Today  24 Hr
+:                         Time     High    Low   Pcpn
+BGM :Binghamton Airp NY: DD212000/  56 /   35 /  0.00 
+ELM :Elmira Airport  NY: DD212000/  62 /   24 /  0.00 
+ITH :Ithaca Airport  NY: DD212000/  61 /   29 /  0.00 
+MSV :Monticello      NY: DD212000/  59 /   27 /  0.00 
+PEO :Penn Yan Airpor NY: DD212000/  62 /   35 /  0.00 
+RME :Rome Griffiss A NY: DD212000/  61 /   32 /  0.00 
+SYR :Hancock Intl Ai NY: DD212000/  63 /   42 /  0.00 
+AVP :W-B/Scranton In PA: DD212000/  62 /   34 /  0.00 
+.END
+
+M = Missing Data. Values represent past calendar day Highs and Lows
+over the last 12 hours and precipitation for the last 24 hours 
+ending at 7 am EST/8 am EDT.
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$

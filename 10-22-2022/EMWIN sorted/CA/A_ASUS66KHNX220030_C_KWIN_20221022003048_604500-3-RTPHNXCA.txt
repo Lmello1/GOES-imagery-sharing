@@ -1,0 +1,70 @@
+ASUS66 KHNX 220030
+RTPHNX
+
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR CENTRAL CALIFORNIA
+NATIONAL WEATHER SERVICE SAN JOAQUIN VALLEY - HANFORD CA
+530 PM PDT Fri Oct 21 2022
+
+: Automated Surface Observing Stations /ASOS/
+:
+: High and low temperature today and 24-hour precipitation ending
+: at 5 pm PDT/4 pm PST.
+:
+.BR HNX 1021 P DH17/TAIRZXZ/TAIRZNZ/PPDRZZ/SDIRZZ
+:
+:                                           Max   Min   24Hr  Snow
+: Id    Name               Elev    TIME     Temp  Temp  Pcpn  Depth
+:
+: ...Valley...
+MCE   : Merced               153 : DH1700 /  91 /  53 / 0.00 /
+MAE   : Madera               253 : DH1700 /  90 /  52 / 0.00 /
+FAT   : Fresno Airport       333 : DH1700 /  90 /  61 / 0.00 /
+HJO   : Hanford Airport      242 : DH1700 /  89 /  52 / 0.00 /
+NLC   : Lemoore Naval AS     234 : DH1700 /  93 /  53 / 0.00 /
+BFL   : Bakersfield Airport  496 : DH1700 /  90 /  65 / 0.00 /
+: ...Desert...
+NID   : China Lake NAWS     2283 : DH1700 /  87 /  49 / 0.00 /
+EDW   : Edwards AFB         2302 : DH1700 /  87 /  69 / 0.00 /
+:
+.END
+:
+: Unofficial Weather Stations
+:
+: Approximate high temperature this afternoon and low temperature 
+this morning.
+: 24-hour precipitation ending AT 5 pm PDT/ 4 pm PST.
+:
+:                                          Max   Min    24Hr  Snow
+: Id    Name                Elev   TIME    Temp  Temp   Pcpn  Depth
+:
+: ...Valley...
+VIS   : Visalia Airport      292 : DH1700 /  89 /  54 / 0.00 /
+ATEC1 : Avenal               787 : DH1700 /  82 /  58 / 0.00 /
+PTV   : Porterville Airport  442 : DH1700 /  90 /  57 / 0.00 /
+TFTC1 : Taft                 759 : DH1650 /  90 /  66 / 0.00 /
+LOSC1 : Los Banos            120 : DH1600 /  91 /  54 / 0.00 /
+: ...Mountains...
+YYVC1 : Yosemite Valley     4199 : DH1615 /  79 /  50 / 0.00 /
+MPOC1 : Mariposa            2231 : DH1707 /  85 /  54 / 0.00 /
+WSHC1 : Wishon Dam          6549 : DH1600 /  70 /  42 / 0.00 /
+KRNC1 : River Kern          3010 : DH1657 /  85 /  59 / 0.00 /
+ISLC1 : Isabella Dam        2680 : DH1645 /  85 /  51 / 0.00 /
+TSP   : Tehachapi Airport   4001 : DH1700 /  79 /  45 / 0.00 /
+GVHC1 : Grapevine           1358 : DH1649 /  86 /  67 / 0.00 /
+KRTC1 : Frazier Park        4681 : DH1718 /  77 /  46 / 0.00 /
+: ...Desert...
+IYKC1 : Inyokern Airport    2455 : DH1653 /  90 /  52 / 0.00 /
+MHV   : Mojave Airport      2785 : DH1700 /  84 /  55 / 0.00 /
+BORC1 : Boron               2450 : DH1700 /  87 /  47 / 0.00 /
+CFYC1 : California City     2405 : DH1654 /  88 /  52 / 0.00 /
+:
+:
+:These data are preliminary and have not undergone final quality
+:control by the National Climatic Data Center /NCDC/. Therefore
+:these data are subject to revision. Final and certified climate
+:data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

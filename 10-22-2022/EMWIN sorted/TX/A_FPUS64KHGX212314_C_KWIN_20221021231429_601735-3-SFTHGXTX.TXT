@@ -1,0 +1,149 @@
+FPUS64 KHGX 212314
+SFTHGX
+FPUS64 KHGX 212314
+SFTHGX
+TXZ163-164-176>179-195>200-210>214-226-227-235>238-300-313-335>338-436>438-221100-
+
+Tabular State Forecast for Southeast Texas
+National Weather Service Houston/Galveston TX
+614 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+   Quantitative precipitation - inches - 12AM-12AM
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...HOUSTON METROPOLITAN AREA...
+ HOUSTON    
+   Ptcldy   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   66/86    70/86    73/84    66/77    56/76    56/80    64/81    
+    00/00    10/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.06     0.61     0.00     0.00     0.55     
+
+ CONROE    
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   61/86    65/86    69/83    61/75    50/76    51/79    58/80    
+    00/00    00/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.11     0.73     0.00     0.00     0.54     
+
+ KATY   
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   62/87    66/87    71/85    62/77    51/76    51/81    60/81    
+    00/00    00/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.08     0.66     0.00     0.00     0.52     
+
+ PASADENA   
+   Ptcldy   Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   66/85    70/84    73/84    66/78    56/76    56/79    65/81    
+    00/00    10/10    10/30    50/50    20/00    00/10    20/40   
+   0.00     0.00     0.06     0.59     0.00     0.00     0.56     
+
+ RICHMOND 
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   63/87    67/87    71/85    64/78    52/77    53/81    62/82    
+    00/00    10/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.07     0.62     0.00     0.00     0.70     
+
+...UPPER TEXAS COAST...
+ ANAHUAC 
+   Ptcldy   Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   66/84    70/84    71/83    65/78    54/76    54/79    62/80    
+    00/00    10/10    10/20    50/60    30/00    00/10    20/40   
+   0.00     0.00     0.05     0.53     0.00     0.00     0.60     
+
+ BAY CITY  
+   Ptcldy   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   63/84    69/85    72/83    63/78    52/77    54/80    63/81    
+    00/00    10/10    10/30    50/50    20/00    00/10    20/30   
+   0.00     0.00     0.05     0.45     0.00     0.00     0.55     
+
+ FREEPORT   
+   Ptcldy   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   67/82    72/83    73/83    65/79    56/76    60/78    67/80    
+    00/00    10/10    10/20    50/50    20/00    00/10    20/40   
+   0.00     0.00     0.02     0.35     0.00     0.00     0.44     
+
+ GALVESTON  
+   Ptcldy   Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   72/82    74/82    75/83    68/80    61/76    65/77    70/79    
+    00/00    10/10    10/20    50/60    30/00    00/10    20/40   
+   0.00     0.00     0.02     0.44     0.00     0.00     0.57     
+
+ PALACIOS  
+   Ptcldy   Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   69/82    72/83    74/82    65/77    57/76    60/78    68/80    
+    00/00    10/10    10/30    60/60    20/00    10/20    20/30   
+   0.00     0.00     0.06     0.45     0.00     0.00     0.51     
+
+...OTHER SOUTHEAST TEXAS CITIES...
+ BRENHAM  
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   62/87    66/88    70/84    60/74    50/76    51/80    60/80    
+    00/00    00/10    10/40    70/70    10/00    00/10    20/30   
+   0.00     0.00     0.38     0.78     0.00     0.00     0.37     
+
+ CLEVELAND   
+   Sunny    Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   60/85    64/84    67/82    60/75    48/75    48/79    56/80    
+    00/00    00/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.08     0.70     0.00     0.00     0.57     
+
+ COLLEGE STATION 
+   Sunny    Sunny    Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   62/87    66/89    70/84    60/73    49/75    51/80    59/79    
+    00/00    00/00    10/40    70/70    10/00    00/10    20/30   
+   0.00     0.00     0.54     0.76     0.00     0.00     0.52     
+
+ COLUMBUS   
+   Ptcldy   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   61/87    64/87    70/84    61/76    50/76    52/81    60/81    
+    00/00    00/10    10/40    60/60    10/00    00/10    20/30   
+   0.00     0.00     0.23     0.68     0.00     0.00     0.46     
+
+ CROCKETT   
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   61/86    64/86    67/82    57/71    45/72    46/77    54/77    
+    00/00    00/00    10/40    70/70    20/00    00/10    20/40   
+   0.00     0.00     0.54     0.77     0.00     0.00     0.81     
+
+ EL CAMPO   
+   Ptcldy   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   64/86    69/86    73/84    64/77    53/77    55/80    64/81    
+    00/00    10/10    10/30    60/60    20/00    00/10    20/30   
+   0.00     0.00     0.08     0.52     0.00     0.00     0.51     
+
+ HUNTSVILLE   
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   63/86    66/87    69/84    60/74    49/75    50/79    58/79    
+    00/00    00/10    10/40    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.28     0.79     0.00     0.00     0.70     
+
+ LIBERTY  
+   Ptcldy   Ptcldy   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   62/86    67/85    70/84    63/78    50/77    49/80    57/82    
+    00/00    10/10    10/30    50/50    20/00    00/10    20/40   
+   0.00     0.00     0.05     0.59     0.00     0.00     0.47     
+
+ LIVINGSTON  
+   Sunny    Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   60/87    65/87    67/84    60/77    49/76    49/80    56/81    
+    00/00    00/10    10/30    60/60    20/00    00/10    20/40   
+   0.00     0.00     0.08     0.68     0.00     0.00     0.43     
+
+ NAVASOTA  
+   Sunny    Sunny    Mocldy   Tstrms   Sunny    Sunny    Ptcldy   
+   62/87    66/88    70/84    60/74    49/75    50/80    59/80    
+    00/00    00/10    10/40    70/70    10/00    00/10    20/30   
+   0.00     0.00     0.36     0.77     0.00     0.00     0.43     
+
+
+$$
+

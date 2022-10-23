@@ -1,0 +1,60 @@
+ASUS63 KAPX 220115
+RTPMI 
+
+
+Michigan Temperature and Precipitation Summary
+National Weather Service Gaylord MI
+915 PM EDT Fri Oct 21 2022
+
+       18 hour High/Low Temperature ending at 8 pm EDT 
+       24 hr Precipitation total ending at 8 pm EDT
+       M= Missing Data     T= Trace
+ 
+.BR APX  1021  ES DH19/TAIRZS/TAIRZI/PPDRZZ
+:............................................................
+:                                MAX   MIN    24 HOUR
+:ID    LOCATION                  TEMP  TEMP   PRECIP
+:............................................................
+:-- Upper Peninsula Stations --
+CMX : Houghton County Airpor :   59 /  37  /     M
+P59 : Copper Harbor          :   60 /  44  /  0.00
+IMT : Iron Mountain Airport  :   67 /  34  /     M
+MQT : NWS Marquette          :   59 /  39  /  0.00
+IWD : Ironwood Airport       :   61 /  44  /     M
+ESC : Escanaba               :   66 /  41  /     M
+MNM : Menominee              :   69 /  41  /     M
+ERY : Newberry               :   58 /  41  /     M
+SAW : Gwinn                  :   61 /  33  /     M 
+ANJ : Sault Ste Marie        :   64 /  36  /  0.00
+:-- Northern Lower Peninsula Stations --
+PLN : Pellston               :   70 /  32  /  0.00
+TVC : Traverse City          :   72 /  36  /  0.00
+GLR : Gaylord                :   67 /  35  /  0.00
+APN : Alpena                 :   66 /  33  /  0.00
+HTL : Houghton Lake          :   65 /  29  /  0.00
+:-- Southwest Lower Peninsula Stations --
+GRR : Grand Rapids           :   70 /  34  /  0.00
+MKG : Muskegon               :   69 /  35  /  0.00
+LAN : Lansing                :   69 /  35  /  0.00
+AZO : Kalamazoo              :   71 /  38  /  0.00
+BTL : Battle Creek           :   70 /  40  /  0.00
+BIV : Holland                :   72 /  37  /  0.00
+JXN : Jackson                :   70 /  37  /     T
+BEH : Benton Harbor          :   73 /  39  /  0.00
+:-- Southeast Lower Peninsula Stations --
+ADG : Adrian - ASOS          :   71 /  30  /  0.00
+DET : Detroit City - ASOS    :   69 /  35  /  0.00
+DTW : Detroit Metro - Asos   :   70 /  35  /  0.00
+FNT : Flint - ASOS           :   71 /  35  /  0.00
+PTK : Pontiac - Asos         :   66 /  30  /  0.00
+MBS : Saginaw - ASOS         :   69 /  34  /  0.00
+WHK : White Lake             :   68 /  29  /  0.00
+.END
+ 
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information.
+Therefore...these data are subject to revision.  Final
+and certified climate data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

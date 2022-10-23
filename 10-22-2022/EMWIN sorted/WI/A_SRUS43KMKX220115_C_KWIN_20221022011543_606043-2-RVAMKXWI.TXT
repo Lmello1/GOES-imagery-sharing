@@ -1,0 +1,239 @@
+SRUS43 KMKX 220115
+RVAMKX
+Wic021-025-027-039-045-047-049-055-059-065-077-079-089-101-105-
+111-117-127-131-133-220715-
+
+
+Hydrologic Summary
+National Weather Service Milwaukee/Sullivan WI
+815 PM CDT Fri Oct 21 2022
+
+
+This report is compiled by an automated computer program. Data is
+only partially quality controlled. Data errors may occur due to
+equipment malfunction or other reasons. Most stage data is from
+U.S. Geological Survey automated streamflow gaging stations. #
+denotes a manual gauge where stage data is normally only available
+once a day.
+
+..Fox River drainage basin.. 
+                                                                    
+-                                          Latest      12 hr  24 hr
+-                        Flood Bankfull   observed     stage stage
+.ID.. ..Location..       stage  stage    stage/time   change change  
+-                        (ft.)  (ft.)      (ft.)       (ft.)  (ft.)  
+     ..Fox River..
+PDVW3  Pardeeville           9    8.5  7.93 05 PM Thu  -0.12 -0.19
+PCNW3  Princeton             9.5  7.5  4.27 07 PM Fri   0.07  0.02
+BERW3  Berlin               13   12    8.85 07 PM Fri   0.07  0.09
+OSSW3  Oshkosh               7.5  7    6.19 07 PM Fri   0.08  0.05   
+OSHW3  Lk Winn.-Oshkosh      3.5  3.3     M M              M     M
+FDLW3  Lake Winnebago-Fond du Lac      2.69 07 PM Fri   0.12  0.00
+STKW3  Lake Winnebago-Stockbridge      2.62 07 PM Fri  -0.01  0.02
+MNSW3  Lk Winn.-Menasha      5.5  5    2.62 07 PM Fri  -0.16 -0.04
+OSKW3  L Lk Buttes Des Morts-Menasha   1.05 08 PM Fri  -0.01 -0.03
+APLW3  Appleton              9    7.5  5.66 07 PM Fri   0.01  0.00
+GBYW3  Green Bay           586  584  579.90 07 PM Fri   0.37  0.28
+------------------------------------------------------------------
+..Wisconsin River drainage basin..
+-
+.ID.. ..Location.. ..Wisconsin River..
+OTTW3  Eagle R.-4sw-Otter Rap.-pool 1616.41 08 PM Fri   0.01  0.00
+OTTW3  Eagle R.-4sw-Otter Rap.-tail 1603.91 08 PM Fri  -0.01 -0.02
+LTKW3  Lake Tomahawk-Rainbow-pool#  1585.73 07 AM Thu      M -0.14
+LTKW3  Lake Tomahawk-Rainbow 6    4    1.51 07 PM Fri  -0.01 -0.01
+RHIW3  Rhinelander dam-pool#        1555.40 07 AM Thu      M -0.03
+KNGW3  Kings dam-pool#              1458.64 07 AM Thu      M  0.02
+TKDW3  Tomahawk dam-pool            1435.12 08 PM Fri  -0.13 -0.10
+TKDW3  Tomahawk dam-tail            1420.62 08 PM Fri   0.14  0.20
+GRFW3  Tomahawk-Grandfather-pool    1396.79 08 PM Fri  -0.06  0.11
+GRFW3  Tomahawk-Grandfather-tail    1301.13 08 PM Fri   0.48  0.87
+ALXW3  Merrill-Alexander dam-pool   1276.81 08 PM Fri  -0.04 -0.01
+ALXW3  Merrill-Alexander dam-tail   1254.60 08 PM Fri   0.45  0.68
+RRLW3  Merrill              11   10    4.32 07 PM Fri   0.21  0.44
+WUUW3  Wausau dam-pool              1188.27 08 PM Fri   0.08  0.08
+WUUW3  Wausau dam-tail              1164.04 08 PM Fri   0.18  0.22
+ROTW3  Rothschild           25   18   12.82 07 PM Fri   0.05  0.03
+DUBW3  Du Bay dam-pool              1114.64 07 PM Fri  -0.05 -0.04
+DUBW3  Du Bay-tail                  1087.60 07 PM Fri   0.29  0.28
+STPW3  Stevens Point dam-pool       1086.94 07 PM Fri   0.11  0.10
+STPW3  Stevens Point-tail           1069.20 07 PM Fri   0.06  0.08
+WTGW3  Whiting-pool                 1068.89 07 PM Fri  -0.06 -0.04
+WTGW3  Whiting-tail                 1046.62 07 PM Fri   0.18  0.18
+BIRW3  Biron-pool                   1034.91 07 PM Fri   0.00 -0.05
+BIRW3  Biron-tail                   1011.10 07 PM Fri   0.13  0.13
+WDSW3  Wisconsin Rapids-pool        1010.88 07 PM Fri   0.10  0.10
+WDSW3  Wis. Rapids-tail              979.88 07 PM Fri  -0.14 -0.02
+WIRW3  Wis. Rapids-staff#   12   10    2.50 07 AM Fri      M  0.08
+PETW3  Petenwell dam-pool            923.51 08 PM Fri   0.02 -0.04
+PETW3  Petenwell dam-tail            882.01 08 PM Fri  -0.03 -0.01
+CROW3  Castle Rock dam-pool          881.53 08 PM Fri   0.03  0.02
+CROW3  Castle Rock dam-tail          847.55 08 PM Fri  -0.01 -0.03
+WDEW3  Wisconsin Dells      16   13    2.36 07 PM Fri   0.06  0.06
+PORW3  Portage              17   12.7  9.88 05 PM Thu  -0.08 -0.12
+PDSW3  Prairie du Sac-dam-pool       774.33 08 PM Fri  -0.02  0.01
+PDSW3  Prairie du Sac-dam-tail       729.69 08 PM Fri  -0.04  0.16
+MUSW3  Muscoda               9    8    1.14 07 PM Fri  -0.11 -0.34   
+-
+.ID.. ..Location..Baraboo River..
+LAVW3  La Valle             15   12    5.91 07 PM Fri   0.00  0.02
+RBGW3  Reedsburg            14   12    5.61 07 PM Fri   0.01  0.03
+RSPW3  Rock Springs         18.5 13.5  7.96 08 PM Fri   0.01  0.02
+BBOW3  W. Baraboo-Hask. Pk   9    7    2.61 08 PM Fri   0.03  0.02
+BABW3  Baraboo-5 E-Hwy X    16   14    7.77 07 PM Fri   0.03  0.02
+-
+.ID.. ..Location..Spring Creek..
+LODW3  Lodi-WWTP#            6.5  5.5  3.40 07 AM Fri      M  0.00
+-
+.ID.. ..Location..Black Earth Creek..
+BLEW3  Black Earth           7    6    2.27 07 PM Fri   0.02  0.01
+MAZW3  Mazomanie            10    8    3.74 06 PM Thu   0.00  0.04
+-----------------------------------------------------------------
+..Pecatonica-Sugar River drainage basin..
+-
+.ID.. ..Location.. ..Galena River..
+BUNW3  Benton-4 S-Buncombe  15   14.5  2.76 07 PM Fri   0.00  0.01
+-
+     ..East Branch - Pecatonica River..
+BCHW3  Blanchardville-2 S   11    9    4.23 07 PM Fri   0.01  0.00
+-
+     ..Pecatonica River..
+DARW3  Darlington           13.5 10    2.25 07 PM Fri   0.01  0.02
+MTNW3  Martintown           13.5  9.5  5.24 07 PM Fri   0.02  0.03
+-
+    ..Sugar River..
+ALBW3  Albany               12    8    4.49 07 PM Fri   0.04  0.13
+BROW3  Brodhead              5    4    0.94 07 PM Fri  -0.03 -0.03
+-------------------------------------------------------------------
+..Rock-Fox river drainage basin..
+-                                         Latest       12 hr  24 hr
+-                        Flood Bankfull  observed      stage stage
+                         stage  stage   stage/time    change change
+-                        (ft.)  (ft.)      (ft.)       (ft.)  (ft.)
+.Id.. ..Location.. ..Beaverdam River..
+BEAW3  Beaver Dam        843.5 841.5 839.59 07 PM Fri   0.00  0.00
+-
+       ..Crawfish River..
+CUSW3  Columbus             17.5 15   12.45 05 PM Thu  -0.01  0.00
+MILW3  Milford               7    5    2.34 07 PM Fri  -0.12 -0.13
+ 
+       ..Bark River..
+ROMW3  Rome                  4    3    1.97 07 PM Fri  -0.06 -0.06   
+-
+       ..South Branch-Rock River..
+WPNW3  Waupun                6    4    2.19 07 PM Fri  -0.01  0.00
+ 
+       ..Rock River..
+HCNW3  Horicon               8.5  8    6.83 07 PM Fri  -0.04 -0.07
+WATW3  Watertown             5.5  4    2.02 07 PM Fri  -0.09 -0.06
+JFFW3  Jefferson            10    8    4.09 07 PM Fri   0.04  0.07
+FATW3  Ft. Atkinson         16   14.5 11.04 07 PM Fri   0.03  0.04
+NVLW3  Newville-5NE-Lk Kosh 10    9    6.05 07 PM Fri   0.00 -0.01
+NVEW3  Newville              6.5  5.5  2.41 07 PM Fri   0.02  0.02
+AFTW3  Afton                 9    8    4.27 07 PM Fri  -0.05 -0.04
+ 
+       ..Yahara River..
+WDRW3  Windsor               8    6    1.09 07 PM Fri   0.01  0.00
+MDAW3  Madison-Lake Mendota            9.89 06 PM Fri   0.00 -0.02
+MNAW3  Madison-Lake Monona             4.95 07 PM Fri  -0.01 -0.02
+MCFW3  McFarland-Lk Waubesa            4.56 07 PM Fri  -0.02 -0.04
+FULW3  Fulton-3 NW           10   8.5  4.62 07 PM Fri  -0.04 -0.05
+ 
+       ..Turtle Creek..
+CLIW3  Clinton-3 NE          8    6    3.54 07 PM Fri  -0.03 -0.01
+BOIW3  Beloit-1 SE           7.5  6    3.04 04 PM Thu  -0.07 -0.05
+-------------------------------------------------------------
+..Fox River drainage basin..
+ 
+.ID.. ..Location.. ..White River.. 
+LGNW3  Lake Geneva-Center St.          7.60 07 PM Fri   0.04  0.04
+ 
+         ..Fox River..
+WKEW3  Waukesha              6    5    2.94 07 PM Fri  -0.01 -0.03
+WADW3  Waterford                       1.72 08 PM Fri   0.01  0.01
+RSRW3  Rochester             6    5    4.54 08 PM Fri  -0.05 -0.06
+BRGW3  Burlington#          11    9       M M              M     M
+NMSW3  New Munster-2 N      11   10    5.46 07 PM Fri   0.01  0.01
+ 
+       ..Mukwonago River..
+MUKW3  Mukwonago             5    3.5  2.22 07 PM Fri   0.04  0.08
+------------------------------------------------------------------
+..Lake Michigan drainage basin..
+                                                                  
+-                                         Latest       12 hr  24 hr
+-                        Flood Bankfull  observed      stage stage
+.ID.. ..Location..       stage  stage   stage/time    change change
+-                        (ft.)  (ft.)      (ft.)       (ft.)  (ft.)
+     ..Sheboygan River..
+SEBW3  Sheboygan             8    6    2.02 07 PM Fri   0.00 -0.01
+-
+     ..Cedar Creek..
+CDRW3  Cedarburg-2 N        10    9    5.44 07 PM Fri   0.00  0.00
+-
+     ..Milwaukee River..
+WAUW3  Waubeka#              9.5  8.5  2.90 09 AM Fri      M -0.03
+SAKW3  Saukville            13.5 11       M M              M     M
+CEDW3  Cedarburg-3 SE       11   10    5.72 07 PM Fri   0.00 -0.01
+MEEW3  Milw.-Estabrook Park  7    6    1.99 07 PM Fri  -0.02  0.00
+-
+     ..Menomonee River..
+WWTW3  Wauwatosa            11    8    1.78 06 PM Fri  -0.01 -0.02
+-
+     ..Kinnickinnic River..
+KINW3  Milwaukee-s. 11th st 16   14    6.14 07 PM Fri   0.03  0.02
+-
+     ..Oak Creek..
+OAKW3  South Milwaukee       8    5.5  2.34 07 PM Fri  -0.01 -0.01
+-
+     ..Root River Canal..
+RAYW3  Raymond               9    7    1.92 07 PM Fri  -0.02 -0.01
+-
+     ..Root River..
+FRKW3  Franklin-2 SE         8    7    2.03 07 PM Fri   0.07 -0.01
+RACW3  Racine                7    6    2.23 07 PM Fri   0.00 -0.02
+-------------------------------------------------------------------
+Below is information about water temperatures around Wisconsin. Data
+is from U.S. Geological Survey or U.S. Army Corps of Engineers
+streamflow gauging stations. Water temperature sensors have an
+accuracy range of +/- 1/2 degree.
+                                   Latest
+                                   water    Time/Date
+ ID     County     Location        temp.    of report    River
+ODAW3  Iron        Odanah          45.3   07 PM 10/21   Bad
+FCEW3  Florence    Fence           45.3   07 PM 10/21   Popple
+LEOW3  Bayfield    Cable-3 SW      47.7   06 PM 10/21   Namekagon
+DANW3  Burnett     Danbury         48.6   06 PM 10/21   St. Croix
+SCFW3  Polk        St. Croix Falls 42.6   06 PM 10/21   St. Croix
+BOMW3  Chippewa    Bloomer            M   M             Trout Ck.
+SVPW3  Pierce      Spr Valley-Lk   48.9   06 PM 10/21   Eau Galle
+ALMW3  Buffalo     Alma            49.7   04 PM 10/20   Mississippi
+TREW3  Trempealeau Trempealeau     46.4   04 PM 10/20   Mississippi
+GENW3  Vernon      Genoa           46.3   04 PM 10/20   Mississippi
+LYNW3  Crawford    Lynxville       49.0   04 PM 10/20   Mississippi
+MRLW3  Lincoln     Merrill            M   M             Prairie
+MORW3  Shawano     Gresham         44.2   06 PM 10/21   Red
+WDEW3  Sauk        Wis. Dells         M   M             Wisconsin
+MUSW3  Grant       Muscoda         52.5   06 PM 10/21   Wisconsin
+MCAW3  Marinette   Nr Mcallister   48.2   06 PM 10/21   Menominee
+PESW3  Marinette   Peshtigo        46.2   06 PM 10/21   Peshtigo
+ATHW3  Marinette   Athelstane         M   M             Peshtigo
+OCTW3  Oconto      Oconto          49.8   06 PM 10/21   Oconto
+NEWW3  Waupaca     New London      46.6   06 PM 10/21   Wolf
+GBYW3  Brown       Green Bay       46.9   06 PM 10/21   Fox
+APLW3  Outagamie   Appleton        47.5   06 PM 10/21   Fox
+MNSW3  Winnebago   Menasha-Jef Pk     M   M             Lk Winnebago
+WNCW3  Winnebago   Winneconne-5NW  47.8   07 PM 10/21   Lk Poygan
+FDLW3  Winnebago   Fond du Lac     45.8   07 PM 10/21   Lk Winnebago
+BERW3  Green Lake  Berlin          48.2   06 PM 10/21   Fox
+MTWW3  Manitowoc   Manitowoc       50.0   06 PM 10/21   Manitowoc
+LFMW3  Monroe      Ft. McCoy          M   M             La Crosse
+STYW3  Monroe      Tomah-Yard         M   M             Stillwell Ck
+STCW3  Monroe      Tomah-16th         M   M             Stillwell Ck
+REAW3  Vernon      Readstown          M   M             Kickapoo
+WPUW3  Fond du Lac Waupun             M   M             W. Br. Rock
+AUKW3  Milwaukee   Milw.-mouth     51.8   06 PM 10/21   Milwaukee
+WDRW3  Dane        Windsor         51.3   06 PM 10/21   Yahara
+MNAW3  Dane        Msn-Lk Monona   49.6   06 PM 10/21   Yahara
+
+$$
+

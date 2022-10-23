@@ -1,0 +1,41 @@
+ASUS62 KRAH 220047
+RTPRAH
+Max/Min Temperature and Precipitation Table For NC
+National Weather Service Raleigh, NC
+846 PM EDT Fri Oct 21 2022
+
+
+
+.BR RDU 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+: HIGH PAST 18 HOURS / LOW PAST 24 HOURS /PCPN LAST 24 HOURS
+:
+:                         MAX    MIN     24-HR
+:ID       LOCATION       TEMP   TEMP     PCPN
+:
+AVL  :Asheville       :   64  /  28  /   0.00
+CLT  :Charlotte       :   68  /  32  /   0.00
+ECG  :Elizabeth City  :   69  /  38  /   0.00
+EWN  :New Bern        :   68  /  37  /   0.00
+FAY  :Fayetteville    :   71  /  37  /   0.00
+GSO  :Greensboro      :   67  /  34  /   0.00
+HKY  :Hickory         :   66  /  35  /   0.00
+HSE  :Cape Hatteras   :   69  /  49  /   0.00
+ILM  :Wilmington      :   73  /  41  /   0.00
+INT  :Winston-Salem   :   67  /  36  /   0.00
+MRH  :Beaufort        :   69  /  48  /   0.00
+RDU  :Raleigh-Durham  :   71  /  36  /   0.00
+RWI  :Rocky Mt-Wilson :   71  /  35  /   0.00
+:
+:          T = TRACE / M = MISSING
+.END
+
+
+These data are preliminary and have not undergone final quality
+control. Therefore, the data are subject to revision. Final and
+certified climate data may be accessed at the National Centers
+for Environmental Information - www.ncdc.noaa.gov.
+
+
+$$
+

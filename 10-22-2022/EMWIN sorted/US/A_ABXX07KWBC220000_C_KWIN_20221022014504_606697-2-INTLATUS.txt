@@ -1,0 +1,43 @@
+ABXX07 KWBC 220000
+TPTLAT
+
+LATIN AMERICAN TEMP AND WEATHER TABLE
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+0000 UTC SAT OCT 22 2022
+
+                 PRESENT   LOCAL  TEMPS   
+CITY             WEATHER   TIME   F   C   
+
+ANTIGUA          FAIR       8PM   81  27  
+ASUNCION         FAIR       8PM   72  22  
+BELIZE CITY      CLDY       6PM   81  27  
+BOGOTA           RAIN       7PM   59  15  
+BRIDGETOWN       FAIR       8PM   82  28  
+BUENOS AIRES     CLDY       9PM   59  15  
+CARACAS                     8PM   MM  MM  
+CAYENNE          FAIR       9PM   77  25  
+GEORGETOWN       HAZE       8PM   79  26  
+GUATEMALA CITY   PTCLDY     6PM   66  19  
+HAVANA           FAIR       7PM   73  23  
+KINGSTON         FAIR       7PM   84  29  
+LA PAZ           FAIR       8PM   50  10  
+LIMA             CLDY       7PM   59  15  
+MANAGUA          TSTORM     6PM   84  29  
+MEXICO CITY      CLDY       6PM   64  18  
+MONTEVIDEO       DRIZZL     9PM   57  14  
+PANAMA CITY      CLDY       6PM   77  25  
+PARAMARIBO       FAIR       8PM   81  27  
+PORT AU PRINCE              8PM   82  28  
+PORT OF SPAIN               8PM   NO DATA 
+QUITO                       7PM   NO DATA 
+RIO DE JANEIRO   CLDY       9PM   75  24  
+SAINT THOMAS     FAIR       8PM   82  28  
+SAN JOSE         FOG        6PM   70  21  
+SAN JUAN         FAIR       8PM   81  27  
+SAN SALVADOR     FAIR       6PM   79  26  
+SANTIAGO         FAIR       8PM   66  19  
+SANTO DOMINGO    FAIR       7PM   81  27  
+SAO PAULO        CLDY       9PM   72  22  
+TEGUCIGALPA      CLDY       6PM   70  21  
+
+$$ 

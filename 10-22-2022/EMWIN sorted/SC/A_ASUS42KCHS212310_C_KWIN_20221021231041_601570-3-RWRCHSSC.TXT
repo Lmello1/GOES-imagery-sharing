@@ -1,0 +1,125 @@
+ASUS42 KCHS 212310
+RWRCHS
+
+Regional Weather Roundup
+National Weather Service Charleston SC
+700 PM EDT FRI OCT 21 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+Not all stations are quality controlled. Use data with caution,
+especially dewpoint observations.
+
+SCZ027-030-031-034>040-042>050-220000-
+...Southeast South Carolina...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+N Charleston   CLEAR     60  42  51 N6        30.09S                  
+Waterfront Prk   N/A     66  48  52 E5        29.95R                  
+Mount Pleasant FAIR      57  50  77 CALM      30.09S                  
+Johns Island   FAIR      61  46  59 CALM      30.09S                  
+Pinopolis        N/A     64  45  48 CALM        N/A                   
+Moncks Corner  FAIR      54  45  71 CALM      30.10R                  
+Summerville    FAIR      57  45  62 CALM      30.09R                  
+Beaufort MCAS  CLEAR     61  45  55 CALM      30.09S                  
+Beaufort Arpt  FAIR      61  41  48 CALM      30.09S                  
+Hilton Head Is CLEAR     57  46  67 CALM      30.10S                  
+Walterboro     CLEAR     54  45  71 CALM      30.10S                  
+Allendale      FAIR      63  34  34 CALM      30.08R                  
+
+...Southern Midlands and Pee Dee...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Georgetown     FAIR      54  46  76 CALM      30.10S                  
+Kingstree      FAIR      54  43  66 CALM      30.10R                  
+Orangeburg     CLEAR     57  41  55 CALM      30.10R                  
+Barnwell       FAIR      61  36  39 CALM      30.10R                  
+Aiken          FAIR      59  35  41 CALM      30.10R                  
+Manning        FAIR      55  41  58 CALM      30.10S                  
+Columbia       CLEAR     62  35  36 CALM      30.10R                  
+Sumter         CLEAR     61  35  38 CALM      30.08S                  
+Florence       CLEAR     58  41  53 CALM      30.11R                  
+Myrtle Beach   CLEAR     59  49  69 CALM      30.10S                  
+N Myrtle Beach CLEAR     57  47  69 CALM      30.09R                  
+
+$$
+ 
+GAZ063-065-086>088-099>101-113>116-118-119-134>141-150-220000-
+...Southeast Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  PTCLDY    62  34  35 E6        30.09R                  
+Hunter AAF     CLEAR     62  39  43 CALM      30.06S                  
+Fort Stewart   CLEAR     60  42  52 CALM      30.05S                  
+Statesboro     CLEAR     58  39  49 CALM      30.09R                  
+Sylvania       CLEAR     60  37  42 CALM      30.10R                  
+Claxton        FAIR      57  43  58 CALM      30.09R                  
+Millen         FAIR      59  36  41 CALM      30.10S                  
+Metter         FAIR      59  37  42 CALM      30.09R                  
+Reidsville     FAIR      60  36  41 CALM      30.09R                  
+
+...CSRA, Central and far Southeast Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Thomson        CLEAR     60  36  41 E5        30.10R                  
+Augusta-Bush   CLEAR     53  40  61 CALM      30.09R                  
+Augusta-Daniel CLEAR     64  29  26 CALM      30.10R                  
+Swainsboro     FAIR      59  39  47 NE3       30.10R                  
+Vidalia        CLEAR     61  43  51 CALM      30.09S                  
+Eastman        FAIR      63  32  31 CALM      30.09S                  
+Hazlehurst     FAIR      61  37  40 CALM      30.08R                  
+Alma           CLEAR     61  39  44 CALM      30.08R                  
+Waycross       CLEAR     60  42  50 CALM      30.08R                  
+Jesup          FAIR      57  37  47 CALM      30.11R                  
+Baxley         FAIR     N/A N/A N/A CALM      30.09R                  
+Brunswick      CLEAR     59  38  46 NE6       30.08S                  
+Saint Simons   CLEAR     63  38  39 NE6       30.08R HAZE             
+
+$$
+
+SCZ027-028-034-036>038-045-046-048>050-GAZ119-141-220000-
+...Lake and Supplemental Coastal Observations...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+Winyah Bay       2145   67      20/  4     1019.0
+Lake Murray      2220   69        CALM       N/A
+Chrlstn Harbor   2230      70   50/  7/  9 1017.5
+ACE Basin NERRS  2145   67        CALM     1020.0
+Fort Pulaski     2230      70   80/  7/  8 1019.0
+Sapelo Island    2200   65      70/  6     1018.0
+
+$$
+
+ANZ835-935-AMZ111-154-330-350-352-354-370-450-454-472-220000-
+...C-MAN and Buoy Observations...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+Buoy 41004       2250   67 78   20/ 12/ 16 1018.7R   2/ 4   2/ 90/ 9
+Buoy 41008       2250   66 73   40/ 10/ 12 1018.1S   2/ 9   2/100/ 9
+Folly Beach CMAN 2200   65      70/  8/  9 1019.3R
+Chas Pilot Buoy  2208   67 74   40/ 10/ 14 1018.2F
+Chas Pilot Wave  NOT AVBL
+Capers Nearshore NOT AVBL
+Capers NS Wave   NOT AVBL
+Fripp Nearshore  NOT AVBL
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+5E St. Marys GA  2230   67 73                N/A     2/ 4
+Frying Pan Buoy  2250   68 77   30/ 14/ 17 1018.2R   4/ 5   2/120/ 9
+Buoy 41025       2250      77   30/ 16/ 19 1018.3R
+Cape Lookout NC  2200   64      10/ 10/ 13 1019.3R
+Buoy 41002       2250   75 78   40/ 14/ 17 1014.1F   4/ 6   2/100/10
+Buoy 41010       2250   76 82   50/ 14/ 16 1014.9R
+St Augustine FL  2300   68 72   10/ 15/ 17 1018.1R
+
+
+$$
+  

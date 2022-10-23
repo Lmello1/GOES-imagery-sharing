@@ -1,0 +1,118 @@
+FPUS65 KLKN 220052
+SFTLKN
+NVZ030-041-221315-
+
+Tabular State Forecast for Northern and Central Nevada
+National Weather Service Elko NV
+Issued by National Weather Service Reno NV
+552 PM PDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...HUMBOLDT COUNTY...
+   Winnemucca
+   Rain     Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   42/58    25/49    20/54    27/59    31/55    20/52    19/56    
+    90/80    30/10    00/10    10/20    40/40    10/00    00/10   
+
+   McDermitt
+   Rain     Ptcldy   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   35/51    22/44    17/51    25/53    27/49    20/46    20/50    
+   100/60    40/10    00/30    30/30    50/50    10/00    00/10   
+
+...ELKO COUNTY...
+   Elko
+   Rain     Mocldy   Sunny    Ptcldy   Snoshwr  Ptcldy   Sunny    
+   39/57    25/43    18/49    27/55    30/51    23/46    19/51    
+    40/90    50/20    00/10    20/20    50/50    20/00    00/10   
+
+   Spring Creek
+   Rain     Mocldy   Sunny    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   37/54    22/39    17/46    26/52    28/48    21/44    18/49    
+    30/90    50/20    00/10    20/20    40/40    20/00    00/10   
+
+   Carlin
+   Rain     Mocldy   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    
+   39/55    25/43    17/49    27/54    28/50    22/45    18/51    
+    50/90    50/20    00/10    20/20    40/40    20/00    00/10   
+
+   Wells
+   Rain     Mocldy   Sunny    Ptcldy   Snoshwr  Ptcldy   Sunny    
+   34/53    20/40    15/47    23/52    25/48    18/44    16/49    
+    40/90    50/30    00/20    20/20    50/50    30/10    00/10   
+
+   Jackpot
+   Rnsnow   Mocldy   Sunny    Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   38/50    25/39    20/44    25/48    27/46    22/40    19/46    
+   100/100   40/40    00/30    30/20    50/50    20/10    00/10   
+
+   Wildhorse
+   Rnsnow   Mocldy   Sunny    Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   33/45    21/34    14/40    15/43    16/40    10/37    9/43     
+   100/100   60/40    00/40    40/30    60/70    30/10    00/10   
+
+   Lamoille Canyon (7800 feet)
+   Snow     Snow     Sunny    Ptcldy   Snoshwr  Ptcldy   Sunny    
+   31/41    17/26    14/34    22/40    27/36    19/31    18/38    
+    30/100   70/50    00/10    30/20    50/60    40/10    00/10   
+
+   West Wendover
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   51/60    37/49    32/54    33/56    35/57    36/52    29/52    
+    10/80    50/20    00/00    10/20    30/30    20/00    00/10   
+
+...WHITE PINE COUNTY...
+   Ely
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   35/57    17/39    13/46    18/55    22/53    17/45    14/52    
+    00/80    80/10    00/00    00/10    10/30    30/10    00/00   
+
+   Ruth
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   37/52    18/34    15/43    21/52    25/49    20/41    16/49    
+    00/90    80/10    00/00    00/10    10/30    30/10    00/00   
+
+   McGill
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   40/57    21/38    17/47    23/55    28/53    22/45    19/52    
+    00/90    80/20    00/00    00/10    10/30    30/10    00/00   
+
+   Great Basin National Park
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   45/53    26/33    25/40    31/49    33/48    28/39    26/44    
+    00/90    90/30    10/00    00/10    10/30    30/10    00/00   
+
+...LANDER AND EUREKA COUNTIES...
+   Battle Mountain
+   Rain     Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    
+   43/59    26/46    18/54    25/58    29/53    21/49    18/54    
+    40/90    40/10    00/10    10/20    40/40    20/00    00/10   
+
+   Austin
+   Rnsnow   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   41/50    24/34    22/43    32/51    35/47    26/40    25/47    
+    00/90    50/20    00/00    00/10    30/30    20/00    00/00   
+
+   Eureka
+   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   39/55    20/41    15/50    24/58    27/53    21/47    16/54    
+    10/90    60/20    00/00    10/10    30/30    20/00    00/00   
+
+...NORTHERN NYE COUNTY...
+   Tonopah
+   Mocldy   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   42/64    29/49    23/55    30/61    31/59    29/54    26/58    
+    00/30    30/00    00/00    00/00    00/20    20/00    00/00   
+
+
+$$

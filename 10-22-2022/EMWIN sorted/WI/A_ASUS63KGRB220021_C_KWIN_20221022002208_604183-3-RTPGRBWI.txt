@@ -1,0 +1,59 @@
+ASUS63 KGRB 220021
+RTPGRB
+Evening Temperature and Precipitation Summary
+National Weather Service Green Bay WI
+721 PM CDT Fri Oct 21 2022
+
+High and low temperatures are for the previous 18 hours ending at 7 
+PM. Precipitation and new snowfall are for the previous 24 hours 
+ending at 7 PM. Snow on the ground is as of 7 PM.
+
+.BR GRB 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                             
+:                           Max   Min          Snow   Snow
+:ID       Location          Temp  Temp  Pcpn   Fall   Depth
+GRB  : Green Bay ASOS    :  76 /  37 /  0.00 /  0.0 /   0
+AUW  : Wausau ASOS       :  68 /  32 /  0.00 /  0.0 /   0
+RHI  : Rhinelander ASOS  :  66 /  37 /  0.00 /  0.0 /   0
+OSH  : Oshkosh ASOS      :  75 /  37 /     M /      /
+ISW  : Wis Rapids ASOS   :  71 /  33 /     M /      /
+MFI  : Marshfield ASOS   :  69 /  33 /     M /      /
+EGV  : Eagle River AWOS  :  64 /  33 /     M /      /
+ARV  : Arbor Vitae AWOS  :  64 /  37 /     M /      /
+LNL  : Land O Lakes AWOS :  64 /  35 /     M /      /
+D25  : Manitowish Waters :  64 /  36 /     M /      /
+TKV  : Tomahawk AWOS     :  67 /  32 /     M /      /
+RRL  : Merrill AWOS      :  66 /  26 /     M /      /
+AIG  : Antigo AWOS       :  65 /  34 /     M /      /
+CWA  : Mosinee AWOS      :  66 /  32 /     M /      /
+STE  : Stevens Point AWOS:  71 /  33 /     M /      /
+CLI  : Clintonville AWOS :  70 /  30 /     M /      /
+EZS  : Shawano AWOS      :  73 /  38 /     M /      /
+PCZ  : Waupaca AWOS      :  73 /  32 /     M /      /
+Y50  : Wautoma AWSS      :  74 /  26 /     M /      /
+OCQ  : Oconto AWOS       :  72 /  31 /     M /      /
+ATW  : Appleton AWOS     :  72 /  36 /     M /      /
+SUE  : Sturgeon Bay AWOS :  69 /  42 /     M /      /
+3D2  : Ephraim AWOS      :  66 /  40 /     M /      /
+MTW  : Manitowoc AWOS    :  75 /  35 /     M /      /
+2P2  : Washington Island :  54 /  45 /     M /      /
+.END
+.BR GRB 1021 C DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:..........Cooperative and other observation report...........
+: values are for the previous 24 hours ending at 7 pm CDT (6 pm CST)
+:
+:                             Obs     Max   Min         Snow   Snow
+:ID      Location             Time    Temp  Temp  Pcpn  Fall  Depth
+BVUW3: Green Bay East       : DH1800/  74 /  38 / 0.00 / 0.0 /   0
+MANW3: Manitowoc WWTP       : DH1800/  60 /  41 / 0.00 / 0.0 /   0
+CBRW3: Chambers Island      : DH1900/  64 /  45 /      /     /
+ERRW3: Merrill 4W           : DH1600/     /     / 0.00 / 0.0 /   0
+.END
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncdc.noaa.gov.
+  
+$$
+

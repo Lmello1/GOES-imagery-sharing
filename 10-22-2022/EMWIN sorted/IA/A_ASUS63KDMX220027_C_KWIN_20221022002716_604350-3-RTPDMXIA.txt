@@ -1,0 +1,112 @@
+ASUS63 KDMX 220027
+RTPDMX
+
+Max/Min Temperature and Precipitation Table for Central Iowa
+National Weather Service Des Moines IA
+727 PM CDT Fri Oct 21 2022
+
+.BR DMX 1021 C DH19/DC2210211926/TAIRZS/TAIRZI/PP/SF/SD
+:
+: Values represent 18-hour highs...18-hour lows...
+: and 24-hour precipitation ending at  7 PM Central Time
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+LWD  : Lamoni ASOS        :  84 /  45 /    T  /      /
+AMW  : Ames ASOS          :  80 /  32 /  0.00 /      /
+DSM  : Des Moines ASOS    :  79 /  46 /  0.00 /  0.0 /   0
+DMX  : NWS Johnston*      :  79 /  47 /  0.00 /  0.0 /   0
+MIW  : Marshalltown ASOS  :  78 /  38 /  0.00 /      /
+EST  : Estherville ASOS   :  71 /  37 /  0.00 /      /
+FOD  : Fort Dodge AWOS    :  75 /  45 /  0.00 /      /
+MCW  : Mason City ASOS    :  72 /  37 /  0.00 /      /
+ALO  : Waterloo ASOS      :  79 /  38 /  0.00 /  0.0 /   0
+OTM  : Ottumwa ASOS       :  84 /  42 /  0.00 /      /
+:
+:* Cooperative weather observation site
+:
+:
+: Other Automated Locations
+:
+: ...North Central Iowa...
+AXA  : Algona AWOS        :  72 /  43 /    M /      /
+CAV  : Clarion AWOS       :  73 /  39 /    M /      /
+FXY  : Forest City AWOS   :  72 /  32 /    M /      /
+HPT  : Hampton AWOS       :  75 /  45 /    M /      /
+:
+: ...West Central Iowa...
+ADU  : Audubon AWOS       :  79 /  37 /    M /      /
+CIN  : Carroll AWOS       :  79 /  50 /    M /      /
+DNS  : Denison AWOS       :  72 /  45 /    M /      /
+:
+: ...Central Iowa...
+IKV  : Ankeny AWOS        :  79 /  36 /    M /      /
+BNW  : Boone AWOS         :  79 /  46 /    M /      /
+GGI  : Grinnell AWOS      :  82 /  45 /    M /      /
+IFA  : Iowa Falls AWOS    :  77 /  44 /    M /      /
+TNU  : Newton AWOS        :  81 /  39 /    M /      /
+PRO  : Perry AWOS         :  81 /  37 /    M /      /
+NSSI4: Prairie City/NS NWR:  81 /  43 /    M /      /
+EBS  : Webster City AWOS  :  77 /  36 /    M /      /
+:
+: ...Southwestern Iowa...
+AIO  : Atlantic AWOS      :  75 /  34 /    M /      /
+:
+: ...South Central Iowa...
+TVK  : Centerville AWOS   :   M /   M /    M /      /
+CNC  : Chariton AWOS      :  82 /  45 /    M /      /
+CSQ  : Creston AWOS       :  79 /  45 /    M /      /
+OXV  : Knoxville AWOS     :  82 /  45 /    M /      /
+SSFI4: Lucas/Stephens SF  :  84 /  49 /    M /      /
+I75  : Osceola AWOS       :  83 /  44 /    M /      /
+PEA  : Pella AWOS         :  81 /  42 /    M /      /
+:
+: ...Southeastern Iowa...
+OOA  : Oskaloosa AWOS     :  86 /  41 /    M /      /
+:
+.END
+
+
+.BR DMX 1021 C DH1926/DC2210211926/TX/TN/PP/SF/SD
+:
+: Values represent the 24 hours ending around 7 PM Central Time
+:
+: Cooperative observer and other locations
+:
+:                          Date/Time   Max   Min                Snow
+:      Location               DDHHMM  Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+:
+: ...North Central Iowa...
+:
+: ...Northeastern Iowa...
+:
+: ...West Central Iowa...
+COOI4: Coon Rapids        : DD211900/     /     /  0.00 /      /    
+RWCI4: Rockwell City      : DD211900/     /     /  0.00 /      /    
+:
+: ...Central Iowa...
+MXWI4: Maxwell            : DD211900/     /     /  0.00 /      /    
+OGDI4: Ogden              : DD211900/     /     /  0.00 /      /    
+STYI4: Story City         : DD211900/     /     /  0.00 /      /    
+:
+: ...Southwestern Iowa...
+ADAI4: Adair              : DD211900/     /     /  0.00 /      /    
+GRNI4: Greenfield         : DD211900/     /     /  0.00 /      /    
+:
+: ...South Central Iowa...
+CMBI4: Columbia           : DD211900/     /     /  0.00 /      /    
+:
+: ...Southeastern Iowa...
+:
+.END
+
+These data are preliminary and have not undergone final quality 
+control /QC/ by NCEI. Therefore, these data are subject to revision.
+Final and certified climate data can be accessed at the National 
+Centers for Environmental Information /NCEI/ - www.ncei.noaa.gov .
+
+$$
+

@@ -1,0 +1,62 @@
+ASUS42 KMLB 220110
+RWRMLB
+HOURLY WEATHER ROUNDUP AROUND FLORIDA
+NATIONAL WEATHER SERVICE OFFICE MELBOURNE FL
+900 PM EDT FRI OCT 21 2022
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MELBOURNE      CLEAR     67  56  67 NW9       30.03R                  
+FORT PIERCE    CLOUDY    69  59  70 NW8       30.01R                  
+ORLANDO INTL   CLEAR     65  49  56 N9        30.07R                  
+DAYTONA BEACH  CLEAR     64  50  60 NW8       30.07R                  
+VERO BEACH     CLOUDY    68  60  75 NW9       30.02R                  
+$$
+...ELSEWHERE ACROSS CENTRAL FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PATRICK AFB    PTCLDY    68  67  99 N9        30.01R                  
+KSC            CLEAR     63  56  79 N6        30.03R                  
+CAPE CANAVERAL CLEAR     67  57  71 NW7       30.02R                  
+TITUSVILLE     PTCLDY    70  54  56 N7        30.06R                  
+SEBASTIAN      FAIR      67  57  70 NW8       30.03R                  
+ORLANDO EXEC   CLEAR     67  47  48 N8        30.07R                  
+LEESBURG       CLEAR     64  49  57 NE10      30.09R                  
+SANFORD        CLEAR     65  50  58 N9        30.07R                  
+DELAND         CLEAR     62  49  62 NW8       30.09R                  
+NEW SMYRNA BCH CLEAR     64  54  68 N6        30.06R                  
+WINTER HAVEN   CLEAR    N/A N/A N/A N9        30.07R                  
+KISSIMMEE      CLEAR     67  49  52 N7        30.08R                  
+OKEECHOBEE     PTCLDY    66  59  77 N7        30.02R                  
+TAMPA          CLEAR     63  46  54 N9        30.07R                  
+$$
+...NORTHERN FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST AUGUSTINE   CLEAR     61  50  67 NW6       30.11R                  
+OCALA          CLEAR     60  40  47 NE5       30.10R                  
+GAINESVILLE    CLEAR     54  43  66 CALM      30.12R                  
+JACKSONVILLE   CLEAR     53  45  74 CALM      30.10R                  
+TALLAHASSEE    CLEAR     54  38  54 CALM      30.11R                  
+$$
+...ALONG THE SOUTHEAST COAST TO THE KEYS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+STUART         PTCLDY    72  59  64 N5        30.02R                  
+WEST PALM BCH  MOCLDY    70  65  84 N12       29.99R                  
+MIAMI          CLOUDY    75  64  68 N10       29.98R                  
+KEY WEST       PTCLDY    74  65  73 N12       29.99R                  
+$$
+...MARINE REPORTS...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+ST AUGUSTINE FP  0100   68 72   10/ 14/ 16 1019.3R
+20NM E CAPE CANA 0050   75 81  360/ 14/ 17 1015.4R   5/ 6   2/ 8
+120 E NEW SMYRNA 0050   76 82   50/ 14/ 19 1016.5R
+TRIDENT PIER     0030          340/  5/  7   N/A
+4NM E PORT CANAV 0026      76                N/A     3/ 7
+6NM NE FPR INLET 0026      78                N/A     6/ 7   2/13
+SETTLEMENT PT GB 0100   77      40/ 16/ 18 1014.5R
+$$
+  

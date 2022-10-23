@@ -1,0 +1,57 @@
+ASUS64 KEWX 220059
+RTPEWX
+
+Evening Temperature and Precipitation Summary for South Central Texas
+National Weather Service Austin/San Antonio TX
+725 PM CDT Fri Oct 21 2022
+
+Values represent lows over the last 18 hours, highs over the
+last 18 hours, and precipitation over the last 24 hours.
+
+
+.BR EWX 1021 C DH19/TAIRZS/TAIRZI/PPDDRZZ
+:
+:                              MAX   MIN 
+:ID       LOCATION            TEMP  TEMP   PCPN 
+:
+K3T5: La Grange AWOS       :    M /   M /     M
+K5C1: Boerne AWOS          :   79 /  50 /  0.00
+K5T9: Eagle Pass AWOS      :   84 /  54 /  0.00
+KAQO: Llano AWOS           :   90 /  46 /  0.00
+KATT: Camp Mabry ASOS      :   88 /  56 /  0.00
+KAUS: Bergstrom ASOS       :   87 /  56 /  0.00
+KBAZ: New Braunfels ASOS   :   87 /  53 /  0.00
+KBMQ: Burnet ASOS          :   87 /  53 /  0.00
+KCVB: Castroville AWOS     :    M /   M /     M
+KCZT: Carrizo Springs AWOS :   86 /  48 /  0.00
+KDLF: Laughlin AFB ASOS    :   83 /  51 /  0.00
+KDRT: Del Rio ASOS         :   83 /  53 /  0.00
+KDZB: Horseshoe Bay AWOS   :   89 /  53 /  0.00
+KECU: Rocksprings AWOS     :   79 /  54 /  0.00
+KEDC: Pflugerville AWOS    :   84 /  55 /  0.00
+KERV: Kerrville AWOS       :   83 /  45 /  0.00
+KGTU: Georgetown AWOS      :   86 /  54 /  0.00
+KGYB: Giddings AWOS        :   85 /  57 /     M
+KHDO: Hondo ASOS           :   85 /  48 /  0.00
+KHYI: San Marcos AWOS      :   84 /  55 /  0.00
+KPEZ: Pleasanton AWOS      :   87 /  50 /  0.00
+KRND: Randolph AFB ASOS    :   85 /  56 /  0.00
+KRYW: Lago Vista AWOS      :   85 /  61 /     M
+KSAT: San Antonio ASOS     :   84 /  56 /  0.00
+KSEQ: Seguin AWOS          :   85 /  52 /  0.00
+KSKF: Kelly Field ASOS     :   85 /  50 /  0.00
+KSSF: Stinson ASOS         :   86 /  52 /  0.00
+KT20: Gonzales AWOS        :   87 /  56 /  0.00
+KT74: Taylor AWOS          :   86 /  57 /  0.00
+KT82: Fredericksburg AWOS  :   83 /  47 /  0.00
+KUVA: Uvalde AWOS          :   83 /  49 /  0.00
+.END
+
+
+These data are preliminary and have not undergone final quality control by the
+National Centers for Environmental Information (NCEI). Therefore, these data 
+are subject to revision. Final and certified climate data can be accessed
+at www.ncdc.noaa.gov.
+
+
+$$

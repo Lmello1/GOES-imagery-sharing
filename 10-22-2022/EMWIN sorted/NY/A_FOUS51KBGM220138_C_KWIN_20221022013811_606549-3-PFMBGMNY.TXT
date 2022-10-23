@@ -1,0 +1,334 @@
+FOUS51 KBGM 220138
+PFMBGM
+
+Point Forecast Matrices
+National Weather Service Binghamton NY
+937 PM EDT Fri Oct 21 2022
+
+NYZ018-220900-
+Syracuse Hancock International Airport-Onondaga NY
+43.12N  76.12W Elev. 421 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          71          43          68          48
+Temp                55 48 44 44 61 70 68 57 52 49 45 43 59 67 65 56 53 51 50 49
+Dewpt               29 31 32 33 39 40 43 42 41 40 39 41 46 46 47 48 47 48 47 47
+RH                  37 51 62 65 44 33 40 57 66 71 79 93 62 47 52 74 80 89 89 93
+Wind dir             S  S  S SE  S  S  S  S SE SE SE  E  E SE SE SE SE SE  E SE
+Wind spd            10  6  5  5  5  8  6  5  3  3  3  3  3  4  4  3  2  2  2  2
+Clouds              FW FW FW CL FW CL CL FW FW FW SC SC B1 B2 B2 B2 B2 B1 B1 SC
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      51    73      55    72      53    66      47    62
+Temp          68 58   53 53 72 61   57 57 71 62   58 53 65 55   50 47 60 55
+Dewpt         53 54   53 52 56 56   55 55 56 56   55 52 51 50   48 46 48 48
+PWind dir        SE      SE     S      SE     S      SW     W       W     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 B1 B1   B1 B1 B1 B1   B1 B1 B1 B1   B1 B1 B1 B2
+PoP 12hr         10       5     5      20    30      30    20      20    20
+Rain shwrs                              S  S  C    C  S  S  S    S  S  S  S
+
+$$
+NYZ056-220900-
+Binghamton Regional Airport-Broome NY
+42.23N  75.98W Elev. 1636 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          66          41          62          47
+Temp                46 43 42 41 56 66 65 55 49 46 42 41 51 59 61 56 51 50 48 47
+Dewpt               27 30 29 29 35 38 38 36 38 37 36 38 42 44 45 44 44 45 45 46
+RH                  47 60 60 62 45 36 37 49 66 71 79 89 71 57 56 64 77 83 89 96
+Wind dir             S  S  S  S  S  S  S  S  S SE SE  E SE SE SE SE  E  E  E  E
+Wind spd             8  9  8  5  9 10  6  6  5  4  4  3  4  5  4  4  4  4  4  3
+Clouds              CL FW CL CL CL FW CL CL FW SC SC B1 B1 B2 B2 B2 B2 B1 B1 B1
+PoP 12hr                      0           0           0          20          30
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C  C  C   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      50    68      54    67      52    63      47    60
+Temp          61 58   53 50 66 61   57 54 64 61   55 52 62 55   50 47 57 54
+Dewpt         52 50   50 50 54 52   53 52 55 53   52 50 49 47   45 44 47 45
+PWind dir        SE      SE     S      SE     S      SW    NW       N     N
+Wind char        LT      LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 SC   B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 B1   SC B1 B1 B1
+PoP 12hr         10      10    10      20    30      30    20      20    20
+Rain shwrs                              S  S  C    C  S  S  S    S  S  S  S
+
+$$
+PAZ044-220900-
+Wilkes-Barre Scranton International Airport-Luzerne PA
+41.33N  75.73W Elev. 962 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          66          41          65          49
+Temp                43 40 38 37 56 66 64 51 46 42 43 42 56 64 62 55 53 51 51 50
+Dewpt               31 30 30 32 38 40 41 39 40 40 39 40 47 49 49 48 49 49 50 50
+RH                  62 67 73 82 51 38 43 63 79 93 86 93 72 58 62 77 86 93 96100
+Wind dir             E  S  S  S SW SW  S SE SE SE  E  E  E  E  E  E NE NE  N  N
+Wind spd             2  2  3  2  4  5  4  2  2  2  1  1  3  4  3  2  2  2  2  2
+Clouds              CL CL CL CL CL FW FW FW FW B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 B1
+PoP 12hr                      0           0           0          30          40
+QPF 12hr                      0           0           0        0.02        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  C  C  C  C  S
+Obvis                                             PF                           
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      51    70      55    70      55    66      49    63
+Temp          64 60   53 53 69 61   57 57 68 64   58 55 64 59   51 50 62 56
+Dewpt         56 54   53 53 59 56   56 56 59 57   56 54 54 50   49 48 50 48
+PWind dir         N      SE     S      SE     S      SW    NW       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 B1   B2 B2 B1 B1   B1 B1 B1 B1   SC B1 B1 B1
+PoP 12hr         20      20    20      30    30      30    20      20    20
+Rain shwrs     S  S    S  S     S    S  C  C  C    C  S  S  S    S  S  S  S
+
+$$
+NYZ024-220900-
+Elmira Corning Regional Airport-Chemung NY
+42.18N  76.90W Elev. 954 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      32          69          35          67          45
+Temp                37 36 34 33 56 69 67 52 46 41 37 35 54 66 65 55 50 48 47 46
+Dewpt               30 30 30 30 39 40 41 40 38 37 37 35 46 46 47 47 46 46 45 46
+RH                  75 79 85 89 53 35 39 63 73 85100100 74 48 52 74 86 93 93100
+Wind dir            SW  S  S  S  S  S  S  S  S  S  S  S SE SE SE SE SE  N  N  S
+Wind spd             2  3  3  2  5  8  6  2  1  1  1  0  2  4  4  1  0  0  0  0
+Clouds              CL FW FW CL CL CL CL CL FW FW SC B1 B1 B1 B1 B2 B1 B1 B1 SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      48    72      52    72      51    66      45    64
+Temp          68 58   50 50 70 61   56 53 71 61   55 51 65 55   48 46 63 54
+Dewpt         53 52   50 50 55 54   54 53 57 56   53 51 51 49   46 45 49 48
+PWind dir         S       S     S       S     S      SW    NW       N    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 B1   SC B1 B1 B1
+PoP 12hr          5       5    10      20    30      30    20      20    20
+Rain shwrs                              S  S  C    C  S  S  S    S  S  S  S
+
+$$
+PAZ047-220900-
+Hazelton Municipal Airport-Luzerne NY
+40.99N  76.00W Elev. 1603 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      36          63          41          62          48
+Temp                44 40 37 37 55 63 61 48 44 42 41 43 56 61 60 52 50 49 48 48
+Dewpt               29 28 30 32 37 38 39 40 40 39 38 40 46 48 48 48 48 48 48 48
+RH                  55 62 75 82 51 39 44 74 86 89 89 89 69 62 64 86 93 96100100
+Wind dir             S  S  S  S  S  S  S SE SE  E  E  E  E  E  E  E NE NE  N  N
+Wind spd             4  5  5  2  3  3  3  1  1  1  1  2  2  2  2  2  2  2  2  2
+Clouds              CL CL CL CL CL CL CL FW SC B1 B1 B2 B2 B2 B2 B2 B2 B1 B1 B1
+PoP 12hr                      0           0           0          30          40
+QPF 12hr                      0           0           0        0.02        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  C  C  C  C  S
+Obvis                                          PF PF                           
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      50    68      53    67      53    64      47    61
+Temp          63 57   52 51 66 59   55 55 66 59   56 53 64 55   50 47 61 52
+Dewpt         55 54   52 51 58 56   55 55 58 57   55 53 52 50   48 46 50 49
+PWind dir         N       E     S      SE     S      SW    NW       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 B1   B2 B2 B1 B1   B1 B1 B1 SC   SC SC B1 B1
+PoP 12hr         20      20    10      20    30      30    20      20    20
+Rain shwrs     S  S       S          S  S  S  C    C  S  S  S    S  S  S  S
+
+$$
+NYZ025-220900-
+Ithaca Tompkins Regional Airport-Tompkins NY
+42.48N  76.47W Elev. 1099 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          68          40          66          46
+Temp                47 43 40 41 57 67 64 53 47 44 43 41 58 65 63 54 50 48 47 48
+Dewpt               30 31 31 31 38 40 40 39 38 38 37 40 44 44 46 46 45 46 46 47
+RH                  51 62 70 67 49 37 41 59 71 79 79 96 59 46 54 74 83 93 96 96
+Wind dir             S  S  S SE  S  S  S  S SE  S SE SE SE SE SE SE SE SE SE SE
+Wind spd             8  9  8  8 10 10  9  6  5  5  5  5  5  6  5  4  4  3  3  4
+Clouds              CL FW CL CL CL CL CL FW FW FW SC SC B1 B1 B2 B2 B1 B1 B1 SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      49    71      53    70      51    64      45    62
+Temp          66 56   51 51 70 60   55 55 69 59   55 52 61 56   48 47 61 52
+Dewpt         52 52   51 51 54 53   54 53 55 54   53 51 50 48   46 45 48 47
+PWind dir        SE      SE     S       S     S       S    NW       N    NW
+Wind char        LT      LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 B1 B1   B1 B2 B1 B1   B1 B1 B1 B1   B1 B1 B1 B2
+PoP 12hr         10       5    10      20    30      30    20      20    20
+Rain shwrs                              S  S  C    C  S  S  S    S  S  S  S
+
+$$
+NYZ062-220900-
+Sullivan County International Airport-Sullivan NY
+41.71N  74.80W Elev. 1403 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      34          64          38          62          46
+Temp                44 39 34 35 55 63 61 47 42 40 38 40 56 61 59 51 48 48 48 47
+Dewpt               31 30 28 29 37 40 41 39 39 38 37 39 45 46 47 48 48 48 47 47
+RH                  60 70 78 78 51 43 48 74 89 92 96 96 66 58 64 89100100 96100
+Wind dir            NE  E  E NE SW  S  S SE  N  N NE NE  E  E  E NE NE NE NE NE
+Wind spd             1  1  1  0  2  4  3  1  0  1  1  2  2  4  3  2  2  2  2  2
+Clouds              CL CL CL CL CL FW CL FW SC B1 B1 B2 B2 B2 B2 OV B2 B2 B2 B2
+PoP 12hr                      0           0           0          30          50
+QPF 12hr                      0           0           0        0.07        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  C  C  C  C  C
+Obvis                                          PF PF                           
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      48    68      50    67      51    65      45    61
+Temp          63 57   50 50 67 58   54 51 67 58   54 51 64 55   48 45 61 52
+Dewpt         56 54   50 50 59 56   54 51 59 58   54 51 54 51   48 45 49 48
+PWind dir        NE       E    SE      SE    SE      SW    NW       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 B1   B2 B2 B1 B1   B1 B1 B1 SC   SC SC SC B1
+PoP 12hr         30      20    20      30    30      30    20      20    20
+Rain shwrs     C  S    S  S     S    S  C  C  C    C  C  S  S    S  S  S  S
+
+$$
+NYZ015-220900-
+Penn Yan Airport-Yates NY
+42.65N  77.05W Elev. 990 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          69          45          67          48
+Temp                51 47 45 45 59 68 67 56 52 49 47 45 59 66 64 56 53 51 50 49
+Dewpt               31 31 32 34 39 41 42 41 40 39 39 41 46 45 47 47 46 47 47 47
+RH                  46 53 60 65 47 37 40 57 63 68 74 86 62 47 54 72 77 86 89 93
+Wind dir             S SW SW SW  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S
+Wind spd            11 13 11 10 10 10  8  6  6  6  5  5  5  5  5  4  4  4  3  3
+Clouds              FW FW FW CL CL FW CL FW CL FW SC SC B1 B1 B1 B2 B1 B1 SC SC
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      52    71      56    70      53    64      47    61
+Temp          68 58   54 52 70 61   59 57 69 61   57 53 63 54   50 48 59 54
+Dewpt         52 52   51 51 54 53   54 55 56 56   54 52 51 49   46 47 48 47
+PWind dir         S       S     S       S     S      SW     W       W     W
+Wind char        LT      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC B1 B1   B1 B1 B1 B1   B1 B1 B1 B1   SC SC B1 B2
+PoP 12hr          5       5     5      20    30      30    20      20    20
+Rain shwrs                              S  S  C    C  S  S  S    S  S  S  S
+
+$$
+NYZ037-220900-
+Oneida County Airport Griffiss Airfield-Rome NY
+43.23N  75.40W Elev. 504 ft
+937 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      34          70          38          66          47
+Temp                48 40 35 35 56 69 69 55 47 43 41 38 55 65 63 54 51 49 47 49
+Dewpt               30 30 31 31 38 40 42 40 40 39 38 38 44 45 45 45 45 46 46 47
+RH                  49 67 85 85 51 35 37 57 76 86 89100 66 48 52 71 80 89 96 93
+Wind dir             E  E  E  E SE  S  S  E  E  E  E  E  E SE  E  E  E  E  E  E
+Wind spd             6  6  6  5  5  8  5  4  3  3  3  4  4  5  5  4  3  3  2  2
+Clouds              FW FW CL CL CL FW CL CL FW FW SC SC B1 B2 B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      49    71      52    70      52    65      45    62
+Temp          64 59   52 50 70 61   55 54 68 62   56 52 64 54   49 46 59 55
+Dewpt         52 52   51 50 56 55   54 53 56 55   54 52 50 49   47 44 47 47
+PWind dir        SE      SE    SE      SE    SE       S     W       N     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 B1 B1   B1 B1 B1 B1   B1 B1 B1 B1   B1 SC B1 B1
+PoP 12hr         10      10     5      20    30      40    20      20    20
+Rain shwrs                              S  S  C    C  C  S  S    S  S  S  S
+
+$$

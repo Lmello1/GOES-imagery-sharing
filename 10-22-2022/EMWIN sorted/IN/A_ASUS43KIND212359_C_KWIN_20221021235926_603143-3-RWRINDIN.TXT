@@ -1,0 +1,151 @@
+ASUS43 KIND 212359
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+800 PM EDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-220100-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ CLEAR     70  39  32 S8        29.74R                  
+KNOX *+        CLEAR     64  36  34 S12       29.78R                  
+MONTICELLO +   CLEAR     66  34  30 S8        29.81R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  75;                                
+
+RENSSELAER +   CLEAR     64  36  34 S9        29.80R                  
+
+$$
+
+LMZ046-743>745-220100-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BURNS HARBOR     2340   70     180/  8/ 12 1007.1R
+MICHIGAN CITY    2330   71                 1005.5R
+5NW MICH CITY    2330   64                   N/A     1
+
+$$
+
+INZ004-005-014>016-021>024-220100-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        CLEAR     65  38  37 S8        29.79R                  
+GOSHEN         CLEAR     63  38  39 S13       29.79R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  73;                                
+
+PERU/GRISSOM   CLEAR     63  36  37 S13       29.82R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  75;                                
+
+SOUTH BEND     CLEAR     66  38  35 S13       29.78R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  75;                                
+
+
+$$
+
+INZ006>009-017-018-025>027-220100-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      MOCLDY    63  37  39 S9        29.81R                  
+FORT WAYNE     PTCLDY    60  37  42 S12       29.85R                  
+6HR MIN TEMP:  60; 6HR MAX TEMP:  74;                                
+
+KENDALLVILLE + FAIR      64  38  38 S10       29.81R                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-220100-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  CLEAR     62  30  30 S10       29.85S                  
+6HR MIN TEMP:  61; 6HR MAX TEMP:  71;                                
+
+LAFAYETTE      CLEAR     66  36  32 S7        29.82R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  75;                                
+
+TERRE HAUTE    CLEAR     65  37  35 S9        29.86R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  77;                                
+
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-220100-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANDERSON +     PTCLDY    62  29  29 S6        29.89                   
+6HR MIN TEMP:  62; 6HR MAX TEMP:  73;                                
+
+COLUMBUS       CLEAR     63  30  29 S10       29.92R                  
+GREENWOOD *+   CLEAR     63  37  39 S6        29.90R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  75;                                
+
+INDIANAPOLIS   PTCLDY    63  35  35 S10       29.88R                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  75;                                
+
+-EAGLE CREEK   CLEAR     65  35  33 S6        29.87R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  74;                                
+
+KOKOMO +       CLEAR     64  37  36 S13       29.86R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  74;                                
+
+MT COMFORT *+  PTCLDY    61  36  39 S6        29.90R                  
+SHELBYVILLE    CLEAR     65  34  31 S8        29.89R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  76;                                
+
+
+$$
+
+INZ033-034-041-042-049-050-058-059-220100-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         PTCLDY    66  32  28 S12       29.88R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  74;                                
+
+RICHMOND +     FAIR      52  36  54 S8        29.95R                  
+
+$$
+
+INZ060-061-067>069-081>083-085>088-220100-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     CLEAR     67  36  31 SE5       29.90R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  77;                                
+
+HUNTINGBURG +  CLEAR     65  37  35 SE7       29.92R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  75;                                
+
+
+$$
+
+INZ062-063-066-070>080-084-089>092-220100-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE +   CLEAR     57  32  38 S6        29.93S                  
+BLOOMINGTON    CLEAR     61  34  36 S6        29.90R                  
+6HR MIN TEMP:  61; 6HR MAX TEMP:  75;                                
+
+FRENCH LICK *+ CLEAR     64  32  29 S3        29.92R                  
+MADISON *+     CLEAR     61  34  36 SE6       29.97S                  
+
+$$
+
+  

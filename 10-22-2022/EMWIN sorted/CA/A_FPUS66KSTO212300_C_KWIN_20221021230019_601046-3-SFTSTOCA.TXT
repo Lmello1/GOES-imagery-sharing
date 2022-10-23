@@ -1,0 +1,158 @@
+FPUS66 KSTO 212300
+SFTCA 
+CAZ001>010-013>019-063>076-080>085-089>099
+
+TABULAR FORECAST FOR NORTHERN AND CENTRAL CALIFORNIA
+NATIONAL WEATHER SERVICE SACRAMENTO CA
+400 PM PDT FRI OCT 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...NORTHWEST CALIFORNIA...
+   Crescent City
+   Shwrs    Sunny    Rain     Mocldy   Rain     Mocldy   Mocldy   
+   51/57    42/57    47/56    49/55    48/54    45/56    47/57    
+    40/50    60/00    10/60    50/40    80/60    20/10    30/40   
+
+   Eureka
+   Mocldy   Sunny    Mocldy   Mocldy   Rain     Mocldy   Cloudy   
+   52/58    42/56    44/58    49/57    48/55    43/57    44/59    
+    60/20    40/00    00/40    40/40    60/50    10/10    20/40   
+
+   Ukiah
+   Ptcldy   Sunny    Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   
+   50/67    38/68    39/76    48/70    46/65    38/72    40/73    
+    10/00    10/00    00/00    00/20    30/20    00/00    10/20   
+
+...NORTHEAST CALIFORNIA/NORTHERN MOUNTAINS...
+   Mount Shasta City
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   39/52    29/52    28/61    35/57    35/50    31/58    30/60    
+    70/50    40/00    00/20    30/30    60/50    10/10    10/30   
+
+   Yreka
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   43/54    35/54    30/61    42/58    39/52    35/58    35/62    
+    90/70    60/00    00/40    50/40    70/60    20/10    20/30   
+
+   Alturas
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   35/50    26/48    16/58    29/57    29/47    23/54    21/59    
+    80/60    30/00    00/10    30/20    50/50    10/00    10/10   
+
+...SACRAMENTO VALLEY...
+   Redding
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   51/69    38/68    39/76    43/68    39/66    40/71    39/71    
+    20/10    10/00    00/10    30/30    40/40    10/10    20/20   
+
+   Chico
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   57/71    48/69    46/74    49/70    48/67    46/71    46/70    
+    10/10    00/00    00/00    10/20    30/30    10/00    10/20   
+
+   Sacramento
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   59/72    51/70    48/73    49/72    50/69    49/71    46/72    
+    10/10    00/00    00/00    00/20    20/20    10/00    10/10   
+
+...SIERRA NEVADA...
+   South Lake Tahoe
+   Rain     Ptcldy   Sunny    Ptcldy   Mocldy   Sunny    Ptcldy   
+   37/51    18/43    18/58    27/60    25/46    19/51    21/57    
+    00/60    30/00    00/00    00/10    20/30    20/00    00/00   
+
+   Blue Canyon
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   44/49    36/49    40/58    46/54    42/47    39/53    43/55    
+    30/60    10/00    00/00    00/20    30/30    10/00    00/10   
+
+   Yosemite Valley
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   41/68    23/64    28/73    34/73    32/65    26/69    30/72    
+    10/60    20/00    00/00    00/10    10/20    20/00    00/00   
+
+   Mammoth Lakes
+   Rnsnow   Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   39/48    19/39    18/55    31/56    29/47    20/47    24/55    
+    00/70    50/10    00/00    00/00    10/20    20/00    00/00   
+
+...SAN FRANCISCO BAY AREA...
+   Santa Rosa
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   51/72    42/72    41/75    45/72    44/69    41/72    41/71    
+    10/00    00/00    00/00    10/20    20/20    00/00    10/10   
+
+   San Francisco 
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   57/67    52/67    53/66    53/64    53/64    51/65    50/65    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Oakland       
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   58/69    52/70    52/70    53/66    54/65    52/67    50/67    
+    10/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   San Jose      
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   57/68    50/68    48/71    52/69    52/65    49/68    49/70    
+    00/00    00/00    00/00    00/10    20/20    10/00    00/10   
+
+...CENTRAL COAST...
+   Santa Cruz    
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   52/66    47/67    46/68    48/66    48/64    46/65    47/66    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/00   
+
+   Monterey     
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   55/63    49/63    47/66    50/63    50/60    47/63    48/64    
+    10/10    00/00    00/00    00/10    10/10    00/00    00/00   
+
+...SAN JOAQUIN VALLEY...
+   Stockton
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   59/72    50/68    46/71    49/72    52/67    48/69    46/72    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Modesto
+   Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   57/71    50/67    46/71    48/72    51/67    48/68    46/72    
+    10/20    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Fresno
+   Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   57/72    47/67    45/71    47/74    49/68    46/68    46/74    
+    10/20    20/00    00/00    00/00    10/10    10/00    00/00   
+
+   Bakersfield
+   Sunny    Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   60/75    51/65    48/71    50/73    51/67    49/68    47/74    
+    00/10    20/00    00/00    00/00    00/10    10/00    00/00   
+
+...TEHACHAPIS AND NORTHERN MOJAVE DESERT...
+   Tehachapi
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   47/64    36/52    32/60    35/66    37/58    33/57    34/62    
+    00/10    20/00    00/00    00/00    00/10    10/00    00/00   
+
+   Inyokern
+   Dust     Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   60/78    48/65    43/69    45/76    48/73    45/69    44/71    
+    00/10    20/00    00/00    00/00    00/10    10/00    00/00   
+
+ADDITIONAL CITIES MAY BE FOUND IN THE FOLLOWING LOCAL TABULAR PRODUCTS
+FPUS66 KEKA - FPUS66 KHNX - FPUS66 KMFR - FPUS66 KMTR
+FPUS66 KSTO/SFTSTO - FPUS65 KREV/SFTREV
+
+$$

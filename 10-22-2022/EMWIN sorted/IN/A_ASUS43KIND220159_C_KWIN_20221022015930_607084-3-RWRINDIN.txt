@@ -1,0 +1,114 @@
+ASUS43 KIND 220159
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+1000 PM EDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-220300-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ CLEAR     66  37  34 S9G16     29.77R                  
+KNOX *+        CLEAR     63  36  36 S16       29.80S                  
+MONTICELLO +   CLEAR     63  34  34 S9        29.85R                  
+RENSSELAER +   CLEAR     61  36  39 S12       29.83S                  
+
+$$
+
+LMZ046-743>745-220300-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BURNS HARBOR     0130   67     180/ 11/ 13 1008.1R
+MICHIGAN CITY    0130   67                 1006.7R
+5NW MICH CITY    0130   64                   N/A     2
+
+$$
+
+INZ004-005-014>016-021>024-220300-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        CLEAR     62  38  40 S10       29.82R                  
+GOSHEN         CLEAR     62  38  40 S15G26    29.83R                  
+PERU/GRISSOM   CLEAR     61  36  39 S12       29.86R                  
+SOUTH BEND     CLEAR     64  38  38 S16G25    29.81R                  
+
+$$
+
+INZ006>009-017-018-025>027-220300-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      MOCLDY    59  37  44 S10       29.84R                  
+FORT WAYNE     CLEAR     56  36  47 S10       29.89R                  
+KENDALLVILLE + FAIR      60  39  46 S13       29.86R                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-220300-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  CLEAR     54  29  39 S9        29.88S                  
+LAFAYETTE      CLEAR     62  36  37 S7        29.85R                  
+TERRE HAUTE    CLEAR     60  37  42 S7        29.88R                  
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-220300-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANDERSON +     CLEAR     58  29  32 S9        29.92R                  
+COLUMBUS       CLEAR     57  30  35 S9        29.93S                  
+GREENWOOD *+   CLEAR     59  38  44 S6        29.92S                  
+INDIANAPOLIS   PTCLDY    56  35  45 SE8       29.91R                  
+-EAGLE CREEK   CLEAR     60  35  39 SE5       29.90R                  
+KOKOMO +       CLEAR     60  36  40 S13       29.89R                  
+MT COMFORT *+  CLEAR     55  36  47 S6        29.92S                  
+SHELBYVILLE    CLEAR     59  34  39 S7        29.92R                  
+
+$$
+
+INZ033-034-041-042-049-050-058-059-220300-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         CLEAR     63  31  30 S14G23    29.91R                  
+RICHMOND +     FAIR      45  34  65 S7        29.97R                  
+
+$$
+
+INZ060-061-067>069-081>083-085>088-220300-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     CLEAR     62  37  39 SE5       29.92R                  
+HUNTINGBURG +  CLEAR     63  37  38 S8        29.93R                  
+
+$$
+
+INZ062-063-066-070>080-084-089>092-220300-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE +   CLEAR     55  32  41 S5        29.95R                  
+BLOOMINGTON    CLEAR     60  35  39 S5        29.91R                  
+FRENCH LICK *+ CLEAR     61  32  33 S3        29.93S                  
+
+$$
+
+  

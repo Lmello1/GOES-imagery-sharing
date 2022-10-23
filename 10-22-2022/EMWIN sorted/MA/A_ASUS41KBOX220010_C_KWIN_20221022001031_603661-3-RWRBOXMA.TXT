@@ -1,0 +1,143 @@
+ASUS41 KBOX 220010
+RWRBOX
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BOSTON/NORTON MA
+800 PM EDT FRI OCT 21 2022
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+MAZALL-220100-
+EASTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOSTON         CLEAR     57  44  62 S13       30.15R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  61;                                
+
+BEVERLY        CLEAR     52  43  71 S5        30.14R                  
+LAWRENCE       CLEAR     54  43  66 VRB3      30.15R                  
+BEDFORD        CLEAR     53  41  63 S8        30.13R                  
+NORWOOD        CLEAR     52  44  74 S5        30.16R                  
+MARSHFIELD     CLEAR     52  43  71 SW6       30.16R                  
+PLYMOUTH       CLEAR     51  44  77 S3        30.16R                  
+TAUNTON          N/A    N/A N/A N/A MISG      30.16R                  
+NEW BEDFORD    CLEAR     45  44  97 CALM      30.16R                  
+$$
+
+MAZALL-220100-
+CAPE COD AND THE ISLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FALMOUTH       CLEAR     50  45  81 CALM      30.17R                  
+HYANNIS        CLEAR     56  44  64 SW7       30.17R                  
+CHATHAM        CLEAR     57  47  69 S6        30.18R                  
+PROVINCETOWN   CLEAR     57  48  72 S9        30.18R                  
+NANTUCKET      CLEAR     57  49  74 S8        30.18S                  
+MARTHAS VNYRD  CLEAR     53  45  74 S6        30.17R                  
+$$
+ 
+MAZALL-220100-
+CENTRAL AND WESTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WORCESTER      CLEAR     48  34  58 SW7       30.14R                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  60;                                
+
+FITCHBURG      CLEAR     44  35  70 CALM      30.14R                  
+ORANGE         CLEAR     41  34  76 CALM      30.14R                  
+SPRINGFIELD    CLEAR     47  32  55 S6        30.10R                  
+WESTFIELD      CLEAR     45  34  65 SW3       30.13R                  
+NORTH ADAMS    CLEAR     46  32  58 E6        30.11R                  
+PITTSFIELD     CLEAR     43  31  62 CALM      30.10R                  
+$$
+ 
+RIZALL-220100-
+RHODE ISLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PROVIDENCE     CLEAR     52  45  77 SW5       30.16R                  
+6HR MIN TEMP:  52; 6HR MAX TEMP:  65;                                
+
+NEWPORT        CLEAR     55  44  66 S5        30.16R                  
+BLOCK ISLAND   CLEAR     56  44  64 SW8       30.17R                  
+SMITHFIELD     CLEAR     51  43  74 CALM      30.16R                  
+WESTERLY       CLEAR     58  47  66 SW7       30.16R                  
+$$
+ 
+CTZALL-220100-
+CONNECTICUT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRADLEY INTL   CLEAR     51  30  44 S6        30.14R                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  64;                                
+
+HARTFORD       CLEAR     50  39  66 S5        30.14R                  
+BRIDGEPORT     CLEAR     56  44  64 S9        30.15R                  
+DANBURY        CLEAR     47  36  65 CALM      30.15R                  
+GROTON         CLEAR     60  49  66 SW12      30.15R                  
+NEW HAVEN      CLEAR     59  45  59 S6        30.15R                  
+CHESTER        FAIR      54  45  71 S6        30.15S                  
+MERIDEN        CLEAR     45  38  76 CALM      30.15R                  
+WILLIMANTIC    CLEAR     47  41  80 CALM      30.16R                  
+OXFORD         CLEAR     48  34  58 S6        30.15R                  
+$$
+
+MEZ002-015-021-024-NHZ003-005-008-011-012-014-VTZ005-008-220100-
+NORTHERN NEW ENGLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND ME    CLEAR     48  42  80 CALM      30.14R                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  58;                                
+
+BANGOR ME      CLEAR     48  34  58 S6        30.13R                  
+CONCORD NH     CLEAR     42  34  73 E9        30.12R                  
+MANCHESTER NH  CLEAR     46  35  65 E3        30.11R                  
+NASHUA NH      CLEAR     44  39  82 CALM      30.14R                  
+PORTSMOUTH NH  CLEAR     49  46  89 CALM      30.13R                  
+JAFFREY NH     CLEAR     41  33  73 CALM      30.13R                  
+KEENE NH       CLEAR     42  36  79 CALM      30.13R                  
+BURLINGTON VT  CLEAR     52  28  39 S8        30.05R                  
+MT. WASHINGTON NOT AVBL                                               
+$$
+
+NYZ052-076-220100-
+EASTERN NEW YORK
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBANY         CLEAR     53  30  41 SE3       30.09R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  61;                                
+
+NEW YORK CITY  CLEAR     57  40  52 S7        30.14R                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  64;                                
+
+$$
+ 
+ANZALL-220100-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+BOSTON BUOY      2350      57  200/ 12/ 16 1021.2R         2/ 9
+BUZZARDS BAY     2300   60     210/ 13/ 15 1021.7R
+NANTUCKET SOUND  2350      61              1021.6R         1/ 2
+MASS BAY-STELLWA 2204   58 57  170/ 14/ 16 1019.1S  1 7/8  2/11
+ISLE OF SHOALS   2300   56     150/ 14/ 16 1019.4R
+S OF BLOCK IS    2326      61                N/A           3/ 8
+$$
+
+......................KEY.........................
+  SKY/WX - SKY CONDITION/PRESENT WEATHER
+  TMP    - TEMPERATURE IN FAHRENHEIT
+  DWPT   - DEWPOINT IN FAHRENHEIT
+  RH     - RELATIVE HUMIDITY IN PERCENT
+  WIND   - DIRECTION AND SPEED IN MPH
+  PRES   - MEAN SEA LEVEL PRESSURE IN INCHES OF HG
+  WCI    - WIND CHILL INDEX
+  VSB    - VISIBILITY IN MILES
+  HX     - HEAT INDEX
+  TC     - TEMPERATURE IN CELSIUS
+  VRB    - VARIABLE WIND DIRECTION
+  N/A    - NOT AVAILABLE
+  

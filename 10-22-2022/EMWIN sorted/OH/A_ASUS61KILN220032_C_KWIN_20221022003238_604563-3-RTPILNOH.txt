@@ -1,0 +1,58 @@
+ASUS61 KILN 220032
+RTPILN
+Max/Min Temperature and Precipitation Table for
+Central and Southwest OH/Northern KY/Southeast IN
+National Weather Service Wilmington OH
+832 PM EDT Fri Oct 21 2022
+
+
+
+Values represent today's highs...low over the last 18 hours
+and precipitation over the last 24 hours ending at 8 PM EDT (7 PM EST)
+
+
+.BR ILN 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ
+:
+:Automated Surface Observation Systems (ASOS) Sites
+:...................................................................
+:          Station          Max / Min / 24-hr / Snow 
+:           Name            Temp/ Temp/ Precip/ Fall
+:...................................................................
+:
+LHQ : Lancaster         :    68 /  33 / 0.00  /      /
+OSU : OSU Apt           :    71 /  41 /    M  /      /
+VTA : Newark            :    70 /  31 / 0.00  /      /
+HAO : Hamilton          :    73 /  33 / 0.00  /      /
+MGY : Wright Bros Apt   :    71 /  40 / 0.00  /      /
+LUK : Cincy Lunken Apt  :    73 /  30 / 0.00  /      /
+ILN : Wilmington        :    71 /  39 / 0.00  /  0.0 /
+CVG : Cincy N. KY Apt   :    71 /  40 / 0.00  /  0.0 /
+DAY : Dayton Apt        :    72 /  45 / 0.00  /  0.0 /
+CMH : John Glenn Apt    :    69 /  38 / 0.00  /  0.0 /
+:
+:Kentucky Mesonet Stations (www.kymesonet.org)
+:...................................................................
+:          Station            Max / Min / 24-hr 
+:           Name              Temp/ Temp/ Precip
+:...................................................................
+CRRLKY: Carrollton 2 E    :    73 /  32 / 0.00 
+SWONKY: Owenton 5 E       :    71 /  40 / 0.00 
+HUEYKY: Burlington 4 S    :    71 /  41 / 0.00 
+HHTSKY: Alexandria 5 NW   :    71 /  38 / 0.00 
+WSHTKY: Maysville 3 SW    :    70 /  39 / 0.00 
+CHTRKY: Vanceburg 6 W     :    71 /  25 / 0.00 
+:Kentucky Mesonet Data are from a network outside the NWS and full
+:quality control have not yet been applied. They should be 
+:considered preliminary.
+:
+.END
+
+ These data are preliminary and have not undergone final quality control
+by the National Centers for Environmental Information (NCEI). Therefore,
+these data are subject to revision. Final and certified climate data can
+be accessed at www.ncei.noaa.gov.
+
+$$
+
+HATZOS
+

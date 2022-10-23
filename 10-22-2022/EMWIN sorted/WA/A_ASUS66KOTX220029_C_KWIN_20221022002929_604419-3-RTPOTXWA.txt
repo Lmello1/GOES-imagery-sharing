@@ -1,0 +1,37 @@
+ASUS66 KOTX 220029
+RTPOTX
+Max/Min Temperature and Precipitation Table for
+Eastern Washington and Northern Idaho
+National Weather Service Spokane, WA
+529 PM PDT Fri Oct 21 2022
+
+High Temperature past 12 hours up to  5 PM Friday
+Precipitation and Snowfall past 24 Hours up to  5 PM Friday
+ 
+.BR OTX 1021 PS DH16/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                  Max   Min   24 HR   24 HR  Snow
+:ID      Station          Elev     Temp  Temp  Pcpn    Snow   Depth
+65S   : Bonners Ferry AP  2337 :     54 /  41 /  0.00 /      /     
+S10   : Chelan Airport    1260 :     55 /  48 /       /      /      
+COE   : Coeur d'Alene AP  2318 :     51 /  36 /       /      /      
+63S   : Colville Airport  1882 :     46 /  41 /       /      /      
+DEW   : Deer Park         2117 :     50 /  38 /  0.21 /      /     
+EPH   : Ephrata           1259 :     59 /  41 /  0.06 /      /     
+LWS   : Lewiston          1436 :     57 /  46 /  0.14 /      /     
+S52   : Methow Valley AP  1706 :     55 /  33 /  0.00 /      /     
+MWH   : Moses Lake        1181 :     56 /  43 /  0.09 /      /     
+MLP   : Mullan Pass       6150 :     40 /  27 /  0.29 /      /     
+OMK   : Omak              1301 :     52 /  40 /  0.12 /      /     
+PUW   : Pullman           2551 :     53 /  42 /  0.15 /      /     
+SZT   : Sandpoint Airport 2126 :     52 /  37 /       /      /      
+SFF   : Spokane Felts     1953 :     52 /  41 /  0.31 /      /     
+GEG   : Spokane Intl      2356 :     49 /  39 /  0.35 /      /    0
+EAT   : Wenatchee AP      1255 :     57 /  51 /  0.00 /      /     
+.END
+ 
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information (NCEI). 
+Therefore these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+

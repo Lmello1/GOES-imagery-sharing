@@ -1,0 +1,34 @@
+FOUS73 KMSR 220201
+FFHLSX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+900 PM CDT FRI OCT 21 2022
+                                                                        
+ST LOUIS HYDROLOGIC SERVICE AREA                                        
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221022 Z DH00/DC2210220200 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** MISSOURI HEADWATER POINTS ***                                   
+:                                                                       
+EWNM7     3.4/  3.9/  4.5 :EWING MO 5E           NORTH FABIUS R
+EWMM7     3.5/  4.0/  4.5 :EWING MO 1NNE         MIDDLE FABIUS R
+PALM7     2.1/  2.4/  3.1 :PALMYRA MO            NORTH R
+TAYM7     2.4/  3.2/  4.2 :TAYLOR MO             S FABIUS R
+PMZM7     2.8/  3.3/  3.9 :HOLLIDAY MO 2N        MI FK SALT R
+TRYM7     1.7/  1.9/  2.5 :TROY MO               CUIVRE R
+DRCM7     2.4/  2.5/  2.7 :ST PETERS MO          DARDENNE CR
+LSLM7     2.4/  2.6/  3.0 :LAKE SAINT LOUIS      PERUQUE CR - ABOVE
+LSTM7     1.9/  2.1/  2.4 :LAKE ST LOUIS MO      PERUQUE CR
+CSNM7     2.6/  2.8/  3.2 :COOK STATION MO 1N    MERAMEC R
+SEEM7     1.9/  2.4/  3.1 :STEELVILLE MO 2N      MERAMEC R
+UNNM7     3.5/  4.0/  4.5 :UNION MO              BOURBEUSE R
+BYRM7     3.5/  4.0/  4.5 :BYRNESVILLE MO 2NNE   BIG R
+.END
+$$

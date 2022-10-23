@@ -1,0 +1,55 @@
+ASUS63 KILX 220011
+RTPILX
+Max/Min Temperature and Precipitation Table for Central Illinois
+National Weather Service Lincoln IL
+711 PM CDT Fri Oct 21 2022
+
+Values represent highs/lows over the last 18 hours
+and precipitation over the last 24 hours.
+
+.BR ILX 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:Official Climate Sites
+:                                 Max   Min
+:ID    Location                   Temp  Temp  Pcpn
+ILX  : Lincoln NWS              :  78 /  36 / 0.00
+PIA  : Peoria Airport           :  80 /  41 / 0.00
+SPI  : Springfield Airport      :  79 /  43 / 0.00
+:
+:Unofficial Supplemental Sites
+:
+CMI  : Champaign Airport        :  78 /  41 / 0.00
+DEC  : Decatur Airport          :  78 /  45 / 0.00
+LWV  : Lawrenceville Airport    :  78 /  42 / 0.00
+MTO  : Mattoon Airport          :  76 /  46 / 0.00
+BMI  : Bloomington Airport      :  77 /  39 / 0.00
+:
+:AWOS Locations
+:
+:The following sites are owned by the Illinois Department of
+:Transportation and are not under NWS quality control.
+:
+:                                 Max   Min        
+:ID    Location                   Temp  Temp
+GBG  : Galesburg Airport        :  79 /  35 /
+C75  : Lacon Airport            :  78 /  35 /
+IJX  : Jacksonville Airport     :  80 /  44 /
+TAZ  : Taylorville Airport      :  78 /  44 /
+TIP  : Rantoul Airport          :  77 /  37 /
+DNV  : Danville Airport         :  77 /  44 /
+1H2  : Effingham Airport        :  77 /  42 /
+PRG  : Paris Airport            :  76 /  45 /
+RSV  : Crawford County Airport  :  76 /  43 /
+FOA  : Flora Airport            :  77 /  41 /
+OLY  : Olney Noble Airport      :  77 /  42 /
+AJG  : Mt Carmel Airport        :  78 /  44 /
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

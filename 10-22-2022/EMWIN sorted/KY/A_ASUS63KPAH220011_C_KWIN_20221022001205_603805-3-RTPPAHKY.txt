@@ -1,0 +1,36 @@
+ASUS63 KPAH 220011
+RTPPAH
+MAX/MIN Temperature and Precipitation Table for
+Southwest MO/Southern IL/Southwest IN/West KY
+National Weather Service Paducah KY
+711 PM CDT Fri Oct 21 2022
+
+Values Represent Lows Over the Last 18 Hours...
+Highs Over the Last 18 Hours and Precipitation Over the 
+Last 24 Hours Ending at 6PM CST/7PM CDT
+
+.BR PAH 1021 C DH18/TAIRZS/TAIRZI/PPDRZZ
+:
+:........................................................
+:       STATION              MAX / MIN  / 24-HR
+:        NAME                TEMP/ TEMP / PRECIP
+:........................................................
+:
+PAH  :  Paducah ASOS        : 79 /  48 /  0.00
+EVV  :  Evansville ASOS     : 77 /  41 /  0.00
+CGI  :  Cape Girardeau ASOS : 79 /  41 /  0.00
+POF  :  Poplar Bluff   ASOS : 78 /  35 /  0.00
+MDH  :  Carbondale ASOS     : 77 /  44 /  0.00
+OWB  :  Owensboro AWOS      : 77 /  41 /   M
+:
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

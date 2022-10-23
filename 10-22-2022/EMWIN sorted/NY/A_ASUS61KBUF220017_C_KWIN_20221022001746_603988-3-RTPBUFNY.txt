@@ -1,0 +1,42 @@
+ASUS61 KBUF 220017
+RTPBUF
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+WESTERN NY AND THE EASTERN LAKE ONTARIO REGION
+NATIONAL WEATHER SERVICE BUFFALO, NY
+817 PM EDT Fri Oct 21 2022
+
+Values represent:
+High temperature over the last 18 hours
+Low temperature over the last 18 hours
+Precipitation over the last 24 hours
+
+
+.BR BUF 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: Official Climate Stations
+:                             Max   Min   24 HR   Snow   Snow
+:    Location                 Temp  Temp  Precip  Fall   Depth
+BUF :Buffalo Airport        :  66 /  34 /  0.00 /  0.0 /    0
+ROC :Rochester Airport      :  65 /  31 /  0.00 /  0.0 /    0
+ART :Watertown Airport      :  62 /  38 /  0.00 /      / 
+:
+: Unofficial Supplemental Sites
+:
+IAG :Niagara Falls Airport  :  66 /  32 /    T  /      / 
+DKK :Dunkirk Airport        :  67 /  40 /  0.00 /      / 
+ELZ :Wellsville Airport     :  61 /  37 /  0.00 /      / 
+DSV :Dansville Airport      :  65 /  32 /  0.00 /      / 
+FZY :Oswego Airport         :  63 /  33 /  0.00 /      / 
+GTB :Fort Drum              :  62 /  35 /    T  /      / 
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information 
+(formerly National Climatic Data Center - NCDC). Therefore... 
+these data are subject to revision. Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

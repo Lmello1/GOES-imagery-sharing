@@ -1,0 +1,57 @@
+ASUS62 KMHX 220211
+RTPMHX
+Temperature and Precipitation Table for Eastern North Carolina
+National Weather Service Newport/Morehead City, NC
+1011 PM EDT Fri Oct 21 2022
+
+Automated Surface Observing System (ASOS) sites
+Automated temperature and precipitation data:
+High past 18 hours / Low past 24 hours / Pcpn last 24 hours
+ 
+.BR MHX 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+
+ 
+:                                   Max    Min
+:Id    Location                     Temp   Temp  Pcpn 
+EWN  : New Bern                   :  68 /  37 /  0.00
+MRH  : Beaufort                   :  69 /  48 /  0.00
+HSE  : Cape Hatteras-Frisco Apt   :  69 /  49 /  0.00
+NKT  : Cherry Point MCAS          :  68 /  41 /  0.00
+NCA  : Jacksonville (New River)   :  69 /  38 /  0.00
+.END
+
+
+Automated Weather Observing System (AWOS) sites
+Automated temperature data:
+High past 18 hours / Low past 24 hours/ Precip past 24 hours (if 
+applicable)
+
+.BR MHX 1021 ES DH19/TAIRZS/TAIRZI
+                                    Max    Min
+:Id    Location                     Temp   Temp  Pcpn 
+OAJ  : Richlands                  :  70 /  36 /  0.00
+OCW  : Washington                 :  69 /  37 
+PGV  : Greenville Airport         :  70 /  36 
+DPL  : Kenansville                :  70 /  30 
+MQI  : Manteo                     :  66 /  41 
+ISO  : Kinston Jetport            :  70 /  36 
+NJM  : Bogue Field                :  70 /  49 
+NBT  : Piney Island               :  72 /  59 
+2DP  : Dare Bombing Range         :  69 /  38 
+.END
+
+
+NOTE: The temperature data for AWOS sites represent the highest and 
+lowest temperatures that were reported on the METAR observations that
+transmit three times an hour and may not represent the actual high or
+low for that site. 
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/.  Therefore...
+these data are subject to revision.  Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+
+ $$
+

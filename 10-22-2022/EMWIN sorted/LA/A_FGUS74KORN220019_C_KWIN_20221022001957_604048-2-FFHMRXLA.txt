@@ -1,0 +1,27 @@
+FGUS74 KORN 220019
+FFHMRX
+                                                                        
+HEADWATER GUIDANCE FOR HSA.....MORRISTOWN TN                            
+                                                                        
+NATIONAL WEATHER SERVICE                                                
+LOWER MISSISSIPPI RIVER FORECAST CENTER, SLIDELL LA                     
+719 PM CDT FRI OCT 21 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN HEADWATERS.                                           
+                                                                        
+.B SIL 221022 Z DH00/DC2210220019 /DUE/PPHCF/PPTCF/PPQCF/PPKCF/PPDCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  12HR  24HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====  ====  ====================  ==================
+:                                                                       
+:.....TENNESSEE                                                         
+:                                                                       
+DOET1     2.7/  3.1/  3.6/  4.5/  6.0 :ELIZABETHTON, TN      DOE R.
+RMTT1     3.0/  3.4/  5.5/  5.5/  6.5 :ROAN MOUNTAIN, TN     DOE R.
+:                                                                       
+:.....VIRGINIA                                                          
+:                                                                       
+CLVV2     2.9/  3.2/  3.6/  4.3/  5.4 :CLEVELAND, VA         CLINCH R.
+.END
+$$

@@ -1,0 +1,226 @@
+SRUS44 KLZK 220111
+RRMLZK
+
+
+RAINFALL SUMMARY
+NATIONAL WEATHER SERVICE LITTLE ROCK AR
+811 PM CDT Fri Oct 21 2022
+
+12 Hour Rainfall Totals 6 AM - 6 PM CST. 
+:
+:
+Automated Rainfall Gauges at Stream Gauging Sites:
+:
+:Arkansas River Basin
+:
+:Id   : Location                                     : Rainfall
+APLA4 : Aplin DCP                                    :  0.00
+BYBA4 : Bayou Bartholomew near Meroney               :     M
+BMRA4 : Blue Mtn TW DCP                              :     M
+BONA4 : Booneville                                   :  0.00
+CRKA4 : Clarksville DCP                              :  0.00
+CCCA4 : Cadron Creek near Conway                     :     M
+DANA4 : Danville                                     :  0.00
+DBSA4 : Deep Bayou Near Star City                    :  0.00
+DVRA4 : HWY 164 BRDG-Big Piney CRK                   :  0.00
+GRVA4 : Gravelly                                     :  0.00
+SWNA4 : Hardin L&D DCP                               :     M
+HOLA4 : Hollis DCP                                   :  0.00
+HUSA4 : Houston                                      :  0.00
+LMRA4 : Little Piney Creek                           :  0.00
+VBRA4 : Van Buren                                    :  0.00
+ACGA4 : AR Post Cananl Lock #2                       :  0.00
+LNDA4 : L&D #5 DCP                                   :  0.00
+NAGA4 : Wilbur Mills Dam DCP                         :  0.00
+MLBA4 : Mulberry                                     :  0.00
+MORA4 : Morrilton                                    :  0.00
+MYLA4 : Murray L&D DCP                               :  0.00
+NMLA4 : Nimrod Lake HW DCP                           :  0.00
+NOGA4 : Norrell LOCK AND DAM                         :  0.00
+MOLA4 : Arkansas River at Morrilton L&D #9           :  0.00
+OZGA4 : Ozark Lock and Dam                           :  0.00
+LRCA4 : Little Rock 36th Street DCP                  :     M
+RDYA4 : Rudy                                         :  0.00
+LADA4 : Sanders L&D DCP                              :  0.00
+STVA4 : Scottsville DCP                              :  0.00
+TODA4 : Toad Suck Lock And Dam Tailwater             :  0.00
+LKCA4 : Lake Conway near Mayflower                   :  0.00
+VBUA4 : Van Buren                                    :  0.00
+WLTA4 : Waltreak DCP                                 :     M
+CNTA4 : Petit Jean River                             :  0.00
+MAUA4 : Lake Maumelle                                :  0.00
+MMLA4 : Maumelle River at HWY 10                     :  0.00
+PRCA4 : Pidgeon Creek at Lake Maumelle               :     M
+HCAA4 : Huckleberry Creek Near Augsburg              :  0.00
+CCBA4 : Cypress Creek Near Birdtown                  :  0.00
+ENOA4 : East Fork Cadron Creek Near Enola            :     M
+QUTA4 : North Fork Cadron Creek near Quitman         :     M
+MISSI : MISSING                                      :     M
+:
+:White River Basin
+:
+:Id   : Location                                     : Rainfall
+BAGA4 : Batesville                                   :  0.00
+BVGA4 : Beaver Lake                                  :  0.00
+BRYA4 : Berryville                                   :  0.00
+MJBA4 : Big Creek near Mt Judea                      :     M
+BSFA4 : Brasfield DCP                                :  0.00
+BSGA4 : Bull Shoals Dam                              :  0.00
+CCRA4 : Cutoff Creek near Rio Vista                  :  0.00
+CLRA4 : Calico Rock                                  :  0.00
+CIGA4 : Clinton DCP                                  :  0.00
+CRGA4 : Corning                                      :     M
+GBLA4 : G. Burke Pump Plant DCP                      :     M
+EFGA4 : Elgin Ferry DCP                              :  0.00
+MBCA4 : Elizabeth                                    :  0.00
+FYGA4 : Fayetteville 4E                              :  0.00
+GEOA4 : Georgetown                                   :  0.00
+GLCA4 : Cutoff Creek near Rio Vista                  :     M
+GRRA4 : Greers Ferry Dam DCP                         :  0.00
+HRRA4 : Buffalo River Near Harriet                   :  0.00
+IMBA4 : Imboden                                      :  0.00
+JUDA4 : Judsonia                                     :  0.00
+NPTA4 : Newport                                      :  0.00
+NFDA4 : Norfork Dam DCP                              :  0.00
+POCA4 : Pocahontas                                   :  0.00
+PKGA4 : Poughkeepsie DCP                             :  0.00
+RVSA4 : Ravenden Springs                             :  0.00
+SJOA4 : St Joe                                       :  0.00
+WCRA4 : Winchester and Drainage Canal                :  0.00
+SRGA4 : Shirley DCP                                  :  0.00
+BNRA4 : Vidette                                      :  0.00
+YEGA4 : Yellville DCP                                :  0.00
+EGPA4 : Egypt DCP                                    :  0.00
+FYHA4 : Fayetteville-Town Br                         :     M
+HDYA4 : Hardy                                        :  0.00
+MMSA4 : Mammoth Spring at Mammoth Spring             :     M
+BOXA4 : Boxley                                       :  0.00
+APBA4 : Ponca DCP                                    :  0.00
+APTA4 : Pruitt                                       :  0.00
+SFGA4 : South Fork Little Red River near Gulf Mtn    :  0.00
+SDTA4 : South Fork Spring River at Saddle            :  0.00
+LETA4 : Big Creel Near Letona                        :     M
+HASA4 : Buffalo River Near Hasty                     :  0.00
+WLBA4 : Big Creek Near Wilburn                       :     M
+LDCA4 : Little Dixie                                 :  0.00
+:
+:Red / Ouachita River Basin
+:
+:Id   : Location                                     : Rainfall
+AKDA4 : Arkadelphia                                  :  0.00
+BTNA4 : Benton                                       :     M
+BMDA4 : Blakely Mtn Dam                              :  0.00
+CAMA4 : Camden                                       :     M
+AKGA4 : Canal 43 Nr Ark. City DCP                    :  0.00
+AKNA4 : Canal 81 Nr Ark. City DCP                    :  0.00
+DUGA4 : Canal 43 N. Near Dumas DCP                   :  0.00
+CBGA4 : Lake Village                                 :  0.00
+EUGA4 : Eudora                                       :  0.00
+DGDA4 : DeGray Dam DCP                               :  0.00
+DQNA4 : DeQueen DCP                                  :  0.00
+DQDA4 : Lake DeQueen DCP                             :  0.00
+DIRA4 : Dierks DCP                                   :  0.00
+DIEA4 : Dierks Lake DCP                              :  0.00
+FELA4 : Felsenthal L&D                               :     M
+GLLA4 : Gillham Lake DCP                             :     M
+HFDA4 : Hatfield Fire Department                     :  0.00
+LCKA4 : Lockesburg                                   :     M
+RDTA4 : Jones Mill Dcp                               :  0.00
+MLMA4 : Little Missouri R. @ Murfreesboro            :  0.00
+NADA4 : Lake Greeson-Narrows Dam                     :  0.00
+SHEA4 : Sheridan DCP                                 :  0.00
+WARA4 : Warren DCP                                   :  0.00
+BGBA4 : Garretts Bridge                              :  0.00
+RYEA4 : Rye                                          :  0.00
+SAFA4 : South Alum Creek near Jessieville            :  0.00
+:
+:Saint Francis River Basin
+:
+:Id   : Location                                     : Rainfall
+HUGA4 : Hughes                                       :  0.00
+MDEA4 : Ditch 81                                     :  0.00
+LCRA4 : Lake City                                    :  0.00
+RIGA4 : Rivervale                                    :  0.00
+ODFA4 : Tulot                                        :  0.00
+MTDA4 : Ditch 60 Near Marked Tree 3 NNW              :     M
+MTOA4 : Marked Tree                                  :  0.00
+TYGA4 : Tyronza                                      :  0.00
+TWGA4 : Twist                                        :  0.00
+PNGA4 : Parkin                                       :  0.00
+LAMA4 : MARIANNA 1 NE                                :  0.00
+:
+:Mississippi River
+:
+:Id   : Location                                     : Rainfall
+OSGA4 : Osceola                                      :  0.00
+HEEA4 : Helena                                       :  0.00
+MPDA4 : Montgomery Point L&D                         :  0.00
+ARSA4 : Arkansas City DCP                            :     M
+LVGA4 : Ditch Bayou-Lake Village                     :  0.00
+:
+:Hot Springs Flood Alert System
+:
+:Id   : Location                                     : Rainfall
+WCPA4 : Whittington Creek at Park                    :  0.00
+WCTA4 : Whittington Creek Tunnel                     :  0.00
+GCRA4 : Gulpha Creek at Ridgeway St                  :  0.00
+SSMA4 : South Sugarloaf Mtn                          :     M
+HSEA4 : Hot Springs Creek Entrance at Glade Street   :  0.00
+HSXA4 : Hot Springs Creek Tunnel Exit                :  0.00
+MMBA4 : Music Mtn                                    :     M
+:
+:Hot Springs National Park
+:
+:Id   : Location                                     : Rainfall
+HSHA4 : Hot Springs at Hot Springs                   :     M
+GCAA4 : Gulpha Creek at Hot Springs National Park    :  0.00
+:
+Remote Automated Weather Sites
+:
+:Id   : Location                                     : Rainfall
+BLRA4 : Bluff City RAWS                              :  0.00
+BNVA4 : Booneville NFS Climate Site                  :  0.00
+DKBA4 : Devils Knob RAWS                             :  0.00
+ESDA4 : Evening Shade RAWS                           :  0.00
+LRRA4 : Felsenthal RAWS                              :  0.00
+GYAA4 : Guy RAWS                                     :  0.00
+LPSA4 : Lake Poinsett RAWS Near Poinsett 3SE         :  0.00
+JVLA4 : Jessieville RAWS                             :  0.00
+SDNA4 : Sheridan RAWS                                :  0.00
+SVHA4 : Silver Hill RAWS                             :  0.00
+STKA4 : Strickler - RAWS                             :  0.00
+ODEA4 : Oden RAWS                                    :  0.00
+AMOA4 : UAM RAWS                                     :  0.00
+BSCA4 : Blanchard Spring RAWS                        :  0.00
+SFFA4 : Saint Francis National  Forest RAWS Near Mari:  0.00
+AMAA4 : Armstead Mountain RAWS 15 NE Hector          :  0.00
+CMTA4 : Compton RAWS                                 :  0.00
+:
+ASOS / AWOS / AWSS Sites
+:
+:Id   : Location                                     : Rainfall
+HKA   : Blytheville                                  :  0.00
+DEQ   : DeQueen                                      :  0.00
+ELD   : El Dorado                                    :  0.00
+FYV   : Fayetteville Arpt                            :  0.00
+FSM   : Fort Smith Arpt                              :  0.00
+HRO   : Harrison                                     :  0.00
+XNA   : Highfill Arpt                                :  0.00
+HOT   : Hot Springs Arpt                             :  0.00
+JBR   : Jonesboro ARPT Jonesboro AR                  :  0.00
+LIT   : Little Rock                                  :  0.00
+MWT   : Mt. Ida                                      :  0.00
+AWM   : WEST MEMPHIS AWOS                            :  0.00
+BPK   : Mountain Home Arpt                           :  0.00
+LLQ   : Monticello Arpt                              :  0.00
+M19   : Newport Arpt                                 :  0.00
+PBF   : Pine Bluff Arpt                              :  0.00
+RUE   : Russellville                                 :  0.00
+TXK   : Texarkana                                    :  0.00
+SGT   : Stuttgart Arpt                               :  0.00
+
+
+$$
+
+
+

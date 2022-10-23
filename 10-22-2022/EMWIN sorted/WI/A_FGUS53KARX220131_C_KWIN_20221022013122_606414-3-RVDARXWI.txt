@@ -1,0 +1,80 @@
+FGUS53 KARX 220131
+RVDARX
+IAC005-037-043-065-067-089-131-191-MNC045-055-099-109-157-169-
+WIC001-011-019-023-043-053-057-063-081-103-119-121-123-221730-
+
+
+Daily River and Lake Summary
+National Weather Service La Crosse WI
+831 PM CDT Fri Oct 21 2022
+
+.B ARX 1021 DC102120 DH00/HG/
+:
+:Mississippi River
+:
+:  * Current Information
+:
+:Station                   Flood     OBS  24 HR
+:ID   Name                 Stage    Stage Change
+:
+LKCM5:Lake City             16.0:   6.38/:  0.00
+WABM5:Wabasha               12.0:   7.23/:  0.00
+WNAM5:Winona                13.0:   5.66/: -0.04
+LACW3:La Crosse             12.0:   5.24/:  0.07
+LNSI4:Lansing               17.0:   8.08/:  0.04
+MCGI4:McGregor              16.0:   7.19/:  0.22
+GTTI4:Guttenberg Dam 10     15.0:   4.25/: -0.01
+:
+:Zumbro River
+:
+LKZM5:Zumbro Lake          918.0: 914.50/:  0.00
+:
+.END
+:
+:--------------------------------------------------------------------
+:
+.B ARX 1021 DC102120 DRD+1/HGIFF/DRD+2/HGIFF/
+.B1 DRD+3/HGIFF/DRD+4/HGIFF/DRD+5/HGIFF/DRD+6/HGIFF/DRD+7/HGIFF/
+:
+:  * Forecast Information
+:
+:Station                 7-Day Forecast
+:ID   Name               Sat   Sun   Mon   Tue   Wed   Thu   Fri
+
+
+LKCM5:Lake City       :  6.4/  6.4/  6.4/  6.3/  6.3/  6.3/  6.3
+WABM5:Wabasha         :  7.2/  7.2/  7.2/  7.2/  7.2/  7.2/  7.2
+WNAM5:Winona          :  5.7/  5.7/  5.7/  5.7/  5.7/  5.7/  5.7
+LACW3:La Crosse       :  5.2/  5.2/  5.2/  5.2/  5.2/  5.2/  5.2
+LNSI4:Lansing         :  8.1/  8.1/  8.1/  8.1/  8.1/  8.1/  8.1
+MCGI4:McGregor        :  6.9/  6.9/  6.9/  6.9/  6.9/  6.9/  6.9
+GTTI4:Guttenberg Dam  :  4.2/  4.2/  4.1/  4.1/  4.1/  4.1/  4.1
+:
+:Zumbro River
+:
+LKZM5:Zumbro Lake     :914.5/914.2/913.7/913.2/912.7/912.2/911.7
+:
+.END
+:
+:--------------------------------------------------------------------
+:
+:  * Water Temperatures
+:
+: Lake City          48
+: Alma Dam 4         51
+: Minnesota City     48
+: La Crescent Dam    48
+: Genoa Dam 8        46
+: Lynxville Dam 9    49
+: Clayton            49
+: Guttenberg Dam      M
+:
+:BLOFS...Below Flood Stage  M...Missing  E...Estimated
+:
+:The preceding forecast river stages are based on current river
+:data received as of 7 PM CDT today...and forecast precipitation
+:data through 7 PM CDT tomorrow.
+:
+
+$$
+

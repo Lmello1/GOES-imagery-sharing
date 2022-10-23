@@ -1,0 +1,25 @@
+FOUS74 KORN 220019
+FFHOHX
+                                                                        
+HEADWATER GUIDANCE FOR HSA.....NASHVILLE TN                             
+                                                                        
+NATIONAL WEATHER SERVICE                                                
+LOWER MISSISSIPPI RIVER FORECAST CENTER, SLIDELL LA                     
+719 PM CDT FRI OCT 21 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN HEADWATERS.                                           
+                                                                        
+.B SIL 221022 Z DH00/DC2210220019 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:.....TENNESSEE                                                         
+:                                                                       
+PELT1     3.5/  5.0/  5.5 :PELHAM, TN            ELK R.
+PLKT1     3.3/  3.6/  4.1 :PULASKI, TN           RICHLAND CREEK
+WRTT1     3.5/  5.0/  5.5 :WARTRACE, TN          WARTRACE CREEK
+WTTT1     3.5/  5.0/  5.5 :WARTRACE, TN          GARRISON FORK
+.END
+$$

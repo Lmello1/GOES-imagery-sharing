@@ -1,0 +1,907 @@
+FOUS53 KOAX 212312
+PFMOAX
+
+Point Forecast Matrices
+National Weather Service Omaha/Valley NE
+611 PM CDT Fri Oct 21 2022
+
+NEZ052-221000-
+Omaha-Douglas NE
+41.31N  95.90W Elev. 971 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          82          61          85          55
+Temp             69 59 53 50 48 59 76 82 74 66 63 62 61 67 80 85 79 72 71 65 57
+Dewpt            36 35 35 37 39 43 45 46 49 52 55 56 56 57 55 56 57 59 59 56 50
+RH               30 40 50 61 71 55 33 28 41 61 75 81 84 70 42 37 47 64 66 73 77
+Wind dir         SE  E SE SE  S  S  S  S  S  S  S SE SE  S  S  S  S  S  S  S SW
+Wind spd          5  4  4  5  6 10 13 16 12 13 13 16 18 20 26 26 25 25 23 19 16
+Wind gust                                            34 37 40 42 41 37 35 33 28
+Clouds           CL CL FW FW CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                      BD BD               
+Heat index                                                 80    80            
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      38    55      37    57      39    59      41    57
+Temp          59 54   44 38 51 50   42 37 54 52   43 39 56 54   46 41 53 51
+Dewpt         43 41   38 34 35 32   33 32 35 33   34 34 38 40   41 40 43 40
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC SC B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         40      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S  S  S  S                           S    S  C  S  S
+
+$$
+NEZ066-221000-
+Lincoln-Lancaster NE
+40.86N  96.75W Elev. 1250 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          83          59          88          52
+Temp             71 59 53 50 48 60 79 83 75 65 62 60 59 68 83 87 81 73 70 63 54
+Dewpt            33 33 33 35 36 41 42 44 47 50 51 53 51 54 54 55 57 58 57 54 46
+RH               25 37 46 56 63 49 27 25 37 58 67 78 75 61 37 34 44 59 63 72 74
+Wind dir          E  E SW  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S SW  W
+Wind spd          1  2  3  4  6  9 13 16 13 12 12 13 16 20 27 31 27 26 24 19 14
+Wind gust                                            27 34 37 44 42 36 35 33 29
+Clouds           CL CL FW CL CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                         BD BD            
+Heat index                                                       81            
+Max heat                                 82                82    86    80      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      36    56      35    60      38    61      39    59
+Temp          58 55   43 36 53 52   41 35 57 54   43 39 58 56   45 40 55 53
+Dewpt         42 39   35 32 34 31   31 29 34 32   33 33 38 40   41 38 42 40
+PWind dir        NW      NW    NW      NW    NW      SE    SE       E    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC SC   SC SC SC FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         30      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S  S  S  S                           S    S  C  S  S
+
+$$
+NEZ031-221000-
+Norfolk-Madison NE
+41.98N  97.43W Elev. 1535 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          84          54          84          46
+Temp             67 54 49 45 44 59 79 84 75 63 58 56 54 63 78 84 78 67 63 54 47
+Dewpt            31 31 30 31 30 31 31 31 36 41 45 47 48 50 47 47 47 50 49 43 39
+RH               26 41 48 58 57 34 17 15 24 44 62 72 80 62 33 28 33 54 60 66 74
+Wind dir          E SE SE  S  S  S  S  S  S  S  S SE SE  S  S  S  S  S SW  W  W
+Wind spd          4  4  4  6  8 10 13 17 12 13 12 13 16 20 25 27 23 21 20 17 16
+Wind gust                                            27 34 36 41 35 34 31 32 27
+Clouds           FW FW CL CL CL CL CL CL CL FW CL FW FW FW CL FW FW SC FW SC B1
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C        S
+Tstms                                                             S  S         
+Obvis                                                         BD               
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      31    56      31    58      36    57      36    55
+Temp          55 50   38 32 51 50   37 32 55 52   40 37 54 52   41 36 51 49
+Dewpt         35 30   29 28 29 25   27 27 29 26   29 30 34 34   35 35 37 34
+PWind dir        NW      NW    NW      NW    NW      SE    SE       E     N
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B1 B1   SC FW SC SC   SC FW SC FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         20      10    10       5     5       5    20      20    20
+Rain shwrs     S  S                                      S  S    S  S  S  S
+
+$$
+NEZ052-221000-
+Valley-Douglas NE
+41.31N  96.35W Elev. 1148 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          82          59          86          53
+Temp             68 56 50 46 44 57 77 82 74 64 62 60 60 67 81 85 80 71 69 63 55
+Dewpt            35 34 35 35 37 41 43 44 47 50 52 54 54 56 54 54 57 58 58 55 47
+RH               29 43 56 65 76 55 30 26 38 60 70 81 81 68 39 35 45 63 68 75 74
+Wind dir          E SE  S  S  S  S  S  S  S  S SE SE SE  S  S  S  S  S  S SW  W
+Wind spd          4  2  3  4  5 10 12 16 10 12 13 13 16 20 26 27 25 25 23 19 13
+Wind gust                                            32 34 36 42 39 36 35 32 28
+Clouds           CL CL FW CL CL CL CL CL CL CL CL FW FW FW CL FW FW SC SC SC B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                         BD               
+Heat index                                                       80            
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      35    55      34    58      37    59      39    57
+Temp          58 54   41 36 51 49   40 35 55 52   41 37 55 54   43 39 53 51
+Dewpt         42 39   36 33 35 31   31 30 35 32   34 33 38 40   41 39 42 40
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC SC   SC SC SC FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         30      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S  S  S  S                           S    S  C  S  S
+
+$$
+NEZ051-221000-
+Wahoo-Saunders NE
+41.24N  96.60W Elev. 1224 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          82          58          86          51
+Temp             67 56 49 45 44 57 77 82 73 62 59 59 58 66 81 86 80 70 68 61 53
+Dewpt            33 34 34 34 35 39 41 41 45 49 50 54 53 55 53 52 55 57 56 53 45
+RH               28 43 56 65 70 51 28 23 37 62 72 83 83 68 38 31 42 63 65 75 74
+Wind dir          E SE  S  S  S  S  S  S  S  S SE SE SE  S  S  S  S  S  S SW  W
+Wind spd          4  3  3  4  5 10 13 16 12 12 12 13 14 21 26 28 25 25 24 19 13
+Wind gust                                            29 34 36 41 39 36 34 32 29
+Clouds           CL CL FW CL CL CL CL CL CL CL FW FW FW FW CL FW FW SC SC SC B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                         BD               
+Heat index                                                       80            
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          59      35    55      34    59      37    59      38    58
+Temp          58 54   40 35 51 50   39 34 55 53   40 38 55 54   43 38 53 51
+Dewpt         41 38   34 32 33 30   31 29 34 31   33 33 38 39   40 38 41 40
+PWind dir        NW      NW    NW      NW    NW      SE    SE       E    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC FW SC SC   SC FW FW FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         30      20    20      10     5       5    20      20    20
+Rain shwrs     C  C    S     S  S                           S    S  S  S  S
+
+$$
+NEZ052-221000-
+Millard-Douglas NE
+41.20N  96.11W Elev. 1151 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          82          61          85          55
+Temp             70 60 54 50 47 59 77 82 74 66 63 62 61 67 80 85 79 73 71 65 57
+Dewpt            34 36 36 37 39 42 44 45 48 52 54 55 55 56 55 55 57 59 59 55 49
+RH               26 41 50 61 74 53 31 27 40 61 72 78 81 68 42 36 47 62 66 70 75
+Wind dir         SE  E SE  S  S  S  S  S  S  S SE SE SE  S  S  S  S  S  S  S  W
+Wind spd          4  2  4  5  5 10 11 13 10 13 13 14 16 19 25 27 24 25 23 19 13
+Wind gust                                            34 35 37 42 37 36 35 33 28
+Clouds           CL CL FW CL CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                         BD               
+Heat index                                                 80    80            
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      38    54      37    57      40    59      41    57
+Temp          59 55   44 38 51 51   42 37 54 53   43 40 56 54   45 41 53 52
+Dewpt         43 41   37 33 34 32   32 31 34 33   34 34 38 40   41 40 42 40
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         40      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S  S  S  S                           S    S  C  S  S
+
+$$
+NEZ053-221000-
+Offutt-Sarpy NE
+41.12N  95.92W Elev. 991 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          81          61          85          56
+Temp             69 60 55 51 48 59 76 81 74 66 63 62 61 67 81 85 79 73 71 65 58
+Dewpt            33 35 36 38 40 44 45 47 49 53 55 56 56 57 56 56 58 59 59 57 51
+RH               26 39 49 61 74 57 33 30 41 63 75 81 84 70 42 37 49 62 66 75 77
+Wind dir         SE  E SE SE  S  S  S  S  S  S  S SE SE  S  S  S  S  S  S  S SW
+Wind spd          3  3  5  5  5 10 12 16 11 13 13 14 17 20 26 26 25 25 24 19 14
+Wind gust                                            33 37 37 41 39 37 35 33 28
+Clouds           CL CL FW CL CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S     S      
+Obvis                                                         BD               
+Heat index                                                 81    80            
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      38    54      37    57      40    59      41    57
+Temp          59 54   44 39 51 50   42 37 54 52   43 40 56 54   45 41 53 52
+Dewpt         44 41   38 34 35 33   33 32 35 33   35 35 38 41   42 40 43 41
+PWind dir         W      NW     N      NW    NW      SE    SE      SE    NE
+Wind char        BZ      LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC B1 B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         40      30    20      10     5       5    20      30    20
+Rain shwrs     C  C    C  S  S  S                           S    S  C  S  S
+
+$$
+IAZ069-221000-
+Council Bluffs-Pottawattamie IA
+41.27N  95.77W Elev. 1197 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          80          60          84          54
+Temp             68 58 53 50 48 59 75 80 72 65 62 61 60 66 79 84 77 71 70 64 57
+Dewpt            34 33 34 37 39 43 44 46 48 52 55 56 56 57 55 55 56 59 58 56 52
+RH               28 39 48 61 71 55 33 30 42 63 78 84 87 73 44 37 48 66 66 75 83
+Wind dir         SE  E SE SE  S  S  S  S  S  S  S SE SE  S  S  S  S  S  S  S SW
+Wind spd          5  5  5  6  8 11 14 18 13 14 14 16 18 21 27 27 25 25 24 20 17
+Wind gust                                            34 39 40 41 39 37 36 33 29
+Clouds           CL CL FW CL FW CL CL CL CL CL FW FW SC FW FW FW FW SC SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S     S      
+Obvis                                                      BD BD               
+Heat index                                                 80                  
+Max heat                                                   80    83            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      37    53      37    56      39    58      40    56
+Temp          58 53   43 38 50 49   42 37 53 50   42 39 54 52   45 41 53 50
+Dewpt         43 40   38 34 35 31   32 32 34 32   34 34 37 39   41 40 42 40
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC SC B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         40      30    20      20     5       5    20      30    20
+Rain shwrs     C  C    C  S  S  S    S                      S    S  C  S  S
+
+$$
+NEZ042-221000-
+Columbus-Platte NE
+41.46N  97.35W Elev. 1476 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          83          54          86          47
+Temp             68 55 49 45 43 56 77 83 74 61 58 56 54 64 80 85 79 68 66 56 48
+Dewpt            32 32 31 32 32 34 36 35 41 45 46 49 49 52 50 51 52 54 53 45 42
+RH               26 41 50 60 65 43 23 18 30 56 64 77 83 65 35 31 39 61 63 66 80
+Wind dir          E SE SE  S  S  S  S  S SE SE SE SE SE  S  S  S  S  S SW SW  W
+Wind spd          6  4  3  3  5  8 12 17 12 11 10 11 14 19 25 28 23 24 21 17 14
+Wind gust                                            25 29    41 36 35 32 32 28
+Clouds           CL FW FW CL FW CL CL CL CL CL CL FW FW FW CL FW FW SC FW SC B1
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C        S
+Tstms                                                             S            
+Obvis                                                         BD               
+Heat index                                                 80                  
+Max heat                                 82                80    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          56      32    56      32    59      37    58      37    57
+Temp          55 50   38 33 51 51   37 33 55 53   40 37 55 53   42 37 53 51
+Dewpt         38 34   32 30 32 28   29 29 32 29   32 33 38 37   38 37 40 38
+PWind dir        NW      NW    NW      NW    NW      SE    SE       E     N
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B1 B1   SC SC SC SC   FW FW FW FW   FW SC B1 B1   B1 B1 B1 SC
+PoP 12hr         20      10    10       5     5       5    20      20    20
+Rain shwrs     S  S                                      S  S    S  S  S  S
+
+$$
+NEZ030-221000-
+Albion-Boone NE
+41.73N  98.03W Elev. 1850 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          85          49          84          42
+Temp             66 53 48 46 44 57 80 85 74 59 54 51 49 61 78 83 76 64 60 49 43
+Dewpt            30 30 30 30 29 30 30 28 32 39 42 44 45 47 45 45 46 47 45 42 38
+RH               26 41 49 53 55 35 16 13 21 47 64 77 86 60 31 26 34 54 58 77 82
+Wind dir         SE SE  S  S SW SW  S  S  S  S  S SE SE  S  S  S  S  S SW  W  W
+Wind spd          4  5  5  8  8  8 10 13 11 10 10 11 11 17 23 25 19 17 16 14 13
+Wind gust                                            21 27    39 32 33 33 34 27
+Clouds           FW FW CL FW CL CL CL CL CL CL CL FW FW FW CL FW FW SC SC SC B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S        S
+Tstms                                                             S            
+Obvis                                                         BD               
+Wind chill                                                                   36
+Min chill                    37    38                                        35
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          53      29    57      29    59      34    58      34    55
+Temp          52 48   35 29 50 51   35 30 54 51   38 35 54 52   39 34 51 49
+Dewpt         34 30   28 27 28 24   26 27 29 26   29 30 35 35   35 34 37 35
+PWind dir        NW      NW    NW      NW     W      SE    SE      NE     N
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B1 B1   SC SC SC FW   FW FW FW FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         20      10     5       5     0      10    20      20    20
+Rain shwrs     S                                         S  S    S  S  S   
+
+$$
+NEZ018-221000-
+Wayne-Wayne NE
+42.24N  96.98W Elev. 1443 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          83          53          84          46
+Temp             65 53 47 43 42 59 78 83 73 62 56 55 54 64 77 83 77 65 61 54 47
+Dewpt            31 31 31 31 30 31 32 31 38 43 46 49 50 52 49 48 49 52 51 45 41
+RH               28 43 53 62 62 34 19 15 28 50 69 80 86 65 37 30 37 63 70 71 79
+Wind dir          E SE SE  S  S  S  S  S  S  S  S SE SE  S  S  S  S  S SW SW  W
+Wind spd          5  5  3  6  9 12 17 19 13 17 14 16 16 20 26 28 24 21 20 16 16
+Wind gust                                            32 37 37 42 36 35 31 32 27
+Clouds           FW FW CL CL CL CL CL CL CL CL CL FW FW FW FW FW FW SC SC SC B1
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C        S
+Tstms                                                             S  S         
+Obvis                                                         BD               
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      30    55      30    57      34    57      34    55
+Temp          55 49   36 31 50 49   36 31 54 51   38 35 53 51   40 35 51 49
+Dewpt         37 31   30 28 30 28   28 27 31 28   29 30 35 34   35 35 38 35
+PWind dir         W      NW    NW      NW    NW      SE    SE       E     N
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B1 B1   SC FW SC SC   SC FW SC FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         20      10    10       5     5       5    20      20    20
+Rain shwrs     S  S                                      S  S    S  S  S  S
+
+$$
+NEZ044-221000-
+Fremont-Dodge NE
+41.45N  96.53W Elev. 1194 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          82          58          86          51
+Temp             67 55 49 45 43 57 76 82 73 63 59 59 58 66 80 85 79 70 68 61 53
+Dewpt            34 33 34 34 35 38 40 41 46 49 51 53 53 55 53 52 55 57 56 52 45
+RH               29 43 56 65 73 49 27 23 38 60 75 80 83 68 39 32 44 63 65 72 74
+Wind dir          E SE  S  S  S  S  S  S  S  S SE SE SE  S  S  S  S  S  S SW  W
+Wind spd          4  3  3  4  5 10 13 17 12 12 13 14 17 21 26 28 25 25 24 19 14
+Wind gust                                            29 35 37 41 40 36 35 32 29
+Clouds           CL FW CL FW CL CL CL CL CL CL CL FW FW FW CL FW FW SC SC SC B1
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                         BD               
+Heat index                                                 80                  
+Max heat                                 80                80    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          59      35    55      34    58      37    59      38    57
+Temp          58 53   40 35 51 50   39 34 55 52   40 37 55 53   43 39 53 51
+Dewpt         42 38   33 31 33 30   31 29 34 31   33 33 38 39   39 38 40 39
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC SC   SC SC FW FW   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         30      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S     S  S                           S    S  C  S  S
+
+$$
+NEZ034-221000-
+Tekamah-Burt NE
+41.76N  96.18W Elev. 1020 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          82          57          86          51
+Temp             69 54 47 43 41 58 77 82 73 62 58 57 58 67 80 85 79 69 67 61 53
+Dewpt            34 32 33 33 34 39 41 43 45 49 52 53 53 56 54 53 54 57 56 53 46
+RH               27 43 58 67 76 49 28 25 37 62 80 86 83 68 41 33 42 66 68 75 77
+Wind dir         NE SE SE SE  S  S  S  S  S  S  S SE SE  S  S  S  S  S  S SW  W
+Wind spd          4  3  3  4  5 11 16 18 12 13 13 18 17 21 27 28 24 25 23 20 14
+Wind gust                                            33 37 39 40 36 37 35 33 29
+Clouds           CL FW CL CL CL CL CL CL CL CL FW FW SC FW FW FW SC SC SC SC B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S  S  S      
+Obvis                                                         BD               
+Heat index                                                 80                  
+Max heat                                 82                81    85            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      33    55      33    58      35    59      37    57
+Temp          59 53   40 34 51 49   38 34 55 51   39 35 55 53   41 37 53 51
+Dewpt         42 38   34 31 33 30   31 29 34 31   32 32 37 37   39 37 40 39
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC SC   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         30      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S     S  S                           S    S  C  S  S
+
+$$
+NEZ045-221000-
+Blair-Washington NE
+41.42N  96.11W Elev. 1200 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          80          60          85          53
+Temp             69 58 52 49 47 59 75 80 73 65 61 61 60 66 80 84 78 71 69 63 55
+Dewpt            36 33 34 35 37 41 44 45 48 50 53 54 55 56 55 55 57 58 57 55 47
+RH               30 39 50 58 68 51 33 29 41 58 75 78 84 70 42 37 48 63 66 75 74
+Wind dir         SE SE  S  S  S  S  S  S  S  S  S SE SE  S  S  S  S  S  S  S  W
+Wind spd          5  3  5  5  8 11 13 17 11 14 16 17 18 21 26 27 24 25 24 20 14
+Wind gust                                            34 37 40 42 39 37 35 32 29
+Clouds           CL CL FW CL CL CL CL CL CL CL FW FW SC FW FW FW FW SC SC SC B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S     S      
+Obvis                                                      BD BD               
+Heat index                                                 80                  
+Max heat                                                   80    83            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      36    53      36    57      38    58      39    57
+Temp          58 53   42 37 50 49   41 36 54 51   42 38 54 52   44 40 53 50
+Dewpt         42 40   36 33 35 31   31 30 35 32   34 33 38 39   40 39 42 40
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC SC SC   SC SC SC SC   SC SC B1 B1   B1 B1 B1 SC
+PoP 12hr         40      20    20      10     5       5    20      30    20
+Rain shwrs     C  C    S  S  S  S                           S    S  C  S  S
+
+$$
+NEZ089-221000-
+Beatrice-Gage NE
+40.30N  96.75W Elev. 1325 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          83          59          88          53
+Temp             72 60 54 51 49 61 77 83 74 64 61 60 59 68 83 87 79 71 69 63 55
+Dewpt            33 33 36 38 39 43 43 44 47 49 52 53 51 54 54 54 57 58 57 55 47
+RH               24 36 50 61 68 51 30 25 38 58 72 78 75 61 37 32 47 63 66 75 74
+Wind dir          S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  W
+Wind spd          4  4  6  8  6 10 12 14 11 13 12 14 17 21 27 31 28 27 24 20 13
+Wind gust                                               39 39 46 43 40 35 34 29
+Clouds           FW CL CL CL CL CL CL CL CL CL CL FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S  C
+Tstms                                                             S  S  S      
+Obvis                                                         BD BD BD         
+Heat index                                                       80            
+Max heat                                 81                82    85            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      36    56      34    60      38    62      39    59
+Temp          57 54   42 36 52 51   40 34 57 54   41 38 58 56   45 39 55 53
+Dewpt         42 39   37 33 33 30   31 29 33 31   34 34 38 40   41 39 43 40
+PWind dir        NW      NW     N      NW    NW      SE    SE      SE    NE
+Wind char        BZ      LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   SC SC B1 B1   SC SC SC FW   FW SC B1 B1   B1 SC B1 SC
+PoP 12hr         40      20    20      10     5       5    10      30    20
+Rain shwrs     C  C    S  S  S  S                                S  C  S  S
+
+$$
+NEZ067-221000-
+Plattsmouth-Cass NE
+40.95N  95.92W Elev. 1053 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          81          61          85          55
+Temp             69 60 56 52 49 60 76 81 74 65 62 62 61 67 81 84 79 72 70 65 58
+Dewpt            33 34 35 39 40 44 45 47 50 53 55 56 55 57 55 55 58 59 58 56 51
+RH               26 37 45 61 71 55 33 30 43 65 78 81 81 70 41 37 49 64 66 73 77
+Wind dir         SE  E  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S SW
+Wind spd          2  4  5  6  8 11 13 18 12 14 14 16 18 21 27 29 26 26 24 20 17
+Wind gust                                            33 39 39 42 41 37 36 34 29
+Clouds           CL CL FW FW CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S     S      
+Obvis                                                         BD BD            
+Heat index                                                 81                  
+Max heat                                 80                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      37    54      37    57      39    59      40    57
+Temp          59 53   44 38 51 49   42 37 54 51   43 39 56 54   45 41 53 51
+Dewpt         44 42   39 34 35 33   33 32 34 33   35 34 38 41   42 40 43 41
+PWind dir         W      NW     N      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC B1 B1   SC SC SC SC   SC SC B1 SC   B1 B1 B1 SC
+PoP 12hr         40      30    20      10     5       5    10      20    20
+Rain shwrs     C  C    C  S  S  S                                S  S  S  S
+
+$$
+NEZ068-221000-
+Nebraska City-Otoe NE
+40.60N  95.87W Elev. 1151 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          82          60          85          56
+Temp             73 61 56 53 50 61 77 82 74 65 62 61 60 68 81 84 78 71 70 65 59
+Dewpt            34 34 38 40 41 45 46 47 49 53 55 56 55 57 55 56 58 59 58 57 54
+RH               24 36 51 61 71 56 33 29 41 65 78 84 84 68 41 38 50 66 66 75 83
+Wind dir          S SE  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S SW
+Wind spd          5  6  6  8  8 12 13 17 12 14 14 14 19 21 27 29 26 26 24 21 18
+Wind gust                                            32 39 39 42 42 40 39 36 31
+Clouds           FW CL CL CL CL CL CL CL CL CL FW FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S  S  S      
+Obvis                                                         BD BD            
+Heat index                                                 81                  
+Max heat                                 81                81    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      37    54      37    57      38    60      40    57
+Temp          60 53   45 38 51 49   42 37 54 51   43 38 57 54   45 41 54 52
+Dewpt         45 45   41 35 35 33   33 31 34 34   35 35 38 41   42 40 43 42
+PWind dir         W      NW     N      NW    NW      SE    SE      SE    NE
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC B1 B1   SC SC SC SC   SC SC SC SC   SC B1 B1 SC
+PoP 12hr         50      30    30      20     5       5    10      30    20
+Rain shwrs     C  C    C  S  C  S    S                           S  C  S  S
+
+$$
+NEZ093-221000-
+Falls City-Richardson NE
+40.08N  95.58W Elev. 892 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          82          61          84          58
+Temp             74 61 57 55 53 64 78 82 75 66 65 63 62 71 82 84 77 71 69 65 60
+Dewpt            41 41 43 43 44 48 49 51 53 55 57 57 56 58 57 59 60 61 60 58 57
+RH               30 48 59 64 71 56 36 34 46 68 75 81 81 63 43 43 56 71 73 78 90
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd          9  8  9  9 10 16 18 20 13 14 17 18 19 25 31 31 28 27 25 20 18
+Wind gust              19             31             34 44 42 44 42 42 40 37 32
+Clouds           FW FW CL CL CL CL CL CL CL FW CL FW FW FW FW FW FW FW SC B1 B2
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S  S  S  S  S
+Obvis                                                      BD BD BD BD         
+Heat index                                                 82                  
+Max heat                                 81                82    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      38    54      36    58      37    61      40    58
+Temp          62 54   47 39 51 49   41 36 55 52   41 37 58 55   45 41 55 52
+Dewpt         50 49   45 39 38 38   36 32 37 38   38 36 41 43   44 40 46 45
+PWind dir         W      NW     N      NW    NW      SE    SE      SE     E
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 B1 B1 B1   SC SC SC SC   SC SC SC SC   B1 B1 B1 B1
+PoP 12hr         60      40    30      20     5       5    10      20    20
+Rain shwrs     C  L    C  C  C  C    S                           S  S  S  S
+Tstms          S                                                           
+
+$$
+IAZ056-221000-
+Harlan-Shelby IA
+41.58N  95.34W Elev. 1220 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          80          59          83          53
+Temp             67 54 50 47 47 60 75 80 71 63 61 60 60 67 78 82 75 69 68 63 56
+Dewpt            36 35 35 38 39 46 45 47 50 52 55 56 56 59 57 57 59 60 59 57 54
+RH               32 48 56 71 74 60 34 31 47 67 81 87 87 75 48 43 58 73 73 81 93
+Wind dir         SE SE SE  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S SW
+Wind spd          5  4  6  6  9 12 16 18 12 14 14 14 18 21 27 27 26 26 25 20 16
+Wind gust                                            33 37 40 40 39 37 37 35 31
+Clouds           CL CL FW FW FW CL CL CL CL CL FW FW SC FW FW FW FW SC SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S     S      
+Obvis                                                      BD BD               
+Heat index                                                    82               
+Max heat                                                         82            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      35    52      34    54      36    56      37    55
+Temp          59 53   43 36 49 47   40 35 51 48   40 36 53 51   42 38 52 49
+Dewpt         45 43   40 35 37 34   34 32 36 35   34 34 38 41   42 38 43 42
+PWind dir         W      NW    NW      NW    NW      SE    SE      SE    NE
+Wind char        BZ      LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 SC B1 B1   B1 SC SC SC   SC B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         40      30    20      20     5       5    10      20    20
+Rain shwrs     C  C    C  S  S  S    S                           S  S  S  S
+
+$$
+IAZ080-221000-
+Red Oak-Montgomery IA
+41.02N  95.27W Elev. 1063 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          81          59          83          56
+Temp             70 58 53 52 50 62 76 81 72 64 62 61 59 68 80 83 77 70 69 65 59
+Dewpt            35 37 39 42 42 46 47 49 51 54 57 57 56 58 57 57 59 60 59 58 55
+RH               27 45 59 69 74 56 36 33 48 70 84 87 90 70 45 41 54 71 70 78 87
+Wind dir          S  E  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S
+Wind spd          4  5  9  9 10 13 17 19 13 14 17 17 18 23 28 29 26 26 25 19 17
+Wind gust                                            35 39 40 42 40 37 39 36 33
+Clouds           FW CL FW FW CL CL CL CL CL CL FW FW FW SC FW FW FW SC SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S  S  S      
+Obvis                                                         BD BD            
+Heat index                                                 80                  
+Max heat                                 80                81    83            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      36    53      35    56      37    58      39    57
+Temp          61 53   45 37 50 48   40 36 53 50   40 37 55 52   43 40 54 50
+Dewpt         47 47   43 37 37 35   35 32 36 36   37 35 39 42   43 40 45 44
+PWind dir         W      NW     N       N    NW      SE    SE      SE     E
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 B1 B1 B1   B1 SC SC SC   SC SC B1 B1   B1 B1 B1 B1
+PoP 12hr         50      40    30      20     5       5    10      20    20
+Rain shwrs     C  C    C  C  C  C    S                           S  S  S  S
+
+$$
+IAZ090-221000-
+Shenandoah-Fremont IA
+40.75N  95.42W Elev. 1010 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          82          60          84          57
+Temp             71 60 56 54 51 63 77 82 74 65 63 62 60 69 81 84 77 71 69 66 60
+Dewpt            34 36 41 42 42 47 47 49 51 54 57 57 56 58 57 57 59 61 60 58 56
+RH               26 41 57 64 71 56 35 32 44 68 81 84 87 68 44 40 54 71 73 75 87
+Wind dir          S SE  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S
+Wind spd          5  5  9  9 10 12 16 18 12 14 16 16 18 23 28 29 26 27 25 19 17
+Wind gust                                      26    35 40 39 42 40 40 39 36 33
+Clouds           FW CL CL CL CL CL CL CL CL FW FW CL FW SC FW FW FW SC SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S  S  S  S   
+Obvis                                                         BD BD BD         
+Heat index                                                 81                  
+Max heat                                 81                82    84            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      37    54      36    57      37    59      39    58
+Temp          62 53   46 38 51 49   41 36 54 51   41 38 56 54   44 40 55 51
+Dewpt         48 47   43 37 37 35   35 32 36 36   37 35 39 42   44 40 45 44
+PWind dir         W      NW     N       N    NW      SE    SE      SE     E
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B1 B1 B1 B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 B1
+PoP 12hr         50      40    30      20     5       5    10      20    20
+Rain shwrs     C  C    C  C  C  C    S                           S  S  S  S
+
+$$
+IAZ091-221000-
+Clarinda-Page IA
+40.72N  95.03W Elev. 1115 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          81          59          83          58
+Temp             71 57 55 53 51 63 76 81 73 63 62 60 59 68 80 82 77 69 68 64 60
+Dewpt            37 40 43 42 43 49 50 51 53 55 57 57 56 60 59 60 62 62 60 59 57
+RH               29 53 64 66 74 60 40 35 49 75 84 90 90 76 49 47 60 78 76 84 90
+Wind dir          S SE  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S
+Wind spd          8  6  9  9 10 13 16 18 11 13 17 17 18 23 28 28 25 26 25 18 17
+Wind gust                                            34 39 40 41 37 41 40 37 33
+Clouds           FW CL CL FW FW CL CL CL CL FW FW FW SC SC FW FW FW SC SC B1 B2
+PoP 12hr                      0           0           0          10          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  C
+Tstms                                                             S  S  S  S  S
+Obvis                                                         BD    BD         
+Heat index                                                 80 83               
+Max heat                                 81                81    83            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      37    52      35    55      36    58      38    57
+Temp          62 54   46 38 50 48   40 36 52 49   40 36 55 52   43 39 54 51
+Dewpt         51 50   46 38 40 38   37 34 39 39   38 36 41 45   43 39 47 46
+PWind dir         W      NW     N       N    NW      SE    SE      SE     E
+Wind char        BZ      GN    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 B1   SC SC SC SC   SC SC B1 B1   B1 B1 B1 B1
+PoP 12hr         60      40    30      20     5       5    10      20    20
+Rain shwrs     C  L    C  C  C  C    S                           S  S  S  S
+Tstms          S                                                           
+
+$$

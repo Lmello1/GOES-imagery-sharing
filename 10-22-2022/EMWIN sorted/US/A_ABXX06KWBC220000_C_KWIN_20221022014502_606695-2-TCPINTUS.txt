@@ -1,0 +1,74 @@
+ABXX06 KWBC 220000
+TPTINT
+
+FOREIGN TEMPERATURE AND WEATHER TABLE
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+0000 UTC SAT OCT 22 2022
+
+                 PRESENT   LOCAL  TEMPS   
+CITY             WEATHER   TIME   F   C   
+
+ABERDEEN         RAIN       1AM   54  12  
+ABIDJAN          FAIR      MDNT   81  27  
+ALGIERS          FOG       MDNT   64  18  
+AMSTERDAM        FAIR       1AM   57  14  
+ANKARA           FAIR       3AM   34   1  
+ATHENS                      2AM   NO DATA 
+AUCKLAND         CLDY      NOON   63  17  
+BARCELONA        WINDY      1AM   68  20  
+BEIJING          FAIR       8AM   61  16  
+BEIRUT           FAIR       2AM   72  22  
+BERLIN                      1AM   NO DATA 
+BONN             FAIR       1AM   55  13  
+BRUSSELS         FAIR       1AM   57  14  
+CAIRO                       2AM   70  21  
+CAPE TOWN        WINDY      1AM   61  16  
+CASABLANCA       FAIR      MDNT   63  17  
+COPENHAGEN       MISTY      1AM   54  12  
+DAKAR            FAIR      MDNT   79  26  
+DAR ES SALAAM               3AM   NO DATA 
+DUBLIN           RAIN       1AM   57  14  
+FRANKFURT        RAIN       1AM   59  15  
+GENEVA           CLDY       1AM   57  14  
+HARARE                      2AM   NO DATA 
+HELSINKI         CLDY       2AM   39   4  
+HO CHI MINH CTY  CLDY       8AM   81  27  
+HONG KONG        FAIR       8AM   77  25  
+ISTANBUL         FAIR       2AM   50  10  
+JERUSALEM                   2AM   NO DATA 
+KARACHI          SMOKE      5AM   73  23  
+LAGOS            CLDY       1AM   81  27  
+LILLE            FAIR       1AM   57  14  
+LISBON           CLDY       1AM   64  18  
+LONDON           PTCLDY     1AM   59  15  
+MADRID           RAIN       1AM   59  15  
+LUQA             FAIR       1AM   63  17  
+MANILA           CLDY       8AM   82  28  
+MOSCOW           MISTY      3AM   37   3  
+MUNICH           FAIR       1AM   54  12  
+NAIROBI                     3AM   NO DATA 
+NASSAU           CLDY       7PM   77  25  
+NEW DELHI        MISTY      6AM   70  21  
+NICE             CLDY       1AM   66  19  
+OSLO             CLDY       1AM   36   2  
+PARIS            FAIR       1AM   57  14  
+PRETORIA                    2AM   NO DATA 
+RIYADH           FAIR       3AM   68  20  
+ROME             PTCLDY     1AM   64  18  
+SARAJEVO         FAIR       2AM   46   8  
+SEOUL            MISTY      9AM   57  14  
+SEVILLA          FAIR       1AM   66  19  
+SHANGHAI         MISTY      8AM   68  20  
+SINGAPORE        CLDY       8AM   81  27  
+SOFIA                       2AM   39   4  
+ST. PETERSBURG   CLDY       3AM   41   5  
+STOCKHOLM        CLDY       1AM   41   5  
+SYDNEY           CLDY      10AM   72  22  
+TAIPEI           WINDY      8AM   77  25  
+TOKYO            PTCLDY     9AM   64  18  
+TUNIS                       1AM   72  22  
+VIENNA           FAIR       1AM   46   8  
+WARSAW           RAIN       1AM   46   8  
+ZURICH           RAIN       1AM   55  13  
+
+$$ 

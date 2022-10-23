@@ -1,0 +1,46 @@
+ASUS64 KEPZ 220008
+RTPEPZ
+221208-
+Max/Min Temperature and Precipitation Table for
+Southwest/South-Central New Mexico and Far West Texas
+National Weather Service El Paso TX / Santa Teresa NM
+608 PM MDT Fri Oct 21 2022
+
+.BR EPZ 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Values represent High and Low Temperatures over the last 17 hours
+:ending at 5pm MST and 24-hour Precipitation ending at 5pm MST.
+:
+:
+:ASOS and Other NWS-Maintained Sites
+:
+:                                 Max    Min     24hr    Snow   Snow
+:Id    Location            Elev   Temp   Temp    Pcpn    Fall   Depth
+:--------------------------------------------------------------------
+DMN   :Deming              4314 :  81  /  44  /  0.00  /   M  /   M
+ELP   :El Paso Intl Arpt   3917 :  84  /  50  /  0.00  /      /
+EPZN5 :Santa Teresa NWS    4108 :  81  /  46  /  0.00  /      /
+TCS   :T-or-C Airport      4859 :  79  /  46  /  0.00  /   M  /   M
+:
+: 
+:AWOS / CRN / Military Sites - Not maintained by NWS.
+:
+:                                 Max    Min     24hr 
+:Id    Location            Elev   Temp   Temp    Pcpn
+:-----------------------------------------------------
+ALM   :Alamogordo          4196 :  77  /  41  /  0.00
+HMN   :Holloman AFB        4095 :  78  /  42  /  0.00
+LCSN5 :Jornada Range CRN   4327 :  80  /  41  /  0.00
+LRU   :Las Cruces Airport  4455 :  80  /  48  /  0.00
+SVC   :Grant County Arpt   5443 :  77  /  44  /  0.00
+0A0   :Spaceport America   4597 :  81  /  41  /  0.00
+:
+.END
+ 
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center (NCDC). Therefore...
+these data are subject to revision. Final and certified climate
+data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

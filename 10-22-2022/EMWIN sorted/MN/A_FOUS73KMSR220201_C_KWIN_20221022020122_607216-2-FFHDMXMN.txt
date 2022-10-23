@@ -1,0 +1,32 @@
+FOUS73 KMSR 220201
+FFHDMX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+900 PM CDT FRI OCT 21 2022
+                                                                        
+DES MOINES HYDROLOGIC SERVICE AREA                                      
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221022 Z DH00/DC2210220200 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** IOWA HEADWATER POINTS ***                                       
+:                                                                       
+AKWI4     3.5/  4.0/  4.5 :ACKWORTH IA           SOUTH R
+AMWI4     3.3/  3.7/  4.3 :AMES IA               SQUAW CR
+BSSI4     3.5/  4.0/  4.5 :BUSSEY IA             CEDAR CR
+DFMI4     3.5/  4.0/  4.5 :DSM-EASTON            FOUR MILE CR
+CLVI4     3.5/  4.0/  4.5 :CLIVE I-80/35         WALNUT CR
+DOSI4     3.5/  4.0/  4.5 :DSM-63RD ST           WALNUT CR
+MIWI4     3.1/  4.0/  4.5 :MARSHALLTOWN IA       IOWA R
+MCWI4     3.5/  4.0/  4.5 :MASON CITY IA         WINNEBAGO R
+REDI4     3.5/  4.0/  4.5 :REDFIELD IA           SOUTH RACCOON R
+VNMI4     3.5/  4.0/  4.5 :VAN METER IA          RACCOON R
+WAEI4     2.7/  3.1/  4.0 :WATERLOO IA 4E        ELK RUN CR
+.END
+$$

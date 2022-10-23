@@ -1,0 +1,213 @@
+FPUS83 KFGF 220031
+OPUFGF
+PRAIRIE TO PINES WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE EASTERN NORTH DAKOTA/GRAND FORKS ND
+700 PM CDT FRI OCT 21 2022
+
+ **SATELLITE DATA USED TO AUGMENT SKY COVER AT AUTOMATED STATIONS**
+ *****  WEATHER ACROSS EASTERN NORTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND FORKS    CLOUDY    54  33  45 S5        29.52S HAZE             
+6HR MIN TEMP:  54; 6HR MAX TEMP:  65;                                
+
+GRND FORKS AFB CLOUDY    54  31  42 SW3       29.50S                  
+GRND FORKS NWS   N/A     56  34  42 W3        29.48S                  
+BUXTON         NOT AVBL                                               
+DEVILS LAKE    CLOUDY    52  37  56 SW5       29.54R                  
+6HR MIN TEMP:  52; 6HR MAX TEMP:  57; 6HR PCP: TRACE;                
+
+FARGO          MOCLDY    56  27  32 SE6       29.53F                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  63;                                
+
+WAHPETON ARPT  FAIR      54  32  43 S6        29.55F                  
+$$
+
+ *****  WEATHER ACROSS CENTRAL AND WESTERN NORTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JAMESTOWN      FAIR      53  32  44 S3        29.52R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  62;                                
+
+BISMARCK       FAIR      55  33  43 NE8       29.51S                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  59;                                
+
+MINOT          LGT RAIN  48  41  76 N15       29.54R                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  53; 6HR PCP: TRACE;                
+
+MINOT AFB      LGT RAIN  44  40  86 N9        29.52R                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  53; 6HR PCP: TRACE;                
+
+GARRISON         N/A     49  41  74 NE3       29.52S                  
+6HR MIN TEMP:  49; 6HR MAX TEMP:  53; 6HR PCP:  0.01;                
+
+WILLISTON      NOT AVBL                                               
+DICKINSON      CLOUDY    53  36  52 N8        29.49R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  63;                                
+
+HETTINGER      FAIR      62  32  32 S7        29.47F                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  69;                                
+
+$$
+
+ *****  OTHER OBSERVATIONS NORTHEAST NORTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WALHALLA       CLOUDY    54  36  50 SW8       29.52R                  
+LANGDON        CLOUDY    50  36  57 SW10      29.53R                  
+CAVALIER       CLOUDY    55  36  47 W8        29.51R                  
+GRAFTON        MOCLDY    52  34  50 W5        29.53R                  
+CANDO          CLOUDY    50  37  62 NW9       29.56R                  
+FORT TOTTEN      N/A     53  36  52 CALM      29.95S                  
+ROLLA          LGT RAIN  43  41  93 N9        29.56R                  
+RUGBY          CLOUDY    48  39  71 W6        29.54R                  
+ ***** THE ABOVE OBSERVATIONS ARE NON NWS ARE NOT QUALITY
+        CONTROLLED AND MAY MIS-REPORT RAIN FOR SNOW...
+$$
+
+ *****  OTHER OBSERVATIONS SOUTHEAST NORTH DAKOTA *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COOPERSTOWN    CLOUDY    52  32  46 NW5       29.55R                  
+VALLEY CITY    FAIR      54  34  47 S5        29.55R                  
+OAKES          CLOUDY    54  34  47 SE8       29.54F HAZE             
+GWINNER        MOCLDY    54  34  47 S8        29.54F HAZE             
+SHEYENNE NWR     N/A     54  33  44 S5        29.95S                  
+BUFFALO        NOT AVBL                                               
+WYNDMERE       NOT AVBL                                               
+ ***** THE ABOVE OBSERVATIONS ARE NON NWS ARE NOT QUALITY
+       CONTROLLED AND MAY MIS-REPORT RAIN FOR SNOW...
+$$
+
+  *****  WEATHER ACROSS NORTHERN MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FLAG ISLAND    CLOUDY    50  39  66 S3        29.50S                  
+WARROAD        FAIR      54  37  54 S3        29.51R                  
+ROSEAU         FAIR      54  34  47 SW8       29.51R                  
+HALLOCK        CLOUDY    54  34  47 SW6       29.51R                  
+THF RVR FALLS  MOCLDY    53  31  42 SW7       29.55S                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  62;                                
+
+HALSTAD        NOT AVBL                                               
+FOSSTON        FAIR      48  30  49 S6        29.56S                  
+BAUDETTE       MOCLDY    52  32  46 S5        29.53R                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  62;                                
+
+WASKISH        FAIR      52  36  54 CALM      29.55R                  
+CROOKSTON      FAIR      52  28  40 SW5       29.54F                  
+$$
+  *****  WEATHER ACROSS CENTRAL AND WEST MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BEMIDJI        FAIR      51  33  51 CALM      29.56F                  
+6HR MIN TEMP:  52; 6HR MAX TEMP:  60;                                
+
+PARK RAPIDS    FAIR      52  31  44 CALM      29.58R                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  61;                                
+
+WADENA         FAIR      50  30  46 CALM      29.59S                  
+DETROIT LAKES  MOCLDY    52  32  46 SE5       29.57S                  
+MOORHEAD       FAIR      55  30  38 CALM      29.55F                  
+FERGUS FALLS   FAIR      54  34  47 S7        29.57S                  
+ELBOW LAKE     FAIR      51  36  57 SE3       29.60S                  
+6HR MIN TEMP:  52; 6HR MAX TEMP:  62;                                
+
+MORRIS MN      FAIR      55  27  33 S3        29.61S                  
+STAPLES        FAIR      48  34  57 CALM      29.59F                  
+WHEATON          N/A     52  32  46 SE6       29.59F                  
+$$
+  *****  WEATHER ELSEWHERE ACROSS MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DULUTH         FAIR      53  32  44 NW5       29.58R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  63;                                
+
+INTRNTL FALLS  FAIR      44  33  65 CALM      29.52S                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  61;                                
+
+ELY            FAIR      48  34  57 CALM      29.57S                  
+CLOQUET        FAIR      50  32  50 CALM      29.58S                  
+BRAINERD       FAIR      49  31  49 S3        29.59S                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  64;                                
+
+HIBBING        FAIR      45  37  73 CALM      29.57S                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  60;                                
+
+ALEXANDRIA     FAIR      54  32  43 CALM      29.61R                  
+6HR MIN TEMP:  52; 6HR MAX TEMP:  62;                                
+
+SAINT CLOUD    FAIR      54  36  50 CALM      29.61R                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  65;                                
+
+MINNEAPOLIS    MOCLDY    58  34  40 N5        29.61R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  68;                                
+
+$$
+
+  *****  WEATHER ACROSS SOUTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SIOUX FALLS    FAIR      55  36  48 NE5       29.60R                  
+6HR MIN TEMP:  55; 6HR MAX TEMP:  73;                                
+
+BROOKINGS      FAIR     N/A N/A N/A SE8       29.59F                  
+WATERTOWN      FAIR      57  32  38 SE3       29.58S                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  61;                                
+
+HURON          FAIR      61  34  36 S5        29.55F                  
+6HR MIN TEMP:  61; 6HR MAX TEMP:  67;                                
+
+SISSETON         N/A     59  34  39 S9        29.56F                  
+ABERDEEN       FAIR      55  33  43 S6        29.55S                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  67;                                
+
+MITCHELL       FAIR      59  32  36 SE5       29.57F                  
+PIERRE         FAIR      61  35  37 SE12      29.50F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  69;                                
+
+MOBRIDGE       FAIR      57  35  43 S7        29.48F                  
+RAPID CITY     FAIR      64  27  24 SE5       29.47F                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  74;                                
+
+$$
+
+  *****  SOME WEATHER IN NEARBY STATES *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GLASGOW MT     CLOUDY    48  40  73 E8        29.55R                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  52; 6HR PCP: TRACE;                
+
+GREAT FALLS MT CLOUDY    49  37  63 SW12      29.53F                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  56; 6HR PCP: TRACE;                
+
+CHEYENNE WY    FAIR      65  12  12 W22G30    29.74F                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  73;                                
+
+SCOTTSBLUFF NE FAIR      73  15  11 SW17G25   29.59F                  
+6HR MIN TEMP:  72; 6HR MAX TEMP:  81;                                
+
+OMAHA NE       FAIR      64  35  34 CALM      29.59S                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  77;                                
+
+DES MOINES IA  FAIR      69  36  29 NW3       29.61R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  79;                                
+
+DAVENPORT IA   FAIR      69  39  33 S7        29.66R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  80;                                
+
+CHICAGO IL     FAIR      71  37  28 S13       29.69R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  76;                                
+
+EAU CLAIRE WI  FAIR      53  38  56 CALM      29.61R                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  68;                                
+
+LA CROSSE WI   FAIR      56  40  55 CALM      29.61R                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  76;                                
+
+$$
+
+  *****  SOME NATIONAL WEATHER *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LA GUARDIA NY  FAIR      57  40  52 S7        30.14R               

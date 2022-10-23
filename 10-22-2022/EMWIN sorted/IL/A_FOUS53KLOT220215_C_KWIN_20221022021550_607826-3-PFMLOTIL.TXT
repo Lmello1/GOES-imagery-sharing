@@ -1,0 +1,881 @@
+FOUS53 KLOT 220215
+PFMLOT
+
+Point Forecast Matrices
+National Weather Service Chicago/Romeoville IL
+915 PM CDT Fri Oct 21 2022
+
+ILZ104-221000-
+Chicago O'Hare International Airport-Cook IL
+41.99N  87.91W Elev. 667 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          79          59          75          61
+Temp                63 60 55 53 63 75 79 71 69 66 61 60 65 73 75 71 67 65 63 61
+Dewpt               43 43 44 46 49 51 52 52 53 53 53 53 54 55 56 54 53 53 52 52
+RH                  48 53 66 77 60 43 39 51 57 63 75 78 68 53 52 55 61 65 67 72
+Wind dir             S SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 12 10 10 14 16 18 14 16 13 11 12 13 17 18 17 16 13 13 12
+Wind gust           24 23          27 28 27    26       25    28    27 26      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B1 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                   S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      59    67      49    59      43    58      44    58
+Temp          73 70   65 59 67 61   54 49 58 53   47 43 57 53   48 45 57 52
+Dewpt         54 54   51 48 51 51   52 47 47 46   44 42 43 44   44 44 48 47
+PWind dir         S       S     S      SE     W      SW     S      SE    SE
+Wind char        BZ      GN    GN      GN    GN      LT    GN      LT    GN
+Avg clouds    B1 B2   B2 B2 B2 OV   OV B2 B2 B1   B1 SC SC B1   B1 B1 B1 B1
+PoP 12hr         20      40    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  L  C  S                     S  S  C
+
+$$
+ILZ003-221000-
+Greater Rockford Airport-Winnebago IL
+42.20N  89.11W Elev. 745 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          80          58          75          61
+Temp                59 56 53 50 64 75 80 70 65 61 60 58 64 72 75 68 64 62 61 61
+Dewpt               44 44 44 44 51 52 52 53 54 53 53 53 56 56 56 57 58 57 56 55
+RH                  57 64 71 80 63 45 38 55 68 75 78 83 75 57 52 68 81 84 84 81
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9 10 10 10 14 16 17 14 16 14 13 13 16 18 19 14 16 13 13 13
+Wind gust                          27 28 27    26                27 31 25      
+Clouds              FW FW FW FW CL CL CL FW FW FW FW FW SC SC SC B1 B2 B1 B1 B2
+PoP 12hr                      0           0           0           5          50
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  S
+Tstms                                                             S  S  S  S   
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      54    61      44    57      39    56      40    57
+Temp          74 67   60 54 60 56   48 44 55 49   43 40 54 49   43 40 55 49
+Dewpt         56 56   54 51 52 52   48 44 47 44   42 40 43 43   43 40 48 46
+PWind dir         S       S     S      SE     W      SW     S      SE    SE
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 OV B2 B2   B2 B2 B1 B1   SC SC B1 B1   B1 B2 B1 B1
+PoP 12hr         30      60    50      60    30      10     5      20    30
+Rain shwrs     S  C    C  L  C  C    L  C  C                        S  S  C
+
+$$
+ILZ104-221000-
+Chicago Midway Airport-Cook IL
+41.78N  87.76W Elev. 612 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          78          59          75          61
+Temp                64 61 58 54 64 74 78 70 67 65 61 59 64 72 75 70 68 66 62 61
+Dewpt               43 44 46 47 50 50 52 53 54 54 54 53 54 54 55 54 53 52 52 52
+RH                  46 53 64 77 60 43 40 55 63 68 78 80 70 53 50 57 59 61 70 72
+Wind dir             S SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 12 10 10 16 17 18 16 16 13 12 12 13 16 17 14 14 12 11 11
+Wind gust           26 23          27 28 27    26       25    27 27 27 26 23 21
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B2 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                   S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      59    67      50    59      45    58      46    58
+Temp          74 71   65 59 66 60   54 50 58 54   49 45 57 54   49 46 57 52
+Dewpt         53 54   51 49 51 51   52 48 47 46   45 43 43 45   46 45 48 48
+PWind dir         S       S     S       S     W      SW    SE      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC B1   B1 B1 B1 B1
+PoP 12hr         10      40    50      70    30      10     5      20    30
+Rain shwrs             C  C  C  C    L  L  C  S                     S  S  C
+
+$$
+ILZ021-221000-
+Morris-Grundy IL
+41.43N  88.42W Elev. 569 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          81          57          77          61
+Temp                58 55 52 51 66 79 81 69 64 63 59 58 67 74 77 69 66 64 62 62
+Dewpt               44 44 46 47 52 53 52 54 55 55 54 53 56 57 57 56 55 54 52 52
+RH                  59 66 80 86 61 41 37 59 73 75 83 83 68 55 50 63 68 70 70 70
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 12 10 10 16 17 17 14 16 13 13 12 13 17 18 13 13 12 11 10
+Wind gust           23             27 28 26    26       24    28 26 27 26      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW SC FW FW SC B1 B2 B1 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                   S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      58    67      47    59      40    58      42    59
+Temp          75 69   62 58 66 58   52 47 58 49   43 41 57 49   44 43 57 50
+Dewpt         56 56   52 49 53 53   52 47 49 46   43 41 46 45   44 43 51 49
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        GN      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         20      50    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ006-221000-
+Waukegan-Lake IL
+42.42N  87.87W Elev. 745 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          75          57          71          59
+Temp                60 58 54 51 62 74 75 67 64 63 61 57 65 69 71 64 62 62 60 60
+Dewpt               43 44 44 44 50 52 52 53 53 52 52 52 55 56 56 55 54 53 52 52
+RH                  53 59 69 77 65 46 45 61 67 67 72 83 70 63 59 73 75 72 75 75
+Wind dir            SW SW SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            14 13 11 10 14 16 17 16 17 14 13 12 13 14 16 12 13 13 12 12
+Wind gust           25             27 27 27    26                24 27 24 23   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          72      56    64      47    58      43    56      44    56
+Temp          71 65   60 56 64 57   51 47 58 52   46 44 56 50   47 44 56 49
+Dewpt         55 54   51 48 52 51   49 45 48 46   43 42 45 45   44 44 49 48
+PWind dir         S       S     S       E     W       W     S      SE    SE
+Wind char        GN      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 OV   OV B2 B2 B1   B1 SC B1 B1   B1 B1 B1 B1
+PoP 12hr         20      40    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  L  C  S                     S  S  C
+
+$$
+ILZ021-221000-
+Pontiac-Livingston IL
+40.92N  88.63W Elev. 648 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          81          58          76          60
+Temp                61 57 54 51 64 79 81 71 65 62 60 58 66 74 76 70 66 63 61 61
+Dewpt               45 45 46 47 53 55 55 56 55 54 53 53 58 59 59 58 56 53 52 51
+RH                  56 64 74 86 67 44 41 59 70 75 78 83 75 59 56 66 70 70 72 70
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 12 12 12 16 17 17 14 16 16 14 14 17 19 19 16 14 13 12 13
+Wind gust           26 23       26 28 29 28 28 27       27 31 32 29 31 27 23   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B2 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S   
+Tstms                                                                   S      
+Heat index                            81                                       
+Max heat                                 81                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    66      46    58      39    57      42    59
+Temp          74 69   60 56 64 59   52 46 57 50   42 40 56 50   44 43 58 51
+Dewpt         58 57   51 49 56 56   52 46 51 48   42 40 47 47   44 43 53 51
+PWind dir         S       S     S       S     W      SW     S      SE    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   SC SC SC SC   B1 B1 SC B1
+PoP 12hr         20      50    60      60    20      10     5      20    30
+Rain shwrs        S    C  C  C  L    L  C  S  S                     S  S  C
+
+$$
+INZ002-221000-
+Valparaiso-Porter IN
+41.45N  87.00W Elev. 770 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          78          56          77          58
+Temp                60 57 52 49 62 74 78 69 64 61 58 57 66 75 76 69 64 62 60 58
+Dewpt               41 42 43 44 49 50 50 51 52 52 51 51 53 54 52 52 51 49 48 47
+RH                  49 57 71 83 62 43 37 53 65 72 77 80 63 48 43 55 63 62 64 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 12 12 16 17 18 14 14 14 12 12 14 18 18 13 12 12 10 10
+Wind gust           25          26 31 29 27 25 26       25 28 28 24            
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    70      48    60      40    58      42    59
+Temp          74 68   62 56 68 61   52 48 59 53   44 41 57 52   46 43 57 50
+Dewpt         51 52   48 46 51 51   52 48 48 46   44 41 43 45   44 43 48 48
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B2 B1 B1
+PoP 12hr         10      30    40      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  L  C  S                        S  C
+
+$$
+ILZ005-221000-
+Woodstock-McHenry IL
+42.31N  88.44W Elev. 950 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          78          57          75          61
+Temp                59 56 53 50 62 74 78 69 65 62 60 57 64 73 75 70 66 65 62 61
+Dewpt               44 43 43 44 51 53 53 54 54 53 53 53 56 57 57 57 56 55 55 53
+RH                  57 62 69 80 67 48 42 59 68 72 78 86 75 57 54 63 70 70 78 75
+Wind dir             S SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            10 12 11 11 14 16 17 14 16 14 13 12 13 16 16 13 13 13 13 13
+Wind gust           20             27 28 27    26       26 26 27 27 29 27 27 24
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B2 B1
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      55    63      45    57      40    56      41    57
+Temp          72 68   60 55 61 57   49 45 56 50   43 40 54 49   44 41 56 48
+Dewpt         57 57   53 49 53 52   49 45 48 46   42 40 45 44   43 41 49 47
+PWind dir         S       S     S       E     W      SW     S      SE    SE
+Wind char        GN      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   SC SC SC B1   B1 B1 B1 B1
+PoP 12hr         20      50    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ008-221000-
+Oregon-Ogle IL
+42.01N  89.33W Elev. 697 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          80          58          76          61
+Temp                59 55 51 51 64 76 80 70 65 62 60 58 66 73 76 70 66 63 62 61
+Dewpt               44 44 44 44 52 52 52 53 54 53 53 53 56 57 57 58 58 58 56 55
+RH                  57 66 77 77 65 43 38 55 68 72 78 83 70 57 52 66 75 84 81 81
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            10 11 10 11 14 16 17 14 16 14 13 13 16 18 19 14 14 13 13 13
+Wind gust           20             27 28 27    26       26       27 31 27 27 25
+Clouds              FW FW FW FW CL CL CL FW FW FW FW FW SC SC SC B1 B1 B1 B1 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  S
+Tstms                                                             S  S  S  S   
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    61      44    57      39    56      40    57
+Temp          75 69   60 53 60 56   51 44 55 50   43 40 54 48   42 41 55 49
+Dewpt         57 57   54 51 53 52   49 44 48 45   42 39 44 43   42 41 49 47
+PWind dir         S       S     S      SE     W      SW     S      SE    SE
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 OV B2 B2   B2 B2 B1 B1   SC SC SC B1   B1 B2 B1 B1
+PoP 12hr         30      60    60      60    30      10     5      20    30
+Rain shwrs     S  C    L  L  C  L    L  C  C                        S  S  C
+
+$$
+ILZ011-221000-
+Sycamore-DeKalb IL
+41.98N  88.69W Elev. 863 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          79          58          75          61
+Temp                59 56 52 50 62 74 79 70 65 63 60 58 66 73 75 70 66 64 62 61
+Dewpt               44 44 44 45 52 53 52 54 54 54 53 53 56 57 57 57 57 56 55 54
+RH                  57 64 74 83 70 48 39 57 68 72 78 83 70 57 54 63 73 75 78 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 12 11 12 14 16 17 14 16 14 13 13 16 18 19 16 16 14 13 13
+Wind gust           21             27 29 27    26       27    29 28 31 27 25 24
+Clouds              FW FW FW FW CL CL CL FW FW FW FW FW SC SC SC B1 B2 B2 B1 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      55    63      45    57      40    56      42    57
+Temp          73 69   61 55 62 57   50 45 56 50   43 41 54 49   45 43 56 50
+Dewpt         56 57   54 50 53 53   50 45 49 46   43 40 45 45   44 42 49 48
+PWind dir         S       S     S      SE     W      SW     S      SE    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 OV B2 B2   B2 B2 B1 B1   SC SC B1 B1   B1 B2 B1 B1
+PoP 12hr         30      50    50      60    30      10     5      20    30
+Rain shwrs        C    C  C  C  C    L  C  C                        S  S  C
+
+$$
+ILZ010-221000-
+Dixon-Lee IL
+41.85N  89.45W Elev. 697 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          81          59          76          62
+Temp                59 56 51 50 64 77 81 72 66 63 61 60 67 73 76 70 66 64 62 62
+Dewpt               44 44 44 45 51 51 52 53 54 53 53 53 57 57 57 58 59 59 57 55
+RH                  57 64 77 83 63 40 37 51 65 70 75 78 70 57 52 66 78 84 84 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9 12 11 11 14 16 18 14 16 14 13 13 16 18 18 14 16 13 13 13
+Wind gust           19             26 28 27    26       26       27 31 27 26 24
+Clouds              FW FW FW FW CL CL CL FW FW FW FW FW SC SC SC B1 B1 B1 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C  S
+Tstms                                                             S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    60      44    57      39    56      41    57
+Temp          75 70   60 53 59 56   51 44 55 50   43 40 55 50   43 42 56 50
+Dewpt         57 57   54 51 53 52   49 44 48 45   42 40 45 44   43 42 49 47
+PWind dir         S       S     S      SE     W      SW    SE      SE    SE
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B1 B1   SC SC SC B1   B1 B1 B1 B1
+PoP 12hr         30      60    60      60    30      10     5      20    30
+Rain shwrs     S  C    L  L  C  L    L  C  C                        S  S  C
+
+$$
+ILZ012-221000-
+Geneva-Kane IL
+41.88N  88.31W Elev. 727 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          79          58          75          61
+Temp                60 56 52 50 62 74 79 70 66 63 61 58 64 73 75 71 67 64 62 61
+Dewpt               43 43 44 45 51 52 52 54 54 54 53 53 56 57 57 56 55 54 53 52
+RH                  53 62 74 83 67 46 39 57 65 72 75 83 75 57 54 59 65 70 72 72
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 12 10 10 14 14 18 14 16 13 12 12 13 18 18 16 14 13 12 12
+Wind gust                          27 28 26    26       25    28 28 29 27 23 23
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B2 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      57    65      47    58      40    57      42    58
+Temp          73 70   63 57 64 60   53 47 56 52   43 41 56 51   46 42 56 51
+Dewpt         56 56   53 48 53 52   52 46 49 46   43 41 45 45   44 42 49 48
+PWind dir         S       S     S      SE    SW      SW     S       E    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   OV B2 B1 B1   B1 SC SC B1   B1 B1 B1 B1
+PoP 12hr         20      50    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ020-221000-
+Yorkville-Kendall IL
+41.64N  88.45W Elev. 618 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          79          58          76          61
+Temp                59 56 52 50 62 75 79 71 66 63 60 58 65 74 76 71 68 64 62 61
+Dewpt               44 43 44 46 51 53 52 54 54 53 53 52 56 57 57 56 55 54 53 52
+RH                  57 62 74 86 67 46 39 55 65 70 78 80 73 55 52 59 63 70 72 72
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 12 10 10 16 16 17 14 16 13 12 12 14 18 18 14 14 13 12 12
+Wind gust           23             27 28 26    26       26    28 27 28 26      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW SC SC SC B1 B2 B1 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      57    65      47    58      40    57      42    58
+Temp          74 69   62 57 65 59   53 47 56 51   44 41 56 51   46 42 56 51
+Dewpt         56 56   52 49 53 53   52 47 49 46   43 41 46 45   44 42 50 48
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         20      50    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ013-221000-
+Wheaton-DuPage IL
+41.86N  88.11W Elev. 752 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          79          59          75          61
+Temp                62 59 55 52 62 75 79 71 68 66 61 59 65 73 75 71 68 65 63 61
+Dewpt               44 43 44 46 50 51 52 53 54 54 53 53 55 56 56 54 54 53 52 52
+RH                  52 55 66 80 65 43 39 53 61 65 75 80 70 55 52 55 61 65 67 72
+Wind dir             S SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 12 11 10 14 14 18 14 16 13 12 12 13 16 17 14 14 13 12 13
+Wind gust           24 23          27 28 27    26       25 26 28 27 28 27 24   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW SC FW SC SC B1 B2 B2 B2 B2
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                   S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      58    66      48    58      42    57      44    58
+Temp          73 70   63 58 64 60   53 48 56 52   45 42 56 51   47 44 56 50
+Dewpt         55 54   52 48 51 51   52 47 48 46   44 41 44 45   44 43 48 47
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   OV B2 B1 B1   B1 SC SC B1   B1 B1 B1 B1
+PoP 12hr         20      40    50      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ019-221000-
+Ottawa-LaSalle IL
+41.35N  88.84W Elev. 494 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          81          59          77          62
+Temp                62 59 55 53 64 77 81 71 67 65 61 60 66 74 77 72 69 66 63 62
+Dewpt               44 44 46 46 52 51 52 54 55 55 54 53 56 57 57 57 56 55 54 52
+RH                  52 57 72 77 65 40 37 55 65 70 78 78 70 55 50 59 63 68 72 70
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 12 11 11 16 16 17 14 16 13 13 13 14 18 18 13 13 13 11 11
+Wind gust           23             26 28 27 26 26       26    28 27 28 25 23 23
+Clouds              FW FW FW FW FW FW FW FW FW FW FW SC SC FW SC B1 B1 B1 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                S  S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      58    65      47    57      40    57      42    59
+Temp          74 72   63 58 63 60   53 47 56 52   43 41 55 52   45 42 58 53
+Dewpt         56 57   53 50 53 53   52 47 48 46   43 41 45 45   44 42 50 48
+PWind dir         S       S     S       S     W      SW     S       E    SE
+Wind char        GN      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         20      50    60      60    30      10     5      20    30
+Rain shwrs        S    C  C  C  L    L  C  C                        S  S  C
+
+$$
+ILZ106-221000-
+Joliet-Will IL
+41.53N  88.12W Elev. 655 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          81          59          76          61
+Temp                62 58 55 52 62 76 81 72 68 64 61 59 65 74 76 72 68 65 62 61
+Dewpt               44 44 46 47 52 53 52 53 55 55 55 53 56 57 56 55 54 54 52 52
+RH                  52 59 72 83 70 45 37 51 63 73 81 80 73 55 50 55 61 68 70 72
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 12 10 11 16 17 17 14 16 13 13 12 13 17 17 13 13 12 11 10
+Wind gust           24             27 28 26    26       26 27 28 27 27 27      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW SC SC SC B1 B2 B2 B2 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                                   S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      58    67      48    59      41    58      43    59
+Temp          74 71   62 58 65 61   54 48 57 53   45 41 57 51   47 43 57 52
+Dewpt         56 55   52 49 53 53   54 48 50 46   45 41 46 45   45 43 50 49
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        GN      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         20      40    50      70    30      10     5      20    30
+Rain shwrs        S    C  C  C  C    L  C  C  S                     S  S  C
+
+$$
+ILZ023-221000-
+Kankakee-Kankakee IL
+41.12N  87.86W Elev. 630 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          81          57          77          59
+Temp                61 57 53 51 63 77 81 72 66 62 60 57 65 75 77 72 67 64 61 59
+Dewpt               44 44 46 46 52 53 53 54 54 54 53 51 56 57 56 55 53 52 50 49
+RH                  53 62 77 83 67 43 38 53 65 75 78 80 73 54 48 55 61 65 67 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 12 12 12 16 17 17 14 16 14 14 13 14 18 18 13 13 12 11 10
+Wind gust           25 23       26 28 28 26 26 26       26    28 27 27 24      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW SC FW SC SC B1 B2 B1 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C   
+Tstms                                                                   S      
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      56    68      47    60      40    58      42    59
+Temp          75 71   62 56 66 60   53 47 58 54   45 41 57 52   45 43 57 52
+Dewpt         55 55   50 48 53 53   53 47 50 47   44 41 46 46   44 43 51 50
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         10      40    50      70    30      10     5      10    30
+Rain shwrs             C  C  C  C    L  C  C  S                        S  C
+
+$$
+ILZ033-221000-
+Watseka-Iroquois IL
+40.78N  87.73W Elev. 636 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          79          57          76          58
+Temp                59 55 53 50 62 74 79 70 64 62 59 58 65 73 76 69 65 62 60 58
+Dewpt               42 44 44 46 51 53 54 55 54 53 52 51 55 57 56 55 52 50 48 48
+RH                  53 66 71 86 67 48 42 59 70 72 78 77 70 57 50 61 63 65 64 69
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 12 13 13 16 18 18 14 16 14 14 13 14 18 18 13 13 12 11 10
+Wind gust           26 23       27 28 29 26 26 26       28    28 27 27 24 21   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B1 B1 B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    69      48    59      40    58      43    59
+Temp          74 69   61 56 67 61   54 48 57 53   44 41 57 52   45 44 58 53
+Dewpt         55 55   49 47 54 54   52 48 50 49   44 40 47 47   44 43 51 50
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 SC
+PoP 12hr         10      30    50      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  C  C  S                        S  C
+
+$$
+ILZ039-221000-
+Paxton-Ford IL
+40.45N  88.10W Elev. 776 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          79          57          76          59
+Temp                59 56 53 50 62 75 79 71 65 62 59 57 65 73 76 71 66 63 61 59
+Dewpt               44 44 45 46 52 53 54 54 54 53 52 51 55 57 56 54 52 51 48 48
+RH                  57 64 74 86 70 46 42 55 68 72 78 80 70 57 50 55 61 65 62 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 12 13 16 17 18 14 16 14 16 16 18 20 20 16 14 13 12 12
+Wind gust           26          27 29 31 27 27 26       28 31 32 31 28 24 23   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    68      48    59      41    58      43    60
+Temp          74 69   61 56 67 62   54 48 58 53   45 42 57 51   46 44 58 53
+Dewpt         55 55   49 48 54 53   52 47 49 48   43 40 47 47   44 43 51 50
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   SC SC SC SC   SC B1 SC SC
+PoP 12hr         10      40    50      70    20      10     5      10    30
+Rain shwrs             S  C  C  C    L  C  S  S                        S  C
+
+$$
+INZ001-221000-
+Crown Point-Lake IN
+41.42N  87.34W Elev. 697 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          79          57          76          59
+Temp                61 58 54 50 63 75 79 71 66 63 59 58 66 74 76 71 66 63 60 60
+Dewpt               42 42 44 46 49 50 51 52 53 53 52 51 54 55 54 53 52 51 49 49
+RH                  49 55 69 86 60 41 38 51 63 70 78 77 65 51 46 53 61 65 67 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 12 13 16 17 18 14 16 14 13 13 14 18 18 14 14 13 12 11
+Wind gust           26 24       27 29 29 27    26       26 28 28 26 27 24 23   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC B1 B2 B2 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C   
+Tstms                                                                      S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      57    69      48    59      41    58      42    59
+Temp          74 71   63 57 67 62   53 48 59 54   46 42 56 51   45 43 58 51
+Dewpt         53 53   49 47 52 52   52 48 49 47   44 41 44 45   44 43 49 49
+PWind dir         S       S     S       S    SW      SW     S      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr         10      30    50      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  L  C  S                        S  C
+
+$$
+INZ010-221000-
+Kentland-Newton IN
+40.77N  87.45W Elev. 673 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          78          57          76          58
+Temp                60 56 53 50 62 74 78 68 62 61 59 58 65 74 75 69 65 62 60 58
+Dewpt               42 43 44 45 51 53 54 55 54 53 52 51 55 57 55 54 52 50 48 47
+RH                  51 62 71 83 67 48 43 63 75 75 78 77 70 55 50 59 63 65 64 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 13 13 16 17 17 14 16 14 13 13 14 17 17 12 12 11 10 10
+Wind gust           26          27 28 29 26    26       27 27 28 26 27 23 21   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    69      49    59      40    58      43    59
+Temp          74 69   61 56 67 62   55 49 58 52   45 41 57 51   45 44 57 51
+Dewpt         55 54   48 47 54 54   52 49 51 49   43 40 46 47   44 43 51 50
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   SC B1 B1 SC
+PoP 12hr          5      30    50      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  C  C  S                        S  C
+
+$$
+INZ011-221000-
+Rennsselaer-Jasper IN
+40.94N  87.15W Elev. 661 ft
+915 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          78          57          77          59
+Temp                60 57 53 50 62 75 78 69 63 62 60 57 65 75 77 70 65 63 61 59
+Dewpt               42 42 44 44 50 52 52 54 54 53 52 51 55 56 55 54 52 49 48 47
+RH                  51 57 71 80 65 45 40 59 72 72 75 80 70 52 47 57 63 60 62 64
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 12 12 16 17 17 14 14 13 12 12 13 17 17 12 12 12 10 10
+Wind gust           25          26 28 28 27 25 26       27 27 28 24 25 23      
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC B1 B2 B1 B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      56    70      49    60      40    58      43    59
+Temp          74 69   61 56 69 63   54 49 59 54   46 41 57 52   45 44 58 53
+Dewpt         54 54   48 46 53 53   52 49 50 48   44 40 45 46   44 43 50 50
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   SC B1 B1 SC
+PoP 12hr          5      30    40      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  L  C  S                        S  C
+
+$$
+INZ019-221000-
+Fowler-Benton IN
+40.62N  87.32W Elev. 812 ft
+1015 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          78          57          76          58
+Temp                59 56 52 50 63 75 78 69 64 61 59 58 65 74 75 68 65 62 59 58
+Dewpt               42 43 44 45 51 53 54 54 53 53 52 51 55 56 55 54 51 49 47 47
+RH                  53 62 74 83 65 46 43 59 67 75 78 77 70 53 50 61 60 62 64 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            13 13 13 14 16 18 17 14 16 14 13 12 14 17 17 12 13 11 10 10
+Wind gust           25          28 28 29 27    26       28 27 27 26 27 23 20   
+Clouds              FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      57    69      50    59      41    58      44    60
+Temp          73 69   61 57 68 62   55 50 58 53   46 42 57 52   47 45 59 54
+Dewpt         54 54   48 47 54 54   52 49 50 48   43 41 46 46   44 44 51 50
+PWind dir         S       S     S       S    SW      SW     S       E    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC   SC B1 B1 SC
+PoP 12hr          5      30    50      70    30      10     5      10    30
+Rain shwrs             S  C  C  C    L  C  C  S                        S  C
+
+$$

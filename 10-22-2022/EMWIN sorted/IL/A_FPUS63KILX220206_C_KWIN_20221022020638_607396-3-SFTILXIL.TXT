@@ -1,0 +1,171 @@
+FPUS63 KILX 220206
+SFTIL 
+ILZ001>013-015>021-023>108-221100-
+
+Tabular State Forecast for Illinois
+National Weather Service Lincoln IL
+906 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Northwest IL...
+   Moline/Rock Island
+   Sunny    Sunny    Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   55/81    60/77    64/77    53/58    44/57    40/57    42/57    
+    00/00    00/10    40/40    70/70    60/40    10/10    20/30   
+
+   Sterling/Rock Falls
+   Sunny    Sunny    Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/81    59/77    63/77    53/61    44/57    39/57    41/58    
+    00/00    00/10    40/40    70/70    60/40    10/10    20/30   
+
+
+...North central IL...
+   DeKalb
+   Sunny    Ptcldy   Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   50/79    58/75    61/75    55/63    46/57    40/56    42/57    
+    00/00    00/10    40/40    50/50    60/50    10/10    20/30   
+
+   Rockford
+   Sunny    Sunny    Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   50/80    59/75    61/76    54/61    44/57    40/56    41/57    
+    00/00    00/10    50/40    60/60    60/50    10/10    20/30   
+
+
+...Northeast IL...
+   Aurora
+   Sunny    Ptcldy   Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   50/80    58/76    61/76    58/66    47/58    40/57    42/59    
+    00/00    00/00    40/40    50/50    60/50    20/10    20/30   
+
+   Chicago Downtown
+   Sunny    Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   53/76    59/74    61/75    59/67    51/59    47/57    48/57    
+    00/00    00/10    40/40    40/50    70/60    20/10    20/30   
+
+   Chicago O'Hare
+   Sunny    Sunny    Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   53/79    59/75    61/75    59/67    49/59    43/58    44/58    
+    00/00    00/00    40/40    40/50    60/60    20/10    20/30   
+
+   Joliet
+   Sunny    Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   52/81    59/76    61/76    58/67    48/59    41/58    43/59    
+    00/00    00/00    30/30    40/50    70/50    20/10    20/30   
+
+   Kankakee
+   Sunny    Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   
+   50/81    57/77    59/77    56/68    47/60    40/58    42/59    
+    00/00    00/00    30/30    40/50    70/50    20/10    10/30   
+
+   Waukegan
+   Sunny    Sunny    Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   
+   52/75    57/71    59/72    56/64    48/58    43/56    44/56    
+    00/00    00/10    40/40    40/50    60/60    20/10    20/30   
+
+
+...West central IL...
+   Jerseyville
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   55/82    62/78    63/78    57/66    46/60    41/62    44/63    
+    00/00    10/10    10/20    60/70    70/30    10/00    10/30   
+
+   Macomb
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   53/80    60/77    62/77    52/58    43/56    38/57    41/58    
+    00/00    00/10    20/40    70/70    60/30    10/00    20/30   
+
+   Quincy
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   57/82    64/79    67/77    54/59    46/58    42/60    44/60    
+    00/00    10/10    20/40    80/80    70/30    10/10    20/30   
+
+
+...Central IL...
+   Decatur
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   53/79    60/77    60/77    58/67    48/58    42/58    44/61    
+    00/00    00/00    10/10    40/60    60/40    10/00    10/30   
+
+   LaSalle/Peru
+   Sunny    Sunny    Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/82    59/77    62/76    56/65    46/57    40/57    42/59    
+    00/00    00/10    30/30    60/60    60/40    10/10    20/30   
+
+   Peoria
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   55/82    62/78    64/78    57/65    48/58    42/59    44/60    
+    00/00    00/10    20/20    60/60    60/40    10/00    20/30   
+
+   Pontiac
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   50/81    57/76    59/76    56/66    45/58    39/57    41/59    
+    00/00    00/00    30/20    40/60    60/40    20/00    20/30   
+
+   Springfield
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   54/81    61/78    61/78    57/66    47/58    41/59    44/61    
+    00/00    00/10    10/20    60/70    70/30    10/00    20/30   
+
+
+...East central IL...
+   Champaign/Urbana
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/79    58/77    59/78    57/69    49/60    41/59    44/62    
+    00/00    00/00    10/10    30/60    60/40    20/00    10/30   
+
+   Charleston/Mattoon
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/78    58/77    58/77    57/70    49/60    42/60    44/62    
+    00/00    00/00    10/10    30/60    60/30    10/00    10/20   
+
+
+...Southwest IL...
+   Belleville
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   55/81    61/78    62/79    58/68    48/62    43/64    46/66    
+    00/00    10/10    10/20    50/70    70/30    10/00    10/20   
+
+   Chester
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   55/80    61/78    60/79    58/69    47/62    42/64    45/66    
+    00/00    10/10    00/10    50/70    70/20    10/00    10/20   
+
+
+...South central IL...
+   Carbondale
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/79    59/78    59/79    58/73    47/62    40/65    45/67    
+    00/00    00/00    00/10    30/70    70/20    10/00    10/20   
+
+   Centralia
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/81    59/79    59/79    58/72    47/62    42/64    45/66    
+    00/00    00/00    00/10    40/70    70/30    10/00    10/20   
+
+   Mount Vernon
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   52/80    58/79    57/79    57/73    47/63    41/65    44/67    
+    00/00    00/00    00/10    30/70    70/30    10/00    10/20   
+
+
+...Southeast IL...
+   Lawrenceville
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   52/81    58/80    56/80    57/75    51/64    43/65    46/68    
+    00/00    00/00    00/10    20/50    60/30    10/00    10/20   
+
+
+$$
+

@@ -1,0 +1,100 @@
+FGUS53 KMSR 220128
+RVFM10
+
+RIVER FORECAST
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN
+827 PM CDT FRI OCT 21 2022
+ 
+: THIS PRODUCT HAS PRELIMINARY DATA THAT MAY BE SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+: 
+: NOTE...  This product includes observed precipitation, plus
+:          forecast precipitation for the next 48 Hours.
+:
+:
+: Mississippi River  Lake City MN - LKCM5 
+: HSA=ARX   Flood Stage=16.0 FT   Fcst Issuance Stage=13.0 FT
+.ER LKCM5 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  6.4/ 6.4/ 6.4/ 6.4
+.ER  LKCM5 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   6.4/ 6.4/ 6.4/ 6.4/ 6.4/ 6.4/ 6.4/ 6.4 
+.E1   6.4/ 6.4/ 6.4/ 6.4/ 6.4/ 6.3/ 6.3/ 6.3 
+.E1   6.3/ 6.3/ 6.3/ 6.3/ 6.3/ 6.3/ 6.3/ 6.3 
+.E1   6.3/ 6.3/ 6.3/ 6.3/
+:
+:
+: Mississippi River  Wabasha MN - WABM5 
+: HSA=ARX   Flood Stage=12.0 FT   Fcst Issuance Stage=10.0 FT
+.ER WABM5 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  7.2/ 7.2/ 7.2/ 7.2
+.ER  WABM5 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2 
+.E1   7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2 
+.E1   7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2/ 7.2 
+.E1   7.2/ 7.2/ 7.2/ 7.2/
+:
+:
+: Mississippi River  Winona MN - WNAM5 
+: HSA=ARX   Flood Stage=13.0 FT   Fcst Issuance Stage=11.0 FT
+.ER WNAM5 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.7/ 5.7/ 5.6/ 5.7
+.ER  WNAM5 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/
+:
+:
+: Mississippi River  La Crosse WI - LACW3 
+: HSA=ARX   Flood Stage=12.0 FT   Fcst Issuance Stage=10.0 FT
+.ER LACW3 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.2/ 5.3/ 5.2/ 5.2
+.ER  LACW3 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2 
+.E1   5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2 
+.E1   5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2/ 5.2 
+.E1   5.2/ 5.2/ 5.2/ 5.2/
+:
+:
+: Mississippi River  Lansing IA - LNSI4 
+: HSA=ARX   Flood Stage=17.0 FT   Fcst Issuance Stage=12.0 FT
+.ER LNSI4 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  8.1/ 8.1/ 8.1/ 8.1
+.ER  LNSI4 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1 
+.E1   8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1 
+.E1   8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1/ 8.1 
+.E1   8.1/ 8.1/ 8.1/ 8.1/
+:
+:
+: Mississippi River  McGregor IA - MCGI4 
+: HSA=ARX   Flood Stage=16.0 FT   Fcst Issuance Stage=13.0 FT
+.ER MCGI4 1021 Z DH06/DC10220127/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  6.9/ 6.9/ 6.9/ 6.9
+.ER  MCGI4 1022 Z DH06/DC10220127/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9 
+.E1   6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9 
+.E1   6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9/ 6.9 
+.E1   6.9/ 6.9/ 6.9/ 6.9/
+:
+:
+: Mississippi River  Dam 10 TW IA - GTTI4 
+: HSA=ARX   Flood Stage=15.0 FT   Fcst Issuance Stage=12.0 FT
+.ER GTTI4 1021 Z DH06/DC10220127/HTIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  4.3/ 4.3/ 4.3/ 4.3
+.ER  GTTI4 1022 Z DH06/DC10220127/HTIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   4.2/ 4.2/ 4.2/ 4.2/ 4.2/ 4.2/ 4.2/ 4.2 
+.E1   4.2/ 4.2/ 4.2/ 4.1/ 4.1/ 4.1/ 4.1/ 4.1 
+.E1   4.1/ 4.1/ 4.1/ 4.1/ 4.1/ 4.1/ 4.1/ 4.1 
+.E1   4.1/ 4.1/ 4.1/ 4.1/
+:
+:
+:END
+ 
+ NOTE...  This product includes observed precipitation, plus
+          forecast precipitation for the next 48 Hours.
+
+$$ 
+
+ FCSTR EXT: 2557 
+

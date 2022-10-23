@@ -1,0 +1,93 @@
+ASUS61 KRLX 220101
+RTPRLX
+WVZALL-230101-
+Regional Max/Min Temperature And Precipitation Table
+National Weather Service Charleston WV
+901 PM EDT Fri Oct 21 2022
+
+
+
+Values represent today's high and low temperatures over the last 18 hours
+and precipitation over the last 24 hours ending at 7 PM EST/8 PM EDT.
+M= Missing Data   T= Trace
+
+
+.BR RLX 1021 E DH00/TAIRZX/DH07/TAIRZP/PPDRZZ
+
+
+Automated Surface Observing Systems (ASOS) Sites
+..................................................
+:        Station                         24 hr   :
+:         Name                High/ Low/ Precip  :
+:................................................:
+BKW: Beckley Apt          WV : 63 / 31 / 0.00
+CRW: Charleston Apt       WV : 67 / 30 / 0.00
+HTS: Huntington Apt       WV : 68 / 32 / 0.00
+EKN: Elkins Apt           WV : 66 / 24 / 0.00
+BLF: Bluefield Apt        WV : 61 / 35 / 0.00
+MRB: Martinsburg Apt      WV : 64 / 28 / 0.00
+PKB: Parkersburg Apt      WV : 66 / 31 / 0.00
+CKB: Clarksburg Apt       WV : 66 / 33 / 0.00
+MGW: Morgantown Apt       WV : 66 / 31 / 0.00
+HLG: Ohio County Apt      WV : 64 / 40 / 0.00
+
+
+Automated Weather Observing Systems (AWOS) Sites
+..................................................
+:        Station                         24 hr   :
+:         Name                High/ Low/ Precip  :
+:................................................:
+I16: Pineville Apt        WV :  M /  M /   
+LWB: Lewisburg Apt        WV : 61 / 27 /   
+CBE: Cumberland Apt       WV : 67 / 28 /   
+W99: Grant Cnty Apt       WV : 68 / 27 /   
+DWU: Ashland Apt          KY : 70 / 29 /   
+W22: Upshur County Apt    WV : 64 / 30 /   
+6L4: Logan County Apt     WV : 64 / 39 /   
+I43: Jackson County Apt   OH :  M /  M /   
+UNI: Ohio University Apt  OH : 68 / 28 / 0.00
+
+
+Remote Automatic Weather Observing Stations (RAWS)
+......................................................
+:        Station                              24 hr  :
+:         Name                     High/ Low/ Precip :
+:....................................................:
+TMR: Tomlinson Run RAWS        WV : 65 / 38 / 0.00
+KGW: Kingwood RAWS             WV : 64 / 29 / 0.00
+BDK: Bearden Knob RAWS         WV : 60 / 34 / 0.00
+NAT: Nathaniel Mtn RAWS        WV : 65 / 27 / 0.00
+CRF: WVU Research Forest RAWS  WV : 63 / 34 / 0.00
+CWL: Conaway Lake RAWS         WV : 66 / 35 / 0.00
+LKR: Lakin RAWS                WV : 70 / 28 / 0.00
+BFR: Beech Fork RAWS           WV : 70 / 31 / 0.00
+BEE: Bee Mountain RAWS         WV : 69 / 39 / 0.00
+LGR: Logan RAWS                WV : 67 / 38 / 0.00
+BRW: Elkhorn/Berwind RAWS      WV : 64 / 30 / 0.00
+PIR: Pipestem RAWS             WV : 65 / 33 / 0.00
+GRN: Grandview RAWS            WV : 59 / 31 / 0.00
+MAR: Marlinton RAWS            WV : 62 / 33 / 0.00
+FLR: Flatwoods RAWS            WV : 66 / 38 / 0.00
+UPT: Upper Tract RAWS          WV : 67 / 30 / 0.00
+MTG: Kearneysville RAWS        WV : 65 / 33 / 0.00
+ZSF: Zaleski RAWS              OH : 69 / 29 / 0.00
+VFF: Vinton Furnace RAWS       OH : 70 / 34 / 0.00
+SDF: Dean RAWS                 OH : 69 / 40 / 0.00
+
+
+.END
+
+
+High and low temperatures for RAWS and AWOS sites are estimated
+from hourly observations and may not reflect actual high and low
+temperatures for the period.
+
+This data is preliminary and has not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...this data is subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+
+
+

@@ -1,0 +1,68 @@
+ASAK67 PAJK 220135
+RTPAJK
+Regional temperature and precipitation roundup
+National Weather Service Juneau Ak
+535 PM AKDT Fri Oct 21 2022
+
+High and low temperatures are from the past 18 hours. 
+24-hour precipitation and snow depth ending at 3 pm Alaska standard
+time today. Snowfall since midnight Alaska standard time.  
+Snowfall and snow depth data are available only at augmented sites.
+M=missing T=trace
+.
+.B PAJK 1022 Z DH00/TAIRZS/TAIRZI/PPDRZZ/DVH15/SFVRZZ/SDIRZZ
+:
+:ID            STATION      Hi    Lo    24HR    Snow  Snow   
+:                           Temp  Temp  Precip  Fall  Depth  
+PAYA  : Yakutat Airport   :  46 /  40 /  1.59 /    M /    M
+PAJN  : Juneau Airport    :  47 /  42 /  0.49 /  0.0 /    0
+PAHN  : Haines Airport    :  49 /  45 /    T  /    M /    M
+PAKT  : Ketchikan Airport :  52 /  46 /  0.29 /    M /    M
+PAKW  : Klawock Airport   :  48 /  45 /  0.45 /    M /    M
+PASI  : Sitka Airport     :  49 /  44 /  1.18 /    M /    M
+PAGY  : Skagway Airport   :  48 /  45 /  0.01 /    M /    M
+.END
+
+:
+Cooperative Observations 
+Max temperature...min temperature...precipitation...and
+Snowfall are for 24 hours ending at indicated times.
+Note: These locations report data once every 24 hours.
+In some weather situations reported low/high temperatures
+may reflect conditions from the previous day.
+M=missing T=trace
+
+.B PAJK 1021 L DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:ID        Station                Obs      Max  Min   24HR    Snow  Snow  
+:                                Time     Temp Temp  Precip  Fall  Depth
+KTAA2 : Ketchikan 13N          : DH1554 /  51 /  44 /  0.33 /  0.0/    0
+ELVA2 : Elfin Cove             : DH1500 /  48 /  41 /  0.79 /  0.0/    0
+HYDA2 : Hyder                  : DH0700 /  48 /  43 /  0.10 /  0.0/    0
+MPUA2 : Metlakatla Power       : DH0849 /  49 /  43 /  0.39 /  0.0/    0
+KWPA2 : Klawock Water Treatmen : DHM    /   M /   M /  0.78 /  0.0/    0
+THBA2 : Thorne Bay Water       : DH0800 /  47 /  41 /  0.33 /  0.0/    0
+SITA2 : Little Port Walter     : DH0730 /  50 /  42 /  0.66 /  0.0/    0
+AUKA2 : Auke Bay               : DH0915 /  45 /  42 /  0.76 /  0.0/    0
+CFSA2 : Craig                  : DH0845 /  50 /  45 /  1.08 /  0.0/    0
+PECA2 : Pelican                : DH0800 /  46 /  42 /  1.92 /  0.0/    0
+HOOA2 : Hoonah                 : DH0745 /  48 /  41 /  0.25 /  0.0/    0
+ECBA2 : Eaglecrest Base        : DH0730 /  49 /  41 /  2.10 /  0.0/    0
+SPPA2 : Snettisham Power Plant : DH0700 /  45 /  39 /  2.72 /  0.0/    0
+SKGA2 : Skagway Power          : DH0700 /  47 /  41 /  0.03 /  0.0/    0
+HCSA2 : Haines Customs         : DH0700 /  44 /  39 /  0.02 /  0.0/    0
+AHNA2 : Haines #2              : DH0800 /  46 /  43 /  0.08 /  0.0/    0
+AJKA2 : Juneau Forecast Office : DH2358 /  45 /  41 /  1.07 /  0.0/    0
+APGA2 : Petersburg COOP        : DH2100 /  48 /  42 /  0.21 /  0.0/    0
+.END
+
+:
+These data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information /NCEI/. 
+Therefore these data are subject to revision. Final and certified  
+climate data can be accessed at http://www.ncei.noaa.gov.   
+Official values as determined at the above website may take several  
+months for authentication and publication.
+:
+$
+$

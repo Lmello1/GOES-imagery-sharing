@@ -1,0 +1,32 @@
+ABNT20 KNHC 212338
+TWOAT 
+
+Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+800 PM EDT Fri Oct 21 2022
+
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:
+
+Central Subtropical Atlantic:
+A small, non-tropical area of low pressure located about 1300 miles 
+east of Bermuda is producing limited shower activity. Although the 
+environmental conditions are forecast to be only marginally 
+conducive for development during the next few days, the low could 
+still acquire some subtropical or tropical characteristics by early 
+next week while it moves westward to west-northwestward at 20 to 25 
+mph across the subtropical Atlantic. By the middle of next week, 
+further development appears unlikely as the system is forecast to 
+move over cooler waters and encounter stronger upper-level winds. 
+Additional information on this system, including gale warnings, can 
+be found in High Seas Forecasts issued by the National Weather 
+Service.
+* Formation chance through 48 hours...low...10 percent.
+* Formation chance through 5 days...low...20 percent.
+
+&&
+High Seas Forecasts issued by the National Weather Service
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php
+
+$$
+Forecaster Reinhart

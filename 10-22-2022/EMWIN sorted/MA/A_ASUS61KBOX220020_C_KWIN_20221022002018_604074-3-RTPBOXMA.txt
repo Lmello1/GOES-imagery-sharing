@@ -1,0 +1,65 @@
+ASUS61 KBOX 220020
+RTPBOX
+Max/Min Temperature and Precipitation Table for
+Most of Southern New England
+National Weather Service Boston/Norton MA
+820 PM EDT Fri Oct 21 2022
+
+This is an automated product. These data are preliminary and have not
+undergone final quality control by the National Climatic Data Center 
+(NCDC). Therefore, these data are subject to revision. Final and 
+certified climate data can be accessed at www.ncdc.noaa.gov.
+
+
+Values represent lows over the last 18 hours,
+highs over the last 18 hours and precipitation over the
+last 24 hours.
+
+.BR BOX 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+:                          Max       Min       24 Hour 
+:ID    Location            Temp      Temp    Precipitation 
+:
+:Eastern Massachusetts...
+BED  : Bedford          :   64   /    31   /    0.00
+BVY  : Beverly          :   62   /    36   /    0.00
+BOS  : Boston           :   62   /    46   /    0.00
+MQE  : Blue Hill ASOS   :    M   /     M   /       M
+LWM  : Lawrence         :   63   /    37   /    0.00
+EWB  : New Bedford      :   65   /    35   /    0.03
+OWD  : Norwood          :   67   /    29   /    0.00
+PYM  : Plymouth         :   65   /    37   /    0.02
+TAN  : Taunton          :    M   /     M   /    0.00
+GHG  : Marshfield       :   64   /    36   /   
+:
+:Cape Cod and the Islands...
+CQX  : Chatham          :   64   /    46   /    0.02
+HYA  : Hyannis          :   61   /    39   /    0.00
+MVY  : Marthas Vineyard :   66   /    37   /    0.00
+ACK  : Nantucket        :   65   /    50   /    0.00
+FMH  : Falmouth         :   63   /    39   /   
+PVC  : Provincetown     :   63   /    40   /   
+:
+:Central and Western Massachusetts...
+FIT  : Fitchburg        :   63   /    30   /    0.00
+ORE  : Orange           :   60   /    27   /    0.00
+CEF  : Springfield      :   63   /    28   /    0.00
+BAF  : Westfield        :   63   /    28   /    0.00
+ORH  : Worcester        :   60   /    38   /    0.00
+:
+:Rhode Island...
+BID  : Block Island     :   62   /    50   /   
+SFZ  : Smithfield       :   64   /    37   /   
+UUU  : Newport          :   61   /    39   /      T 
+PVD  : Providence       :   65   /    37   /    0.00
+WST  : Westerly         :   63   /    38   /    0.00
+:
+Northern Connecticut...
+BDL  : Hartford-Bradley :   64   /    30   /    0.00
+HFD  : Hartford         :   65   /    33   /    0.00
+IJD  : Willimantic      :   64   /    31   /    0.00
+:
+.END
+
+
+$$
+

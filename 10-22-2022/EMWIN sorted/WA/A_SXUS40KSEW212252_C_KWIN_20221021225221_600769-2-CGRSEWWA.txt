@@ -1,0 +1,13 @@
+SXUS40 KSEW 212252
+CGRSEW
+ID  WXVSB       /WIND /WAVE/AIR/PRESS     REMARKS  STATION NAME
+///             /E02  /0611/   /                   WESTPORT
+NOW             /NW08 /    /   /                   PORT ANGELES
+53S             /S03  /    /   /                   POINT WILSON
+97S             /CALM /    /   /                   POINT NO POINT
+///             /     /    /   /          NO RPT   HOOD CANAL BRIDGE
+///             /     /    /   /          NO RPT   EVGRN PT BRDG
+91S             /S10  /    /   /                   ALKI POINT
+99S             /S12  /    /   /                   POINT ROBINSON
+                                                                    
+$$

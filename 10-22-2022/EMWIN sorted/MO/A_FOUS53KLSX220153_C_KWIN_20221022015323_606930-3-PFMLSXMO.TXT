@@ -1,0 +1,549 @@
+FOUS53 KLSX 220153
+PFMLSX
+
+Point Forecast Matrices
+National Weather Service Saint Louis MO
+852 PM CDT Fri Oct 21 2022
+
+MOZ063-221000-
+Lambert Saint Louis International Airport-Saint Louis MO 
+38.75N  90.37W Elev. 618 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          82          64          79          65
+Temp                69 65 62 60 67 79 80 75 70 67 66 64 69 75 77 73 71 69 67 65
+Dewpt               41 43 44 46 49 51 52 54 55 56 56 56 57 59 59 58 58 56 55 55
+RH                  36 45 52 60 52 38 38 48 59 68 70 75 66 58 54 59 63 63 65 70
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11  8  6  9 11 14 17 13 13 11 11 11 13 16 16 12 12 10 10 10
+Wind gust                             27 25 26       23 26 27 27 27 27 23      
+Clouds              SC SC SC SC SC FW SC SC SC SC SC FW SC SC SC B1 B1 B1 B1 B1
+PoP 12hr                      0           0           5          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      60    67      49    62      45    63      47    65
+Temp          75 72   66 61 63 61   55 49 58 55   48 45 59 57   51 48 62 59
+Dewpt         57 56   54 56 57 56   52 45 46 45   45 43 47 47   48 47 50 50
+PWind dir         S       S    SE      SW     W       W    SE      SE    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B2 B1 SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         20      70    70      50    10       5     5      20    30
+Rain shwrs        S    C  L  L  L    C  C                           S  S  C
+
+$$
+
+ILZ095-221000-
+Quincy Regional Baldwin Field Airport-Adams IL 
+39.94N  91.19W Elev. 768 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          81          63          78          66
+Temp                66 62 59 58 66 78 81 74 68 66 64 63 68 74 77 72 68 68 68 66
+Dewpt               38 41 44 46 49 50 49 51 54 55 55 56 57 58 58 59 59 59 57 57
+RH                  36 46 57 64 54 37 33 44 61 68 73 78 68 57 52 64 73 73 68 73
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 10 11 11 13 16 18 14 14 13 13 14 18 19 18 16 16 13 13 13
+Wind gust           24 21 21    25    28 28 26 24 24 26       28 28 31 26 27 26
+Clouds              SC SC FW FW CL CL CL FW FW SC SC FW SC SC B1 B1 B1 B2 B1 B2
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      54    59      45    58      41    59      44    60
+Temp          73 68   61 56 57 54   50 46 54 51   45 42 56 52   48 45 57 54
+Dewpt         58 58   55 54 53 52   47 43 44 44   42 40 44 46   46 44 48 47
+PWind dir         S       S    SE      SW     W      SW    SE      SE    SE
+Wind char        BZ      LT    LT      GN    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   OV OV B2 B2   B2 B1 SC SC   SC SC SC SC   B1 B1 SC B1
+PoP 12hr         40      80    70      50    20       5     5      20    30
+Rain shwrs     S  C    L  D  L  L    C  C  S                        S  S  C
+
+$$
+
+MOZ027-221000-
+Hannibal-Marion MO 
+39.73N  91.44W Elev. 769 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          82          63          79          66
+Temp                67 63 60 58 67 79 81 73 68 66 64 63 68 75 77 72 68 68 68 66
+Dewpt               38 42 44 46 49 50 49 53 54 55 56 56 59 59 59 60 60 59 57 57
+RH                  34 46 55 64 52 36 33 49 61 68 75 78 73 58 54 66 76 73 68 73
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            10  9  9  9 12 16 18 14 13 12 12 13 17 18 18 13 14 13 13 13
+Wind gust           20 20 20    25 26    27 26    23    27       27 28 24 26 25
+Clouds              SC SC FW FW CL CL FW FW FW SC SC FW FW SC SC SC B1 B1 B1 B2
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S   
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      53    58      45    58      41    60      44    60
+Temp          72 68   60 55 56 54   48 45 54 50   44 42 56 53   48 44 57 54
+Dewpt         60 59   56 54 56 53   47 42 44 45   42 40 46 47   46 44 50 49
+PWind dir         S       S    SE      NW     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   OV OV B2 B2   B2 B1 SC SC   SC SC SC SC   SC B1 SC SC
+PoP 12hr         40      80    70      50    10       5     5      20    30
+Rain shwrs        C    L  D  L  L    C  C                           S  S  C
+
+$$
+
+MOZ042-221000-
+Mexico-Audrain MO 
+39.16N  91.82W Elev. 823 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          82          61          78          63
+Temp                62 59 57 56 69 80 81 71 65 64 62 61 68 76 77 70 66 65 64 63
+Dewpt               39 42 43 45 50 51 50 54 55 55 56 56 60 61 60 61 59 58 57 56
+RH                  43 53 59 66 51 36 34 55 70 73 81 84 76 60 56 73 78 78 78 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 10 10 10 13 17 19 14 14 12 12 12 16 18 18 13 13 13 12 11
+Wind gust           21 20 21    26 28 29 28 28 27 25 26 28 29 28 28 29 27 25 27
+Clouds              SC SC FW FW FW FW FW FW FW FW SC SC FW SC SC B1 SC B1 B2 B2
+PoP 12hr                      0           0           5           5          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Heat index                         80                                          
+Max heat                           80    81                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      50    58      40    57      37    60      40    60
+Temp          72 66   56 53 56 52   44 42 55 49   40 38 58 52   45 42 58 53
+Dewpt         60 60   56 53 56 52   44 40 44 45   40 38 46 47   44 42 51 50
+PWind dir         S       S     E      NW     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 OV B2 B2   B1 B1 SC SC   SC SC SC SC   SC SC SC B1
+PoP 12hr         40      80    70      50    10       5     5      20    30
+Rain shwrs     S  C    L  D  L  L    C  S                           S  S  C
+
+$$
+
+MOZ041-221000-
+Columbia Regional Airport-Boone MO 
+38.82N  92.22W Elev. 889 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          84          64          81          65
+Temp                66 62 60 59 70 81 83 77 70 67 65 64 70 77 79 74 70 69 68 66
+Dewpt               38 40 43 45 49 49 50 53 55 56 57 56 59 59 59 59 59 58 57 57
+RH                  36 44 53 60 47 33 32 43 59 68 75 75 68 54 50 59 68 68 68 73
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 10 10 11 13 18 19 13 14 13 13 12 17 18 18 16 16 13 13 12
+Wind gust                 20    26 29 29 25 28 27 25 26 28 29 29 28 29 27 26 27
+Clouds              SC SC SC FW FW FW FW FW SC FW FW FW SC SC SC SC SC B1 B2 B2
+PoP 12hr                      0           0           5          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Heat index                                                    80               
+Max heat                           80    82                      81            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      52    60      44    59      40    63      44    63
+Temp          73 68   60 55 58 55   48 45 57 53   44 41 60 56   49 45 60 56
+Dewpt         60 58   57 54 55 50   45 41 43 42   41 39 44 44   45 44 48 47
+PWind dir         S       S     E       W     W      SW    SE      SE    SE
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B1 SC SC SC   SC FW FW FW   SC SC SC B1
+PoP 12hr         50      80    70      40    10       5     5      20    30
+Rain shwrs     S  C    D  D  L  L    C  S                           S  S  C
+
+$$
+
+MOZ048-221000-
+Jefferson City Memorial Airport-Cole MO 
+38.59N  92.16W Elev. 549 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          84          63          82          65
+Temp                68 63 60 59 70 82 83 76 69 67 64 64 70 78 80 75 70 68 67 66
+Dewpt               38 40 42 45 49 49 50 54 56 56 57 57 60 60 60 60 60 59 58 57
+RH                  33 43 51 60 47 32 32 46 63 68 78 78 71 54 51 60 71 73 73 73
+Wind dir             S SE SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  6  6  6 11 16 17 12 12 11 11 10 13 14 16 13 12 10 10 10
+Wind gust           19 17 18 18 25 27 28 25 28 26 24 24 27 29 28 27 28 27 24 25
+Clouds              SC FW SC SC FW FW FW FW SC FW FW SC SC SC SC SC SC B1 B1 B2
+PoP 12hr                      0           0           5           5          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Heat index                                                    81               
+Max heat                           81    82                      81            
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      53    61      43    60      39    64      44    64
+Temp          74 70   60 56 58 56   48 44 57 54   44 40 61 56   48 44 61 57
+Dewpt         60 60   58 55 57 53   47 42 44 43   43 39 46 46   46 44 49 49
+PWind dir         S       S    SE       W     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B1 SC SC SC   FW FW FW FW   SC SC SC B1
+PoP 12hr         40      80    70      40    10       5     5      10    30
+Rain shwrs     S  C    D  D  L  L    C  S                              S  C
+
+$$
+
+MOZ050-221000-
+Fulton-Callaway MO 
+38.85N  91.95W Elev. 770 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          83          63          80          64
+Temp                66 62 60 58 69 81 81 73 67 65 63 63 69 77 78 72 68 67 66 64
+Dewpt               38 40 42 45 49 49 50 53 55 56 57 56 59 60 60 59 59 58 57 57
+RH                  36 44 51 62 49 33 34 49 65 73 81 78 70 56 54 64 73 73 73 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 10  9  9 12 16 17 13 13 12 12 11 16 17 17 13 13 12 12 12
+Wind gust                 19 19 25 27 28 25 28 26 24 24 27 29 28 27 28 27 25 26
+Clouds              SC SC FW SC FW FW FW FW SC FW FW FW SC SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           5          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      52    60      42    58      38    61      42    62
+Temp          72 68   58 55 58 54   46 43 56 51   42 39 59 54   46 44 60 55
+Dewpt         60 59   57 54 56 51   45 41 44 43   42 38 46 45   46 43 50 48
+PWind dir         S       S    SE       W     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B1 B1 SC SC   SC SC FW FW   SC SC SC B1
+PoP 12hr         40      80    70      40    10       5     5      20    30
+Rain shwrs     S  C    L  D  L  L    C  S                           S  S  C
+
+$$
+
+MOZ062-221000-
+Washington-Franklin MO 
+38.55N  91.01W Elev. 568 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          83          61          79          61
+Temp                63 59 58 56 68 80 81 72 66 65 63 61 68 75 77 72 67 66 65 62
+Dewpt               40 42 42 45 49 51 53 54 55 56 57 56 59 59 60 59 59 57 55 55
+RH                  43 53 55 66 51 36 38 53 68 73 81 84 73 58 56 64 75 73 70 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  5  4  5 10 13 16 12 10  9  9  8 11 13 13 10 10  9  8  8
+Wind gust           18 17 14    20    26 25 24 21 19 19 25 27 26 24 28 20 19   
+Clouds              SC SC SC SC FW FW FW SC FW FW SC SC SC SC SC B1 SC B1 B1 B1
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                         80                                          
+Max heat                           80    81                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      55    65      43    61      38    63      42    65
+Temp          74 69   62 56 61 58   48 43 57 52   43 40 60 55   46 44 62 56
+Dewpt         59 58   55 56 59 57   48 43 46 45   43 40 47 48   46 44 51 50
+PWind dir         S       S    SE      SW     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B1 B1 SC SC   SC SC FW FW   SC SC SC SC
+PoP 12hr         30      70    70      50    10       5     5      10    30
+Rain shwrs        C    C  L  L  L    C  S                              S  C
+
+$$
+
+ILZ060-221000-
+Litchfield-Montgomery IL 
+39.16N  89.67W Elev. 690 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          79          59          77          60
+Temp                61 57 54 53 64 76 79 72 66 63 62 59 67 74 75 69 66 64 63 60
+Dewpt               41 43 46 46 50 52 54 55 55 55 53 53 56 56 56 57 57 53 52 51
+RH                  48 59 74 77 60 43 42 55 68 75 72 80 68 53 52 66 73 67 67 72
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            12 10  8 11 16 17 18 13 14 14 13 13 18 19 18 13 14 13 12 11
+Wind gust                 19             26 28 26 24 27 31 31 28 31 29 25 23 21
+Clouds              FW SC SC SC FW FW FW FW FW SC SC FW FW SC B1 B1 B1 B1 B1 SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      57    66      46    59      41    61      44    62
+Temp          74 68   62 58 63 58   52 47 56 51   44 42 57 53   48 45 60 55
+Dewpt         55 56   50 51 54 55   52 45 46 46   43 41 46 47   46 45 49 50
+PWind dir         S       S     S       S     W      SW    SE      SE    SE
+Wind char        BZ      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         20      50    70      60    20       5     5      10    30
+Rain shwrs        S    C  C  C  L    L  C  S                           S  C
+
+$$
+
+ILZ101-221000-
+Belleville-Saint Clair IL 
+38.55N  89.84W Elev. 459 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          81          61          78          60
+Temp                61 57 55 54 65 77 80 74 67 64 63 61 68 74 77 72 68 66 63 61
+Dewpt               44 46 47 48 52 54 54 55 56 54 53 54 57 58 58 57 56 53 52 51
+RH                  53 67 74 80 63 45 41 51 68 70 70 78 68 57 52 59 65 63 67 70
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  5  5  8 12 16 17 12 12 11 11 11 16 18 18 12 12 11 10 10
+Wind gust              16 16 18 23    27 24 26 24 24 26 28 28 28 27 25 23      
+Clouds              SC SC SC SC SC FW SC SC SC SC FW FW FW SC SC SC B1 B1 B1 SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    68      47    62      42    63      45    65
+Temp          75 70   63 59 65 60   53 48 58 54   46 43 60 55   48 46 62 58
+Dewpt         56 54   51 53 56 55   52 46 46 45   44 42 47 46   47 46 50 49
+PWind dir         S       S     S       S     W      SW    SE       E    SE
+Wind char        GN      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B1 B1 SC   FW FW SC FW   SC SC SC SC
+PoP 12hr         20      50    70      50    10       5     5      10    20
+Rain shwrs        S    C  C  C  L    C  C                              S  S
+
+$$
+
+ILZ070-221000-
+Salem-Leckrone Field Airport-Marion IL 
+38.64N  88.96W Elev. 573 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          81          60          79          59
+Temp                62 59 56 56 66 77 80 73 66 64 62 60 68 76 78 71 66 64 61 60
+Dewpt               42 45 46 49 53 54 54 55 56 52 52 54 56 56 55 54 54 51 49 49
+RH                  48 60 69 77 63 45 41 53 70 65 70 81 65 50 45 55 65 63 65 67
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  9 13 16 16 11 11 11 11 11 16 18 18 11 10 10 10  9
+Wind gust           18 18 20 20 26    26 24 26 26 25 27 29 28 28 26 27 26 20 19
+Clouds              FW SC SC SC FW FW SC SC FW SC SC FW FW SC B1 SC B1 SC SC SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 81                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    72      48    62      42    63      46    66
+Temp          75 70   62 59 68 62   55 50 59 54   47 43 60 55   49 47 63 57
+Dewpt         55 53   50 52 55 55   54 49 47 46   45 43 47 48   49 47 50 50
+PWind dir         S       S     S       S     W      SW    SE       E    SE
+Wind char        GN      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 B2   B2 B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         10      40    70      60    20       5     5      10    20
+Rain shwrs             S  C  C  L    L  C  S                           S  S
+
+$$
+
+MOZ062-221000-
+Sullivan-Franklin MO 
+38.23N  91.16W Elev. 933 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          80          61          77          61
+Temp                65 62 60 60 67 78 78 71 66 65 63 62 68 74 75 70 67 66 64 62
+Dewpt               41 42 42 45 48 51 52 53 55 56 56 56 58 59 59 59 58 56 55 55
+RH                  41 48 51 58 50 39 40 53 68 73 78 81 70 59 58 68 73 70 73 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd            11 10 10 10 13 16 17 12 12 13 12 12 13 14 13 10 12 12 10 10
+Wind gust                 20    24    28 28 29 27 26 29 29 29 28 27 28 25 24 23
+Clouds              SC SC B1 SC FW FW FW SC SC FW SC SC SC SC SC B1 B1 B1 B1 B1
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      55    63      43    59      39    63      43    63
+Temp          72 68   62 57 61 56   47 44 56 51   43 40 60 53   46 44 61 55
+Dewpt         58 57   54 55 58 55   47 42 44 44   42 40 46 47   46 44 49 49
+PWind dir         S       S    SE      SW     W      SW    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2   B2 B2 B2 B2   B1 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         20      70    70      40    10       5     5      10    30
+Rain shwrs        S    C  L  L  L    C  S                              S  C
+Tstms                           S                                          
+
+$$
+
+MOZ074-221000-
+Farmington Regional Airport-Saint Francois MO 
+37.76N  90.43W Elev. 947 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          79          58          77          59
+Temp                61 58 56 53 65 75 77 71 66 64 62 59 67 73 76 71 66 64 61 59
+Dewpt               46 46 46 48 52 54 54 54 54 55 54 54 57 58 57 57 56 53 52 52
+RH                  58 64 69 83 63 48 45 55 65 73 75 83 70 59 52 61 70 67 72 78
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  9 14 17 18 14 13 13 12 12 16 18 17 11 10 10  9  8
+Wind gust                       26    29 28 29 28 29 33 34 34 32 31 28 27 27 23
+Clouds              SC SC B1 SC SC SC SC SC SC SC FW SC SC SC SC B1 B1 B1 B1 SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      55    67      44    62      39    65      42    65
+Temp          73 69   61 58 63 59   49 45 59 53   44 41 61 55   47 44 63 57
+Dewpt         56 53   52 54 58 55   49 43 44 43   43 41 46 47   46 44 49 48
+PWind dir         S       S     S      SW     W       W    SE      SE    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B2 B2   B2 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      60    70      40    10       5     5      10    20
+Rain shwrs             C  L  L  L    C  S                              S  S
+Tstms                           S                                          
+
+$$
+
+ILZ079-221000-
+Chester-Randolph IL 
+37.92N  89.82W Elev. 670 ft
+852 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          81          61          79          60
+Temp                61 58 56 55 64 77 80 74 68 65 64 61 67 74 77 72 68 66 63 61
+Dewpt               50 51 50 51 54 55 54 54 55 53 52 53 57 58 57 55 54 51 50 49
+RH                  67 77 80 86 70 47 41 50 63 65 65 75 70 57 50 55 61 58 62 65
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             6  8  8 11 14 18 18 13 12 13 13 12 16 18 18 13 11 11 11 10
+Wind gust                       26    29 25 28 26 28 31 31 31 29 27 26 24      
+Clouds              FW SC B1 SC SC SC SC SC SC SC FW FW FW B1 SC SC B1 SC SC SC
+PoP 12hr                      0           0           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Heat index                            80                                       
+Max heat                                 81                                    
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      58    69      47    62      42    65      45    67
+Temp          75 71   63 60 65 61   53 48 59 55   46 43 61 56   49 47 63 59
+Dewpt         55 52   50 53 57 56   51 46 46 44   45 43 47 47   47 46 51 49
+PWind dir         S       S     S      SW     W       W    SE       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B2 B2   B2 B1 SC SC   FW FW FW FW   SC SC SC SC
+PoP 12hr         10      50    70      50    10       5     5      10    20
+Rain shwrs             S  C  C  L    C  S                              S  S
+
+$$
+

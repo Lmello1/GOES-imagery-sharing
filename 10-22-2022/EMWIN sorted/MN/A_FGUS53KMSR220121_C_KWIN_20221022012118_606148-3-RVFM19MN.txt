@@ -1,0 +1,89 @@
+FGUS53 KMSR 220121
+RVFM19
+
+RIVER FORECAST
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN
+821 PM CDT FRI OCT 21 2022
+ 
+: THIS PRODUCT HAS PRELIMINARY DATA THAT MAY BE SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+: 
+: NOTE...  This product includes observed precipitation, plus
+:          forecast precipitation for the next 48 Hours.
+:
+:
+: Mississippi River  Dubuque IA - DBQI4 
+: HSA=DVN   Flood Stage=17.0 FT   Fcst Issuance Stage=15.0 FT
+.ER DBQI4 1021 Z DH06/DC10220121/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  7.5/ 7.5/ 7.6/ 7.5
+.ER  DBQI4 1022 Z DH06/DC10220121/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.4/ 7.4/ 7.4 
+.E1   7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4 
+.E1   7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4/ 7.4 
+.E1   7.4/ 7.4/ 7.4/ 7.4/
+:
+:
+: Mississippi River  Camanche IA - CMMI4 
+: HSA=DVN   Flood Stage=17.0 FT   Fcst Issuance Stage=16.0 FT
+.ER CMMI4 1021 Z DH06/DC10220121/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  9.4/ 9.3/ 9.4/ 9.4
+.ER  CMMI4 1022 Z DH06/DC10220121/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4 
+.E1   9.4/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3 
+.E1   9.3/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3/ 9.3 
+.E1   9.3/ 9.3/ 9.3/ 9.3/
+:
+:
+: Mississippi River  Quad Cities IA/IL - RCKI2 
+: HSA=DVN   Flood Stage=15.0 FT   Fcst Issuance Stage=13.0 FT
+.ER RCKI2 1021 Z DH06/DC10220121/HTIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  3.9/ 3.9/ 3.9/ 3.9
+.ER  RCKI2 1022 Z DH06/DC10220121/HTIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9 
+.E1   3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9 
+.E1   3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9/ 3.9 
+.E1   3.9/ 3.9/ 3.9/ 3.9/
+:
+:
+: Mississippi River  Muscatine IA - MUSI4 
+: HSA=DVN   Flood Stage=16.0 FT   Fcst Issuance Stage=15.0 FT
+.ER MUSI4 1021 Z DH06/DC10220121/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.8/ 5.8/ 5.8/ 5.7
+.ER  MUSI4 1022 Z DH06/DC10220121/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7 
+.E1   5.7/ 5.7/ 5.7/ 5.7/
+:
+:
+: Mississippi River  Keithsburg IL - KHBI2 
+: HSA=DVN   Flood Stage=14.0 FT   Fcst Issuance Stage=13.0 FT
+.ER KHBI2 1021 Z DH06/DC10220121/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.7/ 5.7/ 5.7/ 5.6
+.ER  KHBI2 1022 Z DH06/DC10220121/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.6/ 5.7/ 5.7/ 5.7/ 5.7/ 5.7/ 5.6/ 5.6 
+.E1   5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6 
+.E1   5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6/ 5.6 
+.E1   5.6/ 5.6/ 5.6/ 5.6/
+:
+:
+: Mississippi River  Burlington IA - BRLI4 
+: HSA=DVN   Flood Stage=15.0 FT   Fcst Issuance Stage=14.0 FT
+.ER BRLI4 1021 Z DH06/DC10220121/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  7.4/ 7.7/ 7.6/ 7.6
+.ER  BRLI4 1022 Z DH06/DC10220121/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5 
+.E1   7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5 
+.E1   7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5/ 7.5 
+.E1   7.5/ 7.5/ 7.5/ 7.5/
+:
+:
+:END
+ 
+ NOTE...  This product includes observed precipitation, plus
+          forecast precipitation for the next 48 Hours.
+
+$$ 
+
+ FCSTR EXT: 2557 
+

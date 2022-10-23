@@ -1,0 +1,72 @@
+ASUS65 KABQ 220150
+RTPNM 
+
+RTPNM 
+Max/Min Temperature And Precipitation Table For
+New Mexico
+National Weather Service Albuquerque NM
+749 PM MDT Fri Oct 21 2022
+
+Minimum and maximum temperatures for the last 18 to 24 
+hours.  Precipitation for the 24 hour period ending at 6PM MDT
+measured in inches and hundredths of an inch of rain and melted snow.
+
+.BR ABQ 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+ABQ  : ABQ Sunport        5351:   75 /  43 /  0.00/      /    
+BRG  : Belen Airport      5194:   76 /  40 /  0.00/      /    
+CVS  : Cannon AFB         4295:   79 /  45 /  0.00/      /    
+CAO  : Clayton            4964:   81 /  49 /  0.00/      /    
+CQC  : Clines Corners     7087:   65 /  34 /  0.00/      /    
+CVN  : Clovis Airport     4216:   80 /  46 /  0.00/      /    
+AEG  : Double Eagle Arpt  5837:   73 /  36 /     M/      /    
+FMN  : Farmington         5502:   73 /  34 /  0.00/      /    
+GUP  : Gallup             6473:   69 /  30 /  0.00/      /    
+GNT  : Grants             6522:   69 /  27 /     M/      /    
+LVS  : Las Vegas Airport  6877:   74 /  38 /  0.00/      /    
+RTN  : Raton Airport      6348:   78 /  30 /  0.00/      /    
+ROW  : Roswell            3668:   85 /  43 /  0.00/      /    
+SRR  : Ruidoso Airport    6811:   66 /  45 /  0.00/      /    
+SAF  : Santa Fe Airport   6348:   71 /  35 /  0.00/      /    
+SXU  : Santa Rosa         4790:   78 /  48 /  0.00/      /    
+ONM  : Socorro            4849:   76 /  41 /  0.00/      /    
+SKX  : Taos Airport       7090:   67 /  28 /  0.00/      /    
+TCC  : Tucumcari          4065:   81 /  48 /  0.00/      /    
+.END
+
+.BR ABQ 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+DCPN5: Capulin        6840: DH1800/  73 /  28 /  0.00/     /    
+PORN5: Portales       4010: DH1700/  81 /  44 /  0.00/     /    
+QMDN5: Quemado        6878: DH1600/  68 /  30 /  0.00/     /    
+TORN5: Torreon Navajo 6700: DH1730/  69 /  34 /  0.00/     /    
+.END
+
+.BR EPZ 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+DMN   :Deming              4314 :  81  /  44  /  0.00  /   M  /   M
+ELP   :El Paso Intl Arpt   3917 :  84  /  50  /  0.00  /      /
+EPZN5 :Santa Teresa NWS    4108 :  81  /  46  /  0.00  /      /
+TCS   :T-or-C Airport      4859 :  79  /  46  /  0.00  /   M  /   M
+ALM   :Alamogordo          4196 :  77  /  41  /  0.00
+HMN   :Holloman AFB        4095 :  78  /  42  /  0.00
+LCSN5 :Jornada Range CRN   4327 :  80  /  41  /  0.00
+LRU   :Las Cruces Airport  4455 :  80  /  48  /  0.00
+SVC   :Grant County Arpt   5443 :  77  /  44  /  0.00
+0A0   :Spaceport America   4597 :  81  /  41  /  0.00
+.END
+
+.BR MAF 1021 C DH18/TAIPZS/TAIPZI/PPDPZZ
+BATN5: Batdraw RAWS               :  79 /  60 /  0.00
+CPPN5: Caprock RAWS               :  80 /  52 /  0.00
+MPAN5: Paduca RAWS                :  85 /  52 /  0.00
+QENN5: Queen RAWS                 :  74 /  53 /  0.00
+HCYN5: Hobbs 5NW Mesonet          :  81 /  45 /  0.00
+TTSN5: Tatum Mesonet              :  80 /  44 /  0.00
+.END
+
+
+
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision. Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+$$

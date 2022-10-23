@@ -1,0 +1,51 @@
+ASUS64 KMEG 220027
+RTPMEG
+
+Max/Min Temperature and Precipitation Table for the MidSouth
+National Weather Service Memphis TN
+727 PM CDT Fri Oct 21 2022
+ 
+High Temperature Past 18 Hours
+Low Temperature Past 18 Hours
+Precipitation Past 24 Hours
+ 
+.BR MEG 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+: LOCATION              HIGH  LOW    PCPN
+MEM : Memphis         :  80 /  49 /  0.00
+MEG : NWS Memphis     :  81 /  45 /  0.00
+MKL : Jackson         :  78 /  37 /  0.00
+DYR : Dyersburg       :  80 /  42 /  0.00
+M04 : Covington*      :  79 /  37 /  0.00
+FYE : Somerville*     :  79 /  46 /  0.00
+M08 : Bolivar*        :  79 /  36 /  0.00
+SZY : Selmer*         :  77 /  45 /  0.00
+SNH : Savannah*       :  77 /  39 /  0.00
+UCY : Union City*     :  79 /  37 /  0.00
+PHT : Paris*          :  77 /  41 /  0.00
+JBR : Jonesboro       :  79 /  43 /  0.00
+AWM : West Memphis    :  81 /  44 /  0.00
+HKA : Blytheville     :  80 /  46 /  0.00
+4M9 : Corning*        :  77 /  43 /  0.00
+MAW : Malden*         :  79 /  43 /  0.00
+TKX : Kennett*        :  79 /  41 /  0.00
+TUP : Tupelo          :  80 /  42 /  0.00
+UOX : Oxford*         :  79 /  46 /  0.00
+PMU : Batesville MS   :  81 /  37 /  0.00
+CRX : Corinth*        :  77 /  36 /  0.00
+15M : Iuka*           :  77 /  36 /  0.00
+OLV : Olive Branch*   :  81 /  46 /  0.00
+UTA : Tunica*         :  82 /  46 /  0.00
+CKM : Clarksdale*     :  84 /  46 /  0.00
+M40 : Aberdeen*       :  77 /  36 /  0.00
+.END
+ 
+These data are preliminary and have not ungergone final quality
+control by the National Climatic Data Center (NCDC). Therefore these
+data are subject to revision. Final and certified climate data can be
+accessed at www.ncdc.noaa.gov.
+ 
+Stations with an asterisk (*) contain estimated high and low
+temperatures based on observations.
+ 
+$$

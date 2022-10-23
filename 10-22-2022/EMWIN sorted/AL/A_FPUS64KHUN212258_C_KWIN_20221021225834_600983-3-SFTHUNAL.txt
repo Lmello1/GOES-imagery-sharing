@@ -1,0 +1,123 @@
+FPUS64 KHUN 212258
+SFTHUN
+FPUS64 KHUN 212258
+SFTHUN
+ALZ001>010-016-TNZ076-096-097-221100-
+
+Tabular State Forecast for the Tennessee Valley
+National Weather Service Huntsville AL
+558 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Northwest Alabama...
+   Florence
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   51/77    52/77    51/79    55/78    52/70    47/73    50/75    
+    00/00    00/00    00/00    10/40    50/20    10/00    10/20   
+
+   Courtland
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   50/76    50/76    50/79    54/78    52/70    46/73    50/75    
+    00/00    00/00    00/00    10/30    50/20    10/00    10/20   
+
+   Moulton
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   49/76    49/76    49/79    53/78    52/70    46/74    49/75    
+    00/00    00/00    00/00    10/30    50/20    10/00    10/20   
+
+   Russellville
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   52/75    51/75    51/77    54/76    52/68    46/71    49/73    
+    00/00    00/00    00/00    10/40    40/20    10/00    10/20   
+
+   Sheffield
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   51/77    51/77    50/79    55/79    52/70    46/73    50/75    
+    00/00    00/00    00/00    10/40    50/20    10/00    10/20   
+
+
+...North Central Alabama...
+   Athens
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   48/76    49/77    50/79    55/78    53/70    47/74    50/75    
+    00/00    00/00    00/00    10/30    50/20    10/00    10/20   
+
+   Cullman
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   46/74    47/75    48/78    53/77    53/70    47/73    50/75    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+   Decatur
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   51/76    51/77    51/79    56/79    55/71    48/74    51/76    
+    00/00    00/00    00/00    10/30    40/30    10/00    10/20   
+
+   Huntsville
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   50/75    50/75    51/78    55/78    55/71    49/73    52/75    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+
+...Northeast Alabama...
+   Fort Payne
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   44/73    45/74    47/76    50/76    55/71    48/74    50/75    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+   Crossville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   44/72    45/73    48/74    51/75    55/71    48/72    51/73    
+    00/00    00/00    00/00    00/20    40/30    10/10    10/10   
+
+   Guntersville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   50/74    50/74    52/76    56/77    58/71    51/73    54/74    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+   Scottsboro
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   46/74    47/75    49/77    53/77    55/72    48/74    51/75    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/10   
+
+   Valley Head
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   43/73    44/74    46/76    50/76    55/71    47/73    50/75    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+
+...Southern Middle Tennessee...
+   Fayetteville
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   49/76    48/75    49/78    54/78    53/70    45/73    49/75    
+    00/00    00/00    00/00    10/20    40/30    10/00    10/20   
+
+   Lynchburg
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   49/75    48/75    49/77    53/77    54/70    46/72    49/73    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+   Sewanee
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   47/70    48/71    49/72    53/72    54/67    47/69    50/70    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+   Winchester
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   47/75    47/75    48/77    53/76    53/70    45/72    49/73    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+
+$$
+

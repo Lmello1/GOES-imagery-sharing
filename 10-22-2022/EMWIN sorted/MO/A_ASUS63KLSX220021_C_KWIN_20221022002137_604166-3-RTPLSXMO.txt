@@ -1,0 +1,51 @@
+ASUS63 KLSX 220021
+RTPMO 
+Max/Min Temperature And Precipitation Table For Missouri
+National Weather Service St Louis MO
+721 PM CDT Fri Oct 21 2022
+
+High and Low Temperature since Midnight
+24 hour precipitation ending at 6 PM CST/7 PM CDT
+
+
+.BR LSX 1021 CS DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+
+
+:...............................................................
+:       Station            | Max | Min | 24-hr  | Snow | Snow  |
+:        Name              | Tmp | Tmp | Precip | Fall | Depth |
+:...............................................................
+:
+CGI  :  Cape Girardeau     :  79 / 41  / 0.00   /      /     
+CDJ  :  Chillicothe        :  85 / 42  / 0.00   /      /     
+COU  :  Columbia           :  84 / 46  / 0.00   /  0.0 /    0
+FAM  :  Farmington         :  80 / 44  / 0.00   /      /     
+JEF  :  Jefferson City     :  86 / 44  / 0.00   /      /     
+JLN  :  Joplin Aprt        :  86 / 49  / 0.00   /      /     
+MCI  :  Kansas City Intl   :  88 / 47  / 0.00   /  0.0 /    0
+MKC  :  Kansas City Dwtn   :  87 / 47  / 0.00   /      /     
+IRK  :  Kirksville         :  82 / 42  / 0.00   /      /     
+AIZ  :  Osage Beach Aprt   :  84 / 42  / 0.00   /      /     
+POF  :  Poplar Bluff       :  78 / 35  / 0.00   /      /     
+STJ  :  St. Joseph         :  85 / 36  / 0.00   /      /     
+DMO  :  Sedalia            :  85 / 55  / 0.00   /      /     
+SUS  :  Chesterfield       :  82 / 37  / 0.00   /      /     
+SGF  :  Springfield Natl A :  84 / 42  / 0.00   /  0.0 /    0
+SET  :  St Charles         :  84 / 37  / 0.00   /      /     
+STL  :  St. Louis          :  84 / 53  / 0.00   /  0.0 /    0
+VIH  :  Rolla/Vichy Aprt   :  84 / 49  / 0.00   /      /     
+UNO  :  West Plains Aprt   :  81 / 42  / 0.00   /      /     
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information. (NCEI)
+
+Therefore, these data are subject to revision. Final and certified 
+data can be accessed at www.ncei.noaa.gov.
+
+
+$$
+
+
+

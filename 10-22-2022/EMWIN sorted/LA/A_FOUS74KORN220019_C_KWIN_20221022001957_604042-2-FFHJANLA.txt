@@ -1,0 +1,27 @@
+FOUS74 KORN 220019
+FFHJAN
+                                                                        
+HEADWATER GUIDANCE FOR HSA.....JACKSON MS                               
+                                                                        
+NATIONAL WEATHER SERVICE                                                
+LOWER MISSISSIPPI RIVER FORECAST CENTER, SLIDELL LA                     
+719 PM CDT FRI OCT 21 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN HEADWATERS.                                           
+                                                                        
+.B SIL 221022 Z DH00/DC2210220019 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:.....MISSISSIPPI                                                       
+:                                                                       
+MEIM6     3.5/  4.7/  5.3 :MERIDIAN, MS          SOWASHEE CREEK
+JCCM6     3.5/  4.5/  5.3 :JACKSON, MS           CANY CREEK
+JHMM6     3.5/  4.6/  5.5 :JACKSON, MS           HANGING MOSS CREEK
+LYNM6     3.5/  4.6/  5.4 :JACKSON, MS           LYNCH CREEK
+TOWM6     3.5/  4.5/  5.3 :JACKSON, MS           TOWN CREEK
+UBCM6     3.5/  4.6/  5.4 :JACKSON, MS           EUBANKS CREEK
+.END
+$$

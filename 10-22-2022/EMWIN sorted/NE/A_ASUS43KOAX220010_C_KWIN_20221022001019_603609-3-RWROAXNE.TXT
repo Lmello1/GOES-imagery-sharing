@@ -1,0 +1,137 @@
+ASUS43 KOAX 220010
+RWRNE 
+
+WEATHER ROUNDUP FOR NEBRASKA
+NATIONAL WEATHER SERVICE OMAHA NE
+700 PM CDT FRI OCT 21 2022
+
+NOTES: SATELLITE DATA IS BEING USED TO AUGMENT CLOUD COVER ABOVE
+       12000 FEET.
+       "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+   
+NEZ001>004-019>022-054>056-220100-
+NEBRASKA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SCOTTSBLUFF    PTCLDY    73  15  11 SW17G25   29.59F                  
+6HR MIN TEMP:  72; 6HR MAX TEMP:  81;                                
+
+ALLIANCE       PTCLDY    67  18  15 SW12      29.57F                  
+6HR MIN TEMP:  67; 6HR MAX TEMP:  77;                                
+
+CHADRON        PTCLDY    68  19  15 W7        29.49S                  
+6HR MIN TEMP:  68; 6HR MAX TEMP:  79;                                
+
+GORDON         PTCLDY    62  17  17 S3        29.53F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  74;                                
+
+KIMBALL        PTCLDY    61  14  16 W7        29.68S                  
+SIDNEY         PTCLDY    62  19  19 SW10      29.64S                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  81;                                
+
+$$
+ 
+NEZ057>060-069>072-079>082-220100-
+SOUTHWEST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORTH PLATTE   CLEAR     68  31  25 SE6       29.59F                  
+6HR MIN TEMP:  68; 6HR MAX TEMP:  79;                                
+
+IMPERIAL       CLEAR     69  23  17 S9        29.62S                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  80;                                
+
+LEXINGTON      CLEAR     64  31  29 S6        29.61S                  
+MCCOOK         CLEAR     72  24  16 S5        29.62F                  
+6HR MIN TEMP:  72; 6HR MAX TEMP:  79;                                
+
+OGALLALA       PTCLDY    74  23  14 SW6       29.59S                  
+$$
+ 
+NEZ005>010-023>029-035>040-094-220100-
+NORTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VALENTINE      CLEAR     65  29  25 SE8       29.54F                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  73;                                
+
+AINSWORTH      PTCLDY    58  31  35 SE9       29.56F                  
+BROKEN BOW     CLEAR     65  28  24 SE6       29.59F                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  76;                                
+
+O'NEILL        CLEAR     60  32  34 SE7       29.60F                  
+ORD            CLEAR     58  32  37 CALM      29.59S                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  76;                                
+
+THEDFORD       PTCLDY    64  28  25 S9        29.58F                  
+$$
+ 
+NEZ041-046>049-061>064-073>077-083>087-220100-
+SOUTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND ISLAND   CLEAR     66  29  24 SE6       29.60F                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  80;                                
+
+AURORA         CLEAR     65  31  27 CALM      29.60S                  
+HASTINGS       CLEAR     63  30  28 CALM      29.61S                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  78;                                
+
+HEBRON         PTCLDY    67  31  26 CALM      29.58S                  
+HOLDREGE       CLEAR     65  29  26 S6        29.61F                  
+KEARNEY        CLEAR     65  30  27 MISG      29.61F                  
+YORK           CLEAR     64  28  25 CALM      29.60R                  
+$$
+ 
+NEZ011>018-030>034-042>045-220100-
+NORTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORFOLK        CLEAR     65  30  27 CALM      29.60R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  78;                                
+
+ALBION         CLEAR     63  29  28 CALM      29.60S                  
+BLAIR          CLEAR     68  33  28 CALM      29.59S                  
+COLUMBUS       CLEAR     62  31  31 CALM      29.60S HAZE             
+FREMONT        CLEAR     68  37  32 SE3       29.59S                  
+TEKAMAH        CLEAR     64  32  30 NE5       29.58S                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  80;                                
+
+WAYNE          CLEAR     58  29  33 CALM      29.60R                  
+$$
+
+NEZ050>053-065>068-078-088>093-220100-
+SOUTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LINCOLN        PTCLDY    62  34  35 CALM      29.59S                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  79;                                
+
+OMAHA EPPLEY   PTCLDY    64  35  34 CALM      29.59S                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  77;                                
+
+BEATRICE       PTCLDY    65  34  31 CALM      29.58S                  
+FALLS CITY     PTCLDY    78  40  25 S8        29.57S                  
+6HR MIN TEMP:  78; 6HR MAX TEMP:  87;                                
+
+NEBRASKA CITY  PTCLDY    71  32  23 W3        29.58S                  
+PLATTSMOUTH    PTCLDY    70  30  22 CALM      29.59S                  
+$$
+
+NEZ044-045-051>053-067-220100-
+OMAHA AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OMAHA EPPLEY   PTCLDY    64  35  34 CALM      29.59S                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  77;                                
+
+BLAIR          CLEAR     68  33  28 CALM      29.59S                  
+FREMONT        CLEAR     68  37  32 SE3       29.59S                  
+MILLARD        CLEAR     62  37  38 CALM      29.59R                  
+OFFUTT AFB     PTCLDY    66  33  30 CALM      29.60S                  
+PLATTSMOUTH    PTCLDY    70  30  22 CALM      29.59S                  
+WAHOO          CLEAR     64  32  30 SE5       29.58S                  
+$$
+  

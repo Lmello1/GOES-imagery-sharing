@@ -1,0 +1,38 @@
+ASUS64 KSHV 220018
+RTPSHV
+Temperature and Precipitation Table for the Four State Area
+National Weather Service Shreveport LA
+717 PM CDT Fri Oct 21 2022
+
+Values represent lows during the last 18 hours...
+highs during the last 18 hours and precipitation during the
+last 24 hours
+
+.BR SHV 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:                         Max   Min
+:ID    Location           Temp  Temp   PCPN
+SHV  : Shreveport       :  87 /  53 /  0.00
+DTN  : SHV Downtown     :  86 /  57 /  0.00
+BAD  : Barksdale AFB    :  86 /  49 /  0.00
+MLU  : Monroe           :  87 /  51 /  0.00
+IER  : Natchitoches APT :  87 /  49 /  0.00
+ELD  : El Dorado        :  82 /  47 /  0.00
+TXK  : Texarkana        :  87 /  55 /  0.00
+DEQ  : DeQueen          :  85 /  41 /  0.00
+OSA  : Mount Pleasant   :  86 /  43 /  0.00
+TYR  : Tyler            :  87 /  50 /  0.00
+GGG  : Longview         :  86 /  51 /  0.00
+LFK  : Lufkin           :  85 /  52 /  0.00
+OCH  : Nacogdoches      :  85 /  51 /  0.00
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center.  These data are subject
+to revision.  Final and certified climate data can be accessed at 
+www.ncdc.noaa.gov.
+
+
+$$
+

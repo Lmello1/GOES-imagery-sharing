@@ -1,0 +1,99 @@
+ASUS63 KJKL 220037
+RTPJKL
+Max/min Temperature And Precipitation Table For Eastern Kentucky
+National Weather Service Jackson Ky
+837 PM EDT Fri Oct 21 2022
+
+Values represent highs and lows over the last 18 hours and 
+Precipitation over the last 24 hours ending at 8 PM EDT.
+ 
+...Automated Surface Observing Systems (ASOS) Sites...
+ 
+.BR JKL 1021 ED DH20/TAIRZS/TAIRZI/TAIRZZ/PPDRZZ/SDFRZZ/SDIRZZ
+:
+:Id         Station         High  Low    Obs    24HR   Snow  Snow
+:            Name           Temp  Temp   Temp   Prcp   Fall  Dpth
+JKL : NWS Jackson        :   68 /  41 /   60 /  0.00 /  0.0 /  0
+LOZ : London Corbin Aprt :   67 /  30 /   58 /  0.00 /      /
+.End
+         
+The previous observations are preliminary and have not undergone
+final quality control by the National Centers for Environmental 
+Information.
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+ 
+&& 
+ 
+...The following observations are not under National Weather Service 
+quality control...
+ 
+Values represent highs and lows over the last 18 hours and 
+precipitation over the last 24 hours ending at 8 PM EDT.
+  
+...Kentucky Mesonet Station Observations...
+ 
+.BR JKL 1021 ED DH20/TAIRPS/TAIRPI/TAIRPZ/PPDRPZ
+:
+:Id         Station         High  Low    Obs    24HR   
+:            Name           Temp  Temp   Temp   Prcp   
+BMBLKY: Barbourville 3E   :  68 /  29 /   52  / 0.00
+BMTNKY: Harlan 24E        :  55 /  38 /   47  / 0.00
+BNVLKY: Booneville 2S     :  71 /  27 /   55  / 0.00
+BTCKKY: Paintsville 4W    :  70 /  26 /   49  / 0.00
+DABNKY: Somerset 7 NNE    :  69 /  25 /   59  / 0.00
+DORTKY: Pikeville 13S     :  63 /  43 /   53  / 0.00
+FLRKKY: Whitley City 3N   :  67 /  32 /   58  / 0.00
+MONTKY: Monticello 4 NW   :  70/   36 /   59  / 0.00
+MRHDKY: Morehead 4NE      :  69 /  28 /   59  / 0.00
+OLINKY: McKee 5S          :  66 /  31 /   58  / 0.00
+PRSTKY: Owingsville 4S    :  70 /  29 /   61  / 0.00
+QKSDKY: Jackson 3SE       :   M /   M /    M  /    M
+VESTKY: Hindman 5N        :  67 /  39 /   58  / 0.00
+WLBTKY: West Liberty 2SW  :  68 /  31 /   62  / 0.00
+WTBGKY: Whitesburg 2NW    :  69 /  29 /   53  / 0.00
+.End
+ 
+...RAWS Station Observations*...
+ 
+.BR JKL 1021 ED DH20/TAIRGS/TAIRGI/TAIRGZ/PPDRGZ
+ 
+:Id         Station         High  Low    Obs    24Hr   
+:            Name           Temp  Temp   Temp   Prcp   
+BSAK2 : Big Sandy RAWS    :  68 /  39 /   59  / 0.00
+CHTK2 : Peabody RAWS      :  70 /  32 /   57  / 0.00
+JCAK2 : Jackson Apt RAWS  :  69 /  39 /   58  / 0.00
+KOMK2 : Koomer Ridge RAWS :  71 /  37 /   57  / 0.00
+SOMK2 : Somerset RAWS     :  70 /  32 /   60  / 0.00
+TRMK2 : Triangle Mtn RAWS :  69 /  42 /   59  / 0.00
+YELK2 : Yellow Creek RAWS :  66 /  29 /   47  / 0.00
+.End
+ 
+...AWOS and Other Automated Sites*...
+ 
+.BR JKL 1021 ED DH20/TAIRZS/TAIRZI/TAIRZZ/PPDRZZ
+:
+:Id         Station         High  Low    Obs    24hr
+:            Name           Temp  Temp   Temp   Prcp
+1A6 : Middlesboro AWOS   :   66 /  29 /   48 /  0.00
+CPF : Hazard AWOS        :   68 /  32 /   59 / 
+EKQ : Monticello AWOS    :   71 /  28 /   58 / 
+I35 : Harlan AWOS        :   64 /  29 /   50 / 
+IOB : Mt Sterling AWOS   :   70 /  41 /   57 /  0.00
+PBX : Pikeville AWOS     :   65 /  39 /   59 / 
+SJS : Big Sandy AWOS     :   67 /  39 /   57 / 
+SME : Somerset AWOS      :   70 /  32 /   61 /  0.00
+SYM : Morehead AWOS      :   70 /  37 /   59 / 
+BYL : Williamsburg AWOS  :   64 /  32 /   55 / 
+.End
+ 
+* High and low temperatures for RAWS and AWOS sites are computed
+  from hourly observations and may not reflect actual high and low 
+  temperatures for the period.
+
+$$
+
+
+
+
+

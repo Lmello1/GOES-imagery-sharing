@@ -1,0 +1,68 @@
+ASUS65 KFGZ 220226
+RTPFGZ
+Max/min Temperature and Precipitation Table for Northern Arizona
+National Weather Service Flagstaff Az
+726 PM MST Fri Oct 21 2022
+
+       Arizona Automated Station Observations
+
+
+Values represent highs and lows over the last 18 hours...
+and 24 hour precipitation ending at 5:00 pm MST.
+
+
+Data reported from automated gauges:
+*  Climate Reference Network sites
++  ASOS site maintained by others
+   All others are ASOS maintained by the National Weather Service
+
+.BR FGZ 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                       Max   Min   24-Hr Snow  Snow
+:Id       Station                 Elev  Temp  Temp  Pcpn  Fall  Depth
+FLG   :   Flagstaff               7003 :  65 / 34 / 0.00 / 0.0   / 0  
+GCN   :   Grand Cnyn Arpt         6606 :  65 / 32 / 0.00 /       /   
+PGA   :   Page                    4310 :  78 / 53 / 0.00 /       /   
+PRC   :   Prescott Arpt           5052 :  73 / 45 / 0.00 /       /   
+SJN   :   Saint Johns             5733 :   M /  M /    M /       /   
+SEZ   :+  Sedona Arpt             4830 :  75 / 55 /   M  /       /   
+BBRA3 :*  Valle                   5990 :  68 / 41 / 0.00 /       /   
+RQE   :   Window Rock             6739 :  68 / 32 / 0.00 /       /   
+INW   :   Winslow                 4886 :  78 / 43 / 0.00 /       /   
+.END
+
+
+Values reported below are 24-hour readings taken at the noted
+local observation time.
+Data provided by National Weather Service Cooperative Observers
+
+
+.BR FGZ 1021 MS DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs     Max   Min    24-Hr  Snow  Snow
+:Id    Station         Elev    Time    Temp  Temp   Pcpn   Fall Depth
+ALPA3 :Alpine          8050: DH1600/    64 /  30 /  0.00/    M/    M
+FGZ   :Bellemont       7152: DH1700/    63 /  29 /  0.00/  0.0/    0
+CHNA3 :Cnyn de Chelly  5610: DHM   /     M /   M /     M/    M/    M
+TNMA3 :Cottonwood-Tuzi 3470: DH1700/    83 /  50 /  0.00/  0.0/    0
+NRMA3 :Grnd Cnyn N Rim 8000: DH1700/    56 /  30 /  0.00/    M/    M
+HBRA3 :Heber RS        6590: DHM   /     M /   M /     M/    M/    M
+BETA3 :Navajo NM       7286: DHM   /     M /   M /     M/    M/    M
+PYSA3 :Payson          4908: DH1600/    75 /  41 /  0.00/  0.0/    0
+PTFA3 :Petrified Fores 5446: DHM   /     M /   M /     M/    M/    M
+PHRA3 :Phantom Ranch   2530: DHM   /     M /   M /     M/    M/    M
+SELA3 :Seligman        5250: DHM   /     M /   M /     M/    M/    M
+SOW   :Show Low        6411: DH1700/    70 /  43 /  0.00/  0.0/    0
+SPVA3 :Springerville   6998: DHM   /     M /   M /     M/    M/    M
+WLLA3 :Williams        6909: DHM   /     M /   M /     M/    M/    M
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers For Environmental Information /NCEI/.
+Therefore...these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+
+$$
+

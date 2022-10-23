@@ -1,0 +1,66 @@
+ASUS43 KLSX 212307
+RWRMO 
+
+WEATHER SUMMARY FOR MISSOURI
+NATIONAL WEATHER SERVICE SPRINGFIELD MO
+600 PM CDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+       CURRENT SKY AND/OR WEATHER CONDITIONS ARE NOT AVAILABLE FOR
+       CHILLICOTHE AND FARMINGTON.
+
+MOZ001>031-035>038-043-044-053-054-220000-
+...NORTHERN AND WESTERN MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KANSAS CTY INT MOCLDY    82  37  20 S15       29.63S                  
+KANSAS C DTWN  CLEAR     83  39  21 S13       29.63S                  
+LEE'S SUMMIT   CLEAR     80  38  22 S14       29.66R                  
+ST JOSEPH      PTCLDY    79  39  23 S14       29.59S                  
+CHILLICOTHE      N/A     81  38  21 S8G18     29.63S                  
+KIRKSVILLE     CLEAR     76  37  24 S14G24    29.65F                  
+     
+$$
+MOZ066>068-077>081-088>096-101>105-220000-
+...SOUTHWEST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SPRINGFIELD    CLEAR     79  34  19 S14       29.76S                  
+JOPLIN         CLEAR     81  36  19 S21G36    29.73S                  
+BRANSON        CLEAR     79  36  21 S6        29.81S                  
+               
+$$
+MOZ032>034-039>042-045>050-055>058-069>072-220000-
+...CENTRAL MISSOURI...  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA       CLEAR     78  35  21 S8        29.72F                  
+JEFFERSON CITY CLEAR     83  33  16 S6        29.71F                  
+ROLLA          CLEAR     76  30  18 S9        29.78S                  
+SEDALIA        CLEAR     80  35  19 S13       29.70F                  
+WHITEMAN AFB   CLEAR     77  36  23 S12       29.63S                  
+WARRENSBURG    CLEAR     79  34  19 S9        29.67S                  
+OSAGE BEACH    CLEAR     81  32  17 S9          N/A                   
+               
+$$
+MOZ051-052-059>065-220000-
+...EAST CENTRAL MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST LOUIS INTL  MOCLDY    79  35  20 S12       29.77S                  
+SPIRIT OF STL  CLEAR     77  34  21 S6        29.75S                  
+ST CHARLES     CLEAR     76  38  25 S12       29.74F                  
+                   
+$$
+MOZ072>076-082>087-097>100-106>115-220000-
+...SOUTH CENTRAL AND SOUTHEAST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAPE GIRARDEAU PTCLDY    74  47  38 S10       29.85R                  
+FARMINGTON     CLEAR     73  43  33 S10G18    29.83S                  
+POPLAR BLUFF   PTCLDY    72  48  42 S9        29.85R HAZE             
+WEST PLAINS    CLEAR     77  42  28 S9        29.83F                  
+                                       
+$$
+  

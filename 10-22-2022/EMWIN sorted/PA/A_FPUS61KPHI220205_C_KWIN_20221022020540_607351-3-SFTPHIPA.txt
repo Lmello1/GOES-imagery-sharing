@@ -1,0 +1,77 @@
+FPUS61 KPHI 220205
+SFTPHI
+NJZ001>027-DEZ001>004-221000-
+
+Tabular State Forecast for New Jersey
+National Weather Service Mount Holly NJ
+1005 PM EDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Delaware...
+   Dover AFB, DE
+   Sunny    Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   42/67    51/65    54/69    56/70    57/71    56/70    55/68    
+    00/00    20/70    70/20    20/20    20/20    20/20    20/20   
+
+   Georgetown, DE
+   Sunny    Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   40/68    52/65    54/69    56/73    58/72    56/72    55/69    
+    00/00    40/70    70/30    20/10    20/20    20/20    20/20   
+
+   Wilmington, DE
+   Sunny    Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   39/69    48/64    54/71    56/73    57/72    57/71    54/68    
+    00/00    10/60    60/30    20/20    20/20    20/20    20/20   
+
+
+...New Jersey...
+   Andover, NJ
+   Sunny    Mocldy   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   
+   37/66    43/62    49/67    53/70    54/69    54/67    48/65    
+    00/00    10/40    40/40    20/20    30/30    30/20    20/20   
+
+   Atlantic City, NJ
+   Sunny    Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   49/64    57/63    57/66    59/67    60/67    59/67    57/65    
+    00/00    30/70    70/40    30/20    20/30    30/30    20/20   
+
+   Millville, NJ
+   Sunny    Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   39/69    49/64    53/70    55/73    57/71    56/70    53/68    
+    00/00    20/70    70/30    20/20    20/20    20/20    20/20   
+
+   Newark, NJ
+   Sunny    Rain     Mocldy   Mocldy   Mocldy   Mocldy   Mocldy   
+   41/68    51/63    55/67    58/70    58/70    58/70    55/67    
+    00/00    10/60    60/40    30/30    30/30    30/30    20/20   
+
+   Somerville, NJ
+   Sunny    Rain     Mocldy   Mocldy   Mocldy   Ptcldy   Mocldy   
+   36/69    46/63    51/70    54/72    55/71    55/70    50/67    
+    00/00    10/50    50/30    20/20    30/30    30/20    20/20   
+
+   Teterboro, NJ
+   Sunny    Rain     Mocldy   Mocldy   Mocldy   Mocldy   Mocldy   
+   41/68    50/62    54/67    58/71    58/71    58/70    54/67    
+    00/00    10/60    60/40    30/30    30/30    30/30    20/20   
+
+   Trenton, NJ
+   Sunny    Rain     Mocldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   37/68    47/62    52/69    56/72    56/71    56/70    52/67    
+    00/00    10/60    60/30    20/20    30/30    30/20    20/20   
+
+
+$$
+

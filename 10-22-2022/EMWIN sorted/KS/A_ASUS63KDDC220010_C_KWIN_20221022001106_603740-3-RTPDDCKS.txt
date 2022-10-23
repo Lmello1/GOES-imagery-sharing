@@ -1,0 +1,56 @@
+ASUS63 KDDC 220010
+RTPDDC
+Max/Min Temperature and Precipitation Table For
+Southwest...West Central...South Central Kansas
+National Weather Service -- Dodge City Kansas
+710 PM CDT Fri Oct 21 2022
+
+.BR DDC  1021  CS DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:       
+:Values represent 18 hour highs....lows over the last 18 hours and 
+:precipitation over the last 24 hours ending at 6 PM CST/7 PM CDT
+:
+:.............................................................
+: ID    Station             Max  / Min  /    24 HR    / Snow
+:        Name               Temp / Temp / Pcpn / Snow / Depth
+:.............................................................
+:
+: First order /ASOS/ Sites
+ DDC : Dodge City Airport :  87  /  44  / 0.00 /     0/0     
+ GCK : Garden City Airport:  86  /  38  / 0.00 /      /     
+ P28 : Medicine Lodge     :  92  /  42  / 0.00 /      /     
+:
+: AWOS sites
+ EHA : Elkhart Airport    :  86  /  51  / 0.00 /      /     
+ HYS : Hays Airport       :  88  /  38  / 0.00 /      /     
+ LBL : Liberal Airport    :  87  /  37  / 0.00 /      /     
+ PTT : Pratt Airport      :  87  /  45  / 0.00 /      /     
+:
+.END
+ 
+.BR DDC  1021  CS DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Cooperative temperature and precipitation observations 
+:for the previous 24 hours ending around 6 PM Local Time
+:
+:...................................................................
+: ID    Station           Obs   / Max  / Min  / 24hr / Snow / Snow
+:        Name             Time  / Temp / Temp / Pcpn / Fall / Depth
+:...................................................................
+:
+:
+:       
+:       
+:Other COOP precipitation observations for the
+:previous 24 hours ending around 6 PM Local time
+:
+:
+.END
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...these data are subject to revision.  Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+ 
+$$ 
+

@@ -1,0 +1,54 @@
+ASUS65 KBOI 220023
+RTPID 
+
+RTPID 
+Max/Min Temperature and Precipitation Table for Idaho
+National Weather Service Boise ID
+620 PM MDT Fri Oct 21 2022
+
+.BR BOI 1021 MS DH17/TAIRZI/TAIRZY/PPD
+:
+:...Full-time stations in Mountain Timezone...
+:
+:                             MIN   MAX
+:                            TEMP   TEMP
+:                            THIS   SO FAR     24 HR  
+:ID    STATION        ELEV    AM    TODAY       PCPN
+BOI  : Boise          2868 :   48  /   70   /  0.00
+BYI  : Burley         4150 :   41  /   70   /  0.00
+EUL  : Caldwell       2427 :    M  /    M   /     M
+LLJ  : Challis        5072 :   37  /   68   /  0.00
+IDA  : Idaho Falls    4744 :   39  /   69   /  0.00
+JER  : Jerome         4048 :   48  /   69   /  0.00
+MYL  : McCall         5020 :   32  /   58   /  0.03
+MUO  : Mtn Home AFB   2995 :   36  /   73   /  0.00
+ONO  : Ontario OR     2193 :   40  /   72   /  0.00
+PIH  : Pocatello      4478 :   39  /   71   /  0.00
+RXE  : Rexburg        4858 :   41  /   69   /  0.00
+SMN  : Salmon         4045 :   32  /   69   /     T
+SNT  : Stanley        6495 :   29  /   60   /  0.00
+TWF  : Twin Falls     4188 :   52  /   70   /  0.00
+.END
+
+
+.BR BOI 1021 PS DH16/TAIRZI/TAIRZY/PPD
+:
+:...Full-time stations in Pacific Timezone...
+:
+:                             MIN   MAX
+:                            TEMP   TEMP
+:                            THIS   SO FAR     24 HR  
+:ID    STATION        ELEV    AM    TODAY       PCPN
+COE  : Coeur D Alene  2320 :   36  /   50   /  0.00
+LWS  : Lewiston       1436 :   46  /   56   /  0.14
+P69  : Lowell         1480 :   44  /   55   /  0.15
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision.  Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+
+$$

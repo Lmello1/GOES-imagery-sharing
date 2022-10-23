@@ -1,0 +1,43 @@
+ASUS62 KFFC 220031
+RTPGA 
+
+Max/min Temperature And Rainfall Table For Georgia
+National Weather Service Peachtree City GA
+821 PM EDT Fri Oct 21 2022
+
+:Lowest temperature past 18 hours, highest temperature past 12 hours
+:Precipitation for 24 hours ending at 7 PM local time
+:
+.BR ATL 1021 ES DH20/TAIRZS/TAIRZI/PPDRZZ
+:
+: Station        ID       Low   High   24 HR Pcpn
+:
+:Albany         :ABY       36 /   72 / 0.00
+:Alma           :AMG       37 /   73 / 0.00
+:Athens         :AHN       34 /   70 / 0.00
+:Atlanta        :ATL       42 /   70 / 0.00
+:Augusta        :AGS       31 /   70 / 0.00
+:Brunswick      :SSI       48 /   71 / 0.00
+:Columbus       :CSG       37 /   72 / 0.00
+:Gainesville    :GVL       38 /   69 / 0.00
+:Lawrenceville  :LZU       35 /   68 / 0.00
+:Macon          :MCN       33 /   73 / 0.00
+:Marietta       :MGE       35 /    M /    M
+:NE Atlanta     :PDK       32 /   67 / 0.00
+:Peachtree City :FFC       32 /   72 / 0.00
+:Rome           :RMG       32 /   72 / 0.00
+:Savannah       :SAV       38 /   72 / 0.00
+:Valdosta       :VLD       37 /   73 / 0.00
+:West Atlanta   :FTY       33 /   70 / 0.00
+.END
+:
+M indicates missing data.
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore, these data are subject to revision.  Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$

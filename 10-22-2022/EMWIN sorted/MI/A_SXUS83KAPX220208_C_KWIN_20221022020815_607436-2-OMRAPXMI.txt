@@ -1,0 +1,52 @@
+SXUS83 KAPX 220208
+OMRAPX
+
+Marine Observations
+National Weather Service Gaylord MI
+1008 PM EDT Fri Oct 21 2022
+
+                    WIND  DATA (KTS)   WAVES  WATER          
+SITE   DATE/TIME   DIR   SPEED   GUST  (FT)  TEMP(F) SITE NAME
+-------------------------------------------------------------
+
+Lake Superior/St Marys River
+
+GRMM4   220140Z    200      7      8                 Grand Marais
+WFPM4   220140Z    260      4      6                 Whitefish Point
+PTIM4   220048Z   CALM             1                 Point Iroquois
+CYAM    220100Z    220      5                        SOO (Canada)
+KANJ    220155Z   CALM                               Sault Ste Marie
+
+Lake Huron
+
+KDRM    220155Z   CALM                               Drummond Island
+KMCD    220155Z    280      5                        Mackinac Island
+KSLH    220155Z   CALM                               Cheboygan Airport
+CYGM4   220050Z    220      2                        Cheboygan Marina
+SRLM4   220100Z    270      9                  48.19    Spectacle Reef Light
+KPZQ    220155Z    200      6                        Rogers City
+PRIM4   220050Z    190      9     15                 Presque Isle Light
+KAPN    220154Z    190      7                        Alpena Guard Base
+APNM4   220150Z    220     12     15                 Alpena Harbor Light
+TBIM4   220130Z    170     13     14                 Thunder Bay Island
+SPTM4   220050Z    190      4     14                 Sturgeon Point Light
+KOSC    220155Z    210      7                        Oscoda
+TAWM4   220140Z    210      8     12                 Tawas Point
+GSLM4   220140Z    150      9     13                 Gravelly Shoals
+
+Lake Michigan
+
+KISQ    220155Z   CALM                               Manistique
+NABM4   220140Z   CALM             1                 Naubinway
+WSLM4   220130Z    240     12                  48.74    White Shoal Light
+KSJX    220155Z    240      4                        St James
+KPLN    220154Z    310      4                        Pellston
+KMGN    220155Z   CALM                               Harbor Springs
+KCVX    220155Z    190      6                        Charlevoix
+GTLM4   220140Z    240      7      8                 Grand Traverse Light
+KTVC    220153Z    230      8                        Traverse City
+KFKS    220155Z    220      5                        Frankfort
+MEEM4   220140Z    190      8     14                 Manistee Harbor
+BSBM4   220140Z    170     12     16                 Big Sable Point
+LDTM4   220042Z    200     14     22                 Ludington
+KLDM    220155Z    220     16     22                 Ludington Airport

@@ -1,0 +1,49 @@
+ASUS65 KTWC 220034
+RTPTWC
+Max/Min Temperature and Precipitation Table for Southeast Arizona
+National Weather Service Tucson AZ
+534 PM MST Fri Oct 21 2022
+
+Values represent highs and lows over the last 18 hours
+and 24 hour precipitation ending at 5:00 pm MST.
+
+Data reported from automated gauges:
+*  Climate Reference Network Sites
++  ASOS site maintained by DOD
+   All others are ASOS maintained by the National Weather Service
+
+.BR TWC 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                      Max   Min   24-hr  Snow  Snow
+:ID       Station                Elev  Temp  Temp  Pcpn   Fall  Depth
+ALK   :   Pioneer Airfield       4654 :  81 / 52 / 0.00 /       / 
+DMA   :+  Davis-Monthan AFB      2675 :  89 / 61 / 0.00 /       / 
+OLS   :   Nogales Intl Airport   3930 :  85 / 52 / 0.00 /       / 
+SAD   :   Safford Airport        3170 :  85 / 48 / 0.00 /       / 
+TUS   :   Tucson Intl Airport    2550 :  91 / 59 / 0.00 /       / 
+ADRA3 :*  Elgin                  4858 :  81 / 49 / 0.00 /       / 
+SDMA3 :*  Sonora Desert Museum   2768 :  89 / 58 / 0.00 /       / 
+.End
+
+Values reported below are 24 hour readings at the noted
+Mountain Standard Observation Time.
+Data provided by National Weather Service cooperative observers
+
+.BR TWC 1021 MS DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs    Max   Min   24-hr  Snow   Snow
+:ID   Station           Elev   Time   Temp  Temp  Pcpn   Fall   Depth
+BISA3 :Bisbee           5560 : DHM   /   M /  M /    M /     / 
+HRFA3 :Coronado NM      5242 : DH1530/  77 / 58 / 0.00 /     / 
+PICA3 :Picacho Peak     1830 : DHM   /   M /  M /    M /     / 
+.End
+
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center (NCDC). Therefore,
+these data are subject to revision. Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+
+

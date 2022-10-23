@@ -1,0 +1,84 @@
+ASUS43 KGRB 220059
+RWRGRB
+
+NORTH-CENTRAL AND NORTHEAST WISCONSIN REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE GREEN BAY WI
+800 PM CDT FRI OCT 21 2022
+
+WIZ005-009-010>012-018-019-220200-
+NORTH CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRONWOOD       PTCLDY    40  38  93 CALM      29.61R                  
+MANITOWISH WTR CLEAR     40  36  86 CALM      29.62R                  
+ARBOR VITAE    CLEAR     45  37  73 CALM      29.62R                  
+EAGLE RIVER    NOT AVBL                                               
+LAND O LAKES   CLEAR     40  35  83 CALM      29.64R                  
+RHINELANDER    CLEAR     42  34  73 W3        29.65R                  
+PHILLIPS       PTCLDY    41  34  76 CALM      29.62R                  
+ANTIGO         CLEAR     48  37  65 W6        29.65R                  
+TOMAHAWK       NOT AVBL                                               
+MERRILL        CLEAR     48  37  66 CALM      29.63R                  
+$$
+
+WIZ013-073-220200-
+NORTHEAST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRON MOUNTAIN  CLEAR     44  36  73 CALM      29.60R                  
+MARINETTE      CLEAR     50  41  71 NW8       29.61R                  
+OCONTO           N/A     47  42  82 CALM      29.61R                  
+$$
+
+WIZ017-030-035>037-045-220200-
+CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEDFORD        CLEAR     45  37  76 CALM      29.64R                  
+WAUSAU         CLEAR     52  38  58 CALM      29.63R                  
+MOSINEE        CLEAR     54  37  54 W5        29.65R                  
+MARSHFIELD     CLEAR     51  37  58 W5        29.65R                  
+WISC RAPIDS    CLEAR     52  38  58 CALM      29.65R                  
+STEVENS POINT  NOT AVBL                                               
+WAUPACA        CLEAR     55  38  53 CALM      29.63R                  
+SHAWANO        CLEAR     52  42  70 CALM      29.62R                  
+CLINTONVILLE   CLEAR     50  39  65 CALM      29.64R                  
+WAUTOMA        CLEAR     49  38  65 CALM      29.64R                  
+$$
+
+WIZ038-039-048-051-220200-
+FOX VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NWS GREEN BAY  PTCLDY    57  40  52 CALM      29.62R                  
+APPLETON       CLEAR     55  36  47 W8        29.62R                  
+OSHKOSH        CLEAR     60  39  45 SW5       29.63R                  
+FOND DU LAC    CLEAR     57  38  48 SW5       29.64R                  
+$$
+
+WIZ022-050-052-220200-
+EAST CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EPHRAIM        FAIR      51  45  81 CALM      29.60R                  
+WASHINGTON ISL FAIR      45  45 100 CALM      29.59R                  
+STURGEON BAY   CLEAR     53  43  68 SW3       29.61R                  
+MANITOWOC      PTCLDY    52  47  83 CALM      29.63R                  
+SHEBOYGAN      CLEAR     56  42  59 S5        29.64R                  
+$$
+
+LMZ563-521-522-541>543-220200-
+LAKESHORE
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+SHEBOYGAN LKSHOR 0000   58     210/  5/  5 1003.3R
+KEWAUNEE LKSHORE 0024          310/  2/  3 1001.9
+NORTHPORT PIER   0000          150/  4/  7 1002.7
+N MID LAKE BUOY  0040   51 47  220/ 12/ 17 1002.1R
+CHAMBERS ISLAND  0030   53     150/  2/  4   N/A
+GREEN BAY WEST   0024           CALM  /  1 1001.5
+MENOMINEE LKSHOR 0024      49  220/  3/  4 1001.1
+$$
+  

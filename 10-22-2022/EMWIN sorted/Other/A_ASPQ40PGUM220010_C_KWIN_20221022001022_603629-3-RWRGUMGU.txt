@@ -1,0 +1,50 @@
+ASPQ40 PGUM 220010
+RWRPQ 
+WEATHER ROUNDUP FOR THE MARIANAS AND MICRONESIA
+NATIONAL WEATHER SERVICE TIYAN GU
+1000 AM CHST SAT OCT 22 2022
+
+GUZ001>004-220100-
+MARIANA ISLANDS-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GUAM AIRPORT   NOT AVBL                                               
+ANDERSEN AFB   PTSUNNY   84  75  74 SE15      29.90S HX  92           
+ROTA AIRPORT   PTSUNNY   82  75  78 E14       29.87R                  
+TINIAN AP      MOSUNNY   84  77  79 E14         N/A  HX  94           
+SAIPAN AP      PTSUNNY   88  77  70 E15       29.91R HX 100           
+
+$$
+
+PMZ161-220100-
+REPUBLIC OF PALAU-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KOROR AP       NOT AVBL                                               
+KOROR WSO      NOT AVBL                                               
+
+$$
+
+PMZ171>174-220100-
+FEDERATED STATES OF MICRONESIA-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YAP AIRPORT    PTSUNNY   86  79  79 VRB3      29.82F HX  99           
+CHUUK AP       PTSUNNY   86  79  79 VRB6      29.83S HX  99           
+POHNPEI AP     CLOUDY    84  79  84 N7        29.82  HX  96           
+POHNPEI WSO    CLOUDY    90  79  70 NE5       29.86F HX 105           
+KOSRAE AP      PTSUNNY   82  77  83 E12       29.82  HX  91           
+
+$$
+
+PMZ181-220100-
+REPUBLIC OF THE MARSHALL ISLANDS-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KWAJALEIN AP   SUNNY     86  77  74 E10       29.80F HX  97           
+MAJURO AP      NOT AVBL                                               
+MAJURO WSO     LGT RAIN  77  73  88 E8        29.82F                  
+
+$$
+
+  

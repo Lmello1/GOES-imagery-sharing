@@ -1,0 +1,109 @@
+FPHW60 PHFO 220107
+SFTHFO
+HIZ001-003-004-006-007-009>011-015>018-022-023-026>054-221500-
+
+Tabular State Forecast for Hawaii
+National Weather Service Honolulu HI
+307 PM HST Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...KAUAI...
+   Lihue
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   73/84    74/84    74/84    75/83    75/84    74/83    74/83    
+    20/20    30/40    50/40    50/40    50/40    50/40    50/40   
+
+   Waimea
+   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   69/87    71/87    71/87    71/86    71/85    71/86    71/86    
+    20/10    10/20    10/20    10/20    10/20    10/20    20/30   
+
+...OAHU...
+   Honolulu Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   75/87    76/87    74/87    75/87    75/87    75/87    75/87    
+    10/10    10/20    30/20    30/20    30/20    30/20    30/30   
+
+   Kaneohe MCBH
+   Ptcldy   Ptcldy   Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    
+   74/82    75/82    73/82    74/82    74/82    74/82    74/82    
+    30/20    40/40    50/50    50/50    50/50    50/50    50/50   
+
+   Makaha
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   75/87    75/87    74/87    75/87    75/87    75/87    75/87    
+    10/00    10/20    20/20    20/20    20/20    20/20    20/20   
+
+   Wahiawa
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   68/82    69/82    67/82    68/82    68/82    68/82    68/82    
+    20/10    30/30    40/30    40/30    40/30    40/30    50/40   
+
+...MOLOKAI...
+   Molokai Airport
+   Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    
+   70/86    70/85    71/84    71/84    71/85    70/84    70/84    
+    10/10    10/20    20/20    20/20    20/20    20/20    20/10   
+
+...LANAI...
+   Lanai City
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   65/79    65/75    65/77    66/77    66/75    66/77    66/77    
+    10/10    10/20    10/30    10/30    10/30    10/30    30/20   
+
+...MAUI...
+   Kahului Airport
+   Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   69/88    70/88    71/87    70/88    71/88    71/87    71/87    
+    10/10    10/20    20/20    20/20    20/20    20/20    20/20   
+
+   Hana Airport
+   Ptcldy   Ptcldy   Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    
+   68/83    73/83    70/82    69/82    74/82    74/82    74/82    
+    70/20    40/40    50/50    50/50    50/50    50/50    50/50   
+
+   Haleakala Summit
+   Sunny    Sunny    Windy    Windy    Sunny    Windy    Sunny    
+   46/61    47/61    46/62    46/62    46/60    47/60    47/60    
+    60/00    10/10    00/10    00/10    00/10    00/10    30/10   
+
+   Kapalua Airport
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   69/85    73/85    71/84    70/84    74/84    74/84    74/84    
+    10/10    20/20    30/30    30/30    30/30    30/30    30/20   
+
+...BIG ISLAND...
+   Hilo Airport
+   Ptcldy   Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    
+   70/86    69/85    69/85    70/84    70/84    70/83    70/83    
+    90/30    50/50    70/60    70/60    70/60    70/60    60/50   
+
+   Kona Keahole Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   76/87    75/87    75/88    75/88    75/87    75/87    75/87    
+    10/10    10/10    20/10    20/10    20/10    20/10    20/20   
+
+   Hawaii Nat Park Hdqtrs
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Shwrs    
+   56/75    55/73    55/74    56/73    56/73    56/72    56/72    
+    80/20    30/40    40/40    40/40    40/40    40/40    40/70   
+
+   Mauna Kea Summit
+   Sunny    Windy    Windy    Windy    Sunny    Ptcldy   Ptcldy   
+   36/48    39/49    38/47    36/45    33/43    33/42    33/42    
+    10/00    00/10    10/10    10/10    10/10    10/10    10/30   
+
+
+$$
+

@@ -1,0 +1,128 @@
+FGUS53 KGRB 220045
+RVDGRB
+WIC009-015-029-037-041-061-067-069-071-073-075-078-
+083-085-097-115-125-135-137-139-141-230044-
+
+Daily River and Lake Forecast Summary
+National Weather Service Green Bay WI
+745 PM CDT Fri Oct 21 2022
+
+The following are latest observations for area 
+rivers...lakes and reservoirs.
+
+.B GRB 1021 DC102119 DH19/HG/DRH+24/HGIFF/DRH+48/HGIFF
+.B1 /DRH+72/HGIFF/DRH+96/HGIFF/DRH+120/HGIFF
+.B2 /DRH+144/HGIFF/DRH+168/HGIFF
+.    
+         ...Daily stage forecasts at 7 pm...
+         Available daily through October 1st
+   
+             Sat  Sun  Mon  Tue  Wed  Thu  Fri
+Langlade     7.7  7.7  7.7  7.7  7.7  7.7  MSG 
+Niagara      MSG  MSG  MSG  MSG  MSG  MSG  MSG 
+Appleton     5.6  5.6  5.6  5.6  5.6  5.6  MSG 
+Vulcan       MSG  MSG  MSG  MSG  MSG  MSG  MSG 
+Niagara is on the Menominee River. Flood stage is 13 feeet.
+Vulcan is on the Menominee River. Flood stage is 15 feet.
+Langlade is on the Wolf River. Flood stage is 11.5 feet. 
+Appleton is on the Fox River. Flood stage is 8.4 feet. 
+Daily forecasts available April 1st to October 1st only.
+    
+             ...Evening observations...
+     
+.B GRB 1021 DC102119 DH10/HP/HT
+   
+...Wisconsin River basin dams and reservoirs...
+   
+...Wisconsin River...
+  
+                               Evening         Evening           
+                              Pool stage      Tail stage      Flow  
+...Location...             latest/24hr chg  latest/24hr chg  latest 
+                             (ft.)   (ft.)   (ft.)   (ft.)    (cfs)
+OTTW3: Otter Rapids             MSG   MSG   1603.91 -0.02     218
+LTKW3: Rainbow-Lake Tomahawk    no routine evening data available
+RHIW3: Rhinelander Dam          no routine evening data available
+HRDW3: Hat Rapids Dam            MSG   MSG       no data       169
+KNGW3: Kings Dam                no routine evening data available
+TKDW3: Tomahawk Dam          1435.16 -0.07   1420.62  0.19    1009
+GRFW3: Grandfather Dam           MSG   MSG   1301.13  0.87    1614
+ALXW3: Alexander Dam         1276.81 -0.01   1254.54  0.63    1337
+WUUW3: Wausau Dam            1188.27  0.08   1164.02  0.21    1499
+DUBW3: Du Bay Dam            1114.64 -0.04   1087.60  0.28    1391
+STPW3: Stevens Point Dam     1086.94  0.10   1069.20  0.08    1034
+WTGW3: Whiting Dam               MSG   MSG   1046.62  0.18    1306
+BIRW3: Biron Dam                 MSG   MSG   1011.10  0.13    1344
+WDSW3: Wisconsin Rapids Dam      MSG   MSG    979.88 -0.02    1408
+PETW3: Petenwell Dam             MSG   MSG    882.03  0.04    1952
+CROW3: Castle Rock Dam           MSG   MSG    847.54 -0.03    2117
+  
+...Wisconsin River tributaries...
+                               Evening         Pvening           
+                              Pool stage      Tail stage      Flow  
+...Location...            latest/24hr chg  latest/24hr chg  latest 
+                             (ft.)   (ft.)   (ft.)   (ft.)    (cfs)
+WILW3: Willow Res-Tomahawk R.   no routine evening data available
+RRVW3: Rice Res.-Tomahwawk R.   no routine evening data available
+JERW3: Jersey dam-Tomahawk R    MSG   MSG   1437.51  0.09     MSG
+SPDW3: Spirit Res.-Spirit R.    no routine evening data available
+EPLW3: Big Eau Pleine Res .     no routine evening data available
+---------------------------------------------
+...Lake Poygan and Lake Winnebago...
+                                             Evening 
+                          Bankfull Flood    Pool stage       Flow
+...Location...             stage   stage  latest/24hr chg   latest 
+                           (ft.)   (ft.)   (ft.)   (ft.)    (cfs)
+WNCW3: Lake Poygan          4.5      6.0    2.74 -0.03      no data
+OSHW3: L Winnebago-Oshkosh  3.3      3.5    2.68  0.00      no data
+STKW3: L Winnebago-Stockbridge              2.61  0.01      no data
+MSNW3: Menasha-Jeff. Park   5.0      5.5    2.62 -0.04      no data
+OSKW3: L. Lk Butte des Morts                1.06 -0.02      no data
+-----------------------------------------------------
+...Peshtigo River dams and reservoirs...
+                               Evening         Evening           
+                              Pool stage      Tail stage      Flow  
+...Location...             latest/24hr chg  latest/24hr chg  latest 
+                             (ft.)   (ft.)   (ft.)   (ft.)    (cfs)
+CAFW3: Caldron Falls Dam      981.69  0.00    900.54  0.02     294
+CRIW3: High Falls Dam         897.23  0.02    814.27  0.05     249
+JOFW3: Johnson Falls Dam      814.02  0.09    770.02  0.00     285
+SSDW3: Sandstone-Crivitz      717.92  0.91    679.51  0.02     411
+PGOW3: Potato Rapids Dam         MSG   MSG    603.97 -0.07     484
+PTOW3: Peshtigo Dam              MSG   MSG       MSG   MSG     767
+-----------------------------------------------------
+...Menominee River dams and reservoirs...
+                               Evening         Evening           
+                              Pool stage      Tail stage      Flow  
+...Location...             latest/24hr chg  latest/24hr chg  latest 
+                             (ft.)   (ft.)   (ft.)   (ft.)    (cfs)
+COMW3: Commonwealth-Brule R      MSG   MSG       no data       667
+TWFM4: Twin Falls Dam            MSG   MSG       no data      1144
+KFDM4: Kingsford                 MSG   MSG       no data      1345
+BGQW3: Big Quinnesec Falls       MSG   MSG       no data      1424
+CLKW3: Chalk Hill Dam            MSG   MSG       no data      1797
+WRDW3: White Rapids Dam          MSG   MSG       no data      1897
+GRRW3: Grand Rapids Dam       664.93 -0.06    635.38  0.16    2029
+-----------------------------------------------------
+...Stream water temperatures...
+...Location...                       Degrees F
+MRLW3: Prairie River near Merrill        MSG
+MORW3: Red River near Gresham             44
+NEWW3: Wolf River in New London           47
+BERW3: Fox River in Berlin                48
+WNCW3: Lake Poygan                        48
+OSHW3: Lake Winnebago-Oshkosh            MSG
+MNSW3: Lake Winnebago-Menasha            MSG
+APLW3: Fox River in Appleton              48
+GBYW3: Fox River in Green Bay             47
+KOSM4: Menominee R. near Koss, MI        MSG
+FCEW3: Popple River near Florence         45
+PESW3: Peshtigo River in Peshtigo         46
+ 
+This report is automated and partially quality controlled. 
+Data errors may occur due to equipment malfunction or other
+reasons. Data in this report courtesy of USGS...Wisconsin 
+Valley Improvement Company...Wisconsin Public Service...USACE.
+End
+$$
+

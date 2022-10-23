@@ -1,0 +1,208 @@
+FOUS55 KBYZ 212326
+PFMBYZ
+
+Point Forecast Matrices
+National Weather Service Billings MT
+526 PM MDT Fri Oct 21 2022
+
+MTZ235-221100-
+Billings-Yellowstone MT
+45.81N 108.53W Elev. 3648 ft
+526 PM MDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          57          36          42          29
+Temp             63 55 51 48 46 45 53 57 51 46 43 42 40 36 39 42 41 36 35 33 29
+Dewpt            33 41 43 43 42 42 45 46 41 42 40 37 36 34 35 36 34 30 29 27 23
+RH               32 59 74 83 86 89 74 67 68 86 89 82 85 92 85 79 76 79 78 78 78
+Wind dir         NW  N NE  E  E  E NE NE NW  N  N NW NW NW NW NW NW NW NW NW  W
+Wind spd         14 12  8  9 10 10  8  8 10 10 11 13 13 16 17 18 17 14 16 13 12
+Clouds           OV OV OV OV OV OV OV B2 OV OV OV OV OV OV OV OV OV OV OV B2 B1
+PoP 12hr                     60          70          70          80          60
+QPF 12hr                   0.18        0.08        0.18        0.28        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        C  L  L  C  L  L  L  L  L  L  C  C  D  D  D  D  L  L         
+Snowshwrs                                                   D  D  L  L  C  C   
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          49      36    52      31    48      30    48      32    54
+Temp          42 44 38   37 46 47 36   33 41 45 35   30 41 45 35   33 47 54
+Dewpt         27 26 24   25 29 27 24   25 30 32 28   24 30 30 25   23 30 31
+PWind dir         W      SW     W       W    SW      NW     W       W    SW
+Wind char        GN      GN    BZ      GN    GN      GN    GN      GN    GN
+Avg clouds    SC FW SC   B1 B1 SC B1   B2 B2 B1 B2   B2 B1 SC SC   SC SC SC
+PoP 12hr          5      10     5      10    30      30    10       5     5
+Rain shwrs                                 S  C  C                         
+Snowshwrs                                  S          C                    
+
+$$
+MTZ065-221100-
+Livingston-Park MT
+45.70N 110.47W Elev. 4656 ft
+526 PM MDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          53          27          41          22
+Temp             61 50 46 43 41 43 50 52 47 38 33 31 28 28 36 41 39 32 27 24 22
+Dewpt            30 38 40 40 40 41 43 44 38 34 32 29 28 27 32 34 33 28 24 22 20
+RH               31 63 79 89 96 93 77 74 71 85 96 92100 96 85 76 79 85 88 92 92
+Wind dir          W  W  W SW  E  E SW  W  W  W NW NW  W  W NW NW NW  W  W  W  W
+Wind spd         19 14 11  8  8 10 10 11 10  8  8  9 10 12 14 14 13 10 10 11 12
+Wind gust                          20                               21       23
+Clouds           OV OV OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B1 B1
+PoP 12hr                    100          90          80          80          50
+QPF 12hr                   0.29        0.35        0.30        0.16        0.02
+Snow 12hr                 00-00       00-00           1                        
+Rain shwrs        L  D  D  D  D  D  D  D  D  D  D  D                           
+Snowshwrs                                       D  D  D  D  D  D  C  C         
+Wind chill                                              17                   10
+Min chill                                      27    18    17    29    17    10
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          47      28    49      26    46      21    45      24    51
+Temp          38 44 32   28 44 46 32   26 41 42 26   21 39 41 28   24 43 51
+Dewpt         22 23 25   24 29 26 25   23 29 26 22   20 26 23 20   20 28 30
+PWind dir        SW      SW    SW      SW    SW       W     W      SW    SW
+Wind char        GN      GN    BZ      GN    GN      GN    GN      GN    GN
+Avg clouds    SC FW B1   B1 B1 SC B1   B2 B2 B2 B1   B1 B1 SC SC   SC SC SC
+PoP 12hr          5      30    10      30    40      40    10      10     5
+Rain shwrs           C                        C  C                         
+Snowshwrs                 C             C  C     C    C                    
+
+$$
+MTZ032-221100-
+Miles City-Custer MT
+46.42N 105.90W Elev. 2628 ft
+526 PM MDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          61          39          44          29
+Temp             61 53 48 47 45 45 53 61 58 51 47 44 42 39 43 43 41 34 32 31 30
+Dewpt            37 39 42 43 41 43 43 43 43 41 41 40 39 39 40 40 38 32 29 27 25
+RH               41 59 80 86 86 93 69 51 57 68 79 86 89100 89 89 89 92 88 85 81
+Wind dir         NW NW NW  W NE  E  E  E NE NE  N  N  N  N  N NW NW NW NW NW NW
+Wind spd         13 11  8  6  5  8 11 12 11 10 10 11 13 13 13 16 18 18 19 20 19
+Clouds           OV OV OV OV OV B2 B2 B2 B2 OV OV OV B2 B2 OV OV OV OV OV OV OV
+PoP 12hr                     40          20          50          90          90
+QPF 12hr                   0.02           0        0.08        0.42        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C  S  S  S  S  C  C  C  C  D  D  D  D  D  D         
+Snowshwrs                                                               L  L  S
+Wind chill                                                          23 21 18 17
+Min chill                                                  31          21    17
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          44      32    51      28    47      29    47      31    54
+Temp          37 40 34   33 47 46 34   28 42 44 34   29 42 43 35   31 48 54
+Dewpt         29 30 25   25 33 32 27   23 32 33 27   24 31 31 27   25 31 31
+PWind dir        NW      SW     W      SW    SE      NE     W       W    SW
+Wind char        BZ      LT    GN      LT    LT      LT    GN      GN    GN
+Avg clouds    B2 SC FW   SC SC SC SC   SC B1 B1 B1   B2 B1 SC SC   SC SC FW
+PoP 12hr         20       5     5       5    10      20    10       5     0
+Rain shwrs                                       S    S                    
+Snowshwrs      S                                      S                    
+
+$$
+MTZ033-221100-
+Baker-Fallon MT
+46.38N 104.24W Elev. 2969 ft
+526 PM MDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          61          39          46          26
+Temp             59 50 46 45 42 47 55 61 56 47 43 42 39 40 45 45 39 33 31 28 26
+Dewpt            35 37 39 40 39 41 40 40 38 36 35 35 36 38 40 40 37 33 31 28 25
+RH               40 61 76 82 89 79 57 46 51 65 73 76 89 92 82 82 92100100100 96
+Wind dir          W  N NW NW  E  E  E  E  E  E  E NE NE  N  N NW NW NW NW NW NW
+Wind spd         13 10  5  5  2  8 12 14 13 12 10  9  8 10 13 16 17 18 18 21 20
+Wind gust                                                              28    34
+Clouds           B2 OV OV OV B2 OV B2 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV
+PoP 12hr                     10          10          30          80          90
+QPF 12hr                      0           0           0        0.27        0.30
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  L  L  D  D  D  D         
+Snowshwrs                                                               D  D  C
+Wind chill                                                          22 19 15 12
+Min chill                                                        30    19    12
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          38      27    48      26    47      27    45      28    51
+Temp          32 35 28   31 43 42 30   26 43 41 31   27 41 41 31   28 47 51
+Dewpt         26 27 22   24 31 30 27   23 31 30 27   25 30 31 25   22 29 30
+PWind dir        NW      SW     W       W     S       E     W       W    SW
+Wind char        BZ      GN    BZ      GN    GN      LT    GN      GN    GN
+Avg clouds    OV B1 FW   SC SC SC SC   SC B1 B1 B1   B1 B1 SC SC   SC SC FW
+PoP 12hr         40       5     5       5     5      20    10       5     0
+Rain shwrs                                       S    S                    
+Snowshwrs      C                                      S                    
+
+$$
+WYZ199-221100-
+Sheridan-Sheridan WY
+44.80N 106.96W Elev. 4019 ft
+526 PM MDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      38          66          32          43          24
+Temp             64 53 47 44 41 44 59 66 60 46 40 37 33 32 39 43 39 31 28 27 24
+Dewpt            29 31 32 34 34 36 38 38 37 36 36 35 33 32 33 34 32 29 26 25 22
+RH               27 43 56 68 76 73 45 36 42 68 85 92100100 79 70 76 92 92 92 92
+Wind dir          N NW  N  E  S  E  E  W NW NW NW NW NW NW NW NW NW NW NW NW NW
+Wind spd          9  9  3  5  3  3  5  6  6  8  6  8 10 11 16 18 17 17 14 13 12
+Wind gust                                               21 26 31 29 31 32 27 24
+Clouds           B1 B2 B1 B2 B1 B1 B1 B1 B2 B2 B2 OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                     10          20          70          90          80
+QPF 12hr                      0           0        0.16        0.36        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  C  C  L  L  D  D  D  D  D  D         
+Snowshwrs                                                   D  D  D  D  L  L   
+Wind chill                                                          20 17 16 12
+Min chill                                            25    23    29    17    12
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          45      27    53      26    49      26    48      25    56
+Temp          40 40 27   29 50 46 30   26 45 44 30   26 44 43 29   25 50 56
+Dewpt         25 24 19   23 33 30 24   21 30 31 26   24 30 29 24   20 29 31
+PWind dir        NW      SW     W      SW     W      NW    NW       W    SW
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC FW   B1 B1 SC SC   B1 B1 SC B2   B2 B1 SC SC   SC SC FW
+PoP 12hr         10      10    10      10    20      30    20       5     5
+Rain shwrs                                    S  C                         
+Snowshwrs                                             C  S                 
+
+$$

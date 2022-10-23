@@ -1,0 +1,48 @@
+ASUS63 KLOT 220015
+RTPLOT
+Maximum/Minimum Temperature and Precipitation Table
+National Weather Service Chicago/Romeoville IL
+715 PM CDT Fri Oct 21 2022
+
+High temperature last 18 hours
+Low temperature last 18 hours
+Precipitation last 24 hours
+Snowfall last 24 hours
+ 
+.BR LOT 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ
+ 
+:ID Location                    High   Low     Pcpn   Snowfall
+ORD: Chicago-O'Hare           :  76  /  43  /  0.00  /  0.0
+CNII2: Chicago-Northerly Isl  :  75  /  46  /
+MDW: Chicago-Midway           :  78  /  45  /  0.00
+LOTI2: NWS Chicago-Romeoville :  75  /  40  /  0.00  /  0.0
+RFD: Rockford Airport         :  78  /  33  /  0.00  /  0.0
+DPA: DuPage Airport           :  76  /  35  /  0.00
+UGN: Waukegan Airport         :  75  /  38  /  0.00
+ARR: Aurora/Sugar Grove       :  76  /  31  /  0.00
+PWK: Wheeling/CHI Exec        :  76  /  36  /  0.00
+VPZ: Valparaiso IN            :  77  /  41  /  0.00
+: 
+:Unofficial Supplemental AWOS Locations
+: 
+DKB: DeKalb                   :  74  /  34  /  
+JOT: Joliet                   :  77  /  36  /  
+IKK: Kankakee                 :  76  /  39  /  
+IGQ: Lansing                  :  75  /  38  /  
+C09: Morris                   :  77  /  36  /  
+VYS: Peru                     :  78  /  38  /  
+PNT: Pontiac                  :  77  /  37  /  
+RZL: Rensselaer IN            :  75  /  39  /  
+RPJ: Rochelle                 :  75  /  32  /  
+06C: Schaumburg               :  75  /  40  /  
+.END
+ 
+These data are preliminary and have not undergone final
+quality control by the National Centers for Environmental
+Information (NCEI). Therefore, these data are subject to
+revision. Final and certified climate data can be accessed
+at www.ncei.noaa.gov.
+
+$$
+
+Petr

@@ -1,0 +1,71 @@
+FPUS61 KBTV 220226
+SFTVT 
+VTZ001>018-221000-
+
+Tabular State Forecast for VERMONT
+National Weather Service Burlington VT
+1025 PM EDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Champlain Valley...
+   Burlington, VT
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   46/67    44/68    48/65    50/70    54/70    53/66    47/62    
+    00/00    00/00    30/30    20/10    10/30    30/30    20/20   
+
+
+...North Central Vermont...
+   Morrisville, VT
+   Sunny    Ptcldy   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   35/68    36/68    45/64    47/70    51/70    50/65    43/62    
+    00/00    00/00    40/30    30/10    10/30    30/30    30/20   
+
+   Montpelier, VT
+   Sunny    Ptcldy   Shwrs    Mocldy   Mocldy   Ptcldy   Ptcldy   
+   36/67    38/67    47/63    50/69    53/69    52/65    44/62    
+    00/00    00/00    50/50    30/10    10/30    40/30    30/20   
+
+
+...Northeast Vermont...
+   St. Johnsbury, VT
+   Sunny    Ptcldy   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   34/64    37/66    45/63    48/68    52/69    50/65    44/61    
+    00/00    00/10    50/40    30/10    10/30    40/30    30/20   
+
+
+...Southern Vermont...
+   Rutland, VT
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/67    39/66    48/62    50/69    53/68    52/65    46/60    
+    00/00    00/10    60/50    30/20    20/30    40/30    20/20   
+
+   Sprinfield, VT
+   Sunny    Ptcldy   Shwrs    Mocldy   Mocldy   Ptcldy   Ptcldy   
+   33/67    35/63    47/61    49/68    52/69    52/66    46/61    
+    00/00    00/10    60/60    40/20    20/30    40/30    20/20   
+
+   Bennington, VT
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   34/65    37/64    47/64    51/71    53/70    53/67    46/63    
+    00/00    00/20    60/60    30/20    20/40    40/30    20/20   
+
+   Brattleboro, VT
+   Sunny    Ptcldy   Shwrs    Mocldy   Mocldy   Ptcldy   Ptcldy   
+   32/67    39/65    48/62    51/70    55/70    54/67    47/63    
+    00/00    00/40    70/70    30/20    20/30    40/30    30/20   
+
+
+$$
+

@@ -1,0 +1,65 @@
+ASUS44 KSHV 220210
+RWRSHV
+
+THE FOUR STATE AREA WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SHREVEPORT LA
+900 PM CDT FRI OCT 21 2022
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+!LAZ001-LAZ014-TXZ097-220300
+SHREVEPORT...MONROE...TEXARKANA RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHREVEPORT     CLEAR     72  54  53 S8        29.92R                  
+MONROE         CLEAR     72  55  55 S7        29.96R                  
+NATCHITOCHES   CLEAR     71  59  64 S8        29.97R                  
+TEXARKANA      CLEAR     74  51  44 S9        29.88R                  
+ATLANTA        FAIR      59  54  84 CALM      29.88S                  
+$$
+
+!LAZ001-LAZ014-TXZ097-220300
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOWNTOWN SHV   CLEAR     76  53  44 S10       29.92R                  
+BOSSIER CITY   CLEAR     72  52  50 S9        29.92R                  
+RUSTON         CLEAR     68  54  60 S8        29.98S                  
+LITTLE ROCK    CLEAR     63  48  58 S9        29.89R                  
+EL DORADO      CLEAR     62  56  80 SE5       29.92R                  
+JACKSON        CLEAR     64  52  64 S8        30.01R                  
+NEW ORLEANS    CLEAR     66  55  67 SE10      30.08S                  
+HOUSTON        CLEAR     73  58  59 S9        30.00R                  
+LUFKIN         CLEAR     72  59  63 S12       29.96R                  
+TYLER          CLEAR     71  52  50 S10       29.89R                  
+DAL FT WORTH   CLEAR     79  48  33 S16G26    29.81R                  
+$$
+
+
+!TXZ136-TXZ165-220300
+TYLER...LUFKIN RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TYLER          CLEAR     71  52  50 S10       29.89R                  
+GILMER         CLEAR     71  51  48 SE3       29.89R                  
+LONGVIEW       CLEAR     70  53  54 S10       29.90R                  
+LUFKIN         CLEAR     72  59  63 S12       29.96R                  
+$$
+
+!TXZ136-TXZ165-220300
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NACOGDOCHES    CLEAR     72  55  55 S8        29.96R                  
+BEAUMONT       CLEAR     67  59  75 S8        30.02R                  
+HOUSTON        CLEAR     73  58  59 S9        30.00R                  
+COLLEGE STN    CLEAR     74  55  51 S13       29.94R                  
+AUSTIN         CLEAR     71  49  45 S8        29.93R                  
+DAL FT WORTH   CLEAR     79  48  33 S16G26    29.81R                  
+TEXARKANA      CLEAR     74  51  44 S9        29.88R                  
+SHREVEPORT     CLEAR     72  54  53 S8        29.92R                  
+FORT POLK      CLEAR     69  59  70 S10       30.00R                  
+LAKE CHARLES   CLEAR     65  58  78 S7        30.03R                  
+$$
+  

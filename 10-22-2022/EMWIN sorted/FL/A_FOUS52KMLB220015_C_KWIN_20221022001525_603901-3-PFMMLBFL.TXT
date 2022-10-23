@@ -1,0 +1,277 @@
+FOUS52 KMLB 220015
+PFMMLB
+
+Point Forecast Matrices
+National Weather Service Melbourne FL
+815 PM EDT Fri Oct 21 2022
+
+FLZ141-220900-
+Daytona Beach-Volusia FL
+29.18N  81.05W Elev. 35 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      61          79          65          80          66
+Temp                64 62 61 63 77 79 76 69 68 66 65 67 77 80 77 71 69 66 66 66
+Dewpt               55 55 55 56 60 61 61 62 63 63 63 63 64 63 64 64 64 64 63 65
+RH                  73 78 81 78 56 54 60 78 84 90 93 87 64 56 64 79 84 93 90 97
+Wind dir             N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             6  6  5  6 13 16 16 11  9  8  8  9 14 14 14 11  8  6  6  6
+Clouds              FW FW FW FW FW FW FW SC FW SC FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      5          10          10          10           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          81      67    83      66    84      66    84      66    83
+Temp          81 73   69 68 83 75   68 66 84 75   69 66 84 75   67 66 83 74
+Dewpt         65 66   67 67 66 67   66 65 65 67   66 66 66 67   66 65 65 66
+PWind dir         N      NE    NE      NE    NE       W    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC FW FW FW   FW SC FW FW   SC FW FW FW   FW FW FW FW
+PoP 12hr         10       5    10      10    10      10    20      10    10
+Rain shwrs                                               S  S              
+
+$$
+FLZ044-220900-
+Leesburg-Lake FL
+28.82N  81.81W Elev. 77 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          81          61          82          62
+Temp                61 58 56 57 73 81 80 70 65 64 61 61 75 82 81 72 67 65 62 63
+Dewpt               51 50 50 51 56 58 58 60 60 61 61 60 62 62 61 62 62 62 62 62
+RH                  70 75 80 80 55 46 47 71 84 90100 97 64 51 51 71 84 90100 97
+Wind dir             N  N  N  N  N  N NE  N  N  N  N  N  N  N NE NE  N  N  N  N
+Wind spd             6  5  5  6 10 10 11  9  8  5  6  6 10 10 10  8  5  4  4  5
+Clouds              CL CL CL CL CL FW CL CL FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           5           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      64    85      65    86      66    85      65    85
+Temp          84 73   67 64 85 75   66 65 86 77   70 66 85 75   68 65 85 74
+Dewpt         63 65   65 64 65 66   66 65 64 65   66 66 65 66   67 65 63 64
+PWind dir        NE      NE    NE       E     W      NW     N      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          5       0     5       5    10       5    10       5    10
+
+$$
+FLZ046-220900-
+Sanford-Seminole FL
+28.78N  81.24W Elev. 55 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          80          63          82          65
+Temp                62 60 59 60 74 80 77 67 64 63 63 63 75 82 80 71 69 66 65 66
+Dewpt               53 54 53 55 60 60 60 61 62 62 62 63 64 62 62 63 64 63 63 64
+RH                  72 81 80 84 62 51 56 81 93 97 97100 69 51 54 76 84 90 93 93
+Wind dir             N  N NW NW  N  N  N  N  N  N NW  N  N  N  N  N  N  N  N  N
+Wind spd             8  6  8  8 10 12 13 10  8  6  6  8 11 12 13  9  6  5  6  5
+Clouds              CL FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      5           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          83      66    85      66    85      66    85      65    85
+Temp          83 73   67 67 85 74   68 66 85 73   68 66 85 73   67 65 85 74
+Dewpt         64 65   66 66 65 66   66 66 65 67   66 66 66 67   67 65 64 65
+PWind dir        NE       N    NE      NE    NW      NW    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   SC FW FW FW   FW FW FW FW
+PoP 12hr          5       5    10       5    10      10    10       5    10
+
+$$
+FLZ045-220900-
+Orlando International-Orange FL
+28.43N  81.32W Elev. 96 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      60          82          64          84          65
+Temp                64 62 61 61 76 82 80 70 66 65 64 65 78 84 81 73 69 66 65 66
+Dewpt               52 53 53 54 58 59 58 60 62 62 61 62 64 62 62 62 64 63 63 64
+RH                  65 72 75 78 54 46 47 71 87 90 90 90 62 48 53 68 84 90 93 93
+Wind dir             N  N  N  N  N  N  N  N  N  N  N NW  N  N NE  N  N  N  N  N
+Wind spd             9  8  8  9 11 10 13 10  9  6  6  8 11 10 13 11  8  5  5  6
+Clouds              CL CL FW CL CL FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          85      66    87      67    87      67    86      67    87
+Temp          85 73   67 66 87 75   69 68 87 76   69 68 86 75   68 67 87 76
+Dewpt         63 65   66 66 65 66   66 66 64 65   65 66 65 66   67 66 65 65
+PWind dir        NE       N    NE      NE    NW       N     N      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW SC   FW FW FW FW   SC FW FW FW   FW FW FW FW
+PoP 12hr          5       5    10       5    10      10    10       5    10
+
+$$
+FLZ045-220900-
+Orlando Executive-Orange FL
+28.55N  81.33W Elev. 113 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      60          81          64          83          66
+Temp                65 62 61 61 74 81 77 69 66 65 64 64 76 83 80 73 70 67 66 67
+Dewpt               52 52 53 54 58 59 59 60 61 61 61 62 64 62 62 62 63 62 63 64
+RH                  63 70 75 78 57 47 54 73 84 87 90 93 66 49 54 68 78 84 90 90
+Wind dir             N  N  N  N  N  N  N  N  N  N  N  N  N  N NE  N  N  N  N  N
+Wind spd             8  6  5  6 10 11 13 10  6  5  5  6 11 11 12 10  5  5  5  6
+Clouds              CL CL CL CL CL FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      67    86      67    87      68    86      68    86
+Temp          84 74   69 67 86 76   70 67 87 76   70 68 86 76   70 68 86 75
+Dewpt         64 65   65 66 66 66   65 65 65 65   65 66 66 66   66 66 65 65
+PWind dir        NE       N    NE      NE    NW       N     N       N    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW SC   FW FW FW FW   SC FW FW FW   FW FW FW FW
+PoP 12hr          5       5    10       5    10      10    10       5    10
+
+$$
+FLZ647-220900-
+Melbourne-Brevard FL
+28.10N  80.64W Elev. 33 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          81          65          82          68
+Temp                69 67 64 64 79 81 80 74 69 68 65 65 78 82 79 74 72 69 68 68
+Dewpt               60 59 59 59 63 63 63 64 64 64 64 65 67 67 67 66 67 66 66 67
+RH                  73 75 84 84 58 54 56 71 84 87 97100 69 61 67 76 84 90 93 97
+Wind dir             N  N  N NW  N  N  N  N  N  N NW NW  N  N  N  N  N  N  N  N
+Wind spd            10 10  9  9 12 14 16 13 10  8  6  8 12 16 16 12 10  8  6  6
+Clouds              SC SC FW FW FW FW FW FW FW FW FW FW FW SC FW FW FW FW FW FW
+PoP 12hr                     10          10           5          10           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          83      68    83      68    83      68    84      68    84
+Temp          83 76   71 69 83 77   71 68 83 76   71 68 84 77   71 68 84 76
+Dewpt         68 67   67 67 69 69   67 67 67 68   68 67 68 68   67 67 68 68
+PWind dir        NE       N    NE       E    NE      SW    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    FW FW   FW FW FW SC   SC FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr         10      10    10      10    10      10    20      10    10
+Rain shwrs                                               S  S              
+
+$$
+FLZ154-220900-
+Vero Beach-Indian River FL
+27.65N  80.42W Elev. 24 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      63          82          64          83          67
+Temp                68 66 64 65 79 82 79 73 69 67 64 65 79 83 81 74 72 69 67 68
+Dewpt               63 62 62 62 65 65 65 65 65 65 64 65 69 69 69 69 68 68 67 68
+RH                  84 87 93 90 62 56 62 76 87 93100100 72 63 67 84 87 97100100
+Wind dir             N  N  N NW  N  N  N  N  N NW NW NW  N  N  N  N  N  N  N  N
+Wind spd             9  6  8  8 12 14 14 10  6  5  5  5 11 14 14  9  6  5  5  4
+Clouds              SC SC FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                     20          10           5          10          10
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                     
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      67    85      67    85      66    85      67    85
+Temp          84 74   69 67 85 75   69 67 85 75   70 66 85 75   71 67 85 75
+Dewpt         70 70   69 67 71 70   69 67 69 70   69 66 70 70   69 67 70 70
+PWind dir        NE      NE    NE      SE     N       W    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr         10      10    20      10    20      10    20      10    20
+Rain shwrs                   S  S          S  S          S  S          S  S
+
+$$
+FLZ159-220900-
+Fort Pierce-Saint Lucie FL
+27.50N  80.37W Elev. 26 ft
+815 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          81          64          82          66
+Temp                68 65 64 64 78 81 79 73 69 66 64 65 78 82 79 74 70 67 66 66
+Dewpt               62 62 61 62 63 63 63 64 64 64 64 65 67 67 67 67 67 67 66 66
+RH                  81 90 90 93 60 54 58 73 84 93100100 69 61 67 79 90100100100
+Wind dir             N  N  N NW  N  N  N  N  N NW NW NW  N  N  N  N  N  N  N  N
+Wind spd             6  6  6  5 10 12 12  6  5  4  4  4  9 11 11  6  5  3  3  2
+Clouds              SC SC FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                     20          10           5          10          10
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                     
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      66    84      66    84      66    84      67    85
+Temp          84 75   69 67 84 76   68 66 84 76   68 67 84 75   69 67 85 75
+Dewpt         68 68   67 67 69 69   67 66 67 68   67 67 68 68   67 67 68 68
+PWind dir        NE      NE    NE      SE     N      NW    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr         10      10    20      10    20      10    20      10    20
+Rain shwrs                   S  S          S  S          S  S          S  S
+
+$$

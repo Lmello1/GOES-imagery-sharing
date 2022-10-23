@@ -1,0 +1,752 @@
+FOUS55 KLKN 220047
+PFMLKN
+
+Point Forecast Matrices
+National Weather Service Elko NV
+547 PM PDT Fri Oct 21 2022
+
+NVZ030-221600-
+Winnemucca-Humboldt NV
+40.89N 117.79W Elev. 4308 ft
+547 PM PDT Fri Oct 21 2022
+
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          58          25          49          20
+Temp             75 61 57 54 50 48 50 51 47 38 33 30 29 31 41 46 47 35 30 27 24
+Dewpt            19 21 25 28 34 34 31 26 21 20 22 22 23 24 25 22 21 20 21 19 19
+RH               12 21 29 36 54 58 48 37 35 48 63 72 78 75 52 38 35 54 69 71 81
+Wind dir         SW SW SW SW  W  W  W NW NW NW NW NW  W NW NW NW  N  N NW  W  W
+Wind spd         20 17 18 19 21 16 23 21 20 12  9  8  8  8 18 17 17  8  5  4  3
+Wind gust        33 27 29 31 35 26 36 35 33                29 27 27            
+Clouds           B1 B2 OV OV OV OV SC B2 B1 B1 SC B1 B1 B1 SC SC FW FW FW FW FW
+PoP 12hr                     50          90          30           5           0
+QPF 12hr                   0.09        0.22           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                       S  D  C     S  C  C                                 
+Snow                                         C  S  S                           
+Wind chill                                           22 24                   18
+Min chill                                      30    21    22          26    18
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      27    59      31    55      20    52      19    56
+Temp          44 53 38   33 51 58 40   35 46 49 31   24 42 50 30   23 47 56
+Dewpt         23 20 23   25 30 30 31   29 31 27 26   23 27 23 23   20 26 23
+PWind dir        SW      SW     S      SW    SW       W    NW      SE     S
+Wind char        LT      LT    LT      GN    GN      GN    LT      LT    LT
+Avg clouds    FW FW SC   B1 B1 SC SC   B1 B2 B1 B1   SC SC SC FW   FW SC SC
+PoP 12hr          0      10    20      30    40      10     0       0     5
+Rain shwrs                      S  S    C  C  C                            
+
+$$
+NVZ030-221600-
+McDermitt-Humboldt NV
+41.95N 117.72W Elev. 4257 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      35          51          22          44          17
+Temp             69 60 55 48 42 39 46 45 44 37 33 29 26 27 38 43 43 35 30 23 20
+Dewpt            25 29 34 38 36 29 27 25 21 21 23 22 22 22 23 21 20 23 22 19 18
+RH               19 31 45 68 79 67 47 45 39 52 66 75 85 81 54 41 39 61 72 84 92
+Wind dir         SW  W SW SW NW  W NW NW NW  N NW NW NW NW NW  N  N  N  N NW  W
+Wind spd         20 14 17 17 18 16 21 23 21 12  9  8  8  9 17 18 19 12  5  3  2
+Wind gust        33    27 27 29 26 35 36 34                27 29 31            
+Clouds           OV OV OV OV B2 B1 B1 B1 B1 B1 B1 B1 B2 B2 B1 SC SC FW FW FW FW
+PoP 12hr                    100          70          40           5           0
+QPF 12hr                   0.16        0.12           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 S  C  D  L  C  C  C  C                                    
+Snow                                      C  C  C  C                           
+Wind chill                   36 33          31 26 22 16 19          29 24      
+Min chill                    36    33          26    16    15    36    24    15
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          51      25    53      27    49      20    46      20    50
+Temp          42 49 38   31 48 51 37   30 43 43 30   21 39 45 30   23 44 50
+Dewpt         21 20 24   24 28 30 29   27 28 25 25   21 25 22 22   18 24 23
+PWind dir        SW      SW    SW      SW    SW      NW    NW       W     S
+Wind char        LT      GN    LT      GN    GN      GN    LT      LT    LT
+Avg clouds    FW SC B1   B2 B2 B1 B1   B2 B2 B2 B1   B1 B1 SC FW   SC SC SC
+PoP 12hr          5      30    20      40    50      10     0       5     5
+Rain shwrs           C    S  S  S  C    C  C  C                            
+Snowshwrs                    S             C  C                            
+
+$$
+NVZ031-221600-
+Wildhorse-Elko NV
+41.64N 115.80W Elev. 6226 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      33          45          21          34          14
+Temp             62 53 50 46 41 37 38 39 36 30 25 24 22 24 30 33 33 27 23 20 17
+Dewpt            15 17 24 31 35 32 29 27 24 24 21 21 21 20 21 22 21 21 19 17 15
+RH               16 24 36 55 79 82 70 62 61 78 84 88 96 84 69 63 61 78 84 88 92
+Wind dir          W SW SW SW SW NW NW  W NW NW NW NW NW NW NW NW NW NW NW NW NW
+Wind spd         19 16 14 17 18 17 19 20 19 14 13 13 13 14 20 21 20 13  5  3  3
+Wind gust        32 26    27 29 28 32 33 31                33 34 33            
+Clouds           B1 B2 B2 OV OV OV B1 B1 B1 B1 B2 B2 B2 OV B2 B2 B1 SC SC SC SC
+PoP 12hr                     80         100          60          40           0
+QPF 12hr                   0.25        0.37        0.09        0.04           0
+Snow 12hr                 00-00       00-00           1                        
+Rain                       C  D  L                                             
+Snow                             L  S  C  C  C  L  L  C  C  S  S               
+Wind chill                39 35 31 29 29 28 22 17 17 12 13 20 24 24 17 15      
+Min chill                    35    29    28    17    12    12    21    15    13
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+Winter Weath                           Y  Y  Y  Y  Y  Y  Y                     
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          40      15    43      16    40      10    37       9    43
+Temp          33 38 30   28 39 41 30   29 34 34 25   20 31 35 22   19 36 41
+Dewpt         19 20 21   22 25 26 25   24 25 22 23   18 22 20 16   13 21 20
+PWind dir         W      SW    SW      SW    SW      NW    NW       W    SW
+Wind char        LT      LT    LT      GN    GN      GN    LT      LT    LT
+Avg clouds    SC FW B1   B1 B2 B1 B1   B1 B2 B2 B2   B2 B2 SC SC   SC SC SC
+PoP 12hr          5      40    30      40    70      30     5       5     5
+Rain shwrs           C          C  S    C                                  
+Snowshwrs            C    C  C  C  S    C  L  L  C                         
+
+$$
+NVZ031-221600-
+Jackpot-Elko NV
+41.94N 114.72W Elev. 5290 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      38          50          25          39          20
+Temp             65 56 53 51 46 40 42 42 39 33 31 30 27 27 33 36 35 31 30 27 23
+Dewpt            19 20 22 30 37 35 31 27 27 27 25 24 24 24 24 23 23 24 22 21 20
+RH               17 24 29 44 71 82 65 55 62 78 78 78 88 88 69 59 61 75 72 78 88
+Wind dir          W SW SW SW SW NW NW NW NW NW NW NW NW NW NW NW NW NW NW  W  W
+Wind spd         17 13 12 14 19 18 19 19 18 17 16 16 17 19 23 24 21 17 10  6  5
+Wind gust        27          32 29 32 32 29 27       27 31 36 39 34 27         
+Clouds           B1 OV OV OV OV OV B2 B2 B1 B1 B1 B2 B2 OV B1 B1 SC SC SC FW FW
+PoP 12hr                     70         100          40          40           5
+QPF 12hr                   0.08        0.27        0.05        0.05           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                       C  D  L  S  S                                       
+Snow                                   S  C  C  C  C  C  C  S  S               
+Wind chill                      33 35 34 32 26 25 21 16 14 23 28 27 22 21 18 14
+Min chill                          33    32    25    16    13    26    20    14
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+Winter Weath                           Y  Y  Y  Y  Y  Y  Y                     
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          44      25    48      27    46      22    40      19    46
+Temp          37 41 35   32 41 45 35   31 38 36 30   24 35 37 27   23 39 43
+Dewpt         21 19 22   25 28 28 27   26 27 25 25   22 24 23 19   17 22 23
+PWind dir         W      SW    SW      SW    SW       W     W       W    SW
+Wind char        LT      GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW B1   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 SC SC   SC SC SC
+PoP 12hr          5      30    20      40    50      20     5       0     5
+Rain shwrs           C    C  S  S  S    C  C                               
+Snowshwrs            C    C  S  S       C  C  C  S                         
+
+$$
+NVZ038-221600-
+Elko-Elko NV
+40.83N 115.79W Elev. 5050 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          57          25          43          18
+Temp             70 59 55 53 51 44 42 46 45 38 33 30 28 27 35 39 41 34 30 26 22
+Dewpt            17 17 20 25 28 35 36 31 28 27 23 22 22 21 23 22 21 21 20 19 18
+RH               13 19 25 33 41 70 79 55 51 64 66 72 78 78 61 50 44 58 66 74 84
+Wind dir          W SW SW SW SW  W  W  W NW NW  W  W  W  W NW NW NW NW NW  W NW
+Wind spd         17 14 14 16 19 17 14 19 14 11  8  8  8 11 17 19 17  9  3  2  2
+Wind gust        27       26 32 28    29                   27 31 27            
+Clouds           FW B1 B2 B2 OV OV OV B2 B1 B1 B1 B1 B2 B2 B2 B1 B1 SC FW FW FW
+PoP 12hr                     20          90          50          20           0
+QPF 12hr                   0.01        0.32        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          C  D  L  C  C                                    
+Snow                                         C  C  C  S  S                     
+Wind chill                      36       39             21 29    35            
+Min chill                          36    39    30    23    21    31    25    18
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          49      27    55      30    51      23    46      19    51
+Temp          36 47 35   32 44 51 38   33 40 43 31   24 34 42 28   21 37 49
+Dewpt         22 18 19   23 28 28 29   27 30 26 25   21 26 22 20   16 22 21
+PWind dir         W      SW    SW      SW    SW       W    NW      SW     S
+Wind char        LT      LT    LT      LT    GN      GN    LT      LT    LT
+Avg clouds    SC FW SC   B1 B2 B1 B1   B1 B2 B2 B1   B1 B1 SC FW   FW SC SC
+PoP 12hr          0      20    20      20    50      20     5       0     0
+Rain shwrs                S     S  S    S  C  C  S                         
+Snowshwrs                 S                C  C  S                         
+
+$$
+NVZ038-221600-
+Spring Creek-Elko NV
+40.73N 115.64W Elev. 5500 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          54          22          39          17
+Temp             68 55 52 51 48 43 41 43 42 35 30 27 25 25 33 37 38 31 27 23 19
+Dewpt            17 17 19 24 27 34 38 33 29 27 25 22 21 21 24 22 22 21 20 19 17
+RH               14 22 27 34 44 70 89 67 60 72 81 81 84 84 69 54 52 66 74 84 92
+Wind dir          W SW SW SW SW  W  W  W NW NW  W  W  W  W NW NW NW NW NW  W  W
+Wind spd         18 14 18 18 21 19 16 18 14 11  9 10 11 12 17 18 17  9  5  3  3
+Wind gust        28    29 29 35 32    28                   27 29 27            
+Clouds           FW SC B2 OV OV OV OV B1 B1 B1 B1 B1 B2 B2 B2 B1 B1 SC SC FW SC
+PoP 12hr                     20          90          50          20           0
+QPF 12hr                      0        0.38        0.08           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                          C  D  L  C  C                                    
+Snow                                      C  C  C  C  S  S                     
+Wind chill                   39 35          29       18 18 27          20 17 13
+Min chill                    39    35    36    27    18    17    31    20    13
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          46      26    52      28    48      21    44      18    49
+Temp          35 44 32   29 43 49 35   30 38 41 28   21 33 40 25   19 37 47
+Dewpt         23 19 20   23 29 30 30   26 29 27 25   20 26 22 19   16 24 22
+PWind dir         W      SW    SW      SW    SW       W    NW      SW     S
+Wind char        LT      LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    SC FW SC   B1 B2 B1 B1   B1 B2 B2 B1   B2 B1 SC FW   FW SC SC
+PoP 12hr          0      20    20      20    40      20     5       0     0
+Rain shwrs                S     S  S    S  C  C  S                         
+Snowshwrs                 S                C  C  S                         
+
+$$
+NVZ038-221600-
+Carlin-Elko NV
+40.71N 116.11W Elev. 5000 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          55          25          43          17
+Temp             70 59 56 54 50 42 44 47 45 38 34 30 27 25 35 41 42 35 31 25 21
+Dewpt            15 17 21 26 28 37 35 30 25 25 23 22 22 21 23 21 20 21 20 20 19
+RH               12 19 25 34 42 82 70 51 45 59 64 72 81 84 61 44 41 56 63 81 92
+Wind dir          W SW SW SW SW  W  W  W NW NW  W  W  W  W NW NW NW NW NW NW NW
+Wind spd         17 12 14 13 16 17 14 18 13  9  6  6  8  8 14 16 16  8  2  2  2
+Wind gust        27          26 28    28                                       
+Clouds           FW B1 B1 OV OV OV B2 B1 B1 B1 B1 B1 B1 B2 B2 B1 SC SC FW FW FW
+PoP 12hr                     30          90          50          20           0
+QPF 12hr                   0.02        0.33        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          C  D  L  C  C                                    
+Snow                                         C  C  C  S  S                     
+Wind chill                      33                      18 29                  
+Min chill                          33          30    22    18    33    28    23
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          49      27    54      28    50      22    45      18    51
+Temp          36 48 35   30 43 52 37   32 40 44 32   24 35 43 27   20 37 51
+Dewpt         21 16 20   23 27 28 29   28 28 25 26   24 24 21 20   18 21 21
+PWind dir         W      SW     S      SW    SW       W    NW       W     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW SC   B1 B2 B1 B1   B1 B2 B2 B1   B1 B1 SC FW   FW SC SC
+PoP 12hr          0      20    20      20    40      20     5       0     0
+Rain shwrs                S     S  S    S  C  C  S                         
+Snowshwrs                 S                C  C  S                         
+
+$$
+NVZ039-221600-
+Wells-Elko NV
+41.10N 114.97W Elev. 5700 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      34          53          20          40          15
+Temp             67 54 52 48 46 43 42 44 42 33 30 26 24 27 34 38 39 29 26 22 20
+Dewpt            13 16 18 22 27 34 34 30 26 25 22 20 19 20 21 20 19 21 19 18 16
+RH               12 22 26 35 47 70 73 57 53 72 72 78 81 74 58 48 44 72 74 84 84
+Wind dir          W SW SW SW  W  W  W  W NW  W  W  W  W  W NW NW NW NW NW  W NW
+Wind spd         17 14 17 17 20 19 19 19 16 16 13 13 14 14 20 20 17 12  6  5  6
+Wind gust        27    27 27 33 32 32 29                   33 33 27            
+Clouds           FW B1 B2 OV OV OV OV B2 B2 B1 B1 B1 B1 B2 B1 B1 B1 SC FW FW SC
+PoP 12hr                     30          90          50          30           0
+QPF 12hr                   0.01        0.39        0.02           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          C  D  L  C  C                                    
+Snow                                      C  C  C  C  C  C  S  S               
+Wind chill                   35 36    36    26 22 18 14 19 26 32 32 21 17 15 11
+Min chill                    35    35    36    22    14    15    29    17    11
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          47      23    52      25    48      18    44      16    49
+Temp          36 45 31   28 43 49 33   30 39 41 27   21 35 40 25   20 38 45
+Dewpt         21 16 19   21 27 25 27   24 28 23 23   18 24 19 18   14 21 19
+PWind dir         W       W    SW      SW    SW       W    NW       W    SW
+Wind char        GN      GN    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    SC FW SC   B1 B2 SC B1   B1 B2 B1 B2   B1 B1 SC SC   FW SC FW
+PoP 12hr          0      20    20      30    50      30     5       0     0
+Rain shwrs           S          S  S    C  C  C                            
+Snowshwrs            S    S  S  S       C  C  C  C                         
+
+$$
+NVZ033-221600-
+West Wendover-Elko NV
+40.73N 114.08W Elev. 4240 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          60          37          49          32
+Temp             72 62 59 58 58 55 54 52 50 45 43 41 39 40 43 46 45 41 40 38 35
+Dewpt            17 18 19 22 26 31 33 33 31 31 28 26 25 25 21 21 21 22 22 22 22
+RH               12 18 21 25 29 40 45 48 48 58 55 55 57 55 41 37 38 46 48 52 59
+Wind dir          W  W SW SW SW SW NW NW SW NW NW NW NW NW NW NW NW NW NW NW NW
+Wind spd         13 14 12 14 16 18 21 20 11 14 13 13 13 17 21 21 18 17 11  9  8
+Wind gust                    26 29 35 33                27 34 34 29 27         
+Clouds           CL SC B2 OV OV OV OV OV B2 B2 B2 B1 B1 B1 B1 B1 B1 SC SC FW FW
+PoP 12hr                      5          80          50          20           5
+QPF 12hr                      0        0.15        0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                             C  D  L  C  C  S  S           S               
+Snow                                            S  S        S  S               
+Wind chill                                           33 33                     
+Min chill                                            33    32          35    31
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      33    56      35    57      36    52      29    52
+Temp          43 51 41   38 47 53 44   40 47 49 41   36 43 47 38   33 42 49
+Dewpt         21 18 22   25 26 27 30   30 28 26 25   24 24 21 22   22 24 24
+PWind dir        NW       W     S       W     W      NW    NW      NW    NW
+Wind char        GN      LT    LT      LT    LT      GN    GN      LT    LT
+Avg clouds    FW FW FW   SC B2 SC SC   B1 B2 B1 B2   B1 B1 SC FW   FW SC FW
+PoP 12hr          0       5    10      20    30      20     5       0     0
+Rain shwrs                         S    S  C  C  S                         
+
+$$
+NVZ034-221600-
+Lamoille Canyon-Elko NV
+40.66N 115.43W Elev. 7800 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      31          41          17          26          14
+Temp             50 43 41 44 42 35 33 32 24 21 18 21 20 19 24 24 20 17 17 20 19
+Dewpt            13 10 13 17 20 27 29 27 24 20 16 13 13 14 17 18 19 16 14 10  9
+RH               22 25 31 33 41 72 85 81100 96 92 71 74 80 74 77 96 96 88 64 64
+Wind dir          W  W  W  W  W  W  W  W  W NW NW  W  W  W NW NW NW NW NW  W  W
+Wind spd         23 23 26 27 31 32 25 21 20 19 17 17 18 18 21 21 20 14 10  9  5
+Wind gust        37 36 41 43 50 52 40 35 33 31 27 27 29 29 34 34 33            
+Clouds           FW B1 B1 B2 B2 OV OV B2 B2 B2 B2 B2 B2 OV B2 B2 B1 SC SC SC SC
+PoP 12hr                     20         100          70          50           5
+QPF 12hr                   0.01        0.82        0.21        0.08           0
+Snow 12hr                 00-00           3           3                        
+Snow                          C  D  D  C  L  L  C  C  C  C  C  C               
+Obvis                              BS                                          
+Wind chill          35 32 36 35 25 26 22 15 12 12        9 15 17  9  9  8 12 13
+Min chill              32    33    25    15    12    14     9     9     7     9
+Winter Weath                           Y  Y  Y  Y  Y  Y  Y                     
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          34      22    40      27    36      19    31      18    38
+Temp          28 25 24   30 35 30 27   31 31 23 19   22 26 23 17   21 31 30
+Dewpt         17 17 12   15 25 25 21   19 23 21 17   13 18 18  9    5 16 19
+PWind dir         W      SW    SW      SW    SW       W     W       W    SW
+Wind char        GN      GN    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    SC FW FW   B1 B2 SC B1   B1 B2 B2 B2   B1 B2 SC SC   FW SC SC
+PoP 12hr          0      30    20      30    60      40    10       0     5
+Snowshwrs                 C  S  S  S    C  C  L  C    S                    
+
+$$
+NVZ035-221600-
+Ely-White Pine NV
+39.29N 114.85W Elev. 6262 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      35          57          17          39          13
+Temp             66 51 43 41 40 43 53 50 42 35 28 23 19 21 33 36 36 28 23 20 16
+Dewpt            12 12 14 19 22 27 30 34 33 31 25 21 19 18 19 17 18 19 18 17 16
+RH               12 20 30 41 48 53 41 54 70 85 88 92100 88 56 45 47 68 81 88100
+Wind dir         SW  S  S  S  S  S SW  W  N NW  N NW NW NW NW NW NW NW NW  N  N
+Wind spd         16 14 16 16 19 19 21 20 13 12 13 13 14 13 17 18 18 13 10  9 11
+Wind gust              26 26 32 32 35 33                   27 29 29            
+Clouds           CL FW FW SC B2 OV B1 OV OV B2 B2 B1 B1 B1 B1 B1 B1 SC SC FW FW
+PoP 12hr                      0          80          80          10           5
+QPF 12hr                      0        0.22        0.20           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                                S  D  D  D                                 
+Snow                                         D  C  C                           
+Wind chill             37 33 29 33             22    13                16     9
+Min chill              37    29    29          22    13    13    30    16     9
+Wind              Y  Y  Y  Y  Y  Y  Y  Y                                       
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          46      18    55      22    53      17    45      14    52
+Temp          36 44 26   22 45 52 32   24 44 44 27   19 35 40 22   15 41 48
+Dewpt         18 13 15   15 24 24 27   22 23 21 22   19 21 16 16   13 17 15
+PWind dir         N       W    SW      SW    SW      NW     N       N     S
+Wind char        GN      LT    LT      GN    GN      GN    GN      LT    LT
+Avg clouds    FW CL FW   FW B1 SC SC   SC B1 B1 B1   B1 B1 SC FW   FW FW FW
+PoP 12hr          0       0     5      10    20      30     5       0     0
+Rain shwrs                                    S  C                         
+Snowshwrs                                     S  C    S                    
+
+$$
+NVZ035-221600-
+Ruth-White Pine NV
+39.16N 114.99W Elev. 6850 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          52          18          34          15
+Temp             61 48 43 41 40 43 50 45 37 31 27 23 21 23 31 32 31 25 22 20 18
+Dewpt            11 13 14 19 22 27 30 33 33 29 24 20 17 17 18 17 17 18 17 17 15
+RH               14 24 30 41 48 53 46 62 85 92 88 88 84 77 58 53 56 74 81 88 88
+Wind dir         SW  S  S  S  S  S SW  W NW NW NW NW NW NW NW NW NW NW  N  N  N
+Wind spd         16 13 14 13 14 16 24 21 13 11 12 11  9  9 19 20 20 13  8  5  5
+Wind gust        26             26 39 35                   31 33 33            
+Clouds           CL FW FW SC B2 OV B1 OV OV B2 B1 B1 B1 B1 B1 B1 B1 SC SC FW FW
+PoP 12hr                      0          90          80          10           0
+QPF 12hr                      0        0.21        0.19           0           0
+Snow 12hr                 00-00       00-00           2                        
+Rain                                C  D  D                                    
+Snow                                      D  D  C  C                           
+Wind chill                35 32 37                         23                  
+Min chill              38    32    33    36    24    17    17    26    17    12
+Wind              Y  Y  Y  Y  Y  Y  Y  Y                                       
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          43      21    52      25    49      20    41      16    49
+Temp          33 40 27   25 43 48 33   27 42 40 27   21 32 37 22   18 38 44
+Dewpt         17 14 13   14 24 24 26   21 23 21 23   19 21 17 16   13 16 15
+PWind dir         N       W    SW      SW    SW      NW     N       N    SE
+Wind char        LT      LT    LT      LT    GN      GN    GN      LT    LT
+Avg clouds    FW CL FW   FW B1 SC B1   SC B1 B1 B1   B1 B1 SC FW   FW FW FW
+PoP 12hr          0       5     5      10    20      30     5       0     0
+Rain shwrs                                    S                            
+Snowshwrs                                     S  C    S                    
+
+$$
+NVZ035-221600-
+McGill-White Pine NV
+39.24N 114.77W Elev. 6270 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          57          21          38          17
+Temp             65 53 47 45 44 42 53 48 40 35 30 26 23 22 33 36 35 29 25 23 21
+Dewpt            11 12 14 18 21 25 29 34 33 30 24 20 17 16 19 18 18 18 18 17 15
+RH               12 19 26 33 39 50 39 58 76 82 78 78 77 77 56 47 49 63 74 77 77
+Wind dir         SW  S  S  S  S  S SW  W NW NW NW NW  W  W NW NW NW NW NW NW NW
+Wind spd         16 17 17 18 19 19 24 20 13 14 13 13 13 13 17 19 19 16 10  9  9
+Wind gust        26 27 27 29 32 32 39 33                   27 31 31            
+Clouds           CL FW FW SC B2 OV B2 OV OV B2 B2 B1 B1 B1 B1 B2 B1 SC SC FW FW
+PoP 12hr                      0          90          80          20           5
+QPF 12hr                      0        0.25        0.21           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                                C  D  D  D                                 
+Snow                                         D  C  C  S  S  S  S               
+Wind chill                38 36 36                      16             19 16 14
+Min chill                    36    35          26    19    16    30    19    14
+Wind              Y  Y  Y  Y  Y  Y  Y  Y                                       
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          47      23    55      28    53      22    45      19    52
+Temp          35 43 31   27 45 51 36   31 44 44 30   24 35 40 25   21 41 48
+Dewpt         18 14 15   13 24 24 26   22 23 22 22   18 21 18 15   12 17 16
+PWind dir        NW      SW    SW      SW    SW       W     N      NE     S
+Wind char        GN      LT    LT      GN    GN      GN    GN      GN    LT
+Avg clouds    FW CL FW   SC B1 SC B1   SC B1 B1 B2   B1 B1 SC SC   FW SC FW
+PoP 12hr          0       5     5      10    20      30     5       0     0
+Rain shwrs                                    S  C                         
+Snowshwrs                                     S  C    S                    
+
+$$
+NVZ035-221600-
+Great Basin National Park-White Pine NV
+39.01N 114.23W Elev. 6830 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          53          26          33          25
+Temp             60 53 50 48 47 47 51 49 42 35 32 30 27 28 30 32 31 27 27 27 27
+Dewpt            14 13 14 19 21 24 29 32 34 29 23 18 13 13 15 16 16 17 15 14 13
+RH               16 20 23 31 35 40 42 52 73 78 69 60 55 53 53 51 53 65 60 57 55
+Wind dir          W SW SW  W SW SW SW SW  W NW NW NW NW NW NW NW NW NW NW NW NW
+Wind spd         13 14 17 17 17 16 20 20 11 12 13 13 13 11 12 12 11 11  9  9  6
+Wind gust              27 27 28 26 33 33                                       
+Clouds           CL FW CL SC B1 B2 B1 B2 OV OV B2 B1 B1 B1 B1 B1 B1 SC FW FW FW
+PoP 12hr                      0          70          90          30           5
+QPF 12hr                      0        0.27        0.35        0.02           0
+Snow 12hr                 00-00       00-00           1                        
+Rain                                   C  D                                    
+Snow                                         D  C  C  S  S  C  C               
+Wind              Y  Y  Y  Y  Y  Y  Y  Y                                       
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          40      31    49      33    48      28    39      26    44
+Temp          33 37 32   33 42 46 36   35 42 40 32   29 31 34 27   27 35 40
+Dewpt         17 15 14   12 23 25 21   18 22 21 20   16 20 19 14   10 16 16
+PWind dir         N       W    SW      SW    SW       W     N      NW     W
+Wind char        LT      LT    LT      LT    GN      GN    GN      LT    LT
+Avg clouds    FW FW FW   FW SC SC SC   SC SC B1 B1   B1 B1 SC FW   FW FW FW
+PoP 12hr          0       0     5      10    20      30    10       0     0
+Snowshwrs                                     S  C    C                    
+
+$$
+NVZ036-221600-
+Battle Mountain-Lander NV
+40.61N 116.89W Elev. 4540 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          59          26          46          18
+Temp             73 60 57 55 53 47 49 50 46 38 34 31 29 32 40 44 44 35 30 25 20
+Dewpt            17 18 21 22 24 35 33 27 25 21 19 18 18 20 23 21 19 20 19 16 16
+RH               12 19 24 27 32 63 54 41 43 50 54 58 63 61 50 39 36 54 63 68 84
+Wind dir         SW SW SW SW SW NW NW NW NW NW NW NW NW NW NW NW NW  N NW  W  W
+Wind spd         18 16 14 14 17 18 18 20 18 14  9 10  8  8 14 16 16 12  4  4  2
+Wind gust        29 26       28 29 29 33 29                                    
+Clouds           SC B1 OV OV OV OV B1 SC B1 B1 B1 B1 B1 B1 B1 SC SC FW FW FW FW
+PoP 12hr                     20          90          40          10           0
+QPF 12hr                   0.01        0.25        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          C  D  C  S  C  C                                 
+Snow                                         C  C  C                           
+Wind chill                                           23 25                19   
+Min chill                                      30    23    23    38    26    16
+Wind              Y  Y  Y  Y  Y  Y  Y                                          
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      25    58      29    53      21    49      18    54
+Temp          42 53 35   30 49 55 37   31 43 45 30   23 39 47 29   21 43 53
+Dewpt         21 18 19   17 28 31 28   24 29 26 24   20 25 21 20   16 23 22
+PWind dir        SW      SW     S      SW    SW       W    NW      SE    SE
+Wind char        LT      LT    LT      LT    LT      GN    LT      LT    LT
+Avg clouds    FW FW SC   B1 B1 SC B1   B1 B2 B1 B1   B1 B1 SC FW   FW SC SC
+PoP 12hr          0      10    20      20    40      20     0       0     5
+Rain shwrs                      S  S    S  C  C  S                         
+Snowshwrs                                        S                         
+
+$$
+NVZ037-221600-
+Austin-Lander NV
+39.45N 117.12W Elev. 6605 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          50          24          34          22
+Temp             63 52 48 49 49 48 41 38 35 30 28 26 26 27 30 32 33 27 25 25 24
+Dewpt            15 14 18 17 18 24 36 33 28 22 19 18 18 20 20 18 17 16 15 14 13
+RH               15 22 30 28 29 39 82 82 75 72 68 71 71 74 66 56 51 63 65 62 62
+Wind dir          W SW SW SW SW  W  W  W NW NW NW  W  W  W NW NW NW NW NW NW  W
+Wind spd         19 14 19 19 19 21 20 19 18 14 14 13 11  9 16 17 17 11 10  9  5
+Wind gust        31    31 31 32 35 33 32 29                   27 27            
+Clouds           CL FW B1 OV OV OV OV OV B2 B2 SC B1 B1 B2 B1 B1 SC FW FW FW FW
+PoP 12hr                      5          90          50          20           0
+QPF 12hr                      0        0.25        0.14        0.01           0
+Snow 12hr                 00-00       00-00           1                        
+Rain                             C  D  L                                       
+Snow                                   L  C  C  S  S  S  S                     
+Wind chill                                                                18   
+Min chill                                32    23    20    22    27    20    18
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          43      32    51      35    47      26    40      25    47
+Temp          34 42 34   35 45 47 37   34 40 37 27   26 32 38 27   26 39 47
+Dewpt         17 14 15   17 28 28 25   22 26 22 20   19 21 17 15   13 17 16
+PWind dir         W      SW    SW      SW    SW       W    NW       E     S
+Wind char        LT      LT    LT      GN    GN      GN    LT      LT    LT
+Avg clouds    FW FW FW   SC B1 SC SC   SC B1 B1 B1   B1 B1 SC FW   FW SC FW
+PoP 12hr          0       5    10      10    30      20     5       0     0
+Snowshwrs                                  C  C  S                         
+
+$$
+NVZ037-221600-
+Eureka-Eureka NV
+39.57N 115.98W Elev. 6540 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          55          20          41          15
+Temp             69 51 47 46 45 49 49 45 42 33 28 26 24 27 35 39 38 29 25 20 19
+Dewpt            12 15 16 19 18 24 31 32 29 27 23 20 18 18 19 17 17 18 16 15 14
+RH               11 23 28 34 33 37 50 60 60 78 81 78 77 68 52 40 42 63 68 81 80
+Wind dir          W SW SW  S  S SW  W NW NW NW NW  W  W NW NW NW NW NW NW NW NW
+Wind spd         16 13 16 17 18 18 19 19 16 14 13 13 12 12 18 21 19 13  9  6  6
+Wind gust        26    26 27 29 29 32 32                   29 34 31            
+Clouds           FW FW SC OV OV OV OV OV B2 B2 SC SC SC B2 B1 B1 SC SC SC FW FW
+PoP 12hr                      0          90          60          20           0
+QPF 12hr                      0        0.25        0.10           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                             S  D  D  L                                    
+Snow                                      L  L  S  S  S  S                     
+Wind chill                37 35 38                   18 20                     
+Min chill                    34    35    39    24    18    18    33    20    15
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          50      24    58      27    53      21    47      16    54
+Temp          37 47 31   29 47 54 34   30 44 44 27   23 37 42 24   21 42 52
+Dewpt         18 13 17   18 25 24 25   23 25 20 21   19 21 14 16   13 17 12
+PWind dir        NW       W    SW      SW    SW      NW    NW       W     S
+Wind char        LT      LT    LT      GN    GN      GN    GN      LT    LT
+Avg clouds    FW FW FW   SC B1 SC SC   SC B1 B1 B1   B1 B1 SC FW   FW SC FW
+PoP 12hr          0       5    10      10    30      20     5       0     0
+Rain shwrs                                 C  C  S                         
+Snowshwrs                                  C  C  S                         
+
+$$
+NVZ040-221600-
+Tonopah-Northwestern Nye NV
+38.05N 117.09W Elev. 5395 ft
+547 PM PDT Fri Oct 21 2022
+
+Date          Fri 10/21/22      Sat 10/22/22            Sun 10/23/22         Mon
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          64          29          49          23
+Temp             72 57 50 46 45 46 57 60 54 43 38 35 32 33 43 46 46 37 32 29 27
+Dewpt            15 19 21 21 24 26 29 31 32 28 24 21 20 20 20 16 13 16 15 15 14
+RH               11 22 31 37 43 45 34 33 43 55 57 56 61 58 39 29 26 42 49 55 57
+Wind dir         SW  S  E  N NE NE  S NW NW NW NW NW NW NW NW NW  N  N  N  N NW
+Wind spd         14 14 13 12 12 12 13 20 24 23 20 17 14 17 19 23 21 17 13 12 11
+Wind gust                             33 39 36 33 27    27 31 36 34 27         
+Clouds           CL FW FW SC B2 OV B2 B2 B1 B1 SC SC FW FW CL FW FW FW CL FW FW
+PoP 12hr                      0          30          30           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                   C  C  C                                 
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      30    61      31    59      29    54      26    58
+Temp          44 54 39   34 52 61 42   35 49 52 37   30 44 52 34   29 47 56
+Dewpt         16 10 12   13 19 20 24   21 24 20 20   18 19 13 13   12 16  9
+PWind dir        NW      NW    NW       N    NW      NW    NW       N    NE
+Wind char        GN      GN    LT      GN    GN      BZ    GN      GN    LT
+Avg clouds    FW CL CL   FW SC FW SC   SC SC SC SC   SC SC FW FW   FW FW FW
+PoP 12hr          0       0     0       5    10      20     0       0     0
+Rain shwrs                                       S                         
+Snowshwrs                                        S                         
+
+$$

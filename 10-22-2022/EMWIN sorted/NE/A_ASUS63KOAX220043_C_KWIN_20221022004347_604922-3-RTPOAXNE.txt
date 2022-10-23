@@ -1,0 +1,74 @@
+ASUS63 KOAX 220043
+RTPNE 
+
+Max/Min Temperature and Precipitation Table for Nebraska
+National Weather Service Hastings NE
+742 PM CDT FRI OCT 21 2022
+
+: Values represent 18 hour high, low over the last 18 hours and
+: precipitation over the last 24 hours ending at 7 pm CDT (6 pm MDT).
+
+.BR GID 1021 C DH19/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                                 Snow   Snow
+:       Station              Max / Min  / Pcpn  / Fall / Depth
+:
+ANW  :  Ainsworth Airport :   73 /  42  / 0.00  /      /    
+BVN  :  Albion Airport    :   76 /  34  / 0.00  /      /    
+AIA  :  Alliance          :   77 /  31  / 0.00  /      /    
+AUH  :  Aurora Airport    :   78 /  37  / 0.00  /      /    
+BIE  :  Beatrice Airport  :   81 /  46  / 0.00  /      /    
+BTA  :  Blair Airport     :   78 /  49  / 0.00  /      /    
+BBW  :  Broken Bow Airport:   76 /  36  / 0.00  /      /    
+CDR  :  Chadron           :   79 /  30  / 0.00  /      /    
+OLU  :  Columbus Airport  :   79 /  33  / 0.00  /      /    
+FNB  :  Falls City Airport:   87 /  43  / 0.00  /      /    
+FET  :  Fremont Airport   :   80 /  36  / 0.00  /      /    
+GRN  :  Gordon Airport    :   74 /  35  / 0.00  /      /    
+GRI  :  Grand Island Arpt :   80 /  40  / 0.00  /  0.0 /   0
+HSI  :  Hastings Airport  :   78 /  47  / 0.00  /  0.0 /   0
+HJH  :  Hebron Airport    :   81 /  49  / 0.00  /      /    
+HDE  :  Holdrege Airport  :   74 /  44  / 0.00  /      /    
+IML  :  Imperial Airport  :   80 /  46  / 0.00  /      /    
+EAR  :  Kearney Airport   :   77 /  45  / 0.00  /      /    
+IBM  :  Kimball Airport   :   77 /  41  / 0.00  /      /    
+LXN  :  Lexington Airport :   78 /  36  / 0.00  /      /    
+LNK  :  Lincoln Airport   :   79 /  45  / 0.00  /  0.0 /   0
+MCK  :  McCook Airport    :   79 /  44  / 0.00  /      /    
+AFK  :  Nebraska City Arpt:   81 /  54  / 0.00  /      /    
+OFK  :  Norfolk Airport   :   78 /  35  / 0.00  /  0.0 /   0
+LBF  :  North Platte Arpt :   79 /  32  / 0.00  /  0.0 /   0
+OFF  :  Offutt AFB        :   78 /  42  /    M  /      /    
+OGA  :  Ogallala Airport  :   80 /  37  / 0.00  /      /    
+OMA  :  Omaha/Eppley      :   77 /  41  / 0.00  /  0.0 /   0
+MLE  :  Omaha/Millard     :   77 /  39  / 0.00  /      /    
+ONL  :  O'Neill Airport   :   71 /  43  / 0.00  /      /    
+ODX  :  Ord Airport       :   76 /  31  / 0.00  /      /    
+PMV  :  Plattsmouth Arpt  :   77 /  48  / 0.00  /      /    
+BFF  :  Scottsbluff       :   81 /  37  / 0.00  /      /    
+SNY  :  Sidney            :   81 /  41  / 0.00  /      /    
+TQE  :  Tekamah Airport   :   80 /  36  / 0.00  /      /    
+TIF  :  Thedford Airport  :   75 /  38  / 0.00  /      /    
+VTN  :  Valentine Airport :   73 /  34  / 0.00  /  0.0 /   0
+OAX  :  Valley NWS Office :   80 /  44  / 0.00  /  0.0 /   0
+AHQ  :  Wahoo Airport     :   80 /  37  / 0.00  /      /    
+LCG  :  Wayne Airport     :   76 /  34  / 0.00  /      /    
+JYR  :  York Airport      :   77 /  37  / 0.00  /      /    
+ 
+ 
+:   State Temperature Extremes
+:
+:   87 degrees at Falls City Airport
+:   30 degrees at Chadron
+:
+.END
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+
+Rossi
+

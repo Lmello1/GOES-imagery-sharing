@@ -1,0 +1,58 @@
+ASUS63 KTOP 220026
+RTPTOP
+ 
+Max/Min Temperature and Precipitation Table for
+North Central...Northeast and East Central Kansas
+National Weather Service Topeka KS
+726 PM CDT Fri Oct 21 2022
+
+Values represent the high and low temperatures over the last 18 hours
+and precipitation over the last 24 hours ending at 6 PM CST/7 PM CDT.
+
+.BR TOP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                       ***First Order Climate Stations***
+:
+:                                   Max    Min           Snow   Snow
+:Id          Location              Temp   Temp   Pcpn    Fall   Depth
+TOP  : Topeka Billard Airport   :    90 /  43 /  0.00 /  0.0 /   0
+CNK  : Concordia Airport        :    86 /  54 /  0.00 /    M /   M
+.END
+
+
+.BR TOP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:              ***Other Automated First Order Stations***
+:
+:                                   Max    Min
+:Id          Location              Temp   Temp   Pcpn
+FOE  : Topeka Forbes Field      :    89 /  47 /  0.00
+LWC  : Lawrence Airport         :    87 /  37 /  0.00
+MHK  : Manhattan Airport        :    90 /  35 /  0.00
+EMP  : Emporia Airport          :    90 /  48 /  0.00
+.END
+              ***Other Automated Stations***
+:                                   Max    Min
+:Id          Location              Temp   Temp   Pcpn
+MYZ  : Marysville Airport       :    82 /  50 /    M 
+OWI  : Ottawa Municipal Airport :     M /   M /      
+.END
+
+
+.BR TOP 1021 C DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:            ***Cooperative Observer Network Observations***
+:                 Values Represent The Previous 24 Hours
+:
+:                            Obs    Max    Min           Snow   Snow
+:ID          Location       Time   Temp   Temp   Pcpn    Fall   Depth
+ABLK1: Abilene          : DH1800  /  88 /  44 /  0.00 /    M /   M
+.END
+  
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

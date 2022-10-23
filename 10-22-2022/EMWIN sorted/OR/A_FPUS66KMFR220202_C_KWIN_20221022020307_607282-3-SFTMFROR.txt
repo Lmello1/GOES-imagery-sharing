@@ -1,0 +1,118 @@
+FPUS66 KMFR 220202
+SFTMFR
+ORZ021>031-CAZ080>085-221300-
+
+Tabular State Forecast for southern Oregon and northern California
+National Weather Service Medford OR
+702 PM PDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...SOUTHWEST OREGON...
+   North Bend
+   Tstrms   Ptcldy   Rain     Rain     Shwrs    Ptcldy   Rain     
+   49/62    45/64    46/63    48/64    49/63    47/65    48/66    
+    90/100   80/10    30/80    60/60    90/70    30/20    40/50   
+
+   Brookings
+   Shwrs    Ptcldy   Rain     Rain     Shwrs    Ptcldy   Rain     
+   49/54    43/57    45/55    47/55    46/53    45/57    46/57    
+    90/70    60/00    10/70    60/50    80/70    20/10    30/50   
+
+   Roseburg
+   Tstrms   Mocldy   Rain     Rain     Shwrs    Ptcldy   Rain     
+   48/53    42/57    40/55    46/57    45/55    43/61    42/62    
+   100/100  100/10    20/80    70/60    90/80    30/20    30/50   
+
+   Grants Pass
+   Shwrs    Ptcldy   Rain     Rain     Shwrs    Ptcldy   Ptcldy   
+   45/57    39/59    35/60    43/60    42/57    38/63    37/65    
+    90/90    80/10    10/70    60/50    80/70    20/10    30/40   
+
+   Medford
+   Shwrs    Ptcldy   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   48/55    40/57    33/59    42/59    42/55    38/61    37/64    
+    90/90    90/10    10/60    60/40    80/70    20/10    20/40   
+
+   Ashland
+   Shwrs    Ptcldy   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   43/51    36/52    30/58    38/57    39/51    35/60    34/62    
+   100/90    80/10    00/50    60/40    80/70    20/10    20/40   
+
+...SOUTH OREGON CASCADES...
+   Crater Lake
+   Snoshwr  Ptcldy   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   28/32    25/29    28/40    30/34    30/36    27/33    32/37    
+   100/100   90/10    10/60    60/40    80/70    20/10    20/40   
+
+   Howard Prairie
+   Snoshwr  Ptcldy   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   34/41    29/42    22/48    30/47    30/43    26/49    23/52    
+   100/100   90/10    00/50    60/40    80/70    20/10    20/30   
+
+...SOUTH CENTRAL OREGON...
+   Chemult
+   Snoshwr  Ptcldy   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   32/41    24/48    14/47    22/46    25/40    21/50    20/51    
+   100/80    80/10    10/60    60/40    80/70    30/10    20/40   
+
+   Chiloquin
+   Shwrs    Ptcldy   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   35/46    26/51    16/51    25/50    26/44    21/54    20/54    
+    90/80    80/10    10/50    50/40    80/70    20/10    20/30   
+
+   Klamath Falls
+   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   37/48    27/52    20/55    30/53    31/47    26/53    25/57    
+    80/70    60/10    00/30    40/30    60/50    10/10    10/20   
+
+   Lakeview
+   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   36/48    24/49    17/54    27/54    27/45    22/52    20/56    
+    80/60    40/00    00/20    30/20    50/50    10/00    10/10   
+
+   Silver Lake
+   Snoshwr  Ptcldy   Mocldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   36/46    25/51    14/53    24/52    26/47    21/55    19/56    
+    80/60    50/00    00/40    50/30    70/60    20/10    10/30   
+
+...NORTHERN CALIFORNIA...
+   Happy Camp
+   Shwrs    Ptcldy   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   44/58    36/59    33/64    41/62    40/57    36/66    33/67    
+    90/80    60/00    00/50    50/40    80/70    20/10    20/40   
+
+   Mount Shasta City
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   43/52    30/52    28/61    35/57    35/50    31/58    30/60    
+    60/50    30/00    00/20    30/30    60/50    10/10    10/30   
+
+   Yreka
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   42/54    34/54    30/61    42/58    39/52    35/58    35/62    
+    80/70    60/00    00/40    50/40    70/60    20/10    20/30   
+
+   Tulelake
+   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   38/47    28/50    18/55    29/52    30/45    24/53    23/57    
+    80/60    50/00    00/20    40/30    60/60    20/10    10/20   
+
+   Alturas
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   
+   39/50    24/48    16/58    29/57    29/47    23/54    21/59    
+    80/60    30/00    00/10    30/20    50/50    10/00    10/10   
+
+
+$$
+
+Visit us at www.weather.gov/medford

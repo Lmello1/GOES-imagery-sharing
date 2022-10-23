@@ -1,0 +1,25 @@
+FOUS73 KMSR 220201
+FFHMPX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+900 PM CDT FRI OCT 21 2022
+                                                                        
+TWIN CITIES HYDROLOGIC SERVICE AREA                                     
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221022 Z DH00/DC2210220200 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** MINNESOTA HEADWATER POINTS ***                                  
+:                                                                       
+SNCM5     2.5/  2.8/  3.1 :JORDAN MN             SAND CR
+PNLM5     3.3/  3.8/  4.5 :PINE ISLAND MN        MID FK ZUMBRO R
+PILM5     3.5/  4.0/  4.5 :PINE ISLAND MN        N B MID FK ZUMBRO R
+WGOM5     3.5/  4.0/  4.5 :WANAMINGO MN          NO FK ZUMBRO R
+.END
+$$

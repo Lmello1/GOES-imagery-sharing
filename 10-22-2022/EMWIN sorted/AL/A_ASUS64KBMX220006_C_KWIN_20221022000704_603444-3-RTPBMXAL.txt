@@ -1,0 +1,43 @@
+ASUS64 KBMX 220006
+RTPBMX
+:  Temperature and Precipitation Table
+:  National Weather Service Birmingham AL
+:   706 PM CDT Fri Oct 21 2022 
+
+:
+:  High Last 12 Hours. Low Last 18 Hours. Precip Last 24 Hours.
+:  Readings as of 10/21/00Z or 7PM Local.
+:
+.B BHM 1021 C DH18 /TX/TN/PP
+:
+:  Station           ID     Hi   Lo   Pcpn
+:
+: ASOS Sites
+:Anniston           :ANB    74 / 34 / 0.00
+:Birmingham Intl    :BHM    73 / 38 / 0.00
+:Calera             :EET    75 / 39 / 0.00
+:Eufaula            :EUF    73 / 34 / 0.00
+:Montgomery         :MGM    73 / 36 / 0.00
+:Troy               :TOI    75 / 35 / 0.00
+:Tuscaloosa         :TCL    77 / 36 / 0.00
+:
+: AWOS Sites
+:Alexander City     :ALX    69 / 34
+:Auburn             :AUO    71 / 38
+:Bessemer           :EKY    74 / 36
+:Demopolis          :DYA    77 / 36
+:Gadsden            :GAD    73 / 28
+:Haleyville         :1M4    75 / 36
+:Pell City          :PLR    73 / 32
+:Selma              :SEM    75 / 34
+:Sylacauga          :SCD    73 / 33
+:
+: Climate and Forestry Stations
+:Marion Junction    :MAJA1    74 / 34 / 0.00
+:Mtn. Longleaf RAWS :LGLA1    75 / 40 / 0.00
+:Oakmulgee RAWS     :OKMA1    77 / 35 / 0.00
+:Shoal Creek RAWS   :SHLA1    72 / 32 / 0.00
+:Tuskegee RAWS      :TKGA1    74 / 35 / 0.00
+:
+.END
+

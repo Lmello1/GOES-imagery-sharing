@@ -1,0 +1,75 @@
+ASUS61 KLWX 220026
+RTPLWX
+Max/Min Temperature and Precipitation Table for the Mid-Atlantic
+National Weather Service Baltimore MD/Washington DC
+826 PM EDT Fri Oct 21 2022
+
+Values represent highs and lows since 1 AM LST (06 UTC), 
+and precipitation over the last 24 hours (since 7 PM 
+LST yesterday).
+
+.BR LWX 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:                             Max   Min
+:ID        Location          Temp  Temp    Pcpn
+:
+: First-order and climate sites
+BWI  : Balt-Wash Marshall  :   68 /  35 /  0.00
+CHO  : Charlottesville AP  :   67 /  34 /  0.00
+DCA  : Reagan National AP  :   68 /  42 /  0.00
+DMH  : Baltimore Inner Hrb.:   67 /   M /  0.00
+HGR  : Hagerstown Rgnl AP  :   64 /  35 /  0.00
+IAD  : Dulles Intl Airport :   67 /  32 /  0.00
+MRB  : Eastern WV Rgnl AP  :   64 /  28 /  0.00
+:
+: Climate and COOP network automated sites
+CHAV2: Monticello CRN      :   63 /  43 /  0.00
+DALV2: Dale Enterprise     :   64 /  28 /     M
+:
+: AWOS and military sites
+:(precip data may be incomplete or unavailable)
+2G4  : Garrett Co Airport  :   46 /  34 / 
+2W6  : St. Marys Co Rgnl AP:   63 /  36 /  0.00
+8W2  : New Market Airport  :   66 /  28 /  0.00
+ADW  : Andrews AFB         :   65 /  35 /  0.00
+APG  : Aberdeen Proving Grd:   63 /  32 /  0.00
+CBE  : Cumberland Rgnl AP  :   67 /  28 /  0.00
+CGS  : College Park Airport:    M /  34 / 
+CJR  : Culpeper Regional AP:   68 /  32 /  0.00
+DAA  : Davison Army Airfld :   68 /  33 /  0.00
+DMW  : Carroll Co. Rgnl AP :   66 /  37 / 
+EZF  : Fredericksburg AP   :   67 /  34 /  0.00
+FDK  : Frederick Airport   :   66 /  32 / 
+FME  : Tipton AP/Ft. Meade :   64 /  32 / 
+FRR  : Front Royal Airport :   64 /  32 /  0.00
+GAI  : Gaithersburg Airport:   67 /  31 /  0.00
+GVE  : Gordonsville Airport:    M /   M /  0.00
+HEF  : Manassas Regional AP:   67 /  29 /  0.00
+HWY  : Warrenton-Fauquier  :   69 /  29 /  0.00
+JYO  : Leesburg Exec AP    :   66 /  34 / 
+LUA  : Luray Caverns AP    :   64 /  32 /  0.00
+MTN  : Martin State AP     :   63 /  37 / 
+NAK  : Annapolis Naval Acad:   63 /  42 /  0.00
+NHK  : Patuxent River NAS  :   65 /  41 /  0.00
+NUI  : Webster Naval AP    :   70 /  43 /  0.00
+NYG  : Quantico Marine Base:   65 /  38 /  0.00
+OKV  : Winchester Rgnl AP  :   63 /  30 /  0.00
+OMH  : Orange Co. Airport  :   64 /  32 /  0.00
+RMN  : Stafford Rgnl AP    :   69 /  36 /  0.00
+SHD  : Shenandoah Rgnl AP  :   63 /  26 /  0.00
+VBW  : Bridgewater Air Park:   63 /  27 /  0.00
+W13  : Waynesboro Airport  :    M /   M /  0.00
+W99  : Grant County AP     :    M /   M /  0.00
+.END
+
+These data are preliminary and have not undergone final quality 
+control by the Center for Weather and Climate, part of the National 
+Centers for Environmental Information (NCEI). Therefore, these data 
+are subject to revision. Final and certified climate data can be 
+accessed at www.ncdc.noaa.gov.
+
+Additional data from across the area can be found in the 
+HYDLWX product.
+
+$$
+

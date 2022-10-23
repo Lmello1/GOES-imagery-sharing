@@ -1,0 +1,128 @@
+ASUS41 KGYX 220010
+RWRGYX
+WEATHER ROUNDUP FOR MAINE AND NEW HAMPSHIRE
+NATIONAL WEATHER SERVICE GRAY ME
+800 PM EDT FRI OCT 21 2022
+
+MEZ002-005-006-010-012-015-018-020-021-024-026-027-029-220100-
+MAINE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND       CLEAR     48  42  80 CALM      30.14R                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  58;                                
+
+SANFORD        CLEAR     38  37  97 CALM      30.14R                  
+BAR HARBOR     CLEAR     50  41  71 SW6       30.16R                  
+WISCASSET      CLEAR     41  36  82 CALM      30.16R                  
+6HR MIN TEMP:  41; 6HR MAX TEMP:  59;                                
+
+ROCKLAND       CLEAR     41  39  93 CALM      30.15R                  
+FRYEBURG       CLEAR     36  33  89 CALM      30.13R                  
+6HR MIN TEMP:  36; 6HR MAX TEMP:  58;                                
+
+LEWISTONAUBURN CLEAR     44  37  76 S5        30.14R                  
+AUGUSTA        CLEAR     47  37  68 S3        30.14R                  
+6HR MIN TEMP:  47; 6HR MAX TEMP:  60;                                
+
+WATERVILLE     CLEAR     47  36  65 S5        30.11R                  
+BANGOR         CLEAR     48  34  58 S6        30.13R                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  60;                                
+
+GREENVILLE       N/A     46  29  51 S5        30.07R                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  55;                                
+
+MILLINOCKET    CLEAR     41  36  82 E3        30.11R                  
+6HR MIN TEMP:  41; 6HR MAX TEMP:  58;                                
+
+HOULTON        CLEAR     41  32  70 S3        30.08R                  
+6HR MIN TEMP:  40; 6HR MAX TEMP:  57;                                
+
+PRESQUE ISLE   CLEAR     43  34  70 S6        30.07R                  
+6HR MIN TEMP:  42; 6HR MAX TEMP:  56;                                
+
+FRENCHVILLE    CLEAR     45  31  58 S6        30.02F                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  52;                                
+
+CARIBOU        CLEAR     46  30  53 S7        30.04S                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  55;                                
+
+$$
+
+NHZ002-005-008-009-011-012-014-220100-
+NEW HAMPSHIRE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTSMOUTH     CLEAR     49  46  89 CALM      30.13R                  
+ROCHESTER      CLEAR     49  41  74 CALM      30.13R                  
+6HR MIN TEMP:  49; 6HR MAX TEMP:  62;                                
+
+NASHUA         CLEAR     44  39  82 CALM      30.14R                  
+MANCHESTER     CLEAR     46  35  65 E3        30.11R                  
+6HR MIN TEMP:  46; 6HR MAX TEMP:  64;                                
+
+CONCORD        CLEAR     42  34  73 E9        30.12R                  
+6HR MIN TEMP:  42; 6HR MAX TEMP:  62;                                
+
+LACONIA        CLEAR     42  34  73 CALM      30.12R                  
+BERLIN         CLEAR     36  31  82 CALM      30.09R                  
+6HR MIN TEMP:  35; 6HR MAX TEMP:  59;                                
+
+WHITEFIELD     CLEAR     34  29  82 CALM      30.09R                  
+6HR MIN TEMP:  34; 6HR MAX TEMP:  56;                                
+
+JAFFREY        CLEAR     41  33  73 CALM      30.13R                  
+6HR MIN TEMP:  41; 6HR MAX TEMP:  60;                                
+
+KEENE          CLEAR     42  36  79 CALM      30.13R                  
+LEBANON        CLEAR     41  34  76 S6        30.09R                  
+6HR MIN TEMP:  39; 6HR MAX TEMP:  60;                                
+
+MT WASHINGTON  NOT AVBL                                               
+$$
+
+VTZ005-007-008-220100-
+VERMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST JOHNSBURY     N/A     42  32  67 MISG      30.07R                  
+MONTPELIER     CLEAR     46  28  49 S5        30.11R                  
+BURLINGTON     CLEAR     52  28  39 S8        30.05R                  
+$$
+
+MAZ007-012-024-CTZ003-RIZ002-NYZ038-NYZ072-220100-
+SOUTHERN NEW ENGLAND AND NY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOSTON         CLEAR     57  44  62 S13       30.15R                  
+WORCESTER      CLEAR     48  34  58 SW7       30.14R                  
+NANTUCKET      CLEAR     57  49  74 S8        30.18S                  
+PROVIDENCE     CLEAR     52  45  77 SW5       30.16R                  
+HARTFORD       CLEAR     51  30  44 S6        30.14R                  
+ALBANY         CLEAR     53  30  41 SE3       30.09R                  
+NEW YORK CITY  CLEAR     57  40  52 S7        30.14R                  
+$$
+
+ANZ081-ANZ082-ANZ150-NHZ014-MEZ023>029-220100-
+COASTAL MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+MOUNT DESERT ROC 0000   54     190/ 12/ 13 1021.1R
+MATINICUS ROCK   2300   54     190/ 17/ 18 1021.0R
+ISLE OF SHOALS   2300   56     150/ 14/ 16 1019.4R
+JEFFREYS LEDGE   2356      56                N/A     3/ 8
+CASHES LEDGE BUO 2350   56 55  190/ 12/ 14 1020.7R   3/ 8
+GEORGES BANK BUO 2350      63              1022.3R   5/14
+$$
+
+.............KEY..............
+   WCI - WIND CHILL
+   TC  - TEMPERATURE IN CELSIUS
+   VSB - VISIBILITY IN MILES
+   HX  - HEAT INDEX
+   FAIR- INDICATES FEW OR NO CLOUDS BELOW 12,000 FT, WITH NO 
+         SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+  

@@ -1,0 +1,60 @@
+ASUS64 KHUN 220106
+RTPHUN
+Temperature and Precipitation Table for the TN Valley
+National Weather Service Huntsville AL
+806 PM CDT Fri Oct 21 2022
+
+Values represent Highs and Lows since Midnight LST Yesterday
+/Past 18 hours/. Precipitation values are 24 hour totals.
+  
+.BR HUN 1021 CS DH18/TAIRZS/TAIRZI/PPDRZZ
+:
+:                             MAX   MIN
+:ID        LOCATION          TEMP  TEMP    PCPN
+:
+: First-Order /ASOS/ Sites
+DCU  : Decatur Airport     :   76 /  32 /  0.00
+HSV  : Huntsville Airport  :   75 /  36 /  0.00
+MSL  : Muscle Shoals Arpt  :   78 /  37 /  0.00
+:
+: AWOS Sites
+:/Reports every 20 minutes...Precip data not included/
+8A0  : Albertville Airport :   70 /  36 / 
+4A9  : Fort Payne Airport  :   69 /  29 / 
+MDQ  : Meridianville Arpt  :   74 /  33 / 
+CMD  : Vinemont-Cullman AP :   73 /  34 / 
+BGF  : Winchester Airport  :   72 /  34 / 
+:
+.End
+
+:
+Values represent 24-hour Highs...Lows...and Precipitation
+/since 6 PM LST Yesterday/.
+
+.BR HUN 1021 CS DH18/TAIRZX/TAIRZN/PPDRZZ
+:
+:                             Max   Min
+:ID        Location          Temp  Temp    Pcpn
+:
+: Climate and Forestry Stations
+BHFA1: Bankhead Natl Forest:   75 /  38 /  0.00
+LCXA1: Courtland Airport   :   75 /  35 /  0.00
+SMCA1: Crossville Ag Stn   :   68 /  32 /  0.00
+CUXA1: Cullman Ag Stn      :   73 /  30 /  0.00
+MSXA1: Muscle Shoals TVA   :   76 /  35 /  0.00
+RUXA1: Russellville Airport:   76 /  38 /  0.00
+SCXA1: Scottsboro Airport  :   71 /  28 /  0.00
+VHXA1: Valley Head Water Bd:   68 /  30 /  0.00
+:
+: Other Reporting Stations
+UAHA1: UAHuntsville Berm   :   70 /  38 /  0.00
+:
+.End
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+$$
+

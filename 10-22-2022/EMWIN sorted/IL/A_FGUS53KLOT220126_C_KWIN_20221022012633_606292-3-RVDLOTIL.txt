@@ -1,0 +1,25 @@
+FGUS53 KLOT 220126
+RVDLOT
+ILC011-063-099-155-221326-
+
+
+Daily River and Lake Summary
+National Weather Service Chicago/Romeoville IL
+826 PM CDT Fri Oct 21 2022
+
+.B LOT 1021 DC102120/DH12/HG/DRD+1/HGIFF/DRD+2/HGIFF/
+.B1 DRD+3/HGIFF/DRD+4/HGIFF/DRD+5/HGIFF
+:
+:Upper Illinois River
+:      Station       Flood  7PM    24HR    7PM
+:ID    Name          Stage  Stage Change Forecasts
+:                                        Sat   Sun   Mon   Tue   Wed
+MORI2 :Morris         16.0:  5.1/:  0.1:  5.1/  4.9/  4.9/  4.9/  4.9
+LSLI2 :La Salle       20.0: 10.5/:  0.0: 10.5/ 10.5/ 10.5/ 10.5/ 10.5
+.END
+:
+:River forecasts are based on observed precipitation and
+:Forecast precipitation for the next 24 hours
+
+$$
+

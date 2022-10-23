@@ -1,0 +1,67 @@
+ASUS65 KRIW 220030
+RTPRIW
+Regional Temperature and Precipitation Table
+National Weather Service Riverton WY
+630 PM MDT Fri Oct 21 2022
+
+     
+        Western and Central Wyoming Airport Locations
+     
+ Note - Values represent 18 hour high, 18 hour low, and
+        precipitation over the last 24 hours ending at 6 pm MDT
+     
+.BR RIW 1021 M DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                Max   Min           Snow   Snow
+:ID    Station            Elev   Temp  Temp   Pcpn   Fall   Depth
+:     
+AFO  : Afton              6215:   64 /  23 /    M
+46U  : Alpine             5635:   66 /  28 /    M
+BPI  : Big Piney          6975:   64 /  22 / 0.00
+BYG  : Buffalo            4970:   72 /  42 / 0.00
+CPR  : Casper             5320:   73 /  30 / 0.00 /  0.0 /   0
+COD  : Cody               5100:   71 /  54 / 0.00
+U68  : Cowley             4090:   72 /  45 /    M
+DUB  : Dubois             7260:   59 /  39 /    M
+EVW  : Evanston           7165:   65 /  36 / 0.00
+FBR  : Fort Bridger       7030:    M /   M /    M
+GCC  : Gillette           4330:   74 /  36 / 0.00
+GEY  : Greybull           3935:   74 /  40 / 0.00
+W43  : Hulett             4265:    M /   M /    M
+JAC  : Jackson            6445:   62 /  34 / 0.00
+EMM  : Kemmerer           7285:   63 /  32 /    M
+P60  : Lake Yellowstone   7835:   53 /  31 / 0.00
+LND  : Lander             5585:   75 /  37 / 0.00 /  0.0 /   0
+PNA  : Pinedale           7085:   61 /  21 /    M
+POY  : Powell             5050:   70 /  50 /    M
+RIW  : Riverton           5525:   73 /  43 / 0.00 /  0.0 /   0
+RKS  : Rock Springs       6760:   66 /  36 / 0.00
+SHR  : Sheridan           3965:   74 /  35 / 0.00
+HSG  : Thermopolis        4900:   74 /  37 / 0.00
+WRL  : Worland            4245:   72 /  31 / 0.00
+.END
+
+
+      Western and Central Wyoming Cooperative Locations
+     
+  Note - Values are for the previous 24 hours. In some weather 
+         situations, reported high temperatures may reflect
+         conditions for the previous day.
+     
+.BR RIW 1021 M DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs      Max  Min         Snow  Snow
+:ID    Station           Elev  Time     Temp Temp  Pcpn  Fall  Depth
+:     
+FBMW4: Fossil Butte      6780: DH1600 /  66/  21/  0.00/  0.0/    0
+GILW4: Gillette 4SE      4640: DH1630 /  76/  36/  0.00/  0.0/    0
+RSFW4: Rock Springs(town)6270: DH1700 /  69/  33/  0.00/  0.0/    0
+.END
+     
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+data can be accessed at: www.ncei.noaa.gov
+
+
+$$
+

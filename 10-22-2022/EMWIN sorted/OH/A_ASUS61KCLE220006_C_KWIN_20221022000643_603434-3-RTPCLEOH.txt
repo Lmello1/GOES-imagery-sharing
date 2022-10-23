@@ -1,0 +1,64 @@
+ASUS61 KCLE 220006
+RTPCLE
+Ohio Evening Temperature And Precipitation Summary
+National Weather Service Cleveland Ohio
+806 PM EDT Fri Oct 21 2022
+
+Values represent today's highs and lows over the last 18 hours and 
+precipitation over the last 24 hours ending at 7 PM EST/8 PM EDT.
+M=Missing Data     T=Trace     NA=Not Available
+      
+.B CLE 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+
+
+:Automated Surface Observation Systems (ASOS) Sites
+:...................................................................
+:          Station           Max / Min / 24-HR / Snow / Snow
+:           Name             Temp/ Temp/ PCPN  / Fall / Depth
+:...................................................................
+: ---NORTHWEST OHIO---
+AOH: Lima Allen County Apt  :  72 / 43 / 0.00  /   NA  /  NA
+DFI: Defiance Memorial Apt  :  73 / 40 / 0.00  /   NA  /  NA
+FDY: Findlay Apt            :  74 / 44 / 0.00  /   NA  /  NA
+TDZ: Toledo Executive Apt   :  73 / 39 / 0.00  /   NA  /  NA
+TOL: Toledo Express Apt     :  74 / 41 / 0.00  /   0.0 /   0 
+:
+: ---NORTHEAST OHIO---
+CLE: Cleveland Hopkins      :  68 / 43 / 0.00  /   0.0 /   0
+BKL: Burke Lakefront Apt    :  69 / 44 / 0.00  /   NA  /  NA
+LPR: Lorain / Elyria Apt    :  69 / 39 / 0.00  /   NA  /  NA
+HZY: Northeast Ohio Apt     :  66 / 37 / 0.00  /   NA  /  NA
+CAK: Akron-Canton Apt       :  67 / 37 / 0.00  /   0.0 /   0
+AKR: Akron Fulton Apt       :  68 / 40 / 0.00  /   NA  /  NA
+BJJ: Wooster / Wayne Co Apt :  65 / 35 / 0.00  /   NA  /  NA
+MFD: Mansfield Lahm Reg Apt :  67 / 36 / 0.00  /   0.0 /   0
+YNG: Youngstown Apt         :  65 / 38 / 0.00  /   0.0 /   0
+:
+: ---SOUTHWEST OHIO---
+LUK: Cincinnati Lunken Airpo:  73 / 30 / 0.00  /   NA  /  NA
+CVG: Cincinnati/Northern Ken:  71 / 40 / 0.00  /    M  /   M 
+HAO: Hamilton - Butler Count:  73 / 33 / 0.00  /   NA  /  NA
+DAY: Dayton International Ai:  72 / 45 / 0.00  /    M  /   M 
+MGY: Dayton - Wright Bros Ap:  71 / 40 / 0.00  /   NA  /  NA
+ILN: Wilmington Air Park    :  71 / 39 / 0.00  /   NA  /  NA
+:
+: ---CENTRAL AND SOUTHEAST OHIO---
+CMH: John Glenn Internationa:  69 / 38 / 0.00  /    M  /   M 
+OSU: Ohio State University A:  71 / 41 /    T  /   NA  /  NA
+VTA: Newark-Heath Apt       :  70 / 31 / 0.00  /   NA  /  NA
+MNN: Marion Apt             :  70 / 38 / 0.00  /   NA  /  NA
+LHQ: Fairfield County Apt   :  68 / 33 / 0.00  /   NA  /  NA
+ZZV: Zanesville Apt         :  66 / 34 / 0.00  /   NA  /  NA
+PHD: New Philadelphia Apt   :  66 / 31 / 0.00  /   NA  /  NA
+:
+.END
+
+
+These Data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information (NCEI). 
+Therefore...these data are subject to revision. Final and certified 
+data can be accessed at www.ncei.noaa.gov.
+
+
+$$
+

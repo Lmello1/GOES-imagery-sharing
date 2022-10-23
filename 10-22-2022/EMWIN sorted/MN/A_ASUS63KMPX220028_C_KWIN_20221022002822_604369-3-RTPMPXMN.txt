@@ -1,0 +1,93 @@
+ASUS63 KMPX 220028
+RTPMPX
+Max/min Temperature And Precipitation Table For
+Central And South Central Minnesota And West Central Wisconsin
+National Weather Service Twin Cities/Chanhassen MN
+728 PM CDT Fri Oct 21 2022
+
+ Values represent the highs and lows during the last 18 hours...
+ the precipitation and snowfall during the past 24 hours...and
+ the 6 pm snow depth
+
+
+.BR MSP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+: ASOS airports - West Central/Central/Southern MN/West Central WI
+: with precipitation/snowfall/snow depth reports
+:
+:                               Max    Min              Snow   Snow 
+:ID         Location            Temp   Temp     Pcpn    fall   depth
+EAU  : Eau Claire             :  68 /  32 /     0.00/   0.0/     0
+MSP  : Minneapolis/St. Paul   :  68 /  46 /     0.00/   0.0/     0
+STC  : St. Cloud              :  65 /  40 /     0.00/   0.0/     0
+:
+:
+.BR MSP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+: ASOS airports - west central/central/southern MN
+: without precipitation/snowfall/snow depth reports
+:
+AXN  : Alexandria             :  62 /  47 /     0.00
+MIC  : Crystal                :  68 /  50 /     0.00
+FRM  : Fairmont               :  70 /  45 /     0.00
+FCM  : Flying Cloud           :  67 /  48 /     0.00
+MKT  : Mankato                :  68 /  45 /     0.00
+RWF  : Redwood Falls          :  65 /  48 /     0.00
+STP  : St. Paul               :  68 /  43 /     0.00
+:
+:
+: AWOS airports - West Central/Central/Southern MN/West Central WI
+:
+AEL  : Albert Lea             :  70 /  46 /
+AQP  : Appleton               :  64 /  45 /
+BBB  : Benson                 :  64 /  43 /
+ANE  : Blaine                 :  68 /  46 /
+CFE  : Buffalo                :  66 /  43 /
+CBG  : Cambridge              :  66 /  46 /
+RYM  : Camp Ripley            :  64 /  38 /
+CNB  : Canby                  :  65 /  51 /
+FBL  : Faribault              :  68 /  45 /
+GYL  : Glencoe                :  66 /  45 /
+GHW  : Glenwood               :  63 /  43 /
+GDB  : Granite Falls          :  66 /  45 /
+HCD  : Hutchinson             :  66 /  42 /
+21D  : Lake Elmo              :  66 /  41 /
+LVN  : Lakeville              :  68 /  46 /
+LJF  : Litchfield             :  64 /  46 /
+LXL  : Little Falls           :  63 /  37 /
+14Y  : Long Prairie           :  63 /  43 /
+DXX  : Madison                :  66 /  48 /
+MGG  : Maple Lake             :  65 /  46 /
+MVE  : Montevideo             :  64 /  48 /
+JMR  : Mora                   :  64 /  34 /
+MOX  : Morris                 :  64 /  45 /
+ULM  : New Ulm                :  66 /  43 /
+OVL  : Olivia                 :  64 /  43 /
+OWA  : Owatonna               :  68 /  46 /
+PEX  : Paynesville            :  63 /  41 /
+PNM  : Princeton              :  66 /  46 /
+RGK  : Red Wing               :  70 /  43 /
+ROS  : Rush City              :  70 /  48 /
+D39  : Sauk Centre            :  62 /  45 /
+SAZ  : Staples                :  63 /  46 /
+JYG  : St James               :  66 /  46 /
+SGS  : South St. Paul         :  68 /  42 /
+ACQ  : Waseca                 :  68 /  43 /
+BDH  : Willmar                :  63 /  43 /
+RCX  : Ladysmith              :  67 /  37 /
+Y23  : Chetek                 :  68 /  35 /
+UBE  : Cumberland             :  66 /  36 /
+LUM  : Menomonie              :  69 /  39 /
+RNH  : New Richmond           :  67 /  45 /
+OEO  : Osceola                :  68 /  39 /
+RPD  : Rice Lake              :  66 /  33 /
+ 
+.End
+ These data are preliminary and have not undergone final quality
+ control by the National Centers for Environmental Information 
+ /NCEI/. Therefore these data are subject to revision. Final
+ and certified climate data can be accessed at www.ncdc.noaa.gov.
+
+
+ In addition snowfall and snow depth are not reported between June 1
+ and September 30th.
+ $$
+

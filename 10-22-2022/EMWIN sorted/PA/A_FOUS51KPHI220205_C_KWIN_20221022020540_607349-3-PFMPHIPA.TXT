@@ -1,0 +1,380 @@
+FOUS51 KPHI 220205
+PFMPHI
+
+Point Forecast Matrices
+National Weather Service Mount Holly NJ
+1004 PM EDT Fri Oct 21 2022
+
+PAZ061-220900-
+Allentown-Lehigh PA
+40.65N  75.43W Elev. 394 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      35          67          43          64          51
+Temp                44 41 37 43 56 66 66 53 47 44 44 47 57 63 62 56 54 53 52 53
+Dewpt               37 36 35 36 43 43 45 44 44 43 42 44 49 50 51 52 52 52 51 52
+RH                  76 82 92 76 62 43 47 71 89 96 93 89 75 62 67 86 93 96 96 96
+Wind dir             N NE  N NE  S  S  S  E NE NE NE NE NE NE NE NE NE NE  N  N
+Wind spd             1  1  0  0  2  3  3  2  2  3  3  3  6  6  6  5  5  4  3  3
+Clouds              CL CL CL CL CL CL FW FW SC SC B2 B2 OV OV OV OV OV OV B2 B1
+PoP 12hr                      0           0           5          40          40
+QPF 12hr                      0           0           0        0.10        0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                  S  S  C  C  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      53    72      55    71      54    68      50    66
+Temp          67 60   55 54 69 62   58 57 69 63   58 56 67 59   53 51 65 57
+Dewpt         58 57   55 54 60 59   57 56 61 60   57 55 55 53   51 49 52 51
+PWind dir        NE      NE    SE       E    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 B2   B2 B2 B2 B2   B2 B2 B1 B1   B1 B1 B2 B2
+PoP 12hr         20      20    20      20    30      30    10      20    20
+Rain shwrs     S  S    S  S     S    S  S  C  C    C  S             S  S  S
+
+$$
+PAZ071-220900-
+Philadelphia-Philadelphia PA
+39.87N  75.24W Elev. 36 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          69          51          64          56
+Temp                50 48 43 48 59 67 68 58 53 52 53 55 60 63 62 59 58 57 57 57
+Dewpt               42 43 43 43 48 45 46 47 48 49 50 51 54 54 55 55 56 56 55 56
+RH                  74 83100 83 67 45 45 67 83 89 89 86 81 72 78 87 93 96 93 96
+Wind dir            SW  S  W  E  S  S SE SE NE NE NE NE NE NE NE NE NE  N  N  N
+Wind spd             1  1  0  1  2  2  2  3  2  3  4  6  8  9  8  8  6  5  4  5
+Clouds              CL CL FW FW FW CL FW FW SC B1 B2 B2 OV OV OV OV OV OV B2 B1
+PoP 12hr                      0           0          10          60          40
+QPF 12hr                      0           0           0        0.19        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                  C  C  L  L  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      58    73      60    72      59    71      55    68
+Temp          69 64   61 59 71 65   62 61 70 67   62 60 69 63   59 57 67 61
+Dewpt         60 61   59 59 62 62   61 61 62 63   60 59 58 57   55 53 54 55
+PWind dir         N      NE    SE       E    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B1 B1   B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      20    10      20    30      20    10      20    20
+Rain shwrs     S  S    S  S          S  S  S  C    S  S             S  S  S
+
+$$
+DEZ001-220900-
+Wilmington-New Castle DE
+39.68N  75.61W Elev. 79 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          69          49          64          53
+Temp                49 45 42 47 59 67 67 56 52 50 51 53 60 63 62 58 57 56 55 55
+Dewpt               43 42 41 42 48 45 45 47 48 47 49 51 52 53 54 55 55 55 54 55
+RH                  80 89 96 83 67 45 45 72 86 89 93 93 75 70 75 90 93 96 96100
+Wind dir             S  S  N NE  S  S  S SE NE NE NE NE NE NE NE NE NE  N  N  N
+Wind spd             3  1  1  1  2  3  4  3  3  4  5  8  9  9  9  8  6  6  5  5
+Clouds              CL CL FW FW FW CL FW FW SC B1 B2 OV OV OV OV OV OV OV B2 B1
+PoP 12hr                      0           0          10          60          30
+QPF 12hr                      0           0           0        0.15        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                  C  C  L  L  C  C  S  S   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      56    73      58    72      57    71      54    68
+Temp          68 62   58 57 71 64   60 60 70 65   60 59 69 62   58 56 67 60
+Dewpt         58 59   58 57 61 61   60 60 62 62   59 57 56 57   54 52 53 55
+PWind dir         N      NE    SE       E    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B1 B1   B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      20    10      20    20      20    10      20    20
+Rain shwrs     S  S    S  S             S  S  S    S  S             S  S  S
+
+$$
+NJZ022-220900-
+Pomona-Atlantic NJ
+39.46N  74.59W Elev. 76 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          68          50          64          54
+Temp                48 46 42 49 62 66 64 53 52 53 54 55 62 63 62 57 56 56 55 56
+Dewpt               46 45 42 43 48 47 48 50 52 53 54 55 57 57 57 57 56 56 55 56
+RH                  93 96100 80 60 50 56 89100100100100 84 81 84100100100100100
+Wind dir             S SW  N  N SE SE  E  E NE NE NE NE NE NE NE NE NE  N  N  N
+Wind spd             3  1  0  0  1  4  3  2  3  4  6  8 12 13 12  9  8  6  4  4
+Wind gust                                               23 25 23               
+Clouds              CL CL CL FW CL CL SC SC B2 B2 OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                      0           0          20          70          40
+QPF 12hr                      0           0        0.01        0.38        0.18
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                            S  S  C  C  L  L  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      56    71      57    71      56    70      53    68
+Temp          68 60   58 58 70 61   59 59 70 62   59 58 69 61   56 55 67 58
+Dewpt         60 60   58 58 62 61   59 59 62 62   59 58 59 58   55 55 55 55
+PWind dir        NE      NE     E       E    SE       N     N       N    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B2 B1   B1 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B1   B1 B2 B2 B2
+PoP 12hr         20      20    10      20    30      30    10      20    20
+Rain shwrs     S  S    S  S             S  C  C    C  S             S  S  S
+
+$$
+NJZ025-220900-
+Atlantic City-Atlantic NJ
+39.36N  74.46W Elev. 0 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          64          57          63          57
+Temp                57 55 51 54 61 63 63 59 59 59 59 60 62 62 62 60 60 59 59 58
+Dewpt               48 47 47 48 50 50 51 54 56 57 58 58 59 60 60 59 59 59 59 58
+RH                  72 74 86 80 67 62 65 83 90 93 96 93 90 93 93 96 96100100100
+Wind dir             S SW  W NW  E  E  E  E NE NE NE NE NE NE NE NE NE  N  N  N
+Wind spd             8  5  3  2  3  5  6  9 10 13 14 17 18 19 19 18 16 13 12 11
+Clouds              CL CL CL FW CL CL FW B1 B2 B2 OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                      0           0          30          70          40
+QPF 12hr                      0           0        0.03        0.42        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                            C  C  L  L  L  L  C  C  C  C   
+Rain shwrs                                                                    C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      59    67      60    67      59    67      57    65
+Temp          65 62   61 61 66 63   62 62 66 64   62 61 66 63   60 58 64 61
+Dewpt         62 62   61 60 64 63   62 62 65 64   61 60 62 60   58 57 57 58
+PWind dir        NE       E     E       E     E       N    NE       N    NE
+Wind char        GN      LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B1   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B1   B1 B2 B2 B2
+PoP 12hr         30      20    10      20    30      30    20      20    20
+Rain shwrs     C  C    S  S             S  C  S    C  C  S  S       S  S  S
+
+$$
+PAZ055-220900-
+Mount Pocono-Monroe PA
+41.14N  75.38W Elev. 1915 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      36          61          41          58          47
+Temp                41 40 37 43 54 59 58 47 44 42 42 44 52 57 55 49 49 48 48 49
+Dewpt               32 30 31 33 39 40 42 42 40 40 39 40 45 46 48 48 47 48 48 49
+RH                  70 67 79 67 57 49 55 83 86 93 89 86 77 67 77 96 93100100100
+Wind dir            SW SW  W  W SW  S  S  S SE NE NE NE  E  E  E NE NE NE NE  N
+Wind spd             5  4  4  4  6  6  4  3  3  3  3  5  6  8  6  6  6  8  6  6
+Clouds              CL CL CL CL CL CL CL FW FW SC B1 B2 OV OV OV OV OV OV B2 B2
+PoP 12hr                      0           0           0          30          40
+QPF 12hr                      0           0           0        0.09        0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        C  C  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      51    64      52    64      52    62      46    58
+Temp          61 54   52 52 63 56   55 54 63 57   54 53 61 53   49 48 57 51
+Dewpt         55 54   52 52 59 56   55 54 58 56   54 53 53 50   47 46 50 48
+PWind dir        NE       E    SE      SE    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    B1 B1   B1 B1 B1 B2   B2 B2 B2 B2   B2 B2 B2 B1   B1 B1 B2 B2
+PoP 12hr         20      20    20      30    30      30    10      10    20
+Rain shwrs     S  S    S  S     S    S  C  C  C    C  S                S  S
+
+$$
+NJZ015-220900-
+Trenton-Mercer NJ
+40.28N  74.82W Elev. 213 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          68          47          62          52
+Temp                46 44 39 45 57 66 66 55 50 48 49 51 58 61 60 56 55 54 53 54
+Dewpt               38 40 39 39 47 44 45 47 48 47 47 49 52 54 54 54 54 54 53 54
+RH                  73 86100 79 69 45 47 74 93 96 93 93 80 78 81 93 96100100100
+Wind dir             S  S NW  N SW  S SE SE NE  N NE NE NE NE NE NE NE  N  N  N
+Wind spd             2  0  0  0  2  2  1  2  2  3  3  5  8  9  8  6  6  5  5  4
+Clouds              CL CL CL FW CL CL FW FW SC B1 B2 B2 OV OV OV OV OV OV OV B2
+PoP 12hr                      0           0          10          60          40
+QPF 12hr                      0           0           0        0.20        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                  C  C  L  L  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      56    72      56    71      56    70      52    67
+Temp          67 61   58 57 70 62   59 58 69 64   59 57 69 61   56 54 66 59
+Dewpt         60 59   58 57 63 61   59 58 62 62   59 57 58 55   54 52 54 53
+PWind dir        NE      NE    SE       E    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      20    20      30    30      30    10      20    20
+Rain shwrs     S  S    S  S  S  S    S  C  C  C    C  S             S  S  S
+
+$$
+PAZ060-220900-
+Reading-Berks PA
+40.38N  75.97W Elev. 344 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          68          43          65          51
+Temp                46 43 39 45 57 67 67 55 49 45 44 47 57 63 63 57 55 54 53 53
+Dewpt               37 37 37 38 44 44 45 45 45 44 43 45 49 51 52 53 53 53 52 52
+RH                  71 79 92 76 62 43 45 69 86 96 96 93 75 65 67 86 93 96 96 96
+Wind dir            SE SE  N NE  S  S  S SE  E NE NE NE NE NE NE NE NE NE  N  N
+Wind spd             1  1  0  1  2  4  4  3  3  2  3  3  6  8  8  5  4  3  3  3
+Clouds              CL CL CL CL CL CL FW FW FW SC B1 B2 B2 OV OV OV B2 B2 B1 B1
+PoP 12hr                      0           0           0          40          30
+QPF 12hr                      0           0           0        0.06        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                  S  S  C  C  C  C  S  S   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      54    72      56    72      55    69      50    67
+Temp          67 61   57 56 69 63   59 58 69 64   59 57 68 60   55 52 65 58
+Dewpt         58 58   56 55 61 61   59 58 61 61   58 56 56 54   52 50 53 53
+PWind dir        NE      NE    SE       E    SE       W     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      20    10      20    30      20    10      20    20
+Rain shwrs     S  S    S  S          S  S  S  C    S  S             S  S  S
+
+$$
+DEZ002-220900-
+Dover AFB-Kent DE
+39.13N  75.47W Elev. 29 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          67          51          65          54
+Temp                48 46 43 50 62 66 64 54 53 52 54 55 61 64 62 57 56 56 55 56
+Dewpt               44 43 42 44 48 45 47 50 51 52 53 55 55 56 55 56 56 56 55 56
+RH                  86 89 96 80 60 47 54 86 93100 96100 81 75 78 96100100100100
+Wind dir             S  S SW SW SE  E SE  E NE NE NE NE NE NE NE NE  N  N  N  N
+Wind spd             4  2  1  1  2  4  4  3  5  5  8 10 11 12 12  9  9  6  5  6
+Wind gust                                                  23                  
+Clouds              CL CL CL FW CL CL SC SC B1 B2 OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                      0           0          20          70          30
+QPF 12hr                      0           0           0        0.29        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                            S  S  C  C  L  L  C  C  S  S   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      56    70      57    71      56    70      55    68
+Temp          67 60   58 58 69 61   59 60 69 62   59 58 69 60   57 57 67 58
+Dewpt         58 59   58 57 61 61   59 60 61 62   59 58 57 57   56 55 54 56
+PWind dir         N       E     E       E    SE       N     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B1 B1   B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      20    10      20    20      20    10      20    20
+Rain shwrs     S  S    S  S             S  S  S    S  S             S  S  S
+
+$$
+DEZ003-220900-
+Georgetown-Sussex DE
+38.69N  75.36W Elev. 53 ft
+1004 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          68          52          65          54
+Temp                48 45 41 49 63 68 65 55 54 55 57 58 63 64 63 58 57 56 55 56
+Dewpt               45 44 41 43 47 47 48 51 53 55 56 57 59 59 58 57 57 56 55 56
+RH                  89 96100 80 56 47 54 86 96100 96 96 87 84 84 96100100100100
+Wind dir             S  S  N  N  E  E  E  E NE NE NE NE NE NE NE NE  N  N  N  N
+Wind spd             3  1  0  0  2  5  5  3  4  6  8 10 13 13 13 10  6  6  4  4
+Wind gust                                               24 25 24               
+Clouds              CL CL FW FW CL CL SC SC B2 B2 OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                      0           0          40          70          30
+QPF 12hr                      0           0        0.04        0.34        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                            C  C  L  L  L  L  C  C  C  C   
+Rain shwrs                                                                    S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      56    73      58    72      56    72      55    69
+Temp          68 60   58 58 71 61   59 60 71 63   59 58 71 61   57 57 68 59
+Dewpt         60 60   58 58 62 61   59 60 63 63   59 58 59 58   56 56 56 56
+PWind dir        NE       E     E       E     E       N     N       N     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B1 B1   B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B2 B2 B2
+PoP 12hr         20      10    10      20    20      20    10      20    20
+Rain shwrs     S  S                     S  S  S    S  S             S  S  S
+
+$$

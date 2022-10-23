@@ -1,0 +1,140 @@
+ASUS43 KIWX 220010
+RWRIWX
+
+KIWX WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NORTHERN INDIANA
+800 PM EDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. 
+
+* THESE STATIONS ARE NOT UNDER NWS QUALITY CONTROL. THEY ALSO MAY NOT 
+  REPORT WEATHER SUCH AS PRECIPITATION OR FOG. 
+
+INZ001>027-220100-
+NORTHERN INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY*          CLEAR     70  39  32 S8        29.74R                  
+VALPARAISO     CLEAR     69  37  30 S12G22    29.77R                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  77;                                
+
+MICHIGAN CITY* CLEAR     68  36  30 S12G20    29.76R                  
+LAPORTE*       CLEAR     66  44  45 CALM      29.77R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  74;                                
+
+KNOX*          CLEAR     64  36  34 S12       29.78R                  
+SOUTH BEND     CLEAR     66  38  35 S13       29.78R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  75;                                
+
+ELKHART*       CLEAR     65  38  37 S8        29.79R                  
+GOSHEN         CLEAR     63  38  39 S13       29.79R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  73;                                
+
+MONTICELLO*    CLEAR     66  34  30 S8        29.81R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  75;                                
+
+LOGANSPORT*    CLEAR     61  36  39 S10       29.84R                  
+ROCHESTER*     CLEAR     66  37  34 S12       29.81S                  
+PLYMOUTH*      CLEAR     64  37  36 VRB7      29.79R                  
+WARSAW*        CLEAR     65  37  36 CALM      29.82R                  
+AUBURN*        CLEAR     63  37  39 S7        29.84R                  
+FORT WAYNE     PTCLDY    60  37  42 S12       29.85R                  
+6HR MIN TEMP:  60; 6HR MAX TEMP:  74;                                
+
+HUNTINGTON*    CLEAR    N/A N/A N/A S7        29.84R                  
+PERU/GRISSOM   CLEAR     63  36  37 S13       29.82R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  75;                                
+
+
+$$
+INZ028>050-220100-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAFAYETTE      CLEAR     66  36  32 S7        29.82R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  75;                                
+
+KOKOMO*        CLEAR     64  37  36 S13       29.86R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  74;                                
+
+MARION*        CLEAR     61  37  41 S12       29.88R                  
+6HR MIN TEMP:  28; 6HR MAX TEMP:  91;                                
+
+MUNCIE*        CLEAR     66  32  28 S12       29.88R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  74;                                
+
+INDIANAPOLIS   PTCLDY    63  35  35 S10       29.88R                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  75;                                
+
+
+$$
+MIZ043>046-050>051-056>058-064>065-071>073-077>080-220100-
+SOUTHWEST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATTLE CREEK   CLEAR     65  39  38 S16       29.76R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  70;                                
+
+BENTON HARBOR  CLEAR     66  40  38 S9        29.73R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  73;                                
+
+COLDWATER*     CLEAR     65  37  35 S7        29.80R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  71;                                
+
+HILLSDALE*     CLEAR     62  33  33 S9        29.81R                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  68;                                
+
+HOLLAND        CLEAR     65  40  39 S13       29.70R                  
+6HR MIN TEMP:  65; 6HR MAX TEMP:  72;                                
+
+GRAND RAPIDS   PTCLDY    61  40  45 S9        29.71R                  
+6HR MIN TEMP:  61; 6HR MAX TEMP:  70;                                
+
+KALAMAZOO      CLEAR     64  40  41 S12       29.76R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  71;                                
+
+STURGIS*       CLEAR     63  34  33 S12       29.79R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  70;                                
+
+THREE RIVERS*  FAIR      64  38  38 S10       29.78R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  72;                                
+
+
+$$
+OHZ001>008-015>018-024>025-220100-
+NORTHWEST OHIO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WAUSEON*       FAIR      63  36  36 SW10      29.83R                  
+DEFIANCE       CLEAR     65  36  34 S12       29.84R                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  73;                                
+
+FINDLAY        CLEAR     63  36  36 S14       29.88R                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  74;                                
+
+OTTAWA*        FAIR      63  30  29 S7        29.89R                  
+TOLEDO EXPRESS CLEAR     66  37  34 S9        29.84R                  
+6HR MIN TEMP:  66; 6HR MAX TEMP:  74;                                
+
+VAN WERT*      FAIR      61  32  33 S10       29.87R                  
+LIMA           CLEAR     62  34  35 S9        29.90R                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  72;                                
+
+
+$$
+AND FOR LAKE MICHIGAN COASTAL AND OPEN LAKE BUOY OBSERVATIONS
+  
+STATION/POSITION TEMP    WIND        PRES    VSBY  WAVE
+                 AIR SEA DIR/SP/G                  HT/PER
+                 (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+CALUMET HARBOR           180/  9/ 14   N/A
+MICHIGAN CITY     71                 1005.6R
+BURNS HARBOR      70     180/  8/ 12 1007.1R
+SOUTH LAKE BUOY   56 48  190/ 16/ 17 1004.9R         3/ 4
+4 MI NW BRIDGMAN  64 56  160/ 12/ 16 1006.8          2/ 3
+MICHIGAN CITY     65                   N/A           1/ 3
+
+$$
+&&
+  

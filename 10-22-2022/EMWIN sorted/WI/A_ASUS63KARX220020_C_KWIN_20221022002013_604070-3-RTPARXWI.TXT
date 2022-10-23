@@ -1,0 +1,140 @@
+ASUS63 KARX 220020
+RTPARX
+
+Max/Min Temperature and Precipitation Table for
+The Upper Mississippi River Valley
+National Weather Service La Crosse WI
+719 PM CDT Fri Oct 21 2022
+
+.BR LSE 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: Values represent highs and lows over the last 18 hours...
+: and precipitation over the last 24 hours ending at 7 pm
+:
+:                                                    Snow  Snow
+:                                 High   Low   Pcpn  Fall  Depth
+:
+TOB  : Dodge Center AWOS     MN :   70 /  43 / 0.00/  0.0/   0
+AUM  : Austin AWOS           MN :   70 /  39 / 0.00/  0.0/   0
+RST  : Rochester ASOS        MN :   69 /  42 / 0.00/  0.0/   0
+FKA  : Preston AWOS          MN :   71 /  43 / 0.00/  0.0/   0
+ONA  : Winona AWOS           MN :   72 /  36 / 0.00/  0.0/   0
+:
+CCY  : Charles City AWOS     IA :   73 /  37 / 0.00/  0.0/   0
+DEH  : Decorah AWOS          IA :   77 /  46 / 0.00/  0.0/   0
+OLZ  : Oelwein AWOS          IA :   75 /  36 / 0.00/  0.0/   0
+:
+MDZ  : Medford AWOS          WI :   64 /  35 / 0.00/  0.0/   0
+82C  : Mauston-New Lisbon AWOWI :   74 /  32 / 0.00/  0.0/   0
+BCK  : Black River Falls AWOSWI :   72 /  25 / 0.00/  0.0/   0
+LSE  : La Crosse ASOS        WI :   76 /  39 / 0.00/  0.0/   0
+CMY  : Sparta-Ft McCoy ASOS  WI :   72 /  26 / 0.00/  0.0/   0
+VOK  : Volk Field ASOS       WI :   73 /  36 / 0.00/  0.0/   0
+Y51  : Viroqua AWOS          WI :   71 /  44 / 0.00/  0.0/   0
+PDC  : Prairie du Chien AWOS WI :   72 /  62 / 0.00/  0.0/   0
+OVS  : Boscobel ASOS         WI :   78 /  27 / 0.00/  0.0/   0
+PVB  : Platteville AWOS      WI :   77 /  39 / 0.00/  0.0/   0
+:
+.END
+
+
+.BR LSE 1021 C DH19/TAIRZY/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:...Official NWS Cooperative Observations...
+: Values represent 24-hour totals as of this evening
+:
+:                                                    Snow  Snow
+:                                 High   Low   Pcpn  Fall  Depth
+:
+:...Northeast Iowa...
+DCRI4: Decorah               IA :    75 /  32 / 0.00/ 0.0 /   0
+:
+.END
+
+
+&&
+
+
+...Other Automated Observations...
+ Values represent 24-hour totals as of this evening
+                                                     
+                                  High   Low   Pcpn  
+
+
+ASNM5: Austin 3S             MN :      /     / 0.00
+DOBM5: Austin 2NE            MN :      /     / 0.00
+TRCM5: Austin 3NW            MN :      /     / 0.00
+BVRM5: Beaver                MN :      /     / 0.00
+DKTM5: Dakota                MN :      /     / 0.00
+EBWM5: Elba                  MN :      /     / 0.00
+FLMM5: Fillmore              MN :      /     / 0.00
+BSPM5: Great River Bluffs SP MN :   72 /  48 / 0.00
+ONOM5: Oronoco 1W            MN :      /     / 0.00
+OCOM5: Oronoco               MN :      /     / 0.00
+WFOM5: Elgin 5se             MN :      /     / 0.00
+WIRM5: Eyota 2ne             MN :      /     / 0.00
+HOUM5: Houston               MN :      /     / 0.00
+KELM5: Kellogg               MN :      /     / 0.00
+LNSM5: Lanesboro             MN :      /     / 0.00
+MDPM5: Mound Prairie         MN :      /     / 0.00
+RPMM5: Pilot Mound           MN :      /     / 0.00
+RBCM5: Rochester Bear Cr     MN :      /     / 0.00
+RCCM5: Rochester Cascade Cr  MN :      /     / 0.00
+ROCM5: Rochester Silver Cr   MN :      /     / 0.00
+SFZM5: Rochester 5SW         MN :      /     / 0.00
+RCSM5: Rochester Beltline    MN :      /     / 0.00
+BSHI4: Elkader 5NW           IA :      /  33 / 0.00
+CCYI4: Charles City          IA :      /     / 0.00
+DEHI4: Decorah               IA :      /     / 0.00
+DCHI4: Dorchester Hwy 76     IA :      /     / 0.00
+EDRI4: Eldorado 1E           IA :      /     / 0.00
+EKDI4: Elkader               IA :      /     / 0.00
+GRBI4: Garber                IA :      /     / 0.00
+VLPI4: Littleport            IA :      /     / 0.00
+MBRI4: Marquette             IA :      /     / 0.00
+NASI4: Nashua 2SW            IA :   74 /  37 / 0.00
+BBLW3: Boscobel RAWS         WI :   78 /  29 / 0.00
+BFWW3: Black River Falls RAWSWI :   72 /  30 / 0.00
+DMLW3: Diamond Lake RAWS     WI :   67 /  28 / 0.00
+LKRW3: Lancaster RAWS        WI :   76 /  43 / 0.00
+LSRW3: La Crosse RAWS        WI :   73 /  49 / 0.00
+MUSW3: Muscoda               WI :      /     / 0.00
+STEW3: Steuben               WI :      /     / 0.00
+:
+.END
+
+
+&&
+.BR ARX 1021 C DH1915/DC2210211915/GDIRZZ/GTIRZZ
+:
+:
+: ...Frost Depth...
+:
+: This information is normally provided during the cool season.
+:
+: The most recent information is provided for each location.
+:   The date and time of each observation are in Central time.
+:   Note that the observation may not be from the current day.
+:
+: Frost Depth refers to the depth of frost penetration into 
+:   the ground, in inches. 
+:
+: Frost Top refers to the depth of the top of the frost
+:   layer, in inches. A value of zero means frost exists
+:   from the ground surface to the frost depth.
+:
+:
+:                           Date/Time  Frost  Frost
+:       Location              DDHHMM   Depth   Top
+:
+:
+.END
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at: www.ncei.noaa.gov   
+
+$$
+
+Boyne

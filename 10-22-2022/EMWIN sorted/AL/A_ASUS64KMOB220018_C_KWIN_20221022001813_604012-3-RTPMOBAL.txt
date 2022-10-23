@@ -1,0 +1,44 @@
+ASUS64 KMOB 220018
+RTPMOB
+
+Max/Min Temperature and Precipitation Table For
+Southeast Mississippi,Southwest Alabama,Western Florida Panhandle
+National Weather Service Mobile AL
+715 PM CDT Fri Oct 21 2022
+
+TEMPERATURES:HIGH TODAY/LOW THIS MORNING
+PRECIPITATION:TODAY
+
+
+                              HIGH     LOW      TODAY'S
+                                                PCPN
+AUTOMATIC STATIONS (ASOS and AWOS)
+
+
+MOB :Mobile,AL              : 78   /   42  /    0.00
+BFM :Brookley Field,AL      : 74   /   44  /    0.00
+JKA :Gulf Shores,AL         : 72   /   41  /    0.00
+79J :Andalusia,AL           : 78   /   41  /    0.00
+0J4 :Florala,AL             : 74   /   39  /    0.00
+GZH :Evergreen,AL           : 76   /   35  /    0.00
+PRN :Greenville,AL          : 73   /   34  /    0.00
+TOI :Troy,AL                : 75   /   35  /    0.00
+MGM :Montgomery,AL          : 73   /   36  /    0.00
+DHN :Dothan,AL              : 74   /   39  /    0.00
+ECP :Panama City,FL         : 76   /   40  /    0.00
+PNS :Pensacola,FL           : 75   /   45  /    0.00
+NPA :Pensacola NAS,FL       : 73   /   40  /    0.00
+DTS :Destin,FL              : 73   /   54  /    0.00
+CEW :Crestview,FL           : 77   /   34  /    0.00
+HRT :Hurlburt Field,FL      : 70   /   41  /    0.00
+VPS :Valparaiso,FL          : 72   /   43  /    0.00
+NSE :Whiting Field,FL       : 76   /   37  /    0.00
+PQL :Pascagoula,MS          : 78   /   37  /    0.00
+GPT :Gulfport Airport,MS    : 74   /   46  /       T
+BIX :Biloxi,MS              : 74   /   48  /    0.00
+JAN :Jackson,MS             : 83   /   48  /    0.00
+PIB :Hattiesburg,MS         : 81   /   42  /    0.00
+MEI :Meridian,MS            : 79   /   40  /    0.00
+
+
+.END

@@ -1,0 +1,230 @@
+FPUS66 KMTR 220101
+SFTMTR
+CAZ006-505>530-221300-
+
+Tabular State Forecast for San Francisco Bay Area
+National Weather Service San Francisco Bay Area
+601 PM PDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   DAILY PREDOMINANT DAYTIME WEATHER 6AM-6PM
+   FORECAST TEMPERATURES...EARLY MORNING LOW/DAYTIME HIGH
+         PROBABILITY OF PRECIPITATION NIGHTTIME 6PM-6AM/DAYTIME 6AM-6PM
+          - INDICATES TEMPERATURES BELOW ZERO
+         MM INDICATES MISSING DATA
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...North Bay...
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+   Cloverdale
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   52/68    42/70    42/75    48/71    45/66    42/71    43/71    
+    10/00    00/00    00/00    10/30    30/20    00/00    10/20   
+
+   Petaluma
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   54/72    45/71    46/74    48/71    47/69    45/71    44/71    
+    10/00    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Santa Rosa
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   51/72    42/72    41/75    45/72    44/69    41/72    41/71    
+    10/00    00/00    00/00    10/20    20/20    00/00    10/10   
+
+   Point Reyes
+   DRZL     SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    PTCLDY   
+   55/63    48/64    47/65    50/63    50/61    46/63    46/63    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Muir Woods
+   DRZL     SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    PTCLDY   
+   54/66    50/67    51/67    51/65    51/64    49/66    48/65    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   San Rafael
+   SUNNY    SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    PTCLDY   
+   57/74    50/76    51/77    53/75    52/73    50/75    49/75    
+    10/00    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Novato
+   SUNNY    SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   56/74    48/74    49/77    50/74    50/73    47/75    47/74    
+    10/00    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Napa
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   54/70    45/67    47/70    48/68    47/65    46/67    44/67    
+    10/00    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Lake Berryessa
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   59/70    52/66    53/72    53/70    52/65    52/68    50/69    
+    10/00    00/00    00/00    00/30    30/20    00/00    10/10   
+
+
+...San Francisco Area...
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+   San Francisco 
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   57/67    52/67    53/66    53/64    53/64    51/65    50/65    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Daly City 
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   55/65    51/65    52/65    52/63    52/62    50/63    50/63    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   San Francisco Airport   
+   PTCLDY   SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    PTCLDY   
+   57/68    53/68    53/70    53/67    54/65    52/67    51/68    
+    10/00    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Redwood City
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   57/69    51/70    51/73    53/70    52/67    50/70    50/72    
+    00/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   Pacifica  
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   55/62    52/62    52/63    53/60    52/60    50/61    50/62    
+    10/10    00/00    00/00    00/20    20/20    00/00    10/10   
+
+   Half Moon Bay  
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   PTCLDY   PTCLDY   
+   55/62    50/62    49/64    51/60    51/58    49/61    48/61    
+    10/10    00/00    00/00    00/20    20/20    00/00    00/10   
+
+
+...East Bay...
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+   Oakland       
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   58/69    52/70    52/70    53/66    54/65    52/67    50/67    
+    10/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   Fremont       
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   56/66    48/67    48/68    51/65    51/62    48/66    48/67    
+    00/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   Antioch     
+   PTCLDY   SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    SUNNY    
+   61/73    53/70    52/73    53/72    54/68    53/70    49/71    
+    00/00    00/00    00/00    00/20    20/20    10/00    10/10   
+
+   Concord      
+   PTCLDY   SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    PTCLDY   
+   57/74    49/72    49/75    50/73    51/70    49/73    46/73    
+    00/00    00/00    00/00    00/20    20/20    10/00    10/10   
+
+   Walnut Creek     
+   PTCLDY   SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    SUNNY    
+   56/74    48/73    49/76    51/73    50/71    48/73    46/74    
+    00/00    00/00    00/00    00/20    20/20    10/00    10/10   
+
+   Pleasanton     
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   56/71    46/70    47/74    50/70    50/68    47/71    47/73    
+    00/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   Livermore     
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   56/71    46/70    46/73    49/71    49/68    47/70    47/72    
+    00/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+
+...South Bay...
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+   Mountain View 
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   58/65    50/66    49/68    52/65    52/62    50/65    50/66    
+    00/00    00/00    00/00    00/20    20/20    10/00    00/10   
+
+   San Jose      
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   57/68    50/68    48/71    52/69    52/65    49/68    49/70    
+    00/00    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Los Gatos   
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   56/69    48/70    47/74    51/72    50/67    47/70    49/73    
+    00/00    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Morgan Hill   
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   53/69    46/69    44/74    48/72    48/67    45/70    46/73    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Gilroy   
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   54/71    46/70    44/74    48/72    48/68    45/71    46/73    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/10   
+
+
+...Monterey Bay Area...
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+   Santa Cruz    
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   52/66    47/67    46/68    48/66    48/64    46/65    47/66    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/00   
+
+   Monterey     
+   DRZL     SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   55/63    49/63    47/66    50/63    50/60    47/63    48/64    
+    10/10    00/00    00/00    00/10    10/10    00/00    00/00   
+
+   Hollister     
+   PTCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   SUNNY    PTCLDY   
+   51/64    42/66    41/69    45/66    47/62    42/65    44/68    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Salinas       
+   MOCLDY   SUNNY    SUNNY    PTCLDY   PTCLDY   PTCLDY   PTCLDY   
+   54/62    45/62    44/65    47/62    49/59    45/61    46/64    
+    10/10    00/00    00/00    00/10    10/10    10/00    00/10   
+
+   King City     
+   PTCLDY   SUNNY    SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    
+   47/65    40/65    37/69    42/70    43/63    40/66    40/69    
+    10/10    00/00    00/00    00/10    10/10    10/00    00/00   
+
+   Pinnacles NP    
+   PTCLDY   SUNNY    SUNNY    SUNNY    PTCLDY   SUNNY    SUNNY    
+   47/66    38/68    38/74    43/74    42/66    38/70    40/74    
+    00/00    00/00    00/00    00/10    10/10    10/00    00/00   
+
+$$
+
+Visit us at www.weather.gov/sanfrancisco
+
+Follow us on Facebook and Twitter at:
+www.facebook.com/nwsbayarea
+www.twitter.com/nwsbayarea
+
+
+

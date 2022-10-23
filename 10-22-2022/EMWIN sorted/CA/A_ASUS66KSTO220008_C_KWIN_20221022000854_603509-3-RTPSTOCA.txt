@@ -1,0 +1,55 @@
+ASUS66 KSTO 220008
+RTPSTO
+
+Regional Temperature And Precipitation Summary
+National Weather Service Sacramento CA
+507 PM PDT Fri Oct 21 2022
+
+:
+:Observations taken at 500 PM...Temperature...Precipitation...Inches
+.BR STO 1021 P DH17/TX/TN/PP/SD
+:
+:High temperatures are for today
+:Low temperatures are for today
+:Precipitation for previous 24 hours
+:M denotes missing. T denotes trace.
+:AP = airport    RS = ranger station
+:
+: ID      Station                Elev     High / Low /  Pcpn / Snodep
+:
+:      ...Northern Sierra Nevada/Lassen N.P./Siskiyou County...
+AAT  :  Alturas                  4400 :     58 /  26 /  0.00 / 
+TVL  :  South Lake Tahoe Airport 6314 :     69 /  29 /  0.00 / 
+BLU  :  Blue Canyon AP           5280 :     70 /  57 /  0.00 /  M
+MHS  :  Mt Shasta City           3590 :     74 /  45 /  0.00 / 
+SIY  :  Montague/Siskiyou AP     2635 :     75 /  41 /  0.00 / 
+:
+:      ...Northern/Central Sacramento Valley and Foothills...
+RDD  :  Redding AP                502 :     84 /  50 /  0.00 / 
+RBL  :  Red Bluf AP               349 :     84 /  53 /  0.00 / 
+OVE  :  Oroville AP               192 :     87 /  53 /  0.00 / 
+PDEC1:  Paradise                 1750 :     78 /  62 /  0.00 / 
+MYV  :  Marysville AP              62 :     86 /  49 /  0.00 / 
+ECKC1:  Alder Springs            4500 :     75 /  62 /  0.00 / 
+:
+:      ...Southern Sacramento Valley...
+SMTC1:  Sacramento                 25 :     84 /  56 /  0.00 / 
+SMF  :  Sacramento Intl AP         21 :     84 /  51 /  0.00 / 
+SAC  :  Sacramento Exec AP         25 :     81 /  52 /  0.00 / 
+:
+:      ...Delta/Solano County/Northern San Joaquin Valley...
+SUU  :  Travis AFB                 40 :     75 /  51 /  0.00 / 
+VCB  :  Vacaville AP              113 :     83 /  49 /  0.00 / 
+VLJC1:  Vallejo                   260 :     68 /  52 /  0.00 /  M
+SCK  :  Stockton AP                27 :     87 /  52 /  0.00 / 
+MOD  :  Modesto AP                 97 :     87 /  51 /  0.00 / 
+TRPC1:  Tracy Pumping Plant        61 :      M /   M /     M /  M
+:
+.End
+:
+:These data are preliminary and have not undergone final quality
+:control by the National Climatic Data Center. Therefore, these
+:data are subject to revision. Final and certified climate data
+:can be accessed at www.ncdc.noaa.gov.
+:
+$$

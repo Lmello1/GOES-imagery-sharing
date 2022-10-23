@@ -1,0 +1,73 @@
+ASUS65 KREV 220040
+RTPREV
+
+Regional Temperature and Precipitation Table
+National Weather Service Reno Nevada
+515 PM PDT Fri Oct 21 2022
+
+Values represent 18 hour highs, 18 hour lows and precipitation over
+the last 24 hours.
+
+Snow depth is measured daily and is valid as of 5 PM PDT.
+.BR REV 1021 P DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:California and Nevada
+:Automated Temperature and Precipitation Stations
+:...............................................................
+:       Station              Max / Min / 24 hr /  Snow /  Snow
+:        Name                Temp/ Temp/ Pcpn  /  Fall /  Depth
+:...............................................................
+NFL  : Fallon Naval Air St :  81 /  46 /  0.00 /       /     
+LOL  : Lovelock Airport    :   M /   M /  0.00 /       /     
+RNO  : Reno Airport        :  81 /  42 /  0.00 /   0.0 /    0
+TVL  : South Lake Tahoe Ai :  69 /  29 /  0.00 /       /     
+CXP  : Carson City Airport :  77 /  36 /  0.00 /       /     
+HTH  : Hawthorne Airport A :   M /   M /     M /       /     
+MEV  : Minden Airport AWOS :  77 /  27 /  0.00 /       /     
+MMH  : Mammoth Yosemite Ai :  68 /  21 /  0.00 /       /     
+:
+.END
+
+.BR REV 1021 P DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Automated full time stations
+:High temperatures today
+:Low temperatures this morning
+:24 hour precipitation
+:...................................................................
+:      Station           Report  Max  / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp / Temp /  Pcpn  /  Fall / Depth
+:...................................................................
+:
+HICC1:  Palisades 8K FT : DH1700/  60 /  47  /        /       /    
+MKEC1:  Markleeville CA : DH1700/  73 /  41  /     0  /       /    
+:
+.END
+
+.BR REV 1021 P DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:California and Nevada Cooperative Weather Observer
+:Temperature and Precipitation Reports
+:Values are for the past 24 hours.
+:...................................................................
+:      Station           Report  Max  / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp / Temp /  Pcpn  /  Fall / Depth
+:...................................................................
+:
+REV  :  NWS Reno        :    DHM/  80 /  47  /  0.00  /   0.0 /   0
+:
+.END 
+
+Selected hydrological information for the Truckee River Basin...
+   Lake level for Lake Tahoe at Tahoe City....6223.08 feet at  500 PM
+   Truckee River water temperatures at Sparks
+      Maximum this afternoon..................56 degrees
+      Minimum this morning....................51 degrees
+   
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+
+$$

@@ -1,0 +1,88 @@
+SXUS52 KTAE 220115
+OSOTAE
+OSOTAE
+North Florida/South Alabama/Southwest Georgia Weather Roundup
+National Weather Service Tallahassee Florida
+900 PM EDT FRI OCT 21 2022
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+!FLZ017-115-028-034-025-220200
+...North Florida...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TALL INTL ARPT CLEAR     54  38  54 CALM      30.11R                  
+FSU LOVE BLDG    N/A     61  43  51 CALM        N/A                   
+APALACHICOLA   CLEAR     54  47  77 CALM      30.11R                  
+PERRY          NOT AVBL                                               
+CROSS CITY     CLEAR     50  40  68 CALM      30.10R                  
+JACKSONVILLE   CLEAR     53  45  74 CALM      30.10R                  
+$$
+
+!FLZ112-006-005-002-011-220200
+...Florida Panhandle...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARIANNA       CLEAR     56  43  61 CALM      30.11R                  
+BONIFAY        NOT AVBL                                               
+PANAMA CITY NW FAIR      57  47  69 VRB5      30.10R                  
+TYNDALL AFB    CLEAR     56  46  67 CALM      30.09R                  
+TYND DRONE APT FAIR      57  44  59 CALM      30.07R                  
+DE FUNIAK SPR  NOT AVBL                                               
+EGLIN AFB      CLEAR     58  45  61 CALM      30.08R                  
+DESTIN         CLEAR     62  47  57 CALM      30.11R                  
+HURLBURT       CLEAR     55  47  73 N3        30.09R                  
+CRESTVIEW      CLEAR     54  47  77 MISG      30.12R                  
+PENSACOLA      CLEAR     62  45  53 CALM      30.10R                  
+$$
+
+!ALZ063-066-220200
+...South Alabama...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOTHAN         CLEAR     55  41  59 CALM      30.15R                  
+OZARK CAIRNS   CLEAR     56  41  57 CALM      30.10R                  
+FT RUCKER HELI CLEAR     52  46  82 CALM      30.11  HAZE             
+RUCKER HELI 3  FAIR      56  44  65 CALM      30.10R                  
+RUCKER HELI 2  FAIR      54  48  81 CALM      30.09R                  
+FLORALA APT    CLEAR     53  43  68 CALM      30.13R                  
+ANDALUSIA      CLEAR     58  45  62 CALM      30.11R                  
+TROY           CLEAR     52  45  77 CALM      30.12R                  
+EUFALA         FAIR      49  44  83 CALM      30.13R                  
+MOBILE         CLEAR     61  47  59 S6        30.10R                  
+$$
+
+!GAZ120>161-220200
+...Southwest and South Central Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+THOMASVILLE    FAIR      50  45  81 CALM      30.13R                  
+BAINBRIDGE     CLEAR     53  40  61 CALM      30.12R                  
+MOODY AFB      CLEAR     51  41  69 CALM      30.10R                  
+VALDOSTA       CLEAR     50  41  71 CALM      30.11R                  
+MOULTRIE       CLEAR     54  41  62 CALM      30.12R                  
+BLAKELY        CLEAR     48  43  81 CALM      30.12R                  
+ALBANY         CLEAR     51  40  65 CALM      30.13R                  
+TIFTON         NOT AVBL                                               
+FITZGERALD     FAIR      50  45  80 CALM      30.13R                  
+CORDELE        FAIR      50  38  62 CALM      30.13R                  
+AMERICUS       FAIR      51  38  60 CALM      30.11R                  
+HOMERVILLE     FAIR      49  43  78 CALM      30.12R                  
+$$
+
+!GMZ750-755-770-775-220200
+...Coastal and Buoy Obs...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+KEATON BEACH     0100   61      10/  3/  5 1019.3R
+CEDAR KEY        0100   62     360/  5/  6 1019.3R
+C TOWER          0100   67                 1019.8R
+APALACHICOLA BUO 0100   69 79   30/ 12/ 16 1017.6
+PANAMA CITY BUOY 0100   69      50/  4/  8 1020.0
+MOBILE BUOY      0100   71 79  120/  6/ 10 1019.8
+ORANGE BCH AL BU 0100   69 75  200/  8/ 10 1019.1
+$$
+  

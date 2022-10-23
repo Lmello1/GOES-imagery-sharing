@@ -1,0 +1,1342 @@
+FOUS54 KOHX 220118
+AFMOHX
+
+Area Forecast Matrices
+National Weather Service Nashville TN
+817 PM CDT Fri Oct 21 2022
+
+TNZ027-221000-
+Davidson-
+Including the city of Nashville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          77          54          78          52
+Temp                63 59 56 54 64 75 76 69 63 60 57 54 67 76 76 68 62 57 56 53
+Dewpt               42 44 43 44 49 52 52 51 51 50 48 46 47 47 46 46 45 45 44 44
+RH                  46 57 62 69 58 45 43 53 65 69 72 74 49 36 34 45 54 64 64 71
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9  8  9  9 11 11 12  8  8  6  5  5 11 12 11  6  6  4  5  4
+Clouds              FW SC SC SC SC SC SC B1 SC FW FW FW SC FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      56    78      54    68      47    71      50    74
+Temp          77 70   61 57 77 72   61 54 66 62   53 48 70 64   54 50 72 65
+Dewpt         49 48   49 49 54 53   57 52 49 49   48 46 49 49   50 50 53 52
+PWind dir         S       S     S       S    SW      NW    NE       E    SE
+Wind char        GN      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0      10    30      50    10       5     5      10    20
+Rain shwrs                      C    C  C                                 S
+
+$$
+TNZ059-221000-
+Williamson-
+Including the cities of Franklin and Brentwood
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          76          51          76          50
+Temp                60 57 53 52 63 74 75 67 61 57 54 52 65 75 75 65 59 55 54 51
+Dewpt               44 45 44 44 49 53 53 52 51 50 48 46 48 47 47 46 45 45 44 44
+RH                  55 64 71 74 60 48 46 59 70 77 80 80 54 37 37 50 60 69 69 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9  9  9  9 11 12 12  6  8  6  5  6 11 12 10  6  6  5  6  5
+Clouds              FW SC SC SC SC SC B1 SC SC FW FW FW SC FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      54    78      52    68      46    71      49    73
+Temp          76 67   59 55 76 70   60 52 66 59   50 46 69 62   52 49 72 62
+Dewpt         50 49   49 49 55 55   57 52 50 50   48 46 51 50   51 49 54 53
+PWind dir         S       S     S       S    SW      NW    NE       E     S
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC FW   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      C    C  S                                 S
+
+$$
+TNZ062-221000-
+Rutherford-
+Including the cities of Murfreesboro, Smyrna, and La Vergne
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          76    48 50 54          76          49
+Temp                59 56 52 51 64 74 75 66 60 57 53 51 66 75 75 64 58 53 53 50
+Dewpt               39 41 42 42 48 52 53 52 50 48 46 44 47 47 46 46 44 44 43 44
+RH                  47 57 69 71 56 46 46 61 69 72 77 77 50 37 36 52 59 71 69 80
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S
+Wind spd             5  5  5  6 10 11 11  5  5  4  4  4  9 10  9  4  5  3  5  4
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      54    78      53    70      46    73      48    75
+Temp          76 67   58 55 77 71   62 53 67 62   50 46 71 63   52 48 73 63
+Dewpt         50 49   48 49 56 54   57 52 52 50   48 46 51 50   51 48 56 53
+PWind dir         S       S     S       S    SW      NW    NE       E     S
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC FW   SC B1 SC SC   SC B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      50    10       5     5      10    20
+Rain shwrs                      S    C  S                                 S
+
+$$
+TNZ028-221000-
+Wilson-
+Including the cities of Lebanon and Mount Juliet
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          76          51          77          49
+Temp                60 57 53 52 64 74 75 66 61 57 54 52 66 75 76 65 59 54 53 50
+Dewpt               38 40 41 42 47 53 53 52 50 48 46 44 48 47 46 46 45 44 43 44
+RH                  44 53 64 69 54 48 46 61 67 72 74 74 52 37 34 50 60 69 69 80
+Wind dir             S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S SE SE  S SE
+Wind spd             5  5  5  5 11 11 11  5  5  4  3  4  9 10  9  4  5  3  4  3
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      54    78      53    69      46    71      48    74
+Temp          76 66   58 55 77 69   61 53 66 61   50 46 70 61   51 48 72 62
+Dewpt         50 49   48 49 56 54   57 52 52 50   48 46 51 51   50 48 56 54
+PWind dir         S      SE     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC B1   SC B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      S    C  C                                 S
+
+$$
+TNZ008-221000-
+Sumner-
+Including the cities of Hendersonville, Gallatin, 
+and Goodlettsville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          77          52          76          51
+Temp                61 57 54 53 64 74 76 67 62 58 55 53 66 75 75 67 60 56 54 52
+Dewpt               38 40 41 42 47 52 52 51 51 50 48 46 47 46 45 46 45 45 44 44
+RH                  42 53 61 66 54 46 43 56 67 75 77 77 50 36 34 47 58 66 69 74
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S
+Wind spd             8  8  8  8 12 12 12  6  6  5  5  5 11 12 10  5  6  4  5  4
+Clouds              FW SC SC SC SC SC SC B1 SC FW FW FW FW FW SC FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      55    78      54    68      47    71      50    73
+Temp          76 67   59 56 76 70   61 54 65 61   52 47 69 62   53 50 72 63
+Dewpt         48 48   49 49 54 53   57 53 49 49   48 46 49 48   50 50 53 52
+PWind dir         S       S     S       S    SW      NW    NE       E    SE
+Wind char        LT      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      C    C  C  S                              S
+
+$$
+TNZ007-221000-
+Robertson-
+Including the city of Springfield
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          77          54          77          52
+Temp                62 59 55 54 64 74 76 67 63 59 56 55 67 76 75 66 61 57 55 53
+Dewpt               42 44 44 45 50 53 52 52 52 51 50 48 48 47 46 46 45 46 44 45
+RH                  48 57 66 71 60 48 43 59 67 75 80 77 50 36 36 48 56 67 66 74
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S
+Wind spd             9 10 10 10 13 13 13  8  9  8  6  8 12 14 11  8  8  5  6  5
+Clouds              FW SC SC SC SC SC SC B1 SC FW FW FW SC FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      55    77      53    67      46    70      49    72
+Temp          76 67   59 56 76 69   59 53 64 59   51 46 68 61   52 49 71 62
+Dewpt         48 48   49 49 54 54   57 52 49 49   48 46 49 49   49 49 52 52
+PWind dir         S       S     S       S    SW      NW    NE       E    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0      10    30      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ026-221000-
+Cheatham-
+Including the cities of Ashland City and Kingston Springs
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          77          54          77          52
+Temp                63 60 56 54 65 75 76 68 63 59 57 55 66 76 76 67 61 57 56 52
+Dewpt               45 47 46 47 51 53 52 52 52 51 49 47 49 48 46 46 45 46 44 44
+RH                  52 62 69 77 60 46 43 57 67 75 75 74 54 37 34 47 56 67 64 74
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9  9  9  9 11 12 11  6  8  6  6  6 11 12 11  6  6  5  5  4
+Clouds              FW SC SC SC SC SC SC SC SC FW FW SC SC FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      56    77      52    67      46    71      49    72
+Temp          77 69   61 57 76 71   59 52 65 61   51 46 69 63   53 49 72 63
+Dewpt         49 48   49 49 54 54   57 52 49 49   48 46 49 49   50 49 53 52
+PWind dir         S       S     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ006-221000-
+Montgomery-
+Including the city of Clarksville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          78          55          78          53
+Temp                62 59 56 55 66 76 77 68 63 60 58 56 68 77 77 67 61 58 56 53
+Dewpt               46 48 47 48 52 54 53 52 52 52 51 49 50 49 46 47 46 46 44 44
+RH                  56 67 72 77 61 46 43 57 67 75 77 77 52 37 33 49 58 64 64 71
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  9  9  9 12 13 13  8  8  8  6  8 12 14 11  6  6  5  6  4
+Clouds              FW FW SC SC SC SC SC SC SC SC FW SC SC FW SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      56    77      52    66      45    70      48    72
+Temp          78 68   60 57 77 70   58 52 64 60   50 46 69 61   52 48 72 62
+Dewpt         48 48   49 49 54 56   57 51 48 49   48 45 49 49   50 48 52 52
+PWind dir         S       S     S       S    SW      NW     E       E    SE
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 B1 B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ005-221000-
+Stewart-
+Including the city of Dover
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          77    55 58 61          78          55
+Temp                64 61 58 57 67 76 76 69 65 62 60 58 67 76 77 69 65 61 59 55
+Dewpt               49 50 50 51 54 54 53 52 52 52 51 49 52 50 47 48 46 47 45 44
+RH                  58 67 75 80 63 46 45 55 63 70 72 72 59 40 35 47 50 60 60 66
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  9 11 12 12  8  8  8  8  8 11 13 10  6  6  5  6  4
+Wind gust                          23 23                   25                  
+Clouds              FW FW SC SC SC SC B1 SC SC SC SC SC SC SC SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    76      50    65      45    70      48    72
+Temp          77 69   60 57 75 69   57 50 63 60   50 46 69 62   52 49 71 63
+Dewpt         48 48   49 49 54 56   55 50 47 48   47 46 48 48   49 48 51 51
+PWind dir         S       S     S       S    SW      NW    NE       E    SE
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 B1 B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    50      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ025-221000-
+Dickson-
+Including the city of Dickson
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          76          54          76          52
+Temp                63 59 55 54 65 74 75 67 62 59 56 55 66 75 75 66 60 57 56 52
+Dewpt               47 48 47 48 52 54 53 53 52 51 50 48 50 48 47 47 46 46 44 45
+RH                  56 67 74 80 63 50 46 61 70 75 80 77 56 38 37 50 60 67 64 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             9  9  9  9 11 12 12  6  8  8  6  8 11 13 11  6  6  5  6  4
+Clouds              FW FW SC SC SC SC B1 SC FW FW FW SC SC FW SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      55    76      51    66      45    70      48    72
+Temp          76 67   59 56 75 69   58 51 64 58   49 45 68 61   52 48 71 61
+Dewpt         50 49   49 49 55 57   57 51 49 50   48 45 50 50   50 48 53 53
+PWind dir         S       S     S       S    SW       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ023-221000-
+Houston-
+Including the cities of Erin and Tennessee Ridge
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          77          57          77          54
+Temp                64 61 57 56 66 75 76 68 64 61 59 57 66 76 76 68 63 60 59 54
+Dewpt               48 50 49 50 54 54 52 52 52 52 50 49 51 49 47 48 46 47 44 45
+RH                  56 67 75 80 65 48 43 57 65 72 72 75 58 39 36 49 54 62 57 71
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  9  8 11 12 11  6  8  8  6  8 11 12 11  6  6  5  6  4
+Clouds              FW FW SC SC SC SC B1 SC FW FW SC SC SC SC SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      56    76      51    66      45    70      48    72
+Temp          77 68   60 57 76 69   57 51 64 60   50 46 69 62   52 49 71 63
+Dewpt         48 48   49 49 54 56   56 50 48 49   48 46 49 49   49 49 52 52
+PWind dir         S       S     S       S    SW       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    50      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ024-221000-
+Humphreys-
+Including the cities of Waverly, New Johnsonville, and McEwen
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                53 55 59          77    54 56 60          77          54
+Temp                64 61 57 55 66 75 76 68 63 61 59 56 66 76 76 67 63 59 58 54
+Dewpt               49 50 50 51 54 55 53 52 52 51 50 48 51 49 48 48 46 46 44 45
+RH                  58 67 77 86 65 50 45 57 67 70 72 74 58 39 37 50 54 62 59 71
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  8 10 11 10  6  8  6  6  6 10 11 10  5  6  4  5  4
+Clouds              FW FW SC SC SC SC B1 SC FW FW SC SC SC FW SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    77      50    66      45    70      48    72
+Temp          77 67   59 56 76 68   57 50 64 59   50 46 69 61   52 48 72 61
+Dewpt         50 49   49 49 55 58   56 50 49 50   48 45 50 50   50 48 53 53
+PWind dir         S       S     S       S    SW       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    50      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ056-221000-
+Perry-
+Including the cities of Linden and Lobelville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          76          55          77          53
+Temp                65 61 57 55 65 75 75 68 64 61 59 55 66 75 76 67 63 59 57 53
+Dewpt               49 50 49 50 54 55 53 51 52 51 49 48 51 49 48 48 46 46 44 45
+RH                  56 67 75 83 68 50 46 54 65 70 69 77 58 40 37 50 54 62 62 74
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  6  8  6  9 10  9  5  8  6  6  6  9 10  8  5  6  4  5  4
+Clouds              FW FW SC SC FW SC B1 SC FW FW SC SC SC FW SC SC FW SC FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    77      50    67      45    71      48    74
+Temp          78 67   58 56 77 69   58 50 66 59   49 46 70 61   52 48 73 62
+Dewpt         49 49   49 50 55 58   56 50 48 49   47 45 50 50   50 48 53 53
+PWind dir         S       S     S      SW     W       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW SC   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ058-221000-
+Lewis-
+Including the city of Hohenwald
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          76          53          76          52
+Temp                64 60 55 53 64 74 75 67 62 58 56 53 65 74 75 66 61 57 56 52
+Dewpt               48 47 47 47 51 54 52 52 52 51 49 47 48 47 47 46 45 46 44 45
+RH                  56 62 74 80 63 50 45 59 70 77 77 80 54 38 37 48 56 67 64 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  8  9 11 10  5  6  6  5  6  9 11  9  4  5  4  5  3
+Clouds              FW FW SC SC SC SC B1 SC SC FW SC SC SC FW SC SC FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      55    77      51    67      45    71      48    73
+Temp          76 66   58 56 76 69   57 51 65 58   49 45 70 60   51 48 72 61
+Dewpt         49 49   49 50 55 57   57 51 49 49   47 45 49 50   51 48 53 53
+PWind dir         S       S     S       S     W       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ057-221000-
+Hickman-
+Including the city of Centerville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          77          53          77          52
+Temp                64 60 55 53 65 75 76 67 62 59 56 54 66 75 76 66 61 57 56 52
+Dewpt               48 48 47 48 52 55 53 52 52 51 49 47 50 48 47 47 46 46 44 45
+RH                  56 64 74 83 63 50 45 59 70 75 77 77 56 38 36 50 58 67 64 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             8  8  8  6  9 11 10  5  6  6  5  6  9 11  9  4  5  4  5  3
+Clouds              FW FW SC SC SC SC B1 SC SC FW SC SC SC FW SC SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    77      50    67      45    71      47    73
+Temp          77 66   59 55 76 69   57 50 65 58   49 45 70 60   52 47 72 61
+Dewpt         50 49   49 49 56 58   57 50 49 50   48 45 50 50   51 47 53 53
+PWind dir         S       S     S       S     W       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ060-221000-
+Maury-
+Including the city of Columbia
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          76          51          76          50
+Temp                59 56 53 51 63 74 75 66 60 56 54 52 66 75 75 65 59 55 54 51
+Dewpt               46 45 44 45 50 53 52 52 52 50 48 46 48 47 46 46 45 45 44 45
+RH                  62 66 71 80 62 48 45 61 75 80 80 80 52 37 36 50 60 69 69 80
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S
+Wind spd             8  8  8  8 10 11 11  5  6  5  4  5 10 11 10  4  5  4  5  3
+Clouds              FW SC SC SC SC SC B1 SC SC FW FW FW SC FW SC FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      54    78      52    68      45    72      48    74
+Temp          76 66   58 55 76 70   58 52 66 58   49 45 70 61   51 48 72 61
+Dewpt         50 49   49 49 55 56   58 52 50 51   48 45 50 51   51 48 54 53
+PWind dir         S       S     S       S    SW       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   B1 B1 SC SC   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      C    C  S                                 S
+
+$$
+TNZ061-221000-
+Marshall-
+Including the city of Lewisburg
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          75          50          76          49
+Temp                55 53 51 51 63 73 74 65 59 56 52 51 65 74 74 63 58 54 53 51
+Dewpt               42 43 42 43 48 52 52 52 51 49 47 45 47 46 45 45 44 44 44 44
+RH                  61 69 71 74 58 48 46 63 75 77 83 80 52 37 35 52 59 69 71 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S
+Wind spd             6  6  8  8 11 11 11  5  5  5  4  4  9 11  9  4  5  4  5  3
+Clouds              FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      54    77      52    69      46    72      48    74
+Temp          75 66   57 55 76 71   60 52 67 60   49 46 70 62   52 48 72 63
+Dewpt         50 49   49 50 55 55   57 52 51 51   48 46 50 51   51 48 55 53
+PWind dir         S      SE     S       S    SW       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC B1 SC SC   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      C    C  S                                 S
+
+$$
+TNZ075-221000-
+Bedford-
+Including the city of Shelbyville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          75          49          75          49
+Temp                58 55 51 50 63 73 74 64 59 55 52 50 65 74 74 62 56 53 52 50
+Dewpt               39 41 41 42 47 52 52 51 50 48 45 43 46 45 45 45 44 44 43 44
+RH                  49 59 68 74 56 48 46 63 72 77 77 77 50 35 35 54 64 71 71 80
+Wind dir             S  S  S  S  S  S  S SE  S  S SE  S  S  S  S SE SE SE SE SE
+Wind spd             6  5  6  6 10 11 11  5  5  4  4  4  9 10  9  4  5  3  5  3
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      53    78      53    70      45    72      48    74
+Temp          75 66   56 54 76 70   61 53 67 60   49 46 70 62   51 48 72 62
+Dewpt         50 49   49 49 55 54   57 53 52 50   48 46 51 51   51 48 55 53
+PWind dir         S      SE     S       S    SW       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC B1 SC SC   SC B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  S                                 S
+
+$$
+TNZ093-221000-
+Wayne-
+Including the cities of Clifton and Waynesboro
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          76          54          77          52
+Temp                63 59 55 54 64 74 75 67 62 59 57 54 65 75 76 66 62 58 56 53
+Dewpt               49 48 48 49 53 54 52 51 52 50 49 47 49 47 47 46 45 45 44 46
+RH                  60 67 77 83 67 50 45 56 70 72 75 77 56 37 36 48 54 62 64 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S SE SE
+Wind spd             8  6  8  6  9 11 10  6  6  6  5  5  9 10  9  5  5  4  5  3
+Clouds              FW FW SC SC FW SC SC SC FW FW SC SC SC FW FW SC FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    77      52    67      46    71      49    74
+Temp          77 67   58 56 76 70   58 52 66 60   50 47 70 62   53 49 73 63
+Dewpt         49 49   49 51 55 57   56 51 48 49   47 46 50 51   51 49 53 53
+PWind dir         S      SE     S      SW     W       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   B1 B1 SC B1   B1 B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0      10    40      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ094-221000-
+Lawrence-
+Including the city of Lawrenceburg
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          75          50          75          50
+Temp                60 56 53 51 63 73 74 65 60 56 53 51 64 73 74 65 59 55 54 51
+Dewpt               48 46 45 46 51 53 52 52 51 50 48 46 48 46 46 45 45 45 44 46
+RH                  64 69 74 83 65 49 46 63 72 80 83 83 56 38 37 48 60 69 69 83
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S SE SE
+Wind spd             8  6  8  6 10 11 11  6  6  5  5  5 10 11  9  4  5  3  5  3
+Clouds              FW FW SC SC SC SC SC SC SC FW SC SC SC FW SC FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      54    76      51    67      45    71      49    73
+Temp          75 67   57 55 75 70   58 51 66 59   49 45 69 61   52 49 72 62
+Dewpt         49 49   49 50 55 56   57 51 49 50   47 45 50 51   51 49 53 53
+PWind dir         S      SE     S       S     W       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   B1 B1 SC SC   B1 B1 SC SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                   S  C    C  S                                 S
+
+$$
+TNZ095-221000-
+Giles-
+Including the city of Pulaski
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          75          49          75          50
+Temp                55 53 51 50 63 72 74 65 59 55 53 50 65 74 74 64 59 55 54 51
+Dewpt               45 44 43 43 49 52 51 52 51 50 47 45 47 45 45 45 45 45 44 46
+RH                  69 71 74 77 60 49 44 63 75 83 80 83 52 35 35 50 60 69 69 83
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE SE  S SE SE
+Wind spd             6  6  6  6 10 11 11  5  5  5  4  5  9 10  9  4  5  4  4  2
+Clouds              FW FW SC SC SC SC SC SC SC FW FW SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      54    77      52    68      46    71      49    73
+Temp          75 67   57 55 76 71   58 52 67 59   49 46 69 62   52 49 72 63
+Dewpt         49 49   49 51 55 56   57 52 50 51   48 46 50 51   52 49 54 53
+PWind dir         S      SE     S       S    SW       N    NE       E    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   B1 B1 SC SC   B1 B1 SC SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    30      50    10       5     5      10    20
+Rain shwrs                      C    C  S                                 S
+
+$$
+TNZ077-221000-
+Coffee-
+Including the cities of Tullahoma and Manchester
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49    69 73 75          49          74          49
+Temp                55 53 50 50 62 71 72 63 58 54 52 50 64 72 73 62 55 52 52 50
+Dewpt               37 39 40 40 45 51 51 51 49 46 43 41 45 45 44 45 44 44 43 44
+RH                  51 59 68 68 54 49 48 65 72 74 71 71 50 38 35 54 66 74 71 80
+Wind dir             S  S  S  S  S  S  S SE SE SE SE SE  S  S  S SE SE SE SE SE
+Wind spd             6  5  5  5 10 10  9  5  4  4  4  4  8  9  6  4  4  4  5  3
+Wind gust              16 16 16                                                
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    76      53    68      45    71      49    72
+Temp          73 64   56 54 74 68   61 53 66 59   48 46 69 61   51 49 71 60
+Dewpt         49 49   48 49 55 54   57 53 53 51   48 46 51 51   51 49 55 53
+PWind dir         S      SE     S       S    SW      NE    NE       E     S
+Wind char        LT      LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC B1 B1 SC   FW FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C                                 S
+
+$$
+TNZ063-221000-
+Cannon-
+Including the city of Woodbury
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          74          50          74          49
+Temp                56 54 51 51 63 72 73 64 59 56 52 50 65 73 73 63 56 53 53 50
+Dewpt               37 39 40 41 46 52 53 51 49 46 44 42 47 46 45 45 44 43 43 43
+RH                  49 57 66 68 54 49 49 63 69 69 74 74 52 38 37 52 64 69 69 77
+Wind dir             S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S SE SE  S SE
+Wind spd             5  5  5  5 10 10 10  5  4  4  3  4  8  9  6  4  4  3  5  3
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    76      53    68      46    70      48    72
+Temp          74 64   56 54 75 68   61 53 66 59   49 47 69 60   51 48 71 60
+Dewpt         50 49   47 49 56 54   56 53 53 51   48 46 52 51   50 48 56 54
+PWind dir         S      SE     S       S    SW       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC B1 SC SC   SC B1 B1 SC   SC FW SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C                                 S
+
+$$
+TNZ064-221000-
+De Kalb-
+Including the city of Smithville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          75          48          75          48
+Temp                55 53 50 50 64 73 74 64 58 55 52 49 65 74 74 63 56 52 52 48
+Dewpt               37 38 39 41 47 52 53 52 49 46 43 41 47 46 46 46 44 43 43 43
+RH                  51 57 66 71 54 48 48 65 72 72 71 74 52 37 37 54 64 71 71 83
+Wind dir            SE  S SE SE  S  S  S SE SE SE SE SE  S  S  S SE SE SE SE SE
+Wind spd             4  4  4  4  9 10  9  5  3  3  3  3  6  8  6  3  4  3  4  2
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      52    77      53    69      45    71      47    73
+Temp          75 63   55 53 76 67   60 53 67 60   49 46 69 60   50 47 72 60
+Dewpt         50 49   47 49 56 54   57 53 53 51   48 46 52 51   50 47 56 54
+PWind dir         S      SE     S       S    SW       N    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC SC   SC B1 B1 SC   SC FW SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ030-221000-
+Smith-
+Including the cities of Carthage, South Carthage, 
+and Gordonsville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          76          49          76          48
+Temp                58 55 51 50 64 74 75 65 59 56 53 50 66 75 75 65 58 53 51 49
+Dewpt               37 38 39 41 47 53 54 53 50 48 45 42 48 48 46 47 45 44 43 44
+RH                  45 53 63 71 54 48 48 65 72 74 74 74 52 38 36 52 62 71 74 83
+Wind dir             S  S SE  S  S  S  S SE SE SE SE SE  S  S  S SE SE SE SE SE
+Wind spd             4  3  3  4  9 10  9  4  4  3  3  3  6  8  6  3  4  3  4  2
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      53    78      53    69      45    71      48    74
+Temp          77 64   57 54 77 67   61 53 68 60   50 46 70 60   51 48 73 60
+Dewpt         51 50   48 49 56 55   57 53 53 51   49 46 52 51   50 48 56 54
+PWind dir         S      SE     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC SC   SC B1 B1 SC   SC FW SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ029-221000-
+Trousdale-
+Including the city of Hartsville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          76          50          77          49
+Temp                59 55 51 51 64 74 75 65 60 57 53 51 66 75 75 66 59 54 52 50
+Dewpt               37 38 40 41 47 53 53 52 50 48 46 44 47 47 46 46 45 44 43 44
+RH                  44 53 66 68 54 48 46 63 69 72 77 77 50 37 36 48 60 69 71 80
+Wind dir             S  S SE SE  S  S  S  S  S  S SE SE  S  S  S  S SE SE  S SE
+Wind spd             5  4  4  4 10 11 11  5  4  3  3  3  8 10  8  4  4  3  4  2
+Clouds              FW SC SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      53    78      54    69      46    71      49    74
+Temp          77 66   58 54 77 68   61 54 67 60   50 46 70 61   52 49 72 61
+Dewpt         50 49   48 49 56 54   57 54 53 50   48 46 51 50   50 49 55 54
+PWind dir         S      SE     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC B1   SC B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      50    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ009-221000-
+Macon-
+Including the city of Lafayette
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          75          51          75          50
+Temp                59 56 53 52 63 73 74 65 61 57 54 52 65 74 74 65 59 55 53 51
+Dewpt               37 38 39 41 46 52 52 52 50 48 46 44 46 47 45 46 45 44 44 44
+RH                  44 51 59 66 54 48 46 63 67 72 74 74 50 38 35 50 60 66 71 77
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S
+Wind spd             6  6  6  6 11 11 10  5  5  4  4  4  9 10  8  4  5  3  4  3
+Clouds              FW FW SC SC SC SC SC SC SC SC FW FW FW FW FW SC FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      54    77      54    67      47    70      49    72
+Temp          75 65   58 55 76 67   61 54 66 60   51 47 68 60   52 49 71 60
+Dewpt         49 49   48 49 54 53   57 54 51 50   48 46 50 49   50 49 54 53
+PWind dir         S       S     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC B1   B1 B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ010-221000-
+Clay-
+Including the city of Celina
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          75          50          75          50
+Temp                57 55 52 51 64 72 74 64 60 56 54 50 65 74 74 64 58 54 53 51
+Dewpt               37 37 38 40 45 51 52 51 49 47 45 42 46 46 44 46 44 43 43 44
+RH                  47 51 59 66 50 48 46 63 67 72 71 74 50 37 34 52 59 66 69 77
+Wind dir             S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S SE SE  S  S
+Wind spd             4  4  4  4  9  9  8  4  3  3  3  2  5  6  5  2  4  2  4  2
+Clouds              FW FW SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      53    76      55    68      47    70      49    72
+Temp          75 64   57 54 75 66   61 55 67 61   52 47 68 61   53 49 71 61
+Dewpt         47 48   48 49 54 53   57 55 51 50   49 47 50 49   51 49 54 53
+PWind dir         S       S     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC SC   B1 B1 B1 SC   SC SC SC FW   FW FW SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ011-221000-
+Pickett-
+Including the city of Byrdstown
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          73          49          74          49
+Temp                55 53 51 50 63 71 72 62 58 55 53 49 64 73 73 61 56 52 53 49
+Dewpt               36 36 37 38 45 50 51 49 47 46 43 42 46 45 44 45 43 43 43 43
+RH                  49 52 59 63 52 47 48 62 67 72 69 77 52 37 35 56 62 71 69 80
+Wind dir             S  S  S  S  S  S  S SE SE  S  S SE  S  S SE SE SE  S  S SE
+Wind spd             4  5  5  5  8  8  8  4  3  3  3  3  5  5  4  3  4  3  4  2
+Clouds              FW FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    75      55    68      47    69      49    71
+Temp          74 62   56 53 73 64   60 55 66 59   51 48 67 59   52 49 70 59
+Dewpt         47 47   47 48 53 52   55 55 51 51   49 47 49 49   50 49 54 52
+PWind dir         S       S     S       S    SW      SW    NE       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   B1 B1 B1 SC   SC SC SC FW   FW FW SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ031-221000-
+Jackson-
+Including the city of Gainesboro
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          75          50          76          49
+Temp                57 55 52 51 64 73 74 64 59 56 53 51 65 75 74 64 57 53 52 50
+Dewpt               37 38 38 40 45 51 52 51 49 47 44 42 46 46 45 46 44 43 43 44
+RH                  47 53 59 66 50 46 46 63 69 72 71 71 50 36 35 52 62 69 71 80
+Wind dir             S  S  S  S  S  S  S SE  S SE SE SE  S  S  S SE SE SE  S SE
+Wind spd             4  4  4  5  9  9  8  4  4  3  3  3  6  6  5  3  4  3  4  2
+Clouds              FW FW SC SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      53    77      54    69      46    71      49    73
+Temp          76 64   57 54 76 66   61 54 68 61   51 47 69 60   52 49 72 61
+Dewpt         48 48   48 49 54 53   57 54 51 50   49 46 50 49   51 49 54 53
+PWind dir         S      SE     S       S    SW      NW    NE       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC B1 SC SC   SC B1 B1 SC   SC SC SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ033-221000-
+Overton-
+Including the city of Livingston
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50    69 72 75          50    70 73 76          50
+Temp                56 54 52 51 63 70 72 62 58 56 53 51 64 72 72 62 56 53 54 51
+Dewpt               35 36 37 39 46 49 50 49 47 45 41 40 44 43 43 44 42 42 43 43
+RH                  45 50 56 63 54 47 46 62 67 66 64 66 48 35 35 52 59 66 66 74
+Wind dir             S  S  S  S  S  S  S SE  S  S  S SE  S  S  S SE SE SE  S SE
+Wind spd             5  5  5  5  9  8  8  5  4  4  4  4  6  5  5  4  5  4  5  3
+Clouds              FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      53    74      55    67      48    68      50    70
+Temp          73 62   56 54 73 64   61 55 65 59   51 49 67 58   52 50 69 59
+Dewpt         46 46   46 48 52 52   55 55 50 50   47 46 49 48   49 49 53 51
+PWind dir         S      SE     S       S    SW       S    NE       E     S
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   SC B1 B1 SC   SC SC SC FW   FW FW SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ034-221000-
+Fentress-
+Including the cities of Jamestown and Allardt
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                44 47 51          71    44 47 51    70 73 76    45 48 51
+Temp                53 51 49 48 60 69 70 60 55 53 51 48 62 71 71 60 54 51 51 48
+Dewpt               34 35 35 37 43 48 49 47 46 44 42 40 44 43 43 43 42 42 42 42
+RH                  48 54 58 65 53 47 47 62 72 71 71 74 52 36 36 53 64 71 71 80
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S
+Wind spd             5  5  5  5  8  6  6  4  4  4  4  3  5  5  5  3  4  3  4  3
+Clouds              FW FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      51    73      54    67      46    68      48    70
+Temp          72 60   54 51 71 62   59 54 65 57   49 47 66 57   50 48 69 58
+Dewpt         46 46   46 47 52 52   54 53 51 51   47 45 49 49   49 48 53 52
+PWind dir         S       S     S       S    SW       W    NE       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   B1 B1 B1 SC   SC SC SC FW   FW FW SC SC
+PoP 12hr          0       5    10      30    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ078-221000-
+Warren-
+Including the city of McMinnville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                46 49 52          73          48          74          48
+Temp                52 51 50 50 63 71 72 62 57 54 51 49 64 72 72 61 54 53 52 49
+Dewpt               37 37 39 40 46 51 52 51 48 45 42 40 46 45 45 45 43 43 43 43
+RH                  56 59 66 68 54 49 49 67 72 71 71 71 52 38 38 56 66 69 71 80
+Wind dir             S  S  S  S  S  S  S SE  S SE SE SE  S  S  S SE SE SE SE SE
+Wind spd             4  4  4  4  9  9  8  4  4  4  3  3  6  6  5  3  4  4  4  2
+Clouds              FW FW SC SC SC SC SC B1 SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      52    75      53    68      45    70      48    72
+Temp          73 63   55 53 74 67   60 53 66 59   48 46 68 60   50 48 70 60
+Dewpt         49 49   48 49 56 55   56 53 53 53   47 45 52 52   50 48 55 54
+PWind dir         S      SE     S       S    SW      NE    NE      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   SC B1 B1 SC   SC FW SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C                                 S
+
+$$
+TNZ032-221000-
+Putnam-
+Including the city of Cookeville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49    69 73 76          50    70 74 77          49
+Temp                56 53 51 50 63 71 72 62 58 55 52 50 64 73 72 63 56 53 53 50
+Dewpt               36 36 38 39 45 50 51 50 47 45 42 40 45 45 44 44 43 42 43 43
+RH                  47 52 61 66 52 47 48 65 67 69 69 68 50 37 37 50 62 66 69 77
+Wind dir            SE  S  S SE  S  S  S SE SE SE SE SE  S  S  S SE SE SE SE SE
+Wind spd             5  5  5  5  9  9  8  5  4  4  4  4  6  6  5  4  4  4  5  3
+Clouds              FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      53    75      54    68      47    70      49    71
+Temp          74 62   56 54 74 65   60 54 66 58   49 47 68 58   51 49 70 58
+Dewpt         48 48   47 49 54 53   56 54 52 51   48 46 50 50   50 49 55 53
+PWind dir         S      SE     S       S    SW      SE    NE       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC B1 SC SC   SC B1 B1 SC   SC SC SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ065-221000-
+White-
+Including the city of Sparta
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48    69 73 75          49    70 74 76          49
+Temp                54 52 50 49 62 71 72 62 57 54 52 49 64 73 72 62 55 53 52 49
+Dewpt               36 36 37 38 45 50 51 49 47 44 42 40 45 45 44 45 43 43 43 43
+RH                  50 54 61 66 54 47 48 62 69 69 69 71 50 37 37 54 64 69 71 80
+Wind dir            SE SE SE SE  S  S  S SE SE SE SE SE  S  S SE SE SE SE SE SE
+Wind spd             4  4  4  5  8  8  6  4  3  3  4  3  6  6  5  3  4  3  4  2
+Clouds              FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      52    75      54    69      46    70      49    72
+Temp          73 62   55 53 73 65   60 54 66 59   49 47 68 59   51 49 71 59
+Dewpt         49 48   47 49 55 55   56 54 53 53   48 46 51 51   50 49 55 54
+PWind dir        SE      SE     S       S    SW      NE     E       E     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   SC B1 B1 SC   SC SC SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ066-221000-
+Cumberland-
+Including the city of Crossville
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                43 45 49    65 68 71          46    67 70 73          47
+Temp                52 50 47 46 58 67 67 59 55 52 49 46 60 69 69 60 54 51 50 47
+Dewpt               35 35 35 36 41 46 47 47 46 43 41 39 43 42 41 43 42 41 42 42
+RH                  52 56 63 68 53 47 49 64 72 71 74 76 53 37 36 53 64 68 74 83
+Wind dir             S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  S SE  S  S SE
+Wind spd             4  5  4  4  8  6  6  3  3  3  3  3  5  5  5  2  3  3  4  2
+Clouds              FW FW FW SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      49    71      53    66      46    67      48    69
+Temp          69 58   53 50 69 62   58 53 64 56   47 46 66 56   49 48 68 57
+Dewpt         47 47   46 47 53 53   54 53 53 52   47 46 50 51   49 48 54 53
+PWind dir        SE       S     S       S    SW       N     E       E     S
+Wind char        LT      LT    LT      GN    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   B1 B1 B1 SC   SC SC SC FW   FW SC SC SC
+PoP 12hr          0       5    10      30    20       5     5      10    20
+Rain shwrs                           C  C  S                              S
+
+$$
+TNZ080-221000-
+Van Buren-
+Including the city of Spencer
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                45 48 51          71    45 48 51          72          48
+Temp                53 51 49 48 61 70 70 61 57 54 51 49 62 71 71 61 55 53 52 48
+Dewpt               35 36 38 38 44 48 49 48 46 43 41 39 44 42 42 43 42 42 43 42
+RH                  50 56 66 68 53 45 47 62 67 66 68 68 52 35 35 51 61 66 71 80
+Wind dir             S  S SE SE  S  S  S SE SE SE SE SE  S  S SE SE SE SE SE SE
+Wind spd             5  5  4  4  6  6  6  4  4  4  4  4  6  5  5  3  4  4  4  2
+Clouds              FW FW SC FW SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      51    74      53    68      46    70      48    71
+Temp          72 61   54 52 72 66   59 53 66 58   48 47 68 59   50 48 70 60
+Dewpt         47 47   47 49 54 53   55 53 52 52   47 46 50 51   50 48 54 53
+PWind dir        SE      SE     S       S    SW       N     E      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   SC B1 B1 SC   SC FW SC FW   FW SC SC SC
+PoP 12hr          0       5    20      40    20       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$
+TNZ079-221000-
+Grundy-
+Including the cities of Altamont and Coalmont
+817 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                45 48 52    67 70 74    46 48 52    68 71 74          49
+Temp                53 51 49 49 59 68 69 61 57 54 51 49 61 69 70 61 56 54 53 49
+Dewpt               36 37 38 38 43 49 50 49 46 43 41 39 43 43 43 43 43 42 43 42
+RH                  52 59 66 66 55 51 51 65 67 66 68 68 51 39 38 51 62 64 69 77
+Wind dir             S  S  S  S  S  S  S SE SE SE SE SE  S  S SE SE SE SE SE SE
+Wind spd             6  6  5  5  8  8  8  5  4  4  4  5  6  6  5  3  4  5  5  3
+Wind gust                 16 16                                                
+Clouds              FW FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      52    73      53    67      46    69      50    71
+Temp          71 62   55 53 72 66   59 53 66 58   48 47 68 59   51 50 70 60
+Dewpt         48 48   47 49 54 54   55 53 53 52   47 46 52 51   50 49 54 53
+PWind dir        SE      SE    SE       S    SW       N     E       E    SE
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    SC FW   SC SC SC SC   SC B1 B1 SC   SC FW FW FW   FW SC SC SC
+PoP 12hr          0       5    20      40    10       5     5      10    20
+Rain shwrs                      S    C  C  S                              S
+
+$$

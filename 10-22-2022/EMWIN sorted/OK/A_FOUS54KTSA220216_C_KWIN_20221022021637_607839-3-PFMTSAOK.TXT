@@ -1,0 +1,410 @@
+FOUS54 KTSA 220216
+PFMTSA
+
+Point Forecast Matrices
+National Weather Service Tulsa OK
+916 PM CDT Fri Oct 21 2022
+
+OKZ060-221000-
+Tulsa-Tulsa OK
+36.20N  95.90W Elev. 677 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      63          85          68          85          66
+Temp                   70 67 65 66 76 83 83 77 75 73 69 72 79 84 83 78 75 71 68
+Dewpt                  46 47 49 52 54 54 55 57 57 58 58 59 60 59 58 59 59 60 61
+RH                     42 49 56 61 46 37 38 50 54 59 68 64 52 43 43 52 58 68 78
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               13 14 16 19 24 24 23 17 19 18 18 24 25 25 24 21 18 17 16
+Wind gust                    29 34 34 34 34 33 29 29 32 36 37 35 37 35 32      
+Clouds                 SC B1 SC FW FW FW FW FW FW SC B1 B1 B1 SC SC SC SC SC B2
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          72      50    63      42    66      45    71      49    67
+Temp          71 66 59   52 57 59 49   43 59 63 50   45 64 67 56   50 62 64
+Dewpt         63 59 56   52 48 42 42   40 40 40 43   42 45 44 47   47 48 45
+PWind dir         S       N    NW      NW    NW      SE    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B2 B2   B2 B2 B1 SC   FW FW FW CL   CL FW FW SC   SC SC SC
+PoP 12hr         80      80    60      30     0       0    10      30    30
+Rain shwrs     L  D  L    L  C  C                              S    C  C  S
+Tstms          S  S       S                                                
+
+$$
+ARZ029-221000-
+Fort Smith-Sebastian AR
+35.35N  94.39W Elev. 469 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      58          85          66          86          65
+Temp                   63 60 60 64 77 83 83 75 72 70 66 70 79 85 82 75 71 69 65
+Dewpt                  47 50 52 56 56 55 54 55 56 58 60 60 60 58 56 57 58 60 61
+RH                     56 69 75 75 48 38 37 50 57 66 81 71 52 40 41 54 63 73 87
+Wind dir                E  E SE SE  S  S  S SE  S  S  S  S  S  S  S SE  S  S SE
+Wind spd                5  5  6 11 18 20 19 10 10 10 10 14 17 17 16 12 10  9 10
+Wind gust                          31    29 20                   27            
+Clouds                 FW SC SC SC SC FW FW SC SC SC B1 SC SC SC SC SC SC B1 B2
+PoP 12hr                      0           5           5           0          10
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          78      58    65      45    68      45    73      50    71
+Temp          73 74 66   60 62 61 52   45 62 65 51   45 65 69 56   51 65 67
+Dewpt         62 59 61   60 53 46 44   42 43 42 44   43 45 44 48   48 50 48
+PWind dir         S      SE    SW       W     W       E    SE       E    SE
+Wind char        GN      GN    GN      LT    LT      LT    LT      LT    GN
+Avg clouds    B2 B2 B2   B2 B2 SC SC   SC FW FW FW   CL FW FW FW   SC SC SC
+PoP 12hr         70      80    80      40     5       0     5      30    30
+Rain shwrs     C  L  D    D  L  C                              S    C  C  C
+Tstms                     S  S                                             
+
+$$
+OKZ073-221000-
+McAlester-Pittsburg OK
+34.90N  95.78W Elev. 770 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      62          86          65          85          65
+Temp                   70 67 63 65 76 85 83 76 74 70 65 69 78 84 82 76 72 69 65
+Dewpt                  47 49 51 57 58 57 56 56 56 57 59 61 61 60 58 59 60 61 62
+RH                     44 52 65 75 54 39 40 50 53 63 81 76 56 44 44 56 66 76 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               11 12 13 17 23 23 21 16 16 16 14 20 20 20 17 14 13 13 12
+Wind gust              25 27 29 36 36 35 34 35 34 29 27 35 36 34 31 27 25 24 23
+Clouds                 SC SC SC SC FW SC SC SC B1 B1 B2 B1 B1 SC SC SC SC B1 B2
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          74      52    64      41    67      44    71      50    67
+Temp          72 70 61   54 60 60 48   41 61 64 50   44 65 68 56   51 63 64
+Dewpt         65 63 60   54 50 44 42   41 42 42 43   43 46 47 48   48 52 49
+PWind dir         S      SE     W       W    NW      SE     S      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV OV B2   B2 B2 SC SC   FW FW FW CL   FW FW FW FW   SC B1 SC
+PoP 12hr         80      80    60      20     0       0    10      30    30
+Rain shwrs     C  D  D    L  C  S                              S    C  C  C
+Tstms             S  S    C                                                
+
+$$
+OKZ055-221000-
+Bartlesville-Washington OK
+36.75N  95.97W Elev. 711 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      62          86          67          85          64
+Temp                   67 65 63 65 77 83 84 76 72 70 67 70 79 85 83 78 74 70 66
+Dewpt                  45 47 48 52 54 54 55 59 58 58 58 61 62 61 60 60 60 61 62
+RH                     45 52 58 63 45 37 37 56 61 66 73 73 56 45 46 54 62 73 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd                9  9 10 14 23 24 20 13 16 14 14 23 25 25 24 21 17 14 12
+Wind gust                       28          31 28 28 29 35 37 36 37 37 34 31 25
+Clouds                 SC SC SC FW CL FW FW FW FW FW SC SC SC SC SC SC SC B1 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 C  C
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          72      47    60      39    64      41    68      46    65
+Temp          71 63 56   48 55 57 46   39 57 60 47   41 61 65 53   47 60 63
+Dewpt         65 58 56   48 49 43 42   39 42 42 42   41 46 46 48   47 51 47
+PWind dir         S       N     N      NW    NW      SE    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2   B2 B2 B1 SC   SC FW FW CL   FW FW FW SC   SC SC SC
+PoP 12hr         80      80    60      30     5       5    10      30    30
+Rain shwrs     L  D  L    L  C  C                              S    C  S  S
+Tstms          S  S                                                        
+
+$$
+ARZ010-221000-
+Fayetteville-Washington AR
+36.01N  94.17W Elev. 1251 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      57          81          62          81          60
+Temp                   61 60 59 62 73 79 78 68 67 65 63 68 77 80 78 70 66 64 61
+Dewpt                  46 47 48 54 56 56 56 58 57 58 58 60 60 59 59 59 59 59 60
+RH                     58 62 67 75 55 45 47 70 70 78 84 76 56 49 52 68 78 84 97
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd                9 10 12 14 23 24 20 12 16 14 13 18 20 20 17 14 13 12 11
+Wind gust                 24 27 34 35 35 36 32 33 29 25 35 39 34 32 29 28 27 26
+Clouds                 SC SC B1 B1 SC FW FW CL FW SC B2 B1 SC SC SC SC B1 B1 B1
+PoP 12hr                      0           5           0           0          10
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          74      52    62      39    63      40    69      44    67
+Temp          71 71 59   54 58 58 45   40 58 59 44   40 63 65 49   45 62 63
+Dewpt         62 60 59   54 54 48 44   40 42 43 42   40 44 45 47   45 49 48
+PWind dir         S       S    SW       W     W       S     S      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    GN
+Avg clouds    B2 B2 B2   OV B2 B1 SC   SC SC FW FW   CL FW FW FW   SC SC SC
+PoP 12hr         70      80    80      40     5       0     5      20    30
+Rain shwrs     C  L  D    D  L  C                                   S  C  C
+Tstms                     S  S                                             
+
+$$
+ARZ002-221000-
+Berryville-Carroll AR
+36.36N  93.56W Elev. 1296 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      62          81          64          81          63
+Temp                   66 64 64 65 74 79 77 71 71 68 65 68 76 80 77 72 70 66 63
+Dewpt                  45 47 48 52 55 56 56 56 55 56 58 60 61 60 59 59 58 59 60
+RH                     47 54 56 63 51 45 48 59 57 65 78 76 60 51 54 64 66 78 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd                8 10 11 14 19 20 17 12 13 13 13 17 18 18 14 13 11 10  9
+Wind gust              20 24 26 33 35 33 33 31 32 32 32 35 35 29 28 27 26 25 23
+Clouds                 SC B1 B2 B1 SC FW FW FW FW SC B1 B1 SC SC SC SC B1 B1 B1
+PoP 12hr                      0           5           5           0          10
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          74      54    62      43    62      42    67      47    65
+Temp          69 71 63   56 60 55 49   43 56 58 47   42 61 63 52   48 60 61
+Dewpt         62 60 61   56 56 48 44   41 42 43 42   41 45 44 46   46 49 48
+PWind dir         S       S     S       W     W       S    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2   OV B2 B1 SC   SC SC FW FW   FW FW FW FW   SC SC SC
+PoP 12hr         60      80    80      50     5       5     5      20    30
+Rain shwrs     C  L  D    D  L  C  S                                S  C  C
+Tstms                     S  S                                             
+
+$$
+OKZ070-221000-
+Muskogee-Muskogee OK
+35.66N  95.36W Elev. 611 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      62          84          66          84          65
+Temp                   65 64 64 65 75 82 82 73 72 70 67 69 76 83 81 74 70 68 66
+Dewpt                  48 50 50 55 58 57 58 58 58 58 59 61 62 61 59 60 61 62 62
+RH                     54 60 60 70 55 43 44 59 61 66 75 76 62 47 47 62 73 81 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               10 11 13 17 23 23 20 13 16 16 16 20 20 20 18 16 13 13 12
+Wind gust                 23 26 34 34 33 31 27 28 32 29 34 34 32 28    25 27 25
+Clouds                 FW SC B1 SC FW FW FW FW SC B1 B1 B1 SC SC SC SC SC SC B2
+PoP 12hr                      0           5           0           5          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          73      50    62      41    65      43    69      48    67
+Temp          71 68 59   53 58 58 45   41 59 62 47   43 63 66 53   48 62 63
+Dewpt         65 63 59   53 52 45 44   41 44 42 44   43 47 47 49   48 52 49
+PWind dir         S      SE    SW       W    NW       E    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 OV B2   B2 B2 SC SC   SC FW FW CL   CL FW FW FW   SC SC SC
+PoP 12hr         80      80    70      30     5       0    10      30    30
+Rain shwrs     C  D  D    L  C  C                              S    C  C  C
+Tstms             S       S                                                
+
+$$
+OKZ058-221000-
+Miami-Ottawa OK
+36.90N  94.86W Elev. 808 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      63          83          67          83          65
+Temp                   66 64 64 66 76 81 81 74 73 71 68 70 77 82 80 75 71 69 66
+Dewpt                  45 48 49 52 56 57 57 58 57 58 58 60 62 61 59 60 59 60 61
+RH                     47 56 58 61 50 44 44 57 57 63 70 71 60 49 49 60 66 73 84
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               10 11 13 17 24 24 21 13 16 17 17 24 25 25 23 20 16 13 13
+Wind gust              23 25 27 34 34    32 31 29 31 32 37 39 35 34 35 32 27 27
+Clouds                 SC SC B1 SC FW FW FW FW FW SC B1 B1 SC SC SC SC SC B1 B1
+PoP 12hr                      0           5           0           5          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          72      49    60      39    62      40    67      45    65
+Temp          70 66 56   51 55 57 45   40 57 59 45   40 61 64 51   46 60 61
+Dewpt         64 62 56   51 52 46 43   40 42 41 41   40 45 45 46   46 50 48
+PWind dir         S      SE     N       W     W      SE     S      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B2 B2   B2 B2 B1 SC   SC FW FW FW   CL FW FW SC   SC SC SC
+PoP 12hr         80      80    60      40     5       5     5      30    30
+Rain shwrs     C  D  L    L  L  C                              S    C  C  C
+Tstms             S                                                        
+
+$$
+OKZ066-221000-
+Henryetta-Okmulgee OK
+35.44N  95.98W Elev. 849 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      62          87          65          86          65
+Temp                   69 66 63 65 77 86 84 75 72 69 65 70 78 84 82 76 73 69 66
+Dewpt                  46 48 49 55 57 56 57 56 57 58 59 61 62 60 58 59 60 61 62
+RH                     44 52 60 70 50 36 40 52 59 68 81 73 58 44 44 56 64 76 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               12 13 14 19 24 24 21 14 17 17 17 23 24 24 20 17 14 13 13
+Wind gust              26 27 29 35 35    33 35 31 33 32 37 39 36 34 29 27 26 25
+Clouds                 FW SC SC SC SC FW FW SC SC SC B1 B1 B1 SC SC SC SC SC B2
+PoP 12hr                      0           5           0           5          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          74      49    63      40    67      43    71      48    67
+Temp          73 66 58   50 59 59 46   40 61 62 48   43 65 68 53   49 63 64
+Dewpt         65 61 58   50 49 42 42   40 42 41 43   43 47 46 47   48 51 47
+PWind dir         S       E     W       W    NW      SE     S      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2   B2 B1 SC SC   FW FW FW CL   CL FW FW FW   SC SC SC
+PoP 12hr         80      80    60      30     0       0    10      30    30
+Rain shwrs     L  D  L    L  C  C                              S    C  C  S
+Tstms             S       S                                                
+
+$$
+OKZ053-221000-
+Hugo-Choctaw OK
+34.02N  95.52W Elev. 572 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      60          85          64          85          65
+Temp                   67 64 61 63 74 83 84 78 74 70 66 68 76 84 84 78 73 70 66
+Dewpt                  49 51 55 57 58 57 55 56 56 58 60 61 61 59 57 58 61 62 63
+RH                     52 63 81 81 57 41 37 47 53 66 81 78 60 43 40 50 66 76 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd                9 11 12 16 21 23 18 13 13 12 11 14 17 18 16 14 12 11 10
+Wind gust              20 26 25 33 33 34 29 28 26 23       28 28               
+Clouds                 FW FW FW SC FW SC FW SC B1 B1 B1 B1 B1 SC SC SC SC B2 OV
+PoP 12hr                      0           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          76      54    65      43    68      45    71      50    70
+Temp          71 74 65   56 60 61 51   44 62 65 51   45 64 68 56   51 64 68
+Dewpt         65 63 64   56 50 45 44   42 42 43 45   43 48 48 49   49 53 51
+PWind dir         S       S     W       W    NW       E    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV OV B2   B2 B1 SC FW   FW FW CL CL   FW FW FW FW   SC SC SC
+PoP 12hr         70      80    70      20     0       0     5      30    30
+Rain shwrs     C  L  D    L  C  S                              S    C  C  C
+Tstms             S  S    C                                                
+
+$$
+OKZ060-221000-
+Jenks-Tulsa OK
+36.04N  95.98W Elev. 638 ft
+916 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11
+
+Min/Max                      64          86          68          85          66
+Temp                   70 68 65 65 76 83 84 77 75 72 69 70 77 84 83 78 74 71 68
+Dewpt                  46 48 49 53 56 56 57 59 58 58 59 61 62 61 60 60 61 62 63
+RH                     42 49 56 65 50 40 40 54 55 61 70 73 60 46 46 54 64 73 84
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               10 12 13 17 23 24 21 13 17 16 17 21 23 24 21 19 16 14 13
+Wind gust              21 26 27 33 33 34 34 34 31 32 32 36 37 36 35 34 31 27 24
+Clouds                 FW B1 SC SC FW FW FW SC FW SC B1 B1 B1 SC SC SC SC SC B1
+PoP 12hr                      0           5           0           5          20
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                 S  S
+
+
+Date           10/24/22  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     17 23 05   11 17 23 05   11 17 23 05   11 17 23 05   11 17 23
+
+Max/Min          72      50    61      42    65      44    69      50    67
+Temp          70 65 59   52 57 57 48   42 59 61 49   44 63 66 55   50 62 64
+Dewpt         65 61 58   52 50 44 43   41 43 43 44   43 47 47 49   49 51 48
+PWind dir         S       N    NW      NW    NW      SE    SE      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2   B2 B2 B1 SC   FW FW FW CL   FW FW FW SC   SC SC SC
+PoP 12hr         80      80    60      30     0       0    10      30    30
+Rain shwrs     L  D  L    L  C  C                              S    C  C  S
+Tstms          S  S       S                                                
+
+$$

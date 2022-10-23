@@ -1,0 +1,465 @@
+FNUS63 KICT 220237
+RFDICT
+
+Grassland Fire Danger Index Category
+National Weather Service Wichita KS
+937 PM CDT Fri Oct 21 2022
+
+The Grassland Fire Danger Index (GFDI) does not account for
+precipitation that occurs within the hour preceding any given
+forecast hour below or any snow on the ground at the forecast
+hour. Please make appropriate adjustments.
+
+Legend:
+
+LM   Low-Moderate
+H    High
+V    Very High
+X    Extreme
+C    Catastrophic
+(-)  Missing
+
+KSZ083-220345-
+Sedgwick-
+Including the cities of Derby, Haysville, Bel Aire, Park City, 
+Valley Center, and Wichita
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     25  *                                      H  
+Sat Oct 22  Very High     39  *   H   LM   LM    H    V    V    H    H  
+Sun Oct 23  Extreme       61  *   H    H    H    V    V    X    V    V  
+Mon Oct 24  High          17  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  High           9  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ067-220345-
+Reno-
+Including the city of Hutchinson
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          12  *                                      H  
+Sat Oct 22  Very High     31  *  LM   LM   LM   LM    H    V    H    H  
+Sun Oct 23  Extreme       77  *   H    H    H    V    X    X    X    V  
+Mon Oct 24  High          18  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          15  *  LM   LM   LM   LM    H    H    H   LM  
+Wed Oct 26  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+
+$$
+
+KSZ069-220345-
+Butler-
+Including the cities of El Dorado, Augusta, Andover, 
+and Rose Hill
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          18  *                                      H  
+Sat Oct 22  Very High     41  *   H    H    H    H    V    V    V    H  
+Sun Oct 23  Extreme       59  *   H    H    H    V    V    X    V    V  
+Mon Oct 24  Very High     20  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   7  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ049-220345-
+Saline-
+Including the city of Salina
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   5  *                                     LM  
+Sat Oct 22  Very High     22  *  LM   LM   LM   LM    H    V    H    H  
+Sun Oct 23  Catastrophic  80  *   H    H    H    V    X    C    X    V  
+Mon Oct 24  Very High     22  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           8  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ093-220345-
+Cowley-
+Including the cities of Winfield and Arkansas City
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          17  *                                      H  
+Sat Oct 22  Very High     46  *   H    H    H    H    V    V    V    V  
+Sun Oct 23  Extreme       50  *   H    H    V    V    V    X    V    V  
+Mon Oct 24  High          19  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           8  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ099-220345-
+Montgomery-
+Including the cities of Coffeyville and Independence
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          13  *                                      H  
+Sat Oct 22  Extreme       40  *   H    H    H    V    V    X    V    V  
+Sun Oct 23  Extreme       41  *   V    V    V    V    V    X    V    V  
+Mon Oct 24  Very High     16  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High          10  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ068-220345-
+Harvey-
+Including the city of Newton
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          13  *                                      H  
+Sat Oct 22  Very High     31  *   H   LM   LM    H    H    V    H    H  
+Sun Oct 23  Extreme       68  *   H    H    H    V    V    X    X    V  
+Mon Oct 24  High          18  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           9  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ051-220345-
+McPherson-
+Including the city of McPherson
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   7  *                                     LM  
+Sat Oct 22  Very High     26  *  LM   LM   LM    H    H    V    H    H  
+Sun Oct 23  Extreme       75  *   H    H    H    V    X    X    X    V  
+Mon Oct 24  Very High     22  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           9  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ047-220345-
+Barton-
+Including the city of Great Bend
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   3  *                                     LM  
+Sat Oct 22  Very High     26  *  LM   LM   LM   LM    H    V    H   LM  
+Sun Oct 23  Catastrophic 120  *  LM   LM   LM    V    X    C    X    V  
+Mon Oct 24  High          22  *   H    H   LM   LM   LM    H   LM   LM  
+Tue Oct 25  High          16  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High          11  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ092-220345-
+Sumner-
+Including the city of Wellington
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     24  *                                      H  
+Sat Oct 22  Very High     41  *   H   LM   LM    H    V    V    H    H  
+Sun Oct 23  Extreme       55  *   H    H    H    V    V    X    V    V  
+Mon Oct 24  High          18  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  High           8  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ100-220345-
+Labette-
+Including the city of Parsons
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     17  *                                      H  
+Sat Oct 22  Very High     38  *   V    H    V    V    V    V    V    V  
+Sun Oct 23  Very High     37  *   V    V    H    V    V    V    V    V  
+Mon Oct 24  Very High     16  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High           9  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  High           7  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ096-220345-
+Neosho-
+Including the city of Chanute
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     17  *                                      H  
+Sat Oct 22  Very High     37  *   V    H    H    V    V    V    V    V  
+Sun Oct 23  Extreme       42  *   V    V    V    V    V    X    V    V  
+Mon Oct 24  Very High     16  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High           9  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ072-220345-
+Allen-
+Including the cities of Iola and Humboldt
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          15  *                                      H  
+Sat Oct 22  Very High     35  *   H    H    H    V    V    V    V    V  
+Sun Oct 23  Extreme       45  *   V    V    V    V    V    X    V    V  
+Mon Oct 24  Very High     19  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High           9  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   5  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ052-220345-
+Marion-
+Including the cities of Hillsboro, Marion, and Peabody
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High           9  *                                      H  
+Sat Oct 22  Very High     27  *   H   LM   LM    H    H    V    H    H  
+Sun Oct 23  Extreme       67  *   H    H    H    V    V    X    X    V  
+Mon Oct 24  High          19  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          10  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   7  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ050-220345-
+Rice-
+Including the cities of Lyons and Sterling
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   5  *                                     LM  
+Sat Oct 22  Very High     27  *  LM   LM   LM   LM    H    V    H    H  
+Sun Oct 23  Catastrophic  87  *   H    H    H    V    X    C    X    V  
+Mon Oct 24  Very High     20  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          14  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High          10  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ095-220345-
+Wilson-
+Including the cities of Neodesha and Fredonia
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          14  *                                      H  
+Sat Oct 22  Very High     39  *   H    H    H    V    V    V    V    V  
+Sun Oct 23  Extreme       45  *   V    V    V    V    V    X    V    V  
+Mon Oct 24  Very High     19  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High          10  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ082-220345-
+Kingman-
+Including the city of Kingman
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     21  *                                      H  
+Sat Oct 22  Very High     33  *  LM   LM   LM    H    V    V    H    H  
+Sun Oct 23  Extreme       65  *   H    H    H    V    V    X    V    V  
+Mon Oct 24  High          15  *   H    H   LM   LM    H   LM   LM   LM  
+Tue Oct 25  High          14  *  LM   LM   LM    H    H    H    H   LM  
+Wed Oct 26  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+
+$$
+
+KSZ070-220345-
+Greenwood-
+Including the cities of Eureka and Madison
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     16  *                                      H  
+Sat Oct 22  Very High     39  *   H    H    H    V    V    V    V    V  
+Sun Oct 23  Extreme       55  *   H    V    V    V    X    X    X    V  
+Mon Oct 24  Very High     22  *   V    H    H    H   LM   LM   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           7  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ032-220345-
+Russell-
+Including the city of Russell
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   3  *                                     LM  
+Sat Oct 22  High          23  *  LM   LM   LM   LM    H    H    H   LM  
+Sun Oct 23  Catastrophic 126  *  LM   LM   LM    V    X    C    X    V  
+Mon Oct 24  High          22  *   H    H   LM   LM   LM    H   LM   LM  
+Tue Oct 25  High          15  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High          11  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ048-220345-
+Ellsworth-
+Including the cities of Ellsworth and Wilson
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   4  *                                     LM  
+Sat Oct 22  Very High     24  *  LM   LM   LM   LM    H    V    H    H  
+Sun Oct 23  Catastrophic 103  *   H    H    H    V    X    C    X    V  
+Mon Oct 24  Very High     22  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          13  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           9  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ091-220345-
+Harper-
+Including the cities of Anthony, Harper, and Attica
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Very High     22  *                                      H  
+Sat Oct 22  Very High     31  *  LM   LM   LM    H    V    V    H    H  
+Sun Oct 23  Extreme       53  *   H    H    H    H    V    X    V    V  
+Mon Oct 24  High          11  *   H    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          12  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  High           8  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ098-220345-
+Chautauqua-
+Including the cities of Sedan and Cedar Vale
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          11  *                                     LM  
+Sat Oct 22  Extreme       41  *   H    H    H    V    V    X    V    V  
+Sun Oct 23  Extreme       44  *   V    V    V    V    V    X    V    V  
+Mon Oct 24  Very High     19  *   V    H   LM    H    H    H   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ071-220345-
+Woodson-
+Including the city of Yates Center
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          15  *                                      H  
+Sat Oct 22  Very High     36  *   H    H    H    V    V    V    V    V  
+Sun Oct 23  Extreme       50  *   V    V    V    V    X    X    X    V  
+Mon Oct 24  Very High     21  *   V    H    H    H    H    H   LM   LM  
+Tue Oct 25  High          10  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ033-220345-
+Lincoln-
+Including the cities of Lincoln and Sylvan Grove
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  Low-Moderate   3  *                                     LM  
+Sat Oct 22  Very High     20  *  LM   LM   LM   LM    H    V    H    H  
+Sun Oct 23  Catastrophic 109  *  LM   LM   LM    V    X    C    X    V  
+Mon Oct 24  Very High     22  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  High           9  *  LM   LM   LM   LM   LM    H   LM   LM  
+
+$$
+
+KSZ094-220345-
+Elk-
+Including the cities of Howard, Moline, Longton, and Grenola
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          12  *                                      H  
+Sat Oct 22  Extreme       41  *   H    H    H    V    V    X    V    V  
+Sun Oct 23  Extreme       48  *   V    V    V    V    V    X    X    V  
+Mon Oct 24  Very High     21  *   V    H    H    H    H   LM   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM    H    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+
+KSZ053-220345-
+Chase-
+Including the cities of Cottonwood Falls and Strong City
+937 PM CDT Fri Oct 21 2022
+
+                                 (All time references are in CDT)
+
+Day/Date     24HR Max Index   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+Fri Oct 21  High          13  *                                      H  
+Sat Oct 22  Very High     32  *   H    H   LM    H    V    V    H    H  
+Sun Oct 23  Extreme       61  *   H    H    H    V    V    X    V    V  
+Mon Oct 24  Very High     20  *   V    H   LM   LM   LM   LM   LM   LM  
+Tue Oct 25  High          11  *  LM   LM   LM   LM    H    H   LM   LM  
+Wed Oct 26  Low-Moderate   6  *  LM   LM   LM   LM   LM   LM   LM   LM  
+
+$$
+

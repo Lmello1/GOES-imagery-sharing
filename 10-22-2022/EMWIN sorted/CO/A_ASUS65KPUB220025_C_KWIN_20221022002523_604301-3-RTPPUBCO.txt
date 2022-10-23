@@ -1,0 +1,55 @@
+ASUS65 KPUB 220025
+RTPCO 
+
+Colorado Temperature And Precipitation Table
+National Weather Service Pueblo CO
+624 PM MDT Fri Oct 21 2022
+
+High temperature past 18 hours
+Low temperature past 18 hours
+24 hour precipitation ending at 6PM MDT
+Snow depth at 6PM MDT
+.B DEN 221021 M DH18/TX/TN/PP/SD
+
+
+: ...Colorado...
+:                                                 Snow
+:                           High   Low     Pcpn  Depth
+AKO   : Akron            :   77  /  43  /  0.00 /   M
+ALS   : Alamosa          :   68  /  22  /  0.00 /   0
+ASE   : Aspen            :   63  /  29  /  0.00 /   M
+ITR   : Burlington       :   81  /  42  /  0.00 /   M
+APA   : Centennial Arpt  :   75  /  45  /  0.00 /   M
+COS   : Colorado Springs :   76  /  47  /  0.00 /   0
+CEZ   : Cortez           :   70  /  29  /  0.00 /   M
+CAG   : Craig            :   70  /  22  /  0.00 /   M
+DEN   : Denver Intl Arpt :   78  /  52  /  0.00 /   M
+DRO   : Durango          :   68  /  29  /  0.00 /   M
+EGE   : Eagle            :   66  /  28  /     M /   M
+FNL   : Ft Collins Arpt  :   79  /  42  /  0.00 /   M
+GJT   : Grand Junction   :   71  /  40  /  0.00 /   0
+GXY   : Greeley Airport  :   79  /  36  /  0.00 /   M
+GUC   : Gunnison         :   64  /  19  /     M /   M
+HDN   : Hayden           :   66  /  30  /     M /   M
+LHX   : La Junta         :   82  /  43  /  0.00 /   M
+LAA   : Lamar            :   83  /  35  /  0.00 /   M
+LXV   : Leadville        :   54  /  26  /  0.00 /   M
+LIC   : Limon            :   78  /  32  /  0.00 /   M
+EEO   : Meeker           :   68  /  26  /  0.00 /   M
+MTJ   : Montrose         :   71  /  37  /  0.00 /   M
+PUB   : Pueblo           :   83  /  41  /  0.00 /   0
+RIL   : Rifle            :   71  /  30  /  0.00 /   M
+SPD   : Springfield      :   83  /  48  /  0.00 /   M
+TEX   : Telluride        :   59  /  34  /     M /   M
+TAD   : Trinidad         :   78  /  38  /  0.00 /   M
+
+.END
+From the above reports
+
+The highest temperature in Colorado today was 83 degrees in 
+Lamar, Pueblo and Springfield.
+
+The lowest temperature in Colorado during the past 24 hours 
+was 19 degrees in Gunnison.
+
+$$

@@ -1,0 +1,24 @@
+FOUS74 KORN 220019
+FFHLZK
+                                                                        
+HEADWATER GUIDANCE FOR HSA.....LITTLE ROCK AR                           
+                                                                        
+NATIONAL WEATHER SERVICE                                                
+LOWER MISSISSIPPI RIVER FORECAST CENTER, SLIDELL LA                     
+719 PM CDT FRI OCT 21 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN HEADWATERS.                                           
+                                                                        
+.B SIL 221022 Z DH00/DC2210220019 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:.....ARKANSAS                                                          
+:                                                                       
+BTNA4     3.4/  4.1/  5.0 :BENTON, AR            SALINE R.
+CIGA4     2.5/  3.4/  4.3 :CLINTON, AR           S. FK LZKTLE RED R.
+HDYA4     3.5/  4.6/  5.5 :HARDY, AR             SPRING R.
+.END
+$$

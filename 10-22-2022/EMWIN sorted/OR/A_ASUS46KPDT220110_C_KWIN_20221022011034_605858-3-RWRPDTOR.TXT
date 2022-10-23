@@ -1,0 +1,253 @@
+ASUS46 KPDT 220110
+RWRPDT
+PENDLETON REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE PENDLETON OREGON
+600 PM PDT FRI OCT 21 2022
+
+NOTE: FAIR INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+# INDICATES UNOFFICIAL STATION AND DATA
+
+WAZ520-220210-
+EAST SLOPES OF WASHINGTON CASCADES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#BULLFROG       N/A         44  35  70  E1      N/A                          
+#ELK HTS DOT    N/A         44  43  96  SW6     N/A                          
+#GLENWOOD       N/A         43  41  93  CALM    29.67F                       
+#NILE           N/A         45  37  73  CALM    28.95F                       
+#TROUT LAKE 1E  N/A         41  39  93  CALM    29.70F                       
+$$
+
+WAZ521-220210-
+SIMCOE HIGHLANDS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#SATUS PASS DOT N/A         41  40  96  SW2     N/A                          
+#CENTERVILLE 1SWN/A         44  42  93  NW2     29.62F                       
+#LYLE 6NE       N/A         45  43  93  CALM    29.68F                       
+#PITT 4SE       N/A         41  39  93  CALM    29.69F                       
+$$
+
+WAZ026-220210-
+KITTITAS VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+ELLENSBURG AP   MOCLDY      49  34  56  NW16    29.63F WCI 43                
+#ELLENSBURG CWU N/A         47  35  63  N12     29.57F WCI 42                
+#ELLENSBURG 1E  N/A         48  37  65  NW3     29.63F                       
+#MANASTASH RDG  N/A         44  34  68  NW9     N/A                          
+#ROCKY CYN DOT  N/A         47  37  68  NW12    N/A    WCI 42                
+#RYEGRASS DOT   N/A         45  34  65  W9      N/A                          
+#THORP 6N       N/A         46  36  68  W1      29.54F                       
+$$
+
+WAZ027-220210-
+YAKIMA VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+YAKIMA AIRPORT  MOCLDY      50  43  77  E6      29.64F                       
+YAKIMA-VAGABOND CLOUDY      50  35  56  CALM    29.60F                       
+#MABTON         N/A         50  47  89  CALM    29.66F                       
+#NACHES 2SW     N/A         46  37  71  W2      29.64F                       
+#OUTLOOK DOT    N/A         48  46  93  CALM    N/A                          
+#PARKER DOT     N/A         50  44  80  CALM    N/A                          
+#TERRACE HTS    N/A         50  42  74  CALM    29.60F                       
+#I82 S UMTANUM RN/A         48  36  63  SW6     N/A                          
+#UNION GAP DOT  N/A         50  44  80  S1      N/A                          
+#ZILLAH DOT     N/A         49  47  93  NE1     N/A                          
+$$
+
+WAZ028-220210-
+LOWER COLUMBIA BASIN...WASHINGTON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+PASCO           RAIN        50  46  86  SW8     29.68F                       
+RICHLAND AWOS   MXD PCPN    49  47  93  S6      29.68F                       
+#BASIN CITY 5SW N/A         48  44  86  S7      29.65F                       
+#BENTON CITY    N/A         47  43  86  CALM    29.57F                       
+#CONNELL 5N     N/A         47  41  79  CALM    29.65F                       
+#ELTOPIA 6NW    N/A         47  44  89  CALM    28.64F                       
+#KAHLOTUS       N/A         45  41  86  W15G26  29.63F WCI 38                
+#KENNEWICK 3S   N/A         47  44  89  SE6     29.65F                       
+#SAGEMOOR 2W    N/A         47  44  89  S3      29.65F                       
+#TOUCHET 2S     N/A         47  43  86  SW16G26 29.63F WCI 41                
+$$
+
+WAZ029-220210-
+FOOTHILLS OF THE BLUES...WASHINGTON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+WALLA WALLA AP  LGT RAIN    46  43  89  S14     29.68F HAZE WCI 40           
+#CLYDE 6NW      N/A         45  42  89  S10     29.67F                       
+#DELANEY DOT    N/A         49  43  80  E2      N/A                          
+#LOWDEN 2SE     N/A         46  44  93  CALM    29.56F                       
+#PRESCOTT       N/A         48  44  86  SW1     29.66F                       
+#WALLA WALLA 5E N/A         47  44  89  S10     N/A                          
+#WHITMAN MISSIONN/A         47  44  89  SE2     29.79F                       
+$$
+
+WAZ030-220210-
+BLUE MOUNTAINS...WASHINGTON
+ 
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+$$
+
+ORZ009-041-WAZ024-220210-
+COLUMBIA RIVER GORGE
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+HOOD RIVER AP   LGT RAIN    46  45  96  CALM    29.70F                       
+THE DALLES AP   LGT RAIN    51  45  80  S3      29.69F                       
+#CELILO DOT     N/A         51  46  83  SW2     N/A                          
+#LYLE           N/A         49  46  89  W1      29.72F                       
+#RUFUS DOT      N/A         53  45  74  NW6     N/A                          
+
+$$
+
+ORZ510-220210-
+NORTH CENTRAL OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#COW CYN RST AREN/A         42  42  100 N10     N/A                          
+#DUFUR          N/A         45  43  93  CALM    29.65F                       
+#GRASS VALLEY 1SN/A         43  41  93  N3      29.65F                       
+#KENT DOT       N/A         42  38  86  E1      N/A                          
+#WAPANITIA AIRPON/A         45  43  93  CALM    29.66F                       
+#WASCO DOT      N/A         47  46  96  SW1     N/A                          
+#WASCO 5NE      N/A         45  43  93  N7      29.65F                       
+$$
+
+ORZ511-220210-
+CENTRAL OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+BEND AIRPORT    PTCLDY      61  45  56  SW21G30 29.67F                       
+MADRAS AIRPORT  CLOUDY      50  46  86  N13     29.68S                       
+PRINEVILLE AP   CLOUDY      54  48  80  CALM    29.68R                       
+REDMOND AIRPORT LGT RAIN    59  47  64  VRB3    29.66F                       
+#ASHWOOD SCHOOL N/A         49  46  89  NW5     29.66S                       
+#CULVER         N/A         57  47  69  SW12    28.95S                       
+#PRINEVILLE     N/A         57  48  72  CALM    29.70F                       
+
+$$
+
+
+ORZ509-220210-
+EAST SLOPES OF OREGON CASCADES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+SISTERS AWOS    N/A         57  48  72  CALM    29.67F                       
+SUNRIVER AWOS   CLOUDY      54  46  74  SW10    29.75F                       
+#CAMP SHERMAN   N/A         52  46  80  CALM    29.63F                       
+#LAVA BUTTE DOT N/A         52  46  80  SW8     N/A                          
+#SISTERS ODOT   N/A         55  47  74  E2      N/A                          
+#WANOGA BUTTE D N/A         44  43  96  W26G41  N/A    WCI 35                
+
+$$
+
+ORZ044-220210-
+LOWER COLUMBIA BASIN...OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+HERMISTON       RAIN        49  47  93  S10     29.69F                       
+#BOARDMAN SCHOOLN/A         50  47  89  SE6     29.64F                       
+#ECHO 8SW       N/A         48  45  89  SW9     29.70F                       
+#I-84 EX 198 DOTN/A         46  46  100 NE10    N/A                          
+#UMATILLA       N/A         50  45  83  CALM    29.59F                       
+$$
+
+ORZ507-220210-
+NORTHERN FOOTHILLS OF THE BLUES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+PENDLETON AIRPT LGT RAIN    46  43  89  S13     29.69F FOG WCI 40            
+#ATHENA         N/A         45  42  89  S5      29.68F                       
+#CAYUSE         N/A         44  41  89  SE2     29.66F                       
+#HELIX SCHOOL   N/A         43  41  93  S7      29.67F                       
+#HOLDMAN 6E     N/A         42  41  96  SE7     29.47F                       
+#M-FREEWATER 5SEN/A         45  42  89  CALM    29.69F                       
+#PDT SUNRIDGE   N/A         45  42  89  CALM    29.67F                       
+#TUTUILLA       N/A         43  40  89  S5      29.74F                       
+#UMAPINE 2E     N/A         46  41  83  E2      29.67F                       
+
+$$
+
+ORZ508-220210-
+SOUTHERN FOOTHILLS OF THE BLUES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#AJAX           N/A         42  40  93  W3      29.69F                       
+#HEPPNER EOC    N/A         43  41  93  CALM    29.61F                       
+#HEPPNER 4NE    N/A         41  39  93  CALM    29.65F                       
+#OLEX 4N        N/A         47  44  89  SW2     29.67F                       
+#RUGGS 2SW      N/A         41  39  93  E2      29.68F                       
+
+$$
+
+ORZ502-503-220210-
+BLUE MOUNTAINS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+MEACHAM         LGT RAIN    38  37  96  CALM    29.69F                       
+#BATTLE MTN DOT N/A         37  36  96  N2      N/A                          
+#LADD CREEK ODOTN/A         N/A N/A N/A CALM    N/A                          
+#N POWDER DOT   N/A         48  45  89  SE3     N/A                          
+#TOLLGATE       N/A         34  33  96  CALM    29.74F                       
+#TROY SCHOOL    N/A         46  42  86  CALM    29.51F                       
+#WESTON 4E      N/A         38  36  92  CALM    29.61F                       
+$$
+
+ORZ505-220210-
+JOHN DAY BASIN
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+JOHN DAY        CLOUDY      56  40  55  SW12    29.63F                       
+#DAYVILLE SCHOOLN/A         63  47  56  CALM    29.58F                       
+#MITCHELL 8NW   N/A         47  43  86  E2      29.60R                       
+#MONUMENT HS    N/A         55  43  64  W6      29.50F                       
+#MT. VERNON 5SE N/A         54  40  59  S3      29.65F                       
+$$
+
+ORZ506-220210-
+OCHOCO AND JOHN DAY HIGHLANDS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#BUCK CREEK DOT N/A         56  38  51  W6      N/A                          
+#HORSE RIDGE DO N/A         54  44  69  NW5     N/A                          
+#KEYES SMT DOT  N/A         48  45  89  W5      N/A                          
+#PAULINA ODOT   N/A         59  38  45  SW3     N/A                          
+#PRAIRIE CITY   N/A         55  42  61  CALM    29.57F                       
+#SENECA 9NW     N/A         50  41  71  CALM    29.60F                       
+$$
+
+ORZ049-220210-
+GRANDE RONDE VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+LA GRANDE       LGT RAIN    47  46  96  NW9     29.66F FOG                   
+#COVE SCHOOL    N/A         49  46  89  CALM    29.68F                       
+#ELGIN 1E       N/A         46  40  79  CALM    N/A                          
+#IMBLER SCHOOL  N/A         46  43  89  CALM    29.65F                       
+#ISLAND CITY 4N N/A         48  46  93  SE1     29.70F                       
+#LADD CYN DOT   N/A         49  47  93  CALM    N/A                          
+#UNION 1S       N/A         51  43  74  CALM    29.60F                       
+$$
+
+ORZ050-220210-
+WALLOWA COUNTY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+JOSEPH AIRPORT  LGT RAIN    44  40  86  MISG    29.69F                       
+#ENTERPRISE HS  N/A         44  41  89  CALM    29.49F                       
+#IMNAHA SCHOOL  N/A         49  46  89  CALM    29.65F                       
+#JOSEPH 3N      N/A         43  36  76  CALM    29.72F                       
+#LOSTINE 3SE    N/A         43  40  89  CALM    29.72F                       
+#MT HOWARD 8000 N/A         33  30  89  W8G26   29.63F                       
+#WALLOWA LAKE   N/A         42  40  93  CALM    29.68F                       
+#WALLOWA SCHOOL N/A         44  42  93  CALM    29.61F                       
+
+
+
+$$

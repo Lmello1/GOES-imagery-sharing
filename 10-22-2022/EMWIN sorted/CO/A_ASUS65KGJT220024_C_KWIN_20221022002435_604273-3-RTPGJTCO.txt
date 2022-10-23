@@ -1,0 +1,98 @@
+ASUS65 KGJT 220024
+RTPGJT
+
+Max/Min temperature and precipitation table for
+Western Colorado and Eastern Utah
+National Weather Service Grand Junction CO
+624 PM MDT Fri Oct 21 2022
+
+ 
+Aviation Sites
+ 
+High temperature past 18 hours ending at 6 pm MDT
+Low temperature past 18 hours ending at 6 pm MDT
+Precipitation and snowfall past 24 hours ending at 6 pm MDT
+ 
+.BR GJT 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                      Max   Min          Snow  Snow
+:ID    Location               Elev    Temp  Temp   Pcpn   Fall  Dpth
+ASE  : Aspen                  7820:     63 /  29 / 0.00 /      /    
+CEZ  : Cortez                 5918:     70 /  29 / 0.00 /      /    
+CAG  : Craig                  6193:     70 /  22 / 0.00 /      /    
+DRO  : Durango                6684:     68 /  29 / 0.00 /      /    
+GJT  : Grand Junction         4858:     71 /  40 / 0.00 /  0.0 /   0
+EEO  : Meeker                 6421:     68 /  26 / 0.00 /      /    
+MTJ  : Montrose               5759:     71 /  37 / 0.00 /      /    
+RIL  : Rifle                  5548:     71 /  30 / 0.00 /      /    
+CNY  : Canyonlands Airport    4557:     75 /  34 / 0.00 /      /    
+VEL  : Vernal                 5278:     74 /  34 / 0.00 /      /    
+:
+AJZ  : Delta Airport          5193:     75 /  38 /      /      /    
+EGE  : Eagle                  6548:     66 /  28 /      /      /    
+GUC  : Gunnison               7680:     64 /  19 /      /      /    
+HDN  : Hayden                 6606:     66 /  30 /      /      /    
+AIB  : Nucla                  5940:      M /   M /      /      /    
+PSO  : Pagosa Springs         7664:     64 /  30 /      /      /    
+4V0  : Rangely                5278:     74 /  28 /      /      /    
+SBS  : Steamboat Springs      6878:     64 /  26 /      /      /    
+TEX  : Telluride              9070:     59 /  34 /      /      /    
+BDG  : Blanding Airport       5868:     67 /  41 /      /      /    
+.END
+
+
+Official Cooperative Stations
+ 
+High temperature, low temperature, precipitation and 
+snowfall past 24 hours until 6 pm MDT
+ 
+Western Colorado COOP Sites
+ 
+.BR GJT 1021 M DH20/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                              Obs     Max   Min          Snow  Snow
+:ID    Location          Elev  Time   Temp  Temp   Pcpn   Fall  Dpth
+GTWC2: Gateway 1ENE      4671: DH1700/  76 /  39 / 0.00 /  0.0 /   0
+.END
+
+
+Eastern Utah COOP Sites
+ 
+.BR GJT 1021 M DH20/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                              Obs     Max   Min          Snow  Snow
+:ID    Location          Elev  Time   Temp  Temp   Pcpn   Fall  Dpth
+BLFU1: Bluff             4320: DH1800/  72 /  37 / 0.00 /  0.0 /   0
+ROSU1: Roosevelt Radio   5050: DH1600/  75 /  26 / 0.00 /  0.0 /   0
+.END
+ 
+&& 
+
+
+Climate Reference Network Sites
+ 
+High temperature past 20 hours ending at 6 pm MDT
+Low temperature past 20 hours ending at 6 pm MDT
+Precipitation and snowfall past 24 hours ending at 6 pm MDT
+ 
+Western Colorado CRN Sites
+ 
+.BR GJT 1021 M DH20/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                      Max   Min          Snow  Snow
+:ID    Location                       Temp  Temp   Pcpn   Fall  Dpth
+CEZC2: Cortez 8SE                 :     61 /  45 / 0.00 /      /    
+KRGC2: Craig 30N                  :     67 /  29 / 0.00 /      /    
+DNOC2: Dinosaur 2E                :     71 /  44 / 0.00 /      /    
+ESLC2: Eagle 13SSE                :     58 /  25 / 0.00 /      /    
+GJXC2: Grand Junction 9W          :     67 /  47 / 0.00 /      /    
+MKRC2: Meeker 15W                 :     72 /  30 / 0.00 /      /    
+IFLC2: Rifle 23NW                 :     63 /  45 / 0.00 /      /    
+.END
+ 
+&& 
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision.  Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+ 
+
+$$

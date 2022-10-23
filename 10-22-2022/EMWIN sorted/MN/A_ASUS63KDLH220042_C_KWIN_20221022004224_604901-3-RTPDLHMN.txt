@@ -1,0 +1,64 @@
+ASUS63 KDLH 220042
+RTPDLH
+ 
+REGIONAL TEMPERATURE AND PRECIPITATION TABLE
+NATIONAL WEATHER SERVICE DULUTH MN
+742 PM CDT Fri Oct 21 2022
+
+Values represent highs and lows over the last 18 hours...and 
+precipitation over the last 24 hours ending at 7 pm.
+
+.BR DLH 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                  MAX   MIN           SNOW   SNOW
+:ID        LOCATION                TEMP  TEMP   PCPN   FALL   DEPTH 
+:
+:ASOS Sites Northeastern Minnesota
+DLH  :   Duluth Airport         :  63 /  46 /   0.00/   0.0/    0
+INL  :   International Falls    :  61 /  43 /   0.00/   0.0/    0
+BRD  :   Brainerd               :  64 /  44 
+GNA  :   Grand Marais           :  67 /  39 
+HIB  :   Hibbing                :  60 /  37 
+:
+:ASOS Sites Northwestern Wisconsin
+ASX  :   Ashland Airport        :  67 /  44 
+HYR  :   Hayward                :  66 /  39 
+:
+:AWOS Sites Northeastern Minnesota
+DYT  :   Sky Harbor             :  63 /  45 /
+TWM  :   Two Harbors            :  63 /  36 /
+CKC  :   Grand Marais Airport   :  59 /  39 /
+ELO  :   Ely                    :  57 /  46 /
+ORB  :   Orr                    :  61 /  43 /
+CQM  :   Cook                   :  61 /  43 /
+CDD  :   Crane Lake             :  59 /  45 /
+EVM  :   Eveleth                :  59 /  37 /
+FOZ  :   Bigfork                :  61 /  48 /
+GPZ  :   Grand Rapids           :  58 /  46 /
+XVG  :   Longville              :  61 /  46 /
+PWC  :   Pine River             :  63 /  45 /
+AIT  :   Aitkin Airport         :  63 /  43 /
+MZH  :   Moose Lake             :  64 /  39 /
+04W  :   Hinckley               :  64 /  34 /
+COQ  :   Cloquet                :  63 /  43 /
+HZX  :   McGregor               :  63 /  41 /
+Y49  :   Walker Airport         :  59 /  46 /
+:
+:AWOS Sites Northwestern Wisconsin
+SUW  :   Superior               :  67 /  32 /
+OLG  :   Solon Springs Airport  :  64 /  32 /
+4R5  :   La Pointe Airport      :  64 /  44 /
+RZN  :   Siren                  :  66 /  42 /
+PBH  :   Phillips               :  65 /  38 /
+.END
+
+
+ These data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information /NCEI/. 
+Therefore...subject to revision. Final and certified climate data can
+be accessed at www.ncei.noaa.gov.
+
+
+ $$
+
+BJH

@@ -1,0 +1,217 @@
+ASUS63 KDMX 220047
+RTPIA 
+
+Max/Min Temperature and Precipitation Table for Iowa
+National Weather Service Des Moines IA
+747 PM CDT Fri Oct 21 2022
+
+.BR DMX 1021 C DH19/DC2210211945/TAIRZY/TAIRZI/PP/SF/SD
+:
+: Values represent 18-hour highs...18-hour lows...
+: and 24-hour precipitation ending at  7 PM Central Time
+:
+: ASOS...AWOS and other automated observing locations in Iowa.
+:
+: Note...Information for selected locations near Iowa
+:   is available immediately below the Iowa list.
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+CKP  : Cherokee AWOS      :  75 /  35 /     M /      /
+EST  : Estherville ASOS   :  71 /  37 /  0.00 /      /
+LRJ  : Le Mars AWOS       :  73 /  36 /     M /      /
+SXK  : Maurice AWOS       :  72 /  43 /     M /      /
+SHL  : Sheldon AWOS       :  72 /  36 /     M /      /
+SPW  : Spencer ASOS       :  74 /  38 /  0.00 /      /
+SLB  : Storm Lake AWOS    :  73 /  46 /     M /      /
+:
+: ...North Central Iowa...
+AXA  : Algona AWOS        :  72 /  43 /     M /      /
+CCY  : Charles City AWOS  :  73 /  37 /  0.00 /      /
+CAV  : Clarion AWOS       :  73 /  39 /     M /      /
+FXY  : Forest City AWOS   :  72 /  32 /     M /      /
+HPT  : Hampton AWOS       :  75 /  45 /     M /      /
+MCW  : Mason City ASOS    :  72 /  37 /  0.00 /      /
+:
+: ...Northeastern Iowa...
+DEH  : Decorah AWOS       :  77 /  46 /  0.00 /      /
+DBQ  : Dubuque ASOS       :  79 /  34 /  0.00 /  0.0 /   0
+IIB  : Independence AWOS  :  76 /  35 /     M /      /
+OLZ  : Oelwein AWOS       :  75 /  36 /  0.00 /      /
+ALO  : Waterloo ASOS      :  79 /  38 /  0.00 /  0.0 /   0
+:
+: ...West Central Iowa...
+ADU  : Audubon AWOS       :  79 /  37 /     M /      /
+CIN  : Carroll AWOS       :  79 /  50 /     M /      /
+DNS  : Denison AWOS       :  72 /  45 /     M /      /
+HNR  : Harlan AWOS        :  77 /  34 /  0.00 /      /
+SUX  : Sioux City ASOS    :  77 /  35 /  0.00 /    M /   M
+:
+: ...Central Iowa...
+AMW  : Ames ASOS          :  80 /  32 /  0.00 /      /
+IKV  : Ankeny AWOS        :  79 /  36 /     M /      /
+BNW  : Boone AWOS         :  79 /  46 /     M /      /
+DSM  : Des Moines ASOS    :  79 /  46 /  0.00 /  0.0 /   0
+FOD  : Fort Dodge AWOS    :  75 /  45 /  0.00 /      /
+GGI  : Grinnell AWOS      :  82 /  45 /     M /      /
+IFA  : Iowa Falls AWOS    :  77 /  44 /     M /      /
+MIW  : Marshalltown ASOS  :  78 /  38 /  0.00 /      /
+TNU  : Newton AWOS        :  81 /  39 /     M /      /
+DMX  : NWS Johnston*      :  79 /  47 /  0.00 /  0.0 /   0
+PRO  : Perry AWOS         :  81 /  37 /     M /      /
+NSSI4: Prairie City/NS NWR:  81 /  43 /     M /      /
+EBS  : Webster City AWOS  :  77 /  36 /     M /      /
+:
+: ...East Central Iowa...
+CID  : Cedar Rapids ASOS  :  83 /  37 /  0.00 /      /
+CWI  : Clinton AWOS       :  79 /  37 /     M /      /
+DVN  : Davenport ASOS     :  80 /  37 /  0.00 /  0.0 /   0
+IOW  : Iowa City ASOS     :  85 /  34 /  0.00 /      /
+MXO  : Monticello AWOS    :   M /   M /     M /      /
+MUT  : Muscatine AWOS     :  84 /  32 /     M /      /
+VTI  : Vinton AWOS        :  81 /  40 /     M /      /
+:
+: ...Southwestern Iowa...
+AIO  : Atlantic AWOS      :  75 /  34 /     M /      /
+ICL  : Clarinda AWOS      :  82 /  36 /  0.00 /      /
+CBF  : Council Bluffs AWOS:  75 /  50 /  0.00 /      /
+RDK  : Red Oak AWOS       :  79 /  39 /  0.00 /      /
+SDA  : Shenandoah AWOS    :  82 /  43 /  0.00 /      /
+:
+: ...South Central Iowa...
+TVK  : Centerville AWOS   :   M /   M /     M /      /
+CNC  : Chariton AWOS      :  82 /  45 /     M /      /
+CSQ  : Creston AWOS       :  79 /  45 /     M /      /
+OXV  : Knoxville AWOS     :  82 /  45 /     M /      /
+LWD  : Lamoni ASOS        :  84 /  45 /    T  /      /
+SSFI4: Lucas/Stephens SF  :  84 /  49 /     M /      /
+I75  : Osceola AWOS       :  83 /  44 /     M /      /
+PEA  : Pella AWOS         :  81 /  42 /     M /      /
+:
+: ...Southeastern Iowa...
+BRL  : Burlington ASOS    :  81 /  40 /  0.00 /      /
+FFL  : Fairfield AWOS     :  84 /  43 /     M /      /
+FSW  : Fort Madison AWOS  :  82 /  45 /     M /      /
+EOK  : Keokuk AWOS        :  81 /  41 /     M /      /
+MPZ  : Mount Pleasant AWOS:  82 /  39 /     M /      /
+OOA  : Oskaloosa AWOS     :  86 /  41 /     M /      /
+OTM  : Ottumwa ASOS       :  84 /  42 /  0.00 /      /
+AWG  : Washington AWOS    :  84 /  39 /     M /      /
+:
+:* Cooperative weather observation site
+:
+.END
+
+
+: Selected ASOS...AWOS and other automated observing
+:   locations near Iowa
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+: ...Minnesota...
+AUM  : Austin AWOS        :  70 /  39 /  0.00 /      /
+MJQ  : Jackson AWOS       :  68 /  45 /       /      /
+LYV  : Luverne AWOS       :  68 /  32 /       /      /
+FKA  : Preston AWOS       :  71 /  43 /  0.00 /      /
+RST  : Rochester ASOS     :  69 /  42 /  0.00 /  0.0 /   0
+OTG  : Worthington AWOS   :  67 /  42 /       /      /
+:
+: ...Wisconsin...
+OVS  : Boscobel AWOS      :  78 /  27 /  0.00 /      /
+LSE  : La Crosse ASOS     :  76 /  39 /  0.00 /  0.0 /   0
+PVB  : Platteville AWOS   :  77 /  39 /  0.00 /      /
+PDC  : Prairie du Chien AW:  72 /  62 /  0.00 /      /
+:
+: ...Illinois...
+MQB  : Macomb AWOS        :  80 /  37 /       /      /
+MLI  : Quad City ASOS     :  81 /  35 /  0.00 /  0.0 /   0
+SQI  : Sterling AWOS      :  80 /  33 /       /      /
+:
+: ...Nebraska...
+AFK  : Nebraska City AWOS :  81 /  54 /  0.00 /      /
+OMA  : Omaha/Eppley ASOS  :  77 /  41 /  0.00 /  0.0 /   0
+OFF  : Omaha/Offutt ASOS  :  78 /  42 /       /      /    
+PMV  : Plattsmouth AWOS   :  77 /  48 /  0.00 /      /
+TQE  : Tekamah ASOS       :  80 /  36 /  0.00 /      /
+:
+: ...South Dakota...
+FSD  : Sioux Falls ASOS   :  73 /  42 /  0.00 /      /    
+:
+:END
+
+
+.BR DMX 1021 C DH1945/DC2210211945/TX/TN/PP/SF/SD
+:
+: Values represent the 24 hours ending around 7 PM Central Time
+:
+: Cooperative observer and other locations
+:
+:                          Date/Time   Max   Min                Snow
+:      Location               DDHHMM  Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+PGHI4: Primghar           : DD211600/  70 /  45 /  0.00 /      /    
+:
+: ...North Central Iowa...
+:
+: ...Northeastern Iowa...
+DCRI4: Decorah            : DD211900/  75 /  32 /  0.00 /  0.0 /   0
+:
+: ...West Central Iowa...
+COOI4: Coon Rapids        : DD211900/     /     /  0.00 /      /    
+RWCI4: Rockwell City      : DD211900/     /     /  0.00 /      /    
+:
+: ...Central Iowa...
+MXWI4: Maxwell            : DD211900/     /     /  0.00 /      /    
+OGDI4: Ogden              : DD211900/     /     /  0.00 /      /    
+STYI4: Story City         : DD211900/     /     /  0.00 /      /    
+:
+: ...East Central Iowa...
+CRPI4: Cedar Rapids       : DD211700/  82 /  34 /  0.00 /  0.0 /   0
+VNTI4: Vinton             : DD211700/  80 /  23 /  0.00 /      /    
+:
+: ...Southwestern Iowa...
+ADAI4: Adair              : DD211900/     /     /  0.00 /      /    
+GRNI4: Greenfield         : DD211900/     /     /  0.00 /      /    
+:
+: ...South Central Iowa...
+CMBI4: Columbia           : DD211900/     /     /  0.00 /      /    
+:
+: ...Southeastern Iowa...
+:
+:END
+
+
+.BR DMX 1021 C DH1945/DC2210211945/GDIRVZ/GTIRVZ
+:
+: ...Frost Depth...
+:
+: This information is normally provided during the cool season. The
+:   most recent information is provided for each location. The date
+:   and time of each observation are in Central Time. Note that the
+:   observation may not be from the current day. Frost Depth refers
+:   to the depth of frost penetration into the ground, in inches.
+:   Frost Top refers to the depth of the top of the frost layer, 
+:   in inches. A value of zero means frost exists from the ground
+:   surface to the frost depth.
+:
+:
+: Cooperative Observer Locations
+:
+:                          Date/Time  Frost   Frost
+:      Location               DDHHMM  Depth     Top
+:
+:
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control /QC/ by NCEI. Therefore, these data are subject to revision.
+Final and certified climate data can be accessed at the National 
+Centers for Environmental Information /NCEI/ - www.ncei.noaa.gov .
+
+$$
+

@@ -1,0 +1,102 @@
+ASUS64 KMAF 220032
+RTPMAF
+Max/Min Temperature and Precipitation Table for West Texas-Southeast
+New Mexico
+National Weather Service Midland/Odessa TX 
+731 PM CDT Fri Oct 21 2022
+
+High temperature past 18 hours
+Low temperature past 18 hours
+Precipitation last 24 hours
+
+.BR MAF 1021 C DH19/TAIPZS/TAIPZI/PPDPZZ
+:
+: ...West Texas...
+:
+:Id    Location                     High  Low    Pcpn
+:--    --------                     ----  ---    ----
+FST  : Fort Stockton ASOS         :  84 /  54 /  0.00
+GDP  : Guadalupe Pass ASOS        :  75 /  49 /  0.00
+MAF  : Midland ASOS               :  82 /  49 /  0.00
+ODO  : Odessa ASOS                :  84 /  50 /  0.00
+6R6  : Terrell County ASOS        :  82 /  48 /  0.00
+INK  : Wink ASOS                  :  86 /  45 /  0.00
+E11  : Andrews County AWOS        :  82 /  54 /  0.00
+E38  : Alpine-Casparis Muni AWOS  :  81 /  49 /  0.00
+BPG  : Big Spring AWOS            :  83 /  48 /  0.00
+VHN  : Culberson County AWOS      :  82 /  48 /  0.00
+GNC  : Gaines County AWOS         :  82 /  48 /  0.00
+T89  : Lajitas Int'l Airpt AWOS   :  86 /  52 /  0.00
+LUV  : Lamesa Muni AWOS           :  82 /  48 /  0.00
+MRF  : Marfa AWOS                 :  78 /  39 /  0.00
+MDD  : Midland Airpark AWOS       :  83 /  51 /  0.00
+PEQ  : Pecos AWOS                 :  86 /  45 /  0.00
+PRS  : Presidio AWOS              :  84 /  54 /  0.00
+E41  : Reagan County AWOS         :  83 /  51 /  0.00
+SNK  : Snyder AWOS                :  83 /  50 /  0.00
+CSBT2: Chisos Basin RAWS          :  76 /  50 /  0.00
+DGCT2: Dog Canyon RAWS            :  71 /  43 /  0.00
+EMNT2: Elephant Mtn WMA RAWS      :  80 /  52 /  0.00
+FDST2: Fort Davis RAWS            :  80 /  40 /  0.00
+FRKT2: Gail 1E RAWS               :  84 /  52 /  0.00
+GDBT2: Guadalupe Bowl RAWS        :    M/   M /  0.00
+MNDT2: Midland RAWS               :  84 /  50 /  0.00
+PJNT2: Panther Junction RAWS      :  83 /  55 /  0.00
+PSGT2: Pinery RAWS                :  74 /  59 /  0.00
+RGET2: Rio Grande Village RAWS    :  93 /  46 /  0.00
+WDPT2: Wolf Den DMP RAWS          :  67 /  52 /  0.00
+AWST2: Andrews Mesonet            :  83 /  52 /  0.00
+BIGT2: Big Lake 1WNW Mesonet      :  83 /  52 /  0.00
+CTLT2: Castolon 1NW Mesonet       :  89 /  53 /  0.00
+CRYT2: Colorado City 5NW Mesonet  :  86 /  46 /  0.00
+CYAT2: Coyanosa 2N Mesonet        :  86 /  47 /  0.00
+CRXT2: Crane 1NNW Mesonet         :  84 /  50 /  0.00
+FVST2: Fluvanna Mesonet           :  82 /  52 /  0.00
+GGST2: Gail Mesonet               :  83 /  48 /  0.00
+KNTT2: Kent 9E Mesonet (Split)    :  80 /  53 /  0.00
+LMST2: Lamesa Mesonet             :  83 /  43 /  0.00
+LOXT2: Lomax 1SSE Mesonet         :  83 /  47 /  0.00
+MMYT2: McCamey 1SW Mesonet        :  85 /  48 /  0.00
+PGPT2: Persimmon Gap Mesonet      :  86 /  49 /  0.00
+PSST2: Pine Springs Mesonet       :  72 /  59 /  0.00
+SGST2: Seagraves Mesonet          :  82 /  48 /  0.00
+SMST2: Seminole Mesonet           :  81 /  48 /  0.00
+SYST2: Snyder 3E Mesonet          :  84 /  50 /  0.00
+WTXT2: Snyder 3SSW Mesonet        :  84 /  49 /  0.00
+GCMT2: St Lawrence 5SW Mesonet    :  83 /  49 /  0.00
+TZNT2: Tarzan 2WNW Mesonet        :  83 /  49 /  0.00
+VHNT2: Van Horn 3ENE Mesonet      :  82 /  49 /  0.00
+WEHT2: Welch Mesonet              :  82 /  46 /  0.00
+:
+.END
+
+.BR MAF 1021 C DH18/TAIPZS/TAIPZI/PPDPZZ
+:
+: ...Southeast New Mexico...
+:
+:Id    Location                     High  Low    Pcpn
+:--    --------                     ----  ---    ----
+CNM  : Carlsbad ASOS              :  84 /  43 /  0.00
+ATS  : Artesia AWOS               :  82 /  46 /  0.00
+HOB  : Hobbs FAA                  :  81 /  48 /  0.00
+BATN5: Batdraw RAWS               :  79 /  60 /  0.00
+CPPN5: Caprock RAWS               :  80 /  52 /  0.00
+MPAN5: Paduca RAWS                :  85 /  52 /  0.00
+QENN5: Queen RAWS                 :  74 /  53 /  0.00
+HCYN5: Hobbs 5NW Mesonet          :  81 /  45 /  0.00
+TTSN5: Tatum Mesonet              :  80 /  44 /  0.00
+:
+.END
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/.  Therefore, 
+these data are subject to revision.  Final and certified climate data
+can be accessed at www.ncdc.noaa.gov
+
+From the above reports:
+
+Highest temperature today... 93 at Rio Grande Village RAWS
+Lowest temperature this morning.... 39 at Marfa AWOS
+
+$$
+

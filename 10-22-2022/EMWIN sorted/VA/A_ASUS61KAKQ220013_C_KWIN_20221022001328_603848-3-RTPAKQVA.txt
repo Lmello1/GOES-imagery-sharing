@@ -1,0 +1,37 @@
+ASUS61 KAKQ 220013
+RTPAKQ
+Regional Max/min Temperature And Pcpn Table
+National Weather Service Wakefield Va
+813 PM EDT Fri Oct 21 2022
+
+:...Full Time Stations...
+ 
+High Temperature last 12 hours/ Low Temperature and 
+Precipitation the past 24 hours through 7 PM EST/8 PM EDT
+ 
+.BR AKQ 1022 DH00/TAIRZY/TN/PPD
+:                                      24 hr     
+:Id    Station            High   Low    Pcpn    
+RIC  : Richmond VA       :  68 /  37 /  0.00
+OFP  : Hanover VA        :  69 /  35 /  0.00
+DCA  : Washington DC     :  68 /  42 /  0.00
+IAD  : Dulles Airport    :  67 /  32 /  0.00
+CHO  : Charlottesville VA:  67 /  34 /  0.00
+LYH  : Lynchburg VA      :  67 /  32 /  0.00
+ROA  : Roanoke VA        :  66 /  34 /  0.00
+DAN  : Danville VA       :  67 /  32 /  0.00
+PHF  : Newport News VA   :  67 /  36 /  0.00
+ORF  : Norfolk VA        :  65 /  43 /  0.00
+AKQ  : Wakefield VA      :  69 /  34 /  0.00
+WAL  : Wallops Island VA :  67 /  43 /  0.00
+SBY  : Salisbury MD      :  70 /  38 /  0.00
+OXB  : Ocean City MD     :   M /   M /     M
+ECG  : Elizabeth City NC :  69 /  38 /  0.00
+.end
+
+
+These data are preliminary and have not undergone final quality 
+control (qc) by NCDC. Therefore, these data are subject to
+Revision. Final and certified climate data can be accessed at
+The National Climate Data Center (NCDC)- WWW.NCDC.NOAA.GOV.
+

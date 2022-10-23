@@ -1,0 +1,117 @@
+ASUS66 KMTR 220053
+RTPMTR
+
+:Regional Temperature and Precipitation Table
+:National Weather Service San Francisco Bay Area
+:515 PM PDT Fri Oct 21 2022
+:
+:Values are highs and lows the last 18 hours.
+:Precipitation the last 24 hours.  M=missing  T=trace. 
+:
+: ID :   Location          Elev :     High/ Low / PP24HR /
+:
+:...North Bay...
+KENC1:   Kentfield          145 :      69 /  47 /  0.00 /
+NSHC1:   Napa                35 :      M /  49 /  0.00 /
+APC  :   Napa Arpt           33 :      69 /  47 /  0.00 /
+STS  :   Sonoma Cnty Arpt   125 :      68 /  48 /  0.00 /
+STSC1:   Santa Rosa         145 :      66 /  51 /  0.00 /
+:
+:...San Francisco Peninsula...
+HMBC1:   Half Moon Bay       27 :      65 /  49 /  0.00 /
+RWCC1:   Redwood City       145 :      71 /  50 /  0.00 /
+SFOC1:   San Francisco      150 :      59 /  53 /  0.00 /
+SFO  :   San Francisco Arpt   8 :      67 /  52 /  0.00 /
+:
+:...East Bay...
+CCR  :   Concord Arpt        23 :      74 /  51 /  0.00 /
+FETC1:   Fremont             38 :      65 /  49 /  0.00 /
+HWD  :   Hayward Arpt        47 :      65 /  51 /  0.00 /
+LVK  :   Livermore Arpt     393 :      80 /  51 /  0.00 /
+OAMC1:   Oakland             30 :      64 /  55 /  0.00 /
+OAK  :   Oakland Arpt        86 :      64 /  53 /  0.00 /
+:
+:...South Bay and Santa Clara Valley...
+GILC1:   Gilroy             194 :       M /   M /     M /
+SJC  :   San Jose Arpt       51 :      72 /  55 /  0.00 /
+:
+:...Monterey Bay and Big Sur...
+PPSC1:   Big Sur RAWS       354 :      63 /  51 /  0.00 /
+MRY  :   Monterey Arpt      165 :      62 /  52 /  0.00 /
+SCRC1:   Santa Cruz         130 :      66 /  56 /  0.00 /
+WVI  :   Watsonville Arpt   160 :      63 /  50 /  0.00 /
+CTOC1:   Corralitos         327 :      70 /  51 /  0.00 /
+:
+:...Interior Monterey County/San Benito County...
+HSEC1:   Hollister          404 :      73 /  49 /  0.00 /
+KICC1:   King City          320 :      80 /  47 /  0.00 /
+SNS  :   Salinas Arpt        84 :      66 /  53 /  0.00 /
+PCLC1:   Pinnacles NP      1322 :      91 /  51 /  0.00 /
+PKFC1:   Parkfield         1525 :      89 /  49 /  0.00 /
+.End
+
+
+Today's high and low temperatures.
+* = estimated high temperature.
++ = estimated low temperature.
+# = estimated high and low temperature.
+
+
+These data are preliminary and have not undergone final
+quality control by the National Centers for Environmental  
+Information. Therefore...these data are subject to revision.
+Final and certified climate data can be accessed at 
+www.ncdc.noaa.gov.
+
+&&
+
+National Weather Service San Francisco CA
+05:46 PM PDT Fri Oct 21 2022
+
+ WARNING!! This product is automated and updated once per day
+           This product contains preliminary climate data
+
+
+Data represent precipitation ending at 5:00 PM PDT on 10/21/2022
+
+
+-------------------------------------------------------------------------------
+Temperature Climatology
+-------------------------------------------------------------------------------
+                     [           Highs          ]   [          Lows           ] 
+
+                     Since   Oct 21        Oct 21   Since  Oct 21        Oct 21
+Station              12 AM   Record  Year  Normal   12 AM  Record  Year  Normal
+------------------   -----   ------------  ------   -----  ------------  ------
+SFO Int'l Aprt         67      82    1964    72       52     39    1949    53
+Oakland Aprt           64      85    1998    71       53     37    1949    50
+San Jose Aprt          72      89    1901    75       55     35    1912    52
+Santa Rosa Aprt        68      89    2019    76       48     37    2017    45
+Salinas Aprt           66      97    1937    74       53     36    1949    49
+San Francisco Dwntn    59      89    1929    70       53     47    1892    54
+
+-------------------------------------------------------------------------------
+Precipitation Climatology
+-------------------------------------------------------------------------------
+                     Total   Oct 01-       Oct 01-       Oct 01-  Oct 01-
+                     Since   Oct 21        Oct 21        Oct 21   Sep 30
+Station              12 AM   2022    PON   2021    PON   Normal   Normal
+------------------   -----   -----------   -----------   -------  -------
+SFO Int'l Aprt        0.00    0.00     0    0.76   185     0.41    19.64
+Oakland Aprt          0.00    0.00     0    0.27    52     0.52    18.68
+San Jose Aprt         0.00    0.00     0       T     0     0.29    13.48
+Santa Rosa Aprt       0.00    0.01     1    2.44   284     0.86    33.78
+Salinas Aprt          0.00       T     0    0.15    45     0.33    12.58
+San Francisco Dwntn   0.00    0.00     0    1.23   262     0.47    22.89
+
+-------------------------------------------------------------------------------
+
+PON - Percent of Normal follows the Oct 01 - Oct 21 amounts.
+Trace amounts listed as trace.
+NOTE: This climatological data is preliminary. For official
+certified climatological data please contact the National
+Climatic Data Center at 828-271-4800 or http://www.ncdc.noaa.gov.
+Official values as determined at the above Web site may take
+several months for authentication and publication.
+
+$$

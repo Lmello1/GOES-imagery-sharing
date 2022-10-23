@@ -1,0 +1,98 @@
+FGUS53 KMSR 220139
+RVFMIS
+
+RIVER FORECAST
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN
+838 PM CDT FRI OCT 21 2022
+ 
+: THIS PRODUCT HAS PRELIMINARY DATA THAT MAY BE SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+: 
+: NOTE...  This product includes observed precipitation, plus
+:          forecast precipitation for the next 48 Hours.
+:
+:
+: Mississippi R  Hannibal MO - HNNM7 
+: HSA=LSX   Flood Stage=17.0 FT   Fcst Issuance Stage=15.0 FT
+.ER HNNM7 1021 Z DH06/DC10220138/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  10.3/ 10.3/ 10.3/ 10.4
+.ER  HNNM7 1022 Z DH06/DC10220138/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   10.4/ 10.4/ 10.4/ 10.4/ 10.4/ 10.4/ 10.4/ 10.4 
+.E1   10.4/ 10.4/ 10.4/ 10.4/ 10.3/ 10.3/ 10.3/ 10.3 
+.E1   10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3 
+.E1   10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3/ 10.3 
+.E1   10.3/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2 
+.E1   10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2 
+.E1   10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.2/ 10.1 
+:
+:
+:
+: Mississippi R  Grafton IL - GRFI2 
+: HSA=LSX   Flood Stage=20.0 FT   Fcst Issuance Stage=18.0 FT
+.ER GRFI2 1021 Z DH06/DC10220138/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  15.6/ 15.6/ 15.6/ 15.5
+.ER  GRFI2 1022 Z DH06/DC10220138/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+.E1   15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5/ 15.5 
+:
+:
+:
+: Mississippi R  Alton - L&D 26 - ALNI2 
+: HSA=LSX   Flood Stage=21.0 FT   Fcst Issuance Stage=19.0 FT
+.ER ALNI2 1021 Z DH06/DC10220138/HTIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  2.0/ 1.9/ 1.9/ 1.8
+.ER  ALNI2 1022 Z DH06/DC10220138/HTIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8 
+:
+:
+:
+: Mississippi R  St Louis MO - EADM7 
+: HSA=LSX   Flood Stage=30.0 FT   Fcst Issuance Stage=28.0 FT
+.ER EADM7 1021 Z DH06/DC10220138/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  -2.6/ -2.5/ -2.7/ -2.7
+.ER  EADM7 1022 Z DH06/DC10220138/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   -2.7/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8 
+.E1   -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8 
+.E1   -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8/ -2.8 
+.E1   -2.8/ -2.8/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9 
+.E1   -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9 
+.E1   -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9/ -2.9 
+.E1   -2.9/ -2.9/ -2.9/ -2.9/ -3.0/ -3.0/ -3.0/ -3.0 
+:
+:
+:
+: Mississippi R  Chester IL - CHSI2 
+: HSA=LSX   Flood Stage=27.0 FT   Fcst Issuance Stage=25.0 FT
+.ER CHSI2 1021 Z DH06/DC10220138/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  0.9/ 0.7/ 0.8/ 0.7
+.ER  CHSI2 1022 Z DH06/DC10220138/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   0.6/ 0.5/ 0.4/ 0.3/ 0.2/ 0.1/ 0.1/ 0.0 
+.E1   0.0/ -0.1/ -0.1/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2 
+.E1   -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2 
+.E1   -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2/ -0.2 
+.E1   -0.2/ -0.2/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3 
+.E1   -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3 
+.E1   -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3/ -0.3 
+:
+:
+:
+:END
+ 
+ NOTE...  This product includes observed precipitation, plus
+          forecast precipitation for the next 48 Hours.
+
+$$ 
+
+ FCSTR EXT: 2557 
+

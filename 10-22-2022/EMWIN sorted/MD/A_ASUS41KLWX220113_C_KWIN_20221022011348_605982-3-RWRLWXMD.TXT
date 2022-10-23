@@ -1,0 +1,164 @@
+ASUS41 KLWX 220113
+RWRLWX
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BALTIMORE MD/WASHINGTON DC
+900 PM EDT FRI OCT 21 2022
+
+Note: "FAIR" indicates few or no clouds below 12,000 feet
+with no significant weather and/or obstructions to visibility.
+ TC=TEMPERATURE CELSIUS
+
+ * =Non NWS site. Station does not report precipitation (e.g. rain,
+    snow, etc.), thunder, or fog.
+
+DCZ001-MDZ009-015-VAZ040>042-051-053>054-220200-
+WASHINGTON METRO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WASHINGTON NAT PTCLDY    56  42  59 S8        30.16R                  
+DULLES         CLEAR     53  32  44 S6        30.14R                  
+ANDREWS AFB    CLEAR     50  39  65 CALM      30.13R                  
+FT BELVOIR     CLEAR     44  39  83 CALM      30.14R                  
+QUANTICO       CLEAR     50  32  50 W5        30.16R                  
+LEESBURG*      CLEAR     48  37  66 S7        30.15R                  
+MANASSAS*      CLEAR     45  38  76 CALM      30.15R                  
+GAITHERSBURG*  CLEAR     48  34  58 SE6       30.15R                  
+
+$$
+
+MDZ006>007-011-014-220200-
+BALTIMORE METRO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BWI AIRPORT    PTCLDY    48  37  65 CALM      30.14R                  
+BALT INNER HAR   N/A     57  34  41 MISG      30.15R                  
+MARTIN STATE   CLEAR     46  43  87 CALM      30.16R                  
+ANNAPOLIS      CLEAR     52  45  77 CALM      30.15R                  
+FORT MEADE*    CLEAR     41  37  87 CALM      30.18R                  
+
+$$
+
+MDZ012-015-019>023-220200-
+MARYLAND EASTERN SHORE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OCEAN CITY     NOT AVBL                                               
+SALISBURY      CLEAR     47  42  83 CALM      30.17R                  
+CAMBRIDGE*     CLEAR     46  43  87 SE5       30.16R                  
+EASTON*        CLEAR     48  43  81 CALM      30.19R                  
+
+$$
+
+MDZ017>025-220200-
+SOUTHERN MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PATUXENT RIVER CLEAR     56  43  61 S6        30.15R                  
+ST INIGOES     CLEAR     50  45  83 E3        30.15R                  
+LEONARDTOWN*   CLEAR     46  45  93 CALM      30.17S                  
+
+$$
+
+MDZ003>005-220200-
+NORTH CENTRAL MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FREDERICK*     CLEAR     52  36  54 CALM      30.13R                  
+HAGERSTOWN APT CLEAR     54  30  40 SE5       30.12R                  
+WESTMINSTER*   CLEAR     54  32  43 SE6       30.14R                  
+
+$$
+
+MDZ501>502-220200-
+WESTERN MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OAKLAND*       NOT AVBL                                               
+CUMBERLAND*    CLEAR     48  34  58 CALM      30.13S                  
+
+$$
+
+VAZ025>031-220200-
+SHENANDOAH VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WINCHESTER*    CLEAR     43  32  65 CALM      30.10R                  
+FRONT ROYAL*   CLEAR     48  32  53 S3        30.11S                  
+LURAY*         CLEAR     46  34  61 CALM      30.12S                  
+NEW MARKET*    CLEAR     41  33  72 CALM      30.12S                  
+STAUNTON*      CLEAR     41  32  70 CALM      30.15R                  
+WAYNESBORO*    CLEAR     44  32  63 MISG      30.14R                  
+
+$$
+
+WVZ021-048>050-054>055-220200-
+EASTERN WEST VIRGINIA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARTINSBURG    CLEAR     47  32  56 CALM      30.11R                  
+PETERSBURG*    CLEAR     43  36  75 CALM      30.12R                  
+
+$$
+
+VAZ036>039-050-220200-
+CENTRAL FOOTHILLS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLOTTESVILL CLEAR     49  36  61 CALM      30.14R                  
+CULPEPER*      CLEAR     43  36  75 CALM      30.15R                  
+ORANGE*        CLEAR     43  36  75 CALM      30.16R                  
+GORDONSVILLE*  NOT AVBL                                               
+WARRENTON*     CLEAR     38  33  84 CALM      30.18R                  
+
+$$
+
+VAZ055>057-220200-
+NORTH AND CENTRAL PIEDMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FREDERICKSBRG* CLEAR     47  40  76 CALM      30.14R                  
+STAFFORD*      CLEAR     47  41  79 NW3       30.18R                  
+
+$$
+
+NCZ024-NYZ072-PAZ021-071-VAZ022-071-220200-
+OTHER REGIONAL OBSERVATIONS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NEW YORK CITY  CLEAR     56  40  55 CALM      30.17S                  
+PHILADELPHIA   CLEAR     55  36  48 SW5       30.16R                  
+PITTSBURGH     PTCLDY    52  31  44 S3        30.03R                  
+ROANOKE        CLEAR     52  34  50 CALM      30.16R                  
+RICHMOND       CLEAR     51  40  65 SE7       30.15R                  
+RALEIGH        CLEAR     52  38  58 CALM      30.15R                  
+
+$$
+
+ANZ530>537-220200-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES
+                       AIR SEA DIR/SP/G
+                 (UTC) (F)     (DEG/KT/KT) (MB)
+THOMAS PT LIGHT  0100   60     140/  8/  9 1021.9R
+TOLCHESTER       0024      58  130/  4/  4 1020.8
+GOOSES REEF      0048   56 61  160/  6/  6 1021.5F
+COVE POINT       0030          120/  7/  8 1021.3R
+BALT HARBOR      0024      62  240/  2/  5 1020.1
+BALT KEY BRIDGE  0030          180/  8/  9 1020.5R
+ANNAPOLIS USNA   0024      64  290/  2/  2 1020.4
+ANNAPOLIS CBIBS  0048   57 62  210/  4/  6 1020.5F
+WASH DC CHANNEL  0024      60  200/  2/  3 1020.4
+DAHLGREN         0024      62   CALM  /  2 1020.1
+LEWISETTA        0024      60  200/  6/  7 1021.1
+SOLOMONS ISLAND  0024      63  170/  3/  4 1019.7
+PINEY POINT      0030          190/ 10/ 11   N/A
+POTOMAC BUOY     0048   57     160/ 12/ 14   N/A
+CAMBRIDGE PIER   0024      60  190/  4/  5 1020.9
+BISHOPS HEAD     0024      60  160/  8/ 10 1021.1
+CHESAPEAKE CITY  0024      58  140/  2/  3 1021.1
+
+$$
+
+  

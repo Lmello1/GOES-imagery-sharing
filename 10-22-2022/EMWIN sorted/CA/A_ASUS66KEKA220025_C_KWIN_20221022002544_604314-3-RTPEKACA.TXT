@@ -1,0 +1,146 @@
+ASUS66 KEKA 220025
+RTPEKA
+Max/Min Temperature and Precipitation Table for Northwest California
+National Weather Service Eureka CA
+525 PM PDT Fri Oct 21 2022
+
+:Values represent high and low temperatures over the last 18 hours
+:and precipitation over the last 24 hours.
+:
+.BR EKA 1021 P DH17/TAIRZS/TAIRZI/PPDRZZ/SDIRZZ
+:
+:                                   Obs   Max   Min    24Hr    Snow
+:ID    Location               Elev Time  Temp  Temp    Pcpn   Depth
+CEC  : Jack McNamara Field      57 1700 :  63 /  50 /    T  /     M
+ACV  : Arcata/Eureka Arpt      225 1700 :  60 /  48 /  0.00 /     M
+UKI  : Ukiah Municipal Arpt    620 1700 :  85 /  45 /  0.00 /     M
+EKA  : Eureka NWS               19 1700 :  62 /  50 /    T  /     M
+O86  : Trinity Center Arpt    2390 M    :   M /   M /  ---- /    --
+FOT  : Rohnerville Arpt        393 1700 :  64 /  46 /  ---- /    --
+:
+:The observations below are from cooperative weather observation
+:sites. At some locations, reported temperatures may reflect
+:conditions for the previous day. Refer to the Obs Time column.
+:
+.BR EKA 1021 PS DH16/TAIRZX/TAIRZN/PPDRZZ/SDIRZZ
+:
+:                                   Obs   Max   Min    24Hr    Snow
+:ID     Location              Elev Time  Temp  Temp    Pcpn   Depth
+ORLC1 : Orleans                400 M    :   M /   M /     M /     M
+WLLC1 : Willow Creek           461 M    :   M /   M /     M /     M
+FRBC1 : Fort Bragg             120 1600 :  58 /  46 /  0.00 /     M
+PORC1 : Potter Valley         1015 1600 :  89 /  44 /  0.00 /     0
+:
+:The observations below are courtesy of the California Department
+:of Water Resources, CalFire, US Forest Service, US Bureau of
+:Reclamation, Bureau of Indian Affairs, and Trinity County.
+:
+:                                   Obs   Max   Min    24Hr    Snow
+:ID     Location              Elev Time  Temp  Temp    Pcpn   Depth
+:
+:DEL NORTE COUNTY...
+:
+CSXC1 : Camp Six RAWS         3778 1700 :  63 /  50 /  0.05 /    --
+CRZC1 : Crazy Peak RAWS       3970 1700 :  63 /  50 /  0.00 /    --
+FTDC1 : Dr Fine Bridge          35 M    :  -- /  -- /     M /    --
+ELKC1 : Elk Valley            1705 1700 :  -- /  -- /  0.00 /    --
+GQEC1 : Gasquet 1SW RAWS       362 1700 :  76 /  59 /  0.00 /    --
+GQTC1 : Gasquet RS             384 1700 :  76 /  55 /  0.00 /    --
+TERC1 : Klamath Glen           263 1700 :  -- /  -- /  0.00 /    --
+KLXC1 : Klamath RAWS             3 1700 :  63 /  47 /  0.00 /    --
+SHXC1 : Ship Mountain RAWS    5312 1700 :  62 /  47 /  0.03 /    --
+DICC1 : Smith River RAWS      1574 1700 :  69 /  47 /  0.00 /    --
+:
+:HUMBOLDT COUNTY...
+:
+ALDC1 : Alder Point 7NW RAWS   923 1700 :  78 /  49 /  0.00 /    --
+BIIC1 : Big Hill RAWS         3570 1700 :  68 /  58 /  0.00 /    --
+BGVC1 : Bridgeville 1NE        646 1700 :  70 /  43 /  0.00 /    --
+BHTC1 : Brush Mountain RAWS   3942 1700 :  68 /  54 /  0.00 /    --
+PTEC1 : Cooskie Mountain RAWS 2950 1700 :  71 /  54 /  0.00 /    --
+FTSC1 : Fort Seward            217 1700 :  -- /  -- /  0.00 /    --
+HONC1 : Honeydew 1SW           370 1700 :  75 /  44 /  0.00 /    --
+HOOC1 : Hoopa                  333 1700 :  -- /  -- /  0.00 /    --
+HOAC1 : Hoopa 2NE RAWS         375 1700 :  77 /  45 /  0.00 /    --
+KNNC1 : Kneeland 5SE RAWS     2737 1700 :  72 /  55 /  0.00 /    --
+MRNC1 : Miranda                263 1700 :  -- /  -- /  0.00 /    --
+ORIC1 : Orick                   42 1700 :   M /   M /  0.00 /    --
+ERCC1 : Redway 2NE RAWS        446 1700 :  77 /  43 /  0.00 /    --
+SHUC1 : Schoolhouse RAWS      2640 1700 :  73 /  50 /  0.00 /    --
+TTEC1 : Slate Creek RAWS      4170 1700 :  68 /  54 /  0.00 /    --
+NTCC1 : Weitchpec 14NW RAWS    557 1700 :  76 /  48 /  0.00 /    --
+WEDC1 : Westside RAWS         2191 1700 :  69 /  52 /  0.00 /    --
+:
+:TRINITY COUNTY...
+:
+BABC1 : Backbone Ridge RAWS   4700 1700 :  73 /  61 /  0.00 /    --
+BGBC1 : Big Bar RAWS          1520 1700 :  78 /  46 /  0.00 /    --
+BFLC1 : Big Flat RAWS         5100 1700 :  66 /  42 /  ---- /     1
+BNKC1 : Bonanza King          6450 1700 :  62 /  51 /  0.00 /     0
+CFCC1 : Carrville 2N RAWS     4400 1700 :  75 /  53 /  0.00 /    --
+CFFC1 : Coffee Creek RS       2503 1700 :  -- /  -- /  0.00 /    --
+CFRC1 : Coffee Ridge RAWS     3040 1700 :  88 /  66 /  0.00 /    --
+DCYC1 : Douglas City 1SW      1597 M    :   M /   M /  ---- /    --
+FMOC1 : Friend Mountain RAWS  4000 1700 :  68 /  56 /  0.00 /    --
+HYFC1 : Hayfork 1ESE RAWS     2340 1700 :  77 /  33 /  0.00 /    --
+HIGC1 : Highland Lakes        6030 M    :   M /   M /     M /     M
+HDLC1 : Lewiston 3SE          4580 1700 :  70 /  58 /  0.00 /    --
+GVOC1 : Lewiston 6SE          2752 1700 :  75 /  36 /  0.00 /    --
+MADC1 : Mad Rvr on Ruth Lake  2760 1700 :  77 /  39 /  0.00 /    --
+MDDC1 : Mad River 1NW RAWS    2796 1700 :  76 /  46 /  0.00 /    --
+MUDC1 : Mud Springs           3400 1700 :  68 /  53 /  0.00 /    --
+MUMC1 : Mumbo Basin           5650 1600 :  67 /  34 /  ---- /    --
+PTFC1 : Peterson Flat         6381 1600 :  62 /  49 /  ---- /     1
+RRMC1 : Red Rock Mountain     6700 1600 :  64 /  47 /  ---- /     M
+RLKC1 : Ruth Lake 1S RAWS     2744 1700 :  79 /  36 /  0.00 /    --
+SHMC1 : Shimmy Lake           6400 1700 :  63 /  52 /  0.00 /     M
+TYRC1 : Taylor Ridge          4000 1700 :  74 /  57 /  0.00 /    --
+TCAC1 : Trinity Camp RAWS     3308 1700 :  73 /  52 /  0.00 /    --
+TRHC1 : Trinity Rvr Hatchery  1860 1700 :  -- /  -- /  0.00 /    --
+UDWC1 : Underwood RAWS        2593 1700 :  72 /  53 /  0.00 /    --
+WEFC1 : Weaverville 2NNE RAWS 2191 1700 :  76 /  47 /  0.00 /    --
+YOBC1 : Yolla Bolla RAWS      4760 1700 :  76 /  57 /  0.00 /    --
+ZENC1 : Zenia 2ENE            3963 1700 :  72 /  55 /  0.00 /    --
+:
+:MENDOCINO COUNTY...
+:
+BNVC1 : Boonville 2SE RAWS     644 1700 :  77 /  47 /  0.00 /    --
+CDLC1 : Cloverdale 6NW         350 M    :  -- /  -- /     M /    --
+EELC1 : Eel River RAWS        1610 1700 :  82 /  46 /  0.00 /    --
+COVC1 : Eel River RS          1514 1700 :  82 /  46 /  0.00 /    --
+HPDC1 : Hopland 5NNE RAWS     2680 1700 :  78 /  68 /  0.00 /    --
+LAYC1 : Laytonville 1N RAWS   1838 1700 :  78 /  46 /  0.00 /    --
+LEGC1 : Leggett 1NW            700 1700 :  -- /  -- /  0.00 /    --
+MCGC1 : McGuires RAWS          627 1700 :  67 /  45 /  0.00 /    --
+MASC1 : Mendocino Pass RAWS   5382 1700 :  66 /  59 /  0.00 /    --
+PORC1 : Potter Valley         1015 1700 :  82 /  44 /  0.00 /    --
+PVBC1 : Potter Valley 3NNW    1080 1700 :  85 /  44 /     M /    --
+RDVC1 : Rodeo Valley RAWS     2425 1700 :  78 /  54 /  0.00 /    --
+MCWC1 : Ukiah 4NNE             670 1700 :  84 /  45 /  0.00 /    --
+WILC1 : Willits Howard RS     2760 1700 :  76 /  48 /  0.00 /    --
+YRKC1 : Yorkville 1NNW        1100 1700 :  77 /  44 /  0.00 /    --
+:
+:LAKE COUNTY...
+:
+BLTC1 : Bartlett Springs      2060 M    :  -- /  -- /     M /    --
+CLFC1 : Cache Creek Dam       1498 1700 :  -- /  -- /  0.00 /    --
+LKRC1 : Cobb Mountain RAWS    4724 1700 :  71 /  62 /  0.00 /    --
+WISC1 : County Line RAWS      2085 1700 :  86 /  66 /  0.00 /    --
+HGLC1 : High Glade Lookout    4807 1236 :  72 /  64 /  0.00 /    --
+INVC1 : Indian Valley Res     1502 1700 :  -- /  -- /  0.00 /    --
+KNXC1 : Knoxville Creek RAWS  2200 1700 :  82 /  52 /  0.00 /    --
+KELC1 : Konocti               2163 1700 :  84 /  64 /  0.00 /    --
+COWC1 : Lyons Valley RAWS     3355 1700 :  77 /  63 /  0.00 /    --
+SEEC1 : Sheetiron Mountain    6445 1700 :  64 /  56 /  ---- /    --
+SOAC1 : Soda Creek RAWS       1725 1700 :  83 /  37 /  0.00 /    --
+PPMC1 : Upper Lake 2SSE       1326 1700 :  -- /  -- /  0.00 /    --
+WSPC1 : Whispering Pines      2700 1700 :  82 /  64 /  0.00 /    --
+:
+:Data is preliminary and has not undergone final quality control 
+:by the National Centers for Environmental Data (NCEI). Therefore, 
+:data is subject to revision. Final and certified climate data can 
+:be accessed at ncei.noaa.gov.
+:
+.END
+$$
+

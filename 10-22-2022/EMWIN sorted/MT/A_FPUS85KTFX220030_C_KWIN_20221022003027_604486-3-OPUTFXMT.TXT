@@ -1,0 +1,295 @@
+FPUS85 KTFX 220030
+OPUTFX
+
+
+MONTANA SOIL TEMPERATURE AND MOISTURE SUMMARY
+NATIONAL WEATHER SERVICE GREAT FALLS MT
+630 PM MDT Fri Oct 21 2022
+
+
+... DAILY SOIL TEMPERATURE/MOISTURE SUMMARY...
+
+Soil temperature and moisture observations from across Montana
+Soil temperature is in degrees Fahrenheit. 
+        
+Soil temperature /F/ at listed depth /inches/
+              Elev  0/2in  4in  6in  8in  12in  20in  30/36 40in
+Absarokee W   4599           M         M           M     M
+Argenta BLM   6253           M         M           M     M
+Battle Ck SD  3229           M         M           M     M
+Belfry E BLM  3920           M         M           M     M
+Benchland NE  4258           M         M           M     M
+Benton Lake W 3710     M     M         M           M     M
+Bozeman ExpSt 4774    49    52        52          55
+Broadus BLM   3175           M         M           M     M
+Broadview E   4018           M         M           M     M
+Brusett 4SE   2643    48    48        50          49          50
+Butte MBMG MT 5818           M         M           M     M
+Capitol BLM   3311           M         M           M     M
+Cascade E MDA 3408           M         M           M     M
+Charlo Hts MD 3702           M         M           M     M
+Cherry Ridge  3028           M         M           M     M
+Chinook E MDA 2387           M         M           M     M
+Choteau NE    3793           M         M           M     M
+Churchill S   4794           M         M           M     M
+Clearwater SW 3873           M         M           M     M
+Coffee Creek  3727           M         M           M     M
+Conrad ARC    3721           M         M           M     M
+Conrad SCAN   3706    51    51        53          53          56
+Cooke City NR 8700          38        38          39           M
+Cooney Resvr  4720           M         M           M     M
+Corvallis ARC 3597     M     M         M           M     M
+Crow Agency E 3107           M         M           M     M
+Dillon NE MDA 5054           M         M           M     M
+Edgar E MDA   3495           M         M           M     M
+Fort Benton E 3255     M     M         M           M     M
+Fort Keogh N  2706           M         M           M     M
+Fort Keogh SE 2448           M         M           M     M
+Fort Keogh SW 2806           M         M           M     M
+Gildford N MD 2791           M         M           M     M
+Glasgow W MDA 2117           M         M           M     M
+Glendive BLM  2346           M         M           M     M
+Great Falls   3776           M    M          M           M
+Hardin N MDA  2850           M         M           M     M
+Harding CO SD 3230           M         M           M     M
+Havre ARC     2711           M         M           M     M
+Hogeland SE   3108           M         M           M     M
+Hot Spgs NE-L 3418           M         M           M     M
+Hot Spgs NE-U 4994           M         M           M     M
+Huntley ARC   3038     M     M         M           M     M
+Ingomar NE    3098           M         M           M     M
+Jordan SCAN   2820    51    52        52          54           M
+Kalispell ARC 2949           M         M           M     M
+Kidd BLM      6273           M         M           M     M
+Ledger N MDA  3448           M         M           M     M
+Lolo W MBMG   3238     M     M         M           M     M
+Loma S        2809           M         M           M     M
+Lookout Pass  5140           M        45          45           M
+Lubrecht Frst 4099           M         M           M     M
+McCartney Mtn 6099           M         M           M     M
+MacDonald Pss 6335           M         M           M     M
+Malta W MDA   2260           M         M           M     M
+Manhattan S   4379           M         M           M     M
+Melville SE   4709           M         M           M     M
+Miles City S  2476           M         M           M     M
+Moccasin SCAN 4256    52    52        52          54          55
+Moccasin ARC  4255           M         M           M     M
+Molt W        4171           M         M           M     M
+Oilmont E MDA 3574           M         M           M     M
+Plevna BLM    3039           M         M           M     M
+Poplar 13NE   2085    49    49        50          50          51
+Power S       3718           M         M           M     M
+Pumpkin Ck    2743           M         M           M     M
+Rapelje N     4197           M         M           M     M
+Reed Point NE 4251           M         M           M     M
+Reed Point S  4712           M         M           M     M
+Roundup NE    3447           M         M           M     M
+Roundup NW    3636           M         M           M     M
+Roy BLM       3082           M         M           M     M
+Scobey N MDA  2407           M         M           M     M
+Sidney ARC    2278           M         M           M     M
+Terry BLM     2338           M         M           M     M
+Three Fks SCN 4775    56    55        52          54          55
+Toston SW MDA 4076           M         M           M     M
+Twin Bridges  4783           M         M           M     M
+Utica 11SW    5070    50    49        49          50          50
+Vandalia N    2598           M         M           M     M
+Virginia City 7371           M         M           M     M
+Warren E BLM  5239           M         M           M     M
+Whitefish N   3022           M         M           M     M
+Zortman E BLM 3085           M         M           M     M
+ 
+Ground temperature /F/ at the surface and 18 inches deep at MT DOT 
+sites
+ 
+Aberdeen Hill 4101     M                       M
+Akzada        4327     M                       M
+Arrow Creek   3956     M                       M
+Avon North    5085     M                       M
+Bearsmouth    3901     M                       M
+Beaver Hill   2551     M                       M
+Biddle        3418     M                       M
+Big Hole Pass 7400     M                       M
+Boulder Pass  5600     M                       M
+Bowmans Cornr 4301     M                       M
+Bozeman Pass  5748     M                       M
+Browning      4419     M                       M
+Bull Mountain 3898     M                       M
+Comerstown    2099     M                       M
+Cow Creek     2500     M                       M
+Crystal Creek 3030     M                       M
+Deep Creek    5870     M                       M
+Dearborn      3500     M                       M
+Denton        3557     M                       M
+Dickey Lake   3487     M                       M
+E Livingston  4555     M                       M
+Ekalaka       3687     M                       M
+Essex         3875     M                       M
+Flathead Brdg 2851     M                       M
+Garrison      4327     M                       M
+Georgetown Lk 6339     M                       M
+Geyser        4138     M                       M
+Government Hl 3165     M                       M
+Greenough     4070     M                       M
+Hays          3697     M                       M
+Helmville     4199     M                       M
+Rock Springs  2998     M                       M
+Homestake Pss 6385     M                       M
+Hysham Hills  3549     M                       M
+Ingomar       3018     M                       M
+Inverness     3300     M                       M
+Judith Gap    4677     M                       M
+Karst         5698     M                       M
+Lame Deer     4327     M                       M
+Lewistown Dvd 4622     M                       M
+Lindsay Divid 3198     M                       M
+Loma          2557     M                       M
+Lookout Pass  4540     M                       M
+Lufborough Hl 2998     M                       M
+MacDonald Pss 6320     M                       M
+Malta South   3122     M                       M
+McDonalds     2401     M                       M
+Monarch Canyn 5218     M                       M
+Monida Pass   6824     M                       M
+Navajo        2570     M                       M
+Ninemile      4301     M                       M
+Norris Hill   5695     M                       M
+Pendroy       4199     M                       M
+Raynolds Pass 6778     M                       M
+Reedpoint     3890     M                       M
+Rogers Pass   5406     M                       M
+Roscoe Hill   5337     M                       M
+Saco          2177     M                       M
+Sieben        4040     M                       M
+Sioux Pass    2480     M                       M
+Swan Lake     3567     M                       M
+Sweeney Creek 2598     M                       M
+Sweet Grass   3690     M                       M
+Trout Creek   2384     M                       M
+Two Medicine  4920     M                       M
+US2 Stateline 2099     M                       M
+Yaak Hill     2201     M                       M
+Yellowstone B 3194     M                       M
+ 
+Soil moisture /volumetric soil moisture in percent/ at listed depth 
+Soil moisture is in units of percent volumetric soil moisture.
+Values at, near or below zero may be erroneous.
+              elev   2in   4in  6in  8in  12in  20in  30/36 40in
+Absarokee W   4599           M         M           M     M
+Argenta BLM   6253           M         M           M     M
+Battle Ck SD  3229           M         M           M     M
+Belfry E BLM  3920           M         M           M     M
+Benchland NE  4258           M         M           M     M
+Benton Lake W 3710           M         M           M     M
+Broadus BLM   3175           M         M           M     M
+Broadview E   4018           M         M           M     M
+Brusett 4SE   2643    13    14         7           5           6
+Butte MBMG MT 5818           M         M           M     M
+Capitol BLM   3311           M         M           M     M
+Cascade E MDA 3408           M         M           M     M
+Charlo Hts    3702           M         M           M     M
+Cherry Ridge  3028           M         M           M     M
+Chinook E MDA 2387           M         M           M     M
+Choteau NE    3793           M         M           M     M
+Churchill S   4794           M         M           M     M
+Clearwater SW 3873           M         M           M     M
+Coffee Creek  3727           M         M           M     M
+Conrad ARC    3721           M         M           M     M
+Cooke City NR 8700          11         0           6           M
+Cooney Resvr  4720           M         M           M     M
+Corvallis ARC 3597           M         M           M     M
+Crow Agency E 3107           M         M           M     M
+Dagmar MDA NW 2141           M         M           M     M
+Dillon NE MDA 5054           M         M           M     M
+Edgar E MDA   3495           M         M           M     M
+Fort Benton E 3255           M         M           M     M
+Fort Keogh N  2706           M         M           M     M
+Fort Keogh SE 2448           M         M           M     M
+Fort Keogh SW 2806           M         M           M     M
+Froid MDA NE  2078           M         M           M     M
+Gildford N MD 2791           M         M           M     M
+Glasgow W MDA 2117           M         M           M     M
+Glendive BLM  2346           M         M           M     M
+Hardin N MDA  2850           M         M           M     M
+Harding CO SD 3230           M         M           M     M
+Havre ARC     2711           M         M           M     M
+Hogeland SE   3108           M         M           M     M
+Hot Spgs NE-L 3418           M         M           M     M
+Hot Spgs NE-U 4994           M         M           M     M
+Huntley ARC   3038           M         M           M     M
+Ingomar NE    3098           M         M           M     M
+Jordan SCAN   2820     9    19        21          20          17
+Kalispell ARC 2949           M         M           M     M
+Kidd BLM      6273           M         M           M     M
+Ledger N MDA  3448           M         M           M     M
+Lolo W MBMG   3238           M         M           M     M
+Loma S        2809           M         M           M     M
+Lookout Pass  5140           M         4          45
+Lubrecht Frst 4099           M         M           M     M
+McCartney Mtn 6099           M         M           M     M
+MacDonald Pss 6335           M         M           M     M
+Malta W MDA   2260           M         M           M     M
+Manhattan S   4379           M         M           M     M
+Melville SE   4709           M         M           M     M
+Miles City S  2476           M         M           M     M
+Moccasin ARC  4255           M         M           M     M
+Moccasin SCAN 4256    18    24        17          11           8
+Moiese MDA N  2840           M         M           M     M
+Molt W        4171           M         M           M     M
+Oilmont E MDA 3574           M         M           M     M
+Plevna BLM    3039           M         M           M     M
+Poplar 13NE   2085    12     9         4           5           5
+Power S       3718           M         M           M     M
+Pumpkin Ck    2743           M         M           M     M
+Rapelje N     4197           M         M           M     M
+Reed Point NE 4251           M         M           M     M
+Reed Point S  4712           M         M           M     M
+Roundup NE    4251           M         M           M     M
+Foundup NW    3636           M         M           M     M
+Roy BLM       3082           M         M           M     M
+Scobey N MDA  2407           M         M           M     M
+Sidney ARC    2278           M         M           M     M
+Terry BLM     2338           M         M           M     M
+Three Fks SCN 4775     8    22        38          39           7
+Toston SW MDA 4076           M         M           M     M
+Twin Bridges  4783           M         M           M     M
+Utica 11SW    5070     9    17        11          10           8
+Vandalia N    2598           M         M           M     M
+Virginia City 7371           M         M           M     M
+Warren E BLM  5239           M         M           M     M
+Whitefish N   3022           M        M            M     M
+Zortman E BLM 3085           M         M           M     M
+        
+Field capacity of silt loam and clay loam soils is approximately
+35 percent of volumetric soil moisture. The plant available water 
+of these soils is available to plants at values between 13 and 45  
+percent. To approximate plant available water as listed in the next 
+section...divide the listed value by 40 and multiply by 100. For 
+example...30/40 times 100 equals 75 percent. Resulting values of 
+greater than 50 indicate very moist soil conditions.
+ 
+Soil Moisture (soil tension) /centibars/ at listed depth             
+Values are in centibars. 200 cB is dry...0 is wet.
+              elev   2in   4in  6in  8in  12in  20in  30in  40in
+Great Falls   3776                M          M     M     M
+Following is a table on converting centibars to available water
+in loam and clay/loam soils
+ 10cB or less...More than 95 percent plant available water
+ 20cB...........80 percent plant available water
+ 30cB...........75 percent plant available water
+ 40cB...........65 percent plant available water
+ 50cB...........55 percent plant available water
+ 60cB...........50 percent plant available water
+ 70cB...........45 percent plant available water
+ 80cB...........40 percent plant available water
+ 81-85cB........38 percent plant available water
+ 85cB or more...No available water
+
+
+  0-10 centibars = saturated soil
+ 10-30 centibars = soil is adequately wet
+ 30-60 centibars = some watering necessary for most soils
+ 60-85 centibars = some watering necessary for heavy clay soils
+ 85+   centibars = soil is dry to very dry
+.END
+

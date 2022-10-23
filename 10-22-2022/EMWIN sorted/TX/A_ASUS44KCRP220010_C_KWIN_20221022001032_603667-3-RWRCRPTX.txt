@@ -1,0 +1,68 @@
+ASUS44 KCRP 220010
+RWRCRP
+
+SOUTH TEXAS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE CORPUS CHRISTI TX
+700 PM CDT FRI OCT 21 2022
+
+
+TXZ229>244-220100-
+...CORPUS CHRISTI AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CORPUS CHRISTI PTCLDY    76  61  59 SE12      29.96R                  
+NAS CORPUS CHR PTCLDY    77  60  55 S16       29.96S                  
+ROCKPORT       CLEAR     76  60  57 S9        29.96R                  
+KINGSVILLE NAS CLEAR     75  62  64 SE14      29.94S                  
+ALICE          CLEAR     75  61  61 SE14      29.93S                  
+$$
+ 
+...VICTORIA AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORT LAVACA    CLEAR     77  58  53 S9        29.97S                  
+VICTORIA       CLEAR     76  60  57 S12       29.96R                  
+BEEVILLE       FAIR      74  56  52 SE12G17   29.94R                  
+PLEASANTON     CLEAR     79  50  36 S5        29.92S                  
+SAN ANTONIO    PTCLDY    81  47  30 S12       29.92S                  
+$$
+ 
+...LAREDO AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAREDO         CLEAR     80  51  36 S9        29.91S                  
+COTULLA        CLEAR     81  51  35 S5        29.91S                  
+DEL RIO        CLEAR     79  55  43 SE10      29.88S                  
+MCALLEN        CLEAR     80  61  52 S10       29.94R                  
+HEBBRONVILLE   CLEAR     77  53  42 S5        29.94S HAZE             
+$$
+ 
+...OTHER TEXAS OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROWNSVILLE    CLEAR     76  62  62 SE12      29.97R                  
+HOUSTON        PTCLDY    78  58  49 S10G20    29.94R                  
+COL. STATION   CLEAR     80  50  34 S8        29.90S                  
+AUSTIN         CLEAR     79  48  33 S9        29.89S                  
+TEMPLE         CLEAR     80  47  31 S14       29.88R                  
+WACO           CLEAR     80  52  37 S15       29.85S                  
+FORT WORTH     PTCLDY    84  46  26 S16       29.78S                  
+WICHITA FALLS  CLEAR     85  36  17 S17       29.71F                  
+LUBBOCK        PTCLDY    76  33  21 W12       29.80F                  
+EL PASO        PTCLDY    81  44  27 W10G25    29.95F                  
+$$
+
+...MARINE OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY  WAVE   SWELL
+                                AIR SEA DIR/SP/G                  HT/PER HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S) (FT/S)
+PORT ARANSAS     2300            76     150/ 17/ 18   N/A
+ARANSAS PASS     2330               74  120/ 16/ 18   N/A
+BUOY 6 SE PORT A NOT AVBL
+BUOY 90 E PORT A 2350            76                 1015.8F         2/ 6   2/ 6
+BUOY 45 SE BAFFI 2350            76 82  150/ 16/ 19 1015.3F         2/ 4
+BUOY 200 E PT IS 2350            76     130/ 10/ 16 1016.8R         1/ 7
+BUOY 15 E GALVES NOT AVBL
+$$
+  

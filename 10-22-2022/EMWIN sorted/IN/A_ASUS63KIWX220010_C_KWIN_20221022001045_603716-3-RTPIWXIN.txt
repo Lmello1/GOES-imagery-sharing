@@ -1,0 +1,76 @@
+ASUS63 KIWX 220010
+RTPIWX
+
+
+Evening Temperature And Precipitation Summary
+National Weather Service Northern Indiana
+810 PM EDT Fri Oct 21 2022
+
+Values represent 18 hour high temperature, low temperature over
+the last 18 hours, 24 hour precipitation and snowfall, snow
+depth at 7 PM LST.
+
+
+:Northern Indiana...Northwest Ohio and Southwest Michigan
+:Temperature and Precipitation Stations
+:
+.BR IWX 1021 ES DH19/TAIRZS/TAIRZI/PP/SF/SD
+:................................................................
+:                            max  / min  / 24-hr  / snow / snow
+: ID   Location              temp / temp / precip / fall / depth
+:................................................................
+:
+:
+SBN: South Bend Intl Apt IN:  75 /  42 /    0.00 /    0.0/  0
+FWA: Fort Wayne Intl Apt IN:  74 /  39 /    0.00 /    0.0/  0
+GSH: Goshen Airport IN:       73 /  43 /    0.00 /     M /  M
+IWX: Northern IN WFO IN:      73 /  42 /    0.00 /    0.0/  0
+BEH: Benton Harbor Aprt MI:   73 /  39 /    0.00 /     M /  M
+DFI: Defiance Airport OH:     73 /  40 /    0.00 /     M /  M
+AOH: Lima Airport OH:         72 /  43 /    0.00 /     M /  M
+:
+.END
+: 
+This data is preliminary and has not undergone final quality control 
+by the National Centers for Environmental Information /NCEI/. 
+Therefore...this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov. 
+:
+:
+:Automated Weather Observing System (AWOS) Stations
+:................................................................
+:                            max  / min  / 24-hr   
+: ID   Location              temp / temp / precip  
+:................................................................
+ANQ : Angola, IN AWOS         :  72 /  36 /     M
+GWB : Auburn, IN AWOS         :  72 /  41 /  0.00
+OEB : Coldwater, MI AWOS      :  70 /  35 /     M
+EKM : Elkhart AWOS            :  73 /  41 /  0.00
+JYM : Hillsdale, MI AWOS      :  68 /  32 /  0.00
+C62 : Kendallville, IN AWOS   :  56 /  44 /     M
+OXI : Knox, IN AWOS           :  73 /  41 /     M
+PPO : LaPorte, IN AWOS        :  73 /  37 /  0.00
+GGP : Logansport, IN AWOS     :  73 /  39 /  0.00
+MZZ : Marion, IN AWOS         :  72 /  43 /  0.00
+MGC : Michigan City, IN AWOS  :  73 /  36 /     M
+MCX : Monticello, IN AWOS     :   M /   M /     M
+OWX : Ottawa, OH AWOS         :  73 /  43 /     M
+C65 : Plymouth, IN AWOS       :  75 /  43 /     M
+RCR : Rochester, IN AWOS      :  73 /  45 /     M
+IRS : Sturgis, MI AWOS        :  70 /  38 /  0.00
+HAI : Three Rivers, MI AWOS   :  72 /  33 /     M
+ASW : Warsaw, IN AWOS         :  74 /  43 /  0.00
+USE : Wauseon, OH AWOS        :  73 /  34 /     M
+VNW : Van Wert, OH AWOS       :  73 /  39 /  0.00
+:
+.END
+T = Trace
+M = Missing
+:
+The temperature data for AWOS sites represents the highest and lowest
+temperatures that were reported on the metar observations that 
+transmit three times an hour and may not represent the actual high or
+low for that site. These sites do no measure snowfall or snow depth.
+:
+$$
+

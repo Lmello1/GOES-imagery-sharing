@@ -1,0 +1,89 @@
+SXUS86 KMTR 220210
+OMRMTR
+Environmental Buoy and Coastal Weather Reports
+National Weather Service San Francisco CA
+07 PM PDT Fri Oct 21 2022
+
+ --------------------------------------------------------------------
+			      Time  Wind	Temp(F)  Pressure Wave Data 
+ Buoy   Location       GMT   Dir KTS	Air Sea  (MB)	  (FT) (SEC)
+ --------------------------------------------------------------------
+ 46001  Glf Alaska     ---   --- -----   --  --   ------   --   --
+ 46041  Cp Elizabeth   ---   --- -----   --  --   ------   --   --
+ 46005  Washington     02Z   330 27G33   60  63   1013.6   11   08
+ 46089  Tillamook      02Z   320 18G23   59  62   1005.0   07   11
+ 46050  Stnwall Bnks   02Z   270 21G27   --  55   1004.2   07   11
+ 46002  West Oregon    02Z   330 21G27   62  65   1015.5   11   08
+ 46015  Port Orford    02Z   210 08G10   56  53   1010.0   --   --
+ 46027  St Georges     02Z   160 08G12   54  54   1011.9   05   11
+ 46022  Eel River      02Z   150 04G06   56  54   1012.6   07   12
+ 46006  SE Papa        02Z   310 18G21   --  --   1024.6   07   11
+ 46213  Cp Mendocino   02Z               53                07   12
+ --------------------------------------------------------------------
+ 46014  Pt Arna(Nrth)  02Z   330 19G25   59  56   1011.9   08   12
+ 46059  California     02Z   330 18G21   65  --   1019.1   08   08
+ 46013  Bodega Bay     02Z   320 12G16   57  55   1011.6   07   12
+ 46214  Pt Reyes       02Z               57                08   13
+ 46237  SF Bar         01Z               59                05   13
+ 46026  San Francisco  02Z   260 10G12   --  58   1012.3   07   12
+ 46012  Half Moon Bay  02Z   290 06G10   57  --   1012.4   07   11
+ 46091  MBay Inner     ---   --- -----   --  --   ------   --   --
+ 46114  MBay West      01Z   --- -----   --  59    220.0   08   11
+ 46042  Monterey       02Z   300 04G08   59  --   1011.4   08   12
+ 46236  Mntrey Canyon  ---               --                --   --
+ 46269  Pt Santa Cruz  01Z               59                03   13
+ 46092  MBay Outer     01Z   000 00---   57  58   1011.3   --   --
+ 46240  Lovers Point   02Z               58                03   11
+ 46239  Pt Sur         02Z               59                07   13
+ 46028  Cp San Martn   02Z   270 02G06   59  61   1011.6   07   13
+ --------------------------------------------------------------------
+ 46215  Diablo Canyon  02Z               59                05   13
+ 46011  Santa Maria    02Z   330 08G12   60  64   1011.8   --   --
+ 46218  Hrvest Pltfrm  02Z               62                05   11
+ 46054  Santa Brbra    02Z   320 19G23   59  60   1010.8   07   13
+ 46053  E Snta Brbra   02Z   270 14G16   61  64   1010.6   03   12
+ 46025  Santa Monica   02Z   310 08G10   65  69   1011.2   03   12
+ 46219  San Niclas Is  02Z               67                07   13
+
+
+ Coastal Reports
+ --------------------------------------------------------------------
+			      Time  Wind       Temp Pres   Weather -   
+ Id     Location       GMT   Dir KTS    (F)  (MB)   Visibility	
+ --------------------------------------------------------------------
+ PORO3  Port Orford OR 01Z   220 06G08  --  ------
+ CECC1  Crescent City  01Z   --- ----   --  ------
+ ANVC1  Arena Cove     01Z   --- ----   --  ------
+ BGAC1  Bodega Bay CG  00Z   250 00G00  55
+ SFXC1  Rush Rnch SFBr 00Z   270 19--   64  1008.0
+ PREC1  Point Reyes    00Z   250 05G10  58
+ FNDC1  Farallon Isl   ---   --- -----  --
+ GGBC1  GG Bridge      ---   --- -----  --
+ PCOC1  Port Chicago   01Z   --- ----   --  ------
+ DPXC1  Davis Pt       01Z   220 13G18  --  ------
+ PSBC1  Suisun Bay     01Z   290 12G17  --  ------
+ UPBC1  UPRR Br Mrtnez 01Z   230 21G24  --  ------
+ MZXC1  Amorco Pier    01Z   --- ----   --  ------
+ RCMC1  Richmond       01Z   --- ----   --  ------
+ PPXC1  Pt Potrero     01Z   220 12G15  --  ------
+ TIBC1  Tiburon Pier   01Z   230 08--   57  1010.0
+ AISC1  Angel Isl      01Z   230 21G28  --
+ AAMC1  Alameda        01Z   --- ----   --  ------
+ FTPC1  San Francisco  01Z   --- ----   --  ------
+ OKXC1  Oklnd Berth 34 01Z   260 07G14  --  ------
+ OBXC1  Oklnd Berth 38 ---   --- -----  --  ------
+ LNDC1  Oklnd Berth 67 01Z   260 08G11  --  ------
+ OMHC1  Oklnd Mid Hbr  01Z   250 15G17  --  ------
+ PXSC1  SF Pier 17     ---   --- -----  --  ------
+ PXOC1  SF Pier 1      01Z   220 05G11  --  ------
+ KOAK   Oakland Arpt   01Z   290 13---  --  1011.0  MSTCLDY
+ KSFO   SF Arpt        01Z   290 08---  59  1010.7  MSTCLDY
+ RTYC1  Redwood City   01Z   --- ----   --  ------
+ MBWC1  Montara Beach  ---   --- -----  --
+ KHAF   Half Moon Bay  01Z   150 05---  57  1010.7  MIST; CLDY
+ ELXC1  Elkhrn Slough  00Z   300 06--   58  1012.0
+ MTYC1  Monterey       ---   --- -----  --  ------
+ PSLC1  Port San Luis  01Z   --- ----   --  ------
+ PTGC1  Pt Arguello    02Z   350 17G18  58  1011.3
+
+$$

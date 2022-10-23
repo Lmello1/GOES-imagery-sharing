@@ -1,0 +1,122 @@
+FGUS53 KMSR 220126
+RVFILO
+
+RIVER FORECAST
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN
+825 PM CDT FRI OCT 21 2022
+ 
+: THIS PRODUCT HAS PRELIMINARY DATA THAT MAY BE SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+: 
+: NOTE...  This product includes observed precipitation, plus
+:          forecast precipitation for the next 48 Hours.
+:
+:
+: Illinois R  Morris IL - MORI2 
+: HSA=LOT   Flood Stage=16.0 FT   Fcst Issuance Stage=13.0 FT
+.ER MORI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.1/ 5.1/ 4.9/ 5.1
+.ER  MORI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.2/ 5.1/ 5.0/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9 
+.E1   4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9 
+.E1   4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.9/ 4.8 
+.E1   4.8/ 4.8/ 4.8/ 4.8/
+:
+:
+: Illinois R  LaSalle IL - LSLI2 
+: HSA=LOT   Flood Stage=20.0 FT   Fcst Issuance Stage=19.0 FT
+.ER LSLI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  10.4/ 10.7/ 10.8/ 10.5
+.ER  LSLI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5 
+.E1   10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5 
+.E1   10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5/ 10.5 
+.E1   10.5/ 10.5/ 10.5/ 10.5/
+:
+:
+: Illinois R  Henry IL - HNYI2 
+: HSA=ILX   Flood Stage=23.0 FT   Fcst Issuance Stage=22.0 FT
+.ER HNYI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  14.2/ 14.3/ 14.4/ 14.4
+.ER  HNYI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   14.4/ 14.3/ 14.3/ 14.3/ 14.3/ 14.3/ 14.3/ 14.2 
+.E1   14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2 
+.E1   14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2/ 14.2 
+.E1   14.2/ 14.2/ 14.2/ 14.2/
+:
+:
+: Illinois R  Peoria IL - PIAI2 
+: HSA=ILX   Flood Stage=18.0 FT   Fcst Issuance Stage=17.0 FT
+.ER PIAI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  11.7/ 11.6/ 11.5/ 11.4
+.ER  PIAI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   11.4/ 11.4/ 11.4/ 11.4/ 11.4/ 11.3/ 11.3/ 11.3 
+.E1   11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3 
+.E1   11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3/ 11.3 
+.E1   11.3/ 11.3/ 11.3/ 11.3/
+:
+:
+: Illinois R  Havana IL - HAVI2 
+: HSA=ILX   Flood Stage=14.0 FT   Fcst Issuance Stage=13.0 FT
+.ER HAVI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  5.3/ 5.3/ 5.4/ 5.5
+.ER  HAVI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   5.5/ 5.5/ 5.5/ 5.5/ 5.5/ 5.5/ 5.5/ 5.5 
+.E1   5.5/ 5.5/ 5.5/ 5.5/ 5.5/ 5.4/ 5.4/ 5.4 
+.E1   5.4/ 5.4/ 5.4/ 5.4/ 5.3/ 5.3/ 5.3/ 5.3 
+.E1   5.3/ 5.3/ 5.3/ 5.3/
+:
+:
+: Illinois R  Beardstown IL - BEAI2 
+: HSA=ILX   Flood Stage=14.0 FT   Fcst Issuance Stage=13.0 FT
+.ER BEAI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  9.4/ 9.5/ 9.5/ 9.5
+.ER  BEAI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   9.5/ 9.5/ 9.5/ 9.5/ 9.5/ 9.5/ 9.5/ 9.5 
+.E1   9.5/ 9.5/ 9.5/ 9.5/ 9.4/ 9.4/ 9.4/ 9.4 
+.E1   9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4/ 9.4 
+.E1   9.4/ 9.4/ 9.4/ 9.4/
+:
+:
+: Illinois R  Meredosia IL - MROI2 
+: HSA=LSX   Flood Stage=17.0 FT   Fcst Issuance Stage=14.0 FT
+.ER MROI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  1.6/ 1.6/ 1.7/ 1.9
+.ER  MROI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   1.8/ 1.8/ 1.8/ 1.9/ 1.9/ 1.9/ 1.9/ 1.9 
+.E1   1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.8/ 1.7/ 1.7 
+.E1   1.7/ 1.7/ 1.7/ 1.7/
+:
+:
+: Illinois R  Valley City IL - VALI2 
+: HSA=LSX   Flood Stage=14.0 FT   Fcst Issuance Stage=11.0 FT
+.ER VALI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  1.6/ 1.6/ 1.9/ 2.0
+.ER  VALI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   1.9/ 1.9/ 1.9/ 2.0/ 2.0/ 2.0/ 2.0/ 2.0 
+.E1   2.0/ 2.0/ 2.0/ 2.0/ 2.0/ 2.0/ 1.9/ 1.9 
+.E1   1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.9/ 1.8 
+.E1   1.8/ 1.8/ 1.8/ 1.8/
+:
+:
+: Illinois R  Hardin IL - HARI2 
+: HSA=LSX   Flood Stage=25.0 FT   Fcst Issuance Stage=24.0 FT
+.ER HARI2 1021 Z DH06/DC10220125/HGIP/DIH06 :6-Hr Obs Stage (ft) 
+.E1  19.3/ 19.4/ 19.3/ 19.4
+.ER  HARI2 1022 Z DH06/DC10220125/HGIFF/DIH06 :6-Hr Fcst Stage (ft) 
+.E1   19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4 
+.E1   19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4 
+.E1   19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.4/ 19.3/ 19.3 
+.E1   19.3/ 19.3/ 19.3/ 19.3/
+:
+:
+:END
+ 
+ NOTE...  This product includes observed precipitation, plus
+          forecast precipitation for the next 48 Hours.
+
+$$ 
+
+ FCSTR EXT: 2557 
+

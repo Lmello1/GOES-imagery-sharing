@@ -1,0 +1,48 @@
+SXUS82 KJAX 220010
+OMRJAX
+OTHER MARINE REPORTS
+NATIONAL WEATHER SERVICE JACKSONVILLE FLORIDA
+800 PM EDT FRI OCT 21 2022
+
+AMZ354-374-450-470-220100-
+...SOUTHEAST GEORGIA ATLANTIC COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+FT PULASKI NOS   2330               70   90/  7/  9   N/A
+GRAYS REEF BUOY  2350            67 73   50/ 12/ 14 1018.4R   2/10
+SAPELO ISLAND    2300            58      70/  5     1018.0
+5E ST MARYS      2330            67 73                N/A     2/ 4
+$$
+
+AMZ452-472-454-474-220100-
+...NORTHEAST FLORIDA ATLANTIC COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+FERNANDINA NOS   2330               71   50/  1/  3   N/A
+MAYPORT NOS      2330               74   30/  8/  9   N/A
+ST AUG BUOY      2330            69 76                N/A     3/ 4
+ST AUGUSTINE     0000            68 72   10/ 16/ 18 1018.7R
+GUANA TOLOMATO   2245            67     360/  6     1018.0
+BLOUNT ISLAND    2330                    30/  5/  7   N/A
+BUCKMAN BRIDGE   2330                    50/  9/ 11   N/A
+NAVY FUEL DEPOT  2330                    20/  3/  5   N/A
+DAMES POINT      2330               72                N/A
+JACKSONVILLE UNV 2330               71                N/A
+LITTLE JETTY SJR 2312            65                   N/A
+$$
+ 
+GMZ730-765-775-850-870-220100-
+...NORTH FLORIDA GULF COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+KEATON BEACH     0000            63      20/  3/  4 1018.7R
+CEDAR KEY CMAN   2300            65     330/  4/  7 1018.2R
+$$
+
+  

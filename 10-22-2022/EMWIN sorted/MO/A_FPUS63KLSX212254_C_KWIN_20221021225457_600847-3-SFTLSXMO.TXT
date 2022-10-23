@@ -1,0 +1,181 @@
+FPUS63 KLSX 212254
+SFTMO 
+MOZ001>115-221100-
+
+Tabular State Forecast for Missouri
+National Weather Service Saint Louis MO
+554 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...NORTHWEST MO...
+   Maryville
+   Sunny    Windy    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   53/81    62/83    61/70    40/53    38/55    39/59    42/57    
+    00/00    00/10    40/60    60/40    30/10    00/10    20/30   
+
+   Saint Joseph
+   Sunny    Windy    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   54/80    64/82    61/69    40/53    36/55    37/60    40/57    
+    00/00    00/10    30/70    70/40    30/10    00/10    20/20   
+
+   Chillicothe
+   Sunny    Windy    Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   55/83    63/82    66/74    46/55    40/56    38/60    42/58    
+    00/00    00/10    20/70    70/50    50/20    00/10    20/30   
+
+
+...NORTHEAST MO...
+   Kirksville
+   Sunny    Windy    Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   52/82    62/80    64/74    45/56    39/57    37/59    39/58    
+    00/00    00/10    20/60    70/60    50/20    10/10    20/30   
+
+   Kahoka
+   Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   56/82    62/79    66/76    50/57    44/57    40/58    42/58    
+    00/00    00/10    20/50    80/70    60/30    10/10    20/30   
+
+   Hannibal
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   57/82    63/79    66/77    53/58    45/58    41/60    44/60    
+    00/00    10/10    20/40    80/80    70/30    10/10    20/30   
+
+
+...WEST CENTRAL MO...
+   Kansas City
+   Sunny    Windy    Shwrs    Shwrs    Ptcldy   Sunny    Ptcldy   
+   61/81    67/83    66/72    46/56    42/58    42/63    45/60    
+    00/00    00/10    20/70    70/50    40/10    00/10    20/30   
+
+   Clinton
+   Sunny    Windy    Shwrs    Shwrs    Sunny    Sunny    Ptcldy   
+   57/82    66/81    64/73    48/56    39/58    39/63    42/61    
+    00/00    00/10    10/70    80/70    50/10    00/10    20/30   
+
+   Sedalia
+   Sunny    Windy    Shwrs    Shwrs    Ptcldy   Sunny    Ptcldy   
+   60/83    66/82    65/75    50/59    43/58    40/64    44/62    
+    00/00    00/10    10/60    80/70    60/20    00/10    20/30   
+
+
+...CENTRAL MO...
+   Moberly
+   Sunny    Windy    Shwrs    Shwrs    Ptcldy   Sunny    Ptcldy   
+   57/82    63/80    64/75    49/57    42/57    38/61    42/60    
+    00/00    00/10    20/60    80/70    60/20    10/10    20/30   
+
+   Osage Beach
+   Ptcldy   Ptcldy   Shwrs    Shwrs    Ptcldy   Sunny    Ptcldy   
+   60/84    64/82    64/77    53/61    43/60    39/65    44/64    
+    00/00    00/00    10/50    80/80    60/10    10/10    20/30   
+
+   Columbia
+   Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Sunny    Ptcldy   
+   58/84    64/81    65/76    52/60    44/59    40/63    44/63    
+    00/00    10/10    10/50    80/80    70/20    10/10    20/30   
+
+   Jefferson City
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   57/84    63/82    65/77    53/61    43/60    39/64    44/64    
+    00/00    10/10    10/40    80/80    70/20    10/10    10/30   
+
+   Rolla
+   Ptcldy   Ptcldy   Mocldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   58/82    63/80    64/76    55/63    44/60    40/63    44/63    
+    00/00    00/10    10/30    80/80    70/20    10/10    20/30   
+
+
+...EAST CENTRAL MO...
+   Troy
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+   54/83    61/79    63/77    54/64    43/60    39/62    42/63    
+    00/00    10/10    10/30    70/70    70/30    10/00    20/30   
+
+   Union
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   55/82    61/79    61/78    55/65    43/60    38/63    42/64    
+    00/00    10/10    10/20    70/70    70/20    10/10    10/30   
+
+   Saint Louis
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   58/82    63/79    65/79    60/67    49/61    45/63    47/65    
+    00/00    10/10    10/20    70/70    70/30    10/10    20/30   
+
+
+...SOUTHWEST MO...
+   Stockton
+   Windy    Windy    Shwrs    Shwrs    Sunny    Sunny    Ptcldy   
+   62/84    67/84    66/75    50/59    42/61    42/66    45/63    
+    00/00    00/00    10/70    80/70    50/10    00/10    20/30   
+
+   Joplin
+   Windy    Windy    Shwrs    Shwrs    Sunny    Sunny    Ptcldy   
+   64/83    67/83    66/74    50/60    41/62    41/67    46/64    
+    00/00    00/00    20/80    80/70    40/10    00/10    30/30   
+
+   Springfield
+   Windy    Windy    Shwrs    Shwrs    Sunny    Sunny    Ptcldy   
+   59/82    63/81    63/74    51/60    41/60    40/65    44/64    
+    00/10    00/10    10/60    80/80    60/10    10/10    20/30   
+
+   Branson
+   Ptcldy   Ptcldy   Shwrs    Shwrs    Sunny    Sunny    Ptcldy   
+   57/82    63/81    63/75    54/63    43/63    40/68    45/67    
+    00/10    10/00    10/50    80/80    50/10    00/00    20/30   
+
+
+...SOUTH CENTRAL MO...
+   West Plains
+   Ptcldy   Ptcldy   Mocldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   53/78    61/78    60/74    55/63    42/61    40/65    44/65    
+    00/00    00/00    10/30    70/80    70/10    10/10    20/30   
+
+   Houston
+   Ptcldy   Ptcldy   Mocldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/80    58/79    59/75    52/63    39/61    37/65    41/65    
+    00/00    00/00    10/30    80/80    70/10    10/00    20/30   
+
+
+...SOUTHEAST MO...
+   Farmington
+   Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   53/79    58/77    59/77    55/67    44/62    39/65    42/65    
+    00/00    10/10    00/10    60/70    70/20    10/00    10/20   
+
+   Poplar Bluff
+   Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   52/79    59/80    58/79    58/70    45/64    42/66    45/69    
+    00/00    00/00    00/10    50/70    70/20    10/00    10/20   
+
+   Cape Girardeau
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/80    59/80    57/79    57/73    46/64    42/67    45/70    
+    00/00    00/00    00/10    40/70    70/20    10/00    10/20   
+
+
+...MO BOOTHEEL...
+   Kennett
+   Ptcldy   Sunny    Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   
+   57/78    61/79    60/79    61/72    47/63    45/66    49/69    
+    00/00    00/00    00/10    40/70    70/20    10/00    10/20   
+
+   Caruthersville
+   Ptcldy   Sunny    Ptcldy   Tstrms   Ptcldy   Sunny    Ptcldy   
+   58/77    61/79    59/78    60/73    49/64    46/67    49/70    
+    00/00    00/00    00/00    30/70    70/20    10/00    10/20   
+
+
+$$
+

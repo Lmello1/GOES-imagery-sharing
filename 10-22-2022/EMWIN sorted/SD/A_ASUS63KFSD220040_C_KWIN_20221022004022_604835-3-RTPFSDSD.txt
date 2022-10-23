@@ -1,0 +1,57 @@
+ASUS63 KFSD 220040
+RTPSD 
+Max/Min Temperature and Precipitation Table For SD
+National Weather Service Sioux Falls SD
+740 PM CDT Fri Oct 21 2022
+
+Values represent Lows over the last 18 hours...
+Highs over the last 18 hours and Precipitation over the
+last 24 hours
+
+.BR FSD 1021 C DH19/TAIRZSZ/TAIRZIZ/PPDRZZZ
+:
+: Locations in Central Time Zone...
+:
+:                         MAX     MIN           
+:ID    LOCATION           TEMP    TEMP     PCPN 
+:
+ABR  : Aberdeen WFO     :  67  /   38  /   0.00
+BKX  : Brookings SD     :   M  /    M  /      M
+9V9  : Chamberlain SD   :  69  /   42  /      M
+HON  : Huron Airport    :  67  /   42  /   0.00
+MDS  : Madison SD       :  66  /   45  /      M
+MHE  : Mitchell ASOS    :  69  /   46  /   0.00
+MBG  : Mobridge AP      :  68  /   43  /   0.00
+PIR  : Pierre Regional A:  69  /   46  /   0.00
+FSD  : Sioux Falls Airpo:  73  /   42  /   0.00
+8D3  : Sisseton AP      :  68  /   52  /   0.00
+ATY  : Watertown Regiona:  61  /   42  /   0.00
+ICR  : Winner AP        :  73  /   43  /   0.00
+YKN  : Yankton SD       :  72  /   44  /      M
+ 
+.End
+ 
+.BR FSD 1021 M DH18/TAIRZSZ/TAIRZIZ/PPDRZZZ
+:
+: Locations in Mountain Time Zone...
+:
+:                         MAX     MIN           
+:ID    LOCATION           TEMP    TEMP     PCPN 
+:
+2WX  : Buffalo          :  71  /   41  /   0.00
+CUT  : Custer AP        :  66  /   37  /   0.00
+D07  : Faith AP         :  67  /   40  /   0.00
+PHP  : Philip AP        :  74  /   39  /   0.00
+IEN  : Pine Ridge AP    :  76  /   28  /   0.00
+UNRS2: Rapid City NWS   :  74  /   43  /   0.00
+RAP  : Rapid City AP    :  74  /   37  /   0.00
+ 
+.End
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

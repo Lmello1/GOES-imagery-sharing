@@ -1,0 +1,121 @@
+FOUS54 KHGX 212311
+PFMHGX
+FOUS54 KHGX 212311
+PFMHGX
+
+Point Forecast Matrices
+National Weather Service Houston/Galveston TX
+611 PM CDT Fri Oct 21 2022
+
+TXZ196-221000-
+College Station-Brazos TX 
+30.57N  96.37W Elev. 321 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          87          66          89          70
+Temp             76 69 66 63 62 71 82 87 78 72 70 68 67 76 84 88 82 74 72 71 70
+Dewpt            52 58 59 59 59 63 61 59 60 62 64 64 66 67 65 64 65 67 67 68 68
+RH               43 68 78 87 90 76 49 39 54 71 81 87 97 74 53 45 56 79 84 90 93
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE
+Wind spd          9 13 12 10  9 16 19 18 17 16 13 10  9 16 19 20 17 16 13 11 12
+Wind gust                                                     31 28            
+Clouds           CL CL CL FW SC FW SC FW SC SC SC SC SC FW SC SC SC SC B1 B2 B2
+PoP 12hr                      0           0           0           5          10
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                                    S
+Tstms                                                                         S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      60    73      49    75      51    80      59    79
+Temp          81 78   72 61 69 65   56 50 72 69   56 52 76 74   63 61 75 72
+Dewpt         70 70   69 59 53 50   47 45 49 49   48 48 55 55   57 58 65 61
+PWind dir         S       S    NW      NW     W      SE    SE      SE     S
+Wind char        BZ      BZ    BZ      LT    LT      LT    LT      LT    GN
+Avg clouds    B2 B2   B1 B1 SC FW   CL CL CL CL   CL CL FW FW   FW SC B1 SC
+PoP 12hr         40      70    30       0     0       0    10      20    30
+Rain shwrs     S  C    L  L  C                                      S  C  C
+Tstms          S  C    C  C  C                                      S  C  C
+
+$$
+TXZ213-221000-
+Bush Intercontinental Airport-Inland Harris TX 
+29.96N  95.35W Elev. 97 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      64          86          69          86          72
+Temp             77 71 68 65 64 72 82 86 79 74 72 70 69 78 83 85 79 75 74 73 72
+Dewpt            59 60 59 59 60 63 61 60 61 64 65 65 66 68 67 66 67 68 68 68 68
+RH               54 68 73 81 87 73 49 42 54 71 79 84 90 71 59 53 67 79 82 84 87
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE SE  S SE SE
+Wind spd         13 10  6  6  6 12 16 17 16 11  9  6  6 13 16 17 14 11 10 10  9
+Wind gust                                                        27            
+Clouds           FW CL FW FW FW FW SC SC SC SC SC SC SC SC B1 SC B1 SC B1 B2 B1
+PoP 12hr                      0           0           5          10           5
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                                  S  S               
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      64    77      53    76      53    80      62    81
+Temp          82 79   75 66 73 67   59 53 73 70   58 54 77 74   65 63 79 74
+Dewpt         70 70   70 64 56 53   51 47 49 50   52 50 54 57   61 61 66 66
+PWind dir        SE       S    NW      NW    NW       E     E      SE    SE
+Wind char        GN      GN    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B1   B1 B1 B1 FW   CL CL CL CL   CL CL CL FW   FW SC SC B1
+PoP 12hr         30      60    50       5     0       0    10      20    40
+Rain shwrs        C    C  L  C  S                                   S  C  C
+Tstms             C    C  C  C  S                                   S  C  C
+
+$$
+TXZ438-221000-
+Galveston-Galveston Island TX 
+29.27N  94.87W Elev. 6 ft
+611 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          82          74          82          75
+Temp             77 75 74 73 72 76 81 82 79 76 75 75 74 79 81 81 79 77 77 76 75
+Dewpt            62 62 63 63 63 65 66 66 67 67 67 67 67 68 69 69 69 69 69 69 70
+RH               60 64 69 71 73 69 60 58 67 74 76 76 79 69 67 67 72 76 76 79 84
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE SE SE  S  S  S
+Wind spd         16 16 17 18 17 18 19 19 18 17 18 18 18 19 20 20 19 19 20 19 18
+Wind gust                                            28                31      
+Clouds           FW FW SC SC SC SC SC SC B1 SC B1 B1 B1 SC SC SC SC B1 B2 B2 B2
+PoP 12hr                      0           5          10          10          10
+QPF 12hr                      0           0           0           0           0
+Rain shwrs                                            S  S  S  S               
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          83      68    80      61    76      65    77      70    79
+Temp          82 79   78 71 77 72   66 61 73 72   69 67 75 73   72 72 78 74
+Dewpt         72 72   71 67 58 56   54 52 51 53   55 57 59 61   64 66 69 68
+PWind dir        SE       S     W      NW     N      SE     E      SE    SE
+Wind char        BZ      WY    BZ      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1   B1 B1 B1 SC   FW FW FW CL   CL FW FW FW   FW FW SC B1
+PoP 12hr         20      50    60      10     0       5    10      20    40
+Rain shwrs        S    S  C  L  C                                   S  C  C
+Tstms             S    S  C  C  C                                   S  C  C
+
+$$

@@ -1,0 +1,48 @@
+ASUS64 KLIX 220057
+RTPLIX
+Max/Min Temperature and Precipitation Table for Southeastern
+Louisiana and Southern Mississippi
+National Weather Service Orleans/Baton Rouge, LA
+757 PM CDT Fri Oct 21 2022
+
+
+High Temperature During Past 18 Hours
+Low Temperature During Past 18 Hours
+Precipitation Past 24 Hours Ending at 7 PM Local Time
+
+
+.BR LIX 1021 CD DH19/TAIRZS/TAIRZI/PPDRZZ
+
+
+OBSERVATIONS FROM AUTOMATED WEATHER STATIONS
+
+
+:ID    STATION                    HIGH   LOW   24-HOUR 
+                                               PRECIP
+ASD  :Slidell                       : 79  / 45  / 0.00
+BTR  :Baton Rouge                   : 84  / 48  / 0.00
+MSY  :New Orleans International     : 79  / 51  / 0.00
+NEW  :New Orleans Lakefront AP      : 78  / 53  / 0.00
+GPT  :Gulfport                      : 74  / 46  /   T 
+MCB  :Mccomb                        : 81  / 45  / 0.00
+PQL  :Pascagoula Trent Lott AP      : 78  / 37  / 0.00
+ 
+OBSERVATIONS FROM SUPPLEMENTAL AUTOMATED STATIONS
+ 
+7N0  :New Orleans Downtown Heliport : 79  / 58  / 0.00
+BXA  :Bogalusa Carr Field           : 83  / 42  / 0.00
+LNQ  :Boothville                    : 79  / 53  / 0.00
+GAO  :Galliano                      : 78  / 42  / 0.00
+REG  :Gonzales Regional Airport     : 83  / 47  / 0.00
+ 
+.END
+ 
+This data is preliminary and has not undergone final quality
+control by the National Centers for Environmental Information
+(NCEI), formerly the National Climatic Data Center(NCDC). 
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

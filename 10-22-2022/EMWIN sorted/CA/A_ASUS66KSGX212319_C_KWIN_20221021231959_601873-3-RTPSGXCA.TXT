@@ -1,0 +1,128 @@
+ASUS66 KSGX 212319
+RTPSGX
+
+SOUTHWESTERN CALIFORNIA TEMPERATURE AND PRECIPITATION SUMMARY
+NATIONAL WEATHER SERVICE SAN DIEGO CA
+430 PM PDT Fri Oct 21 2022
+  
+:***** PRELIMINARY *****
+ 
+.BR SGX 1021 P DH15/TAIRZS/TAIRZI/PPDRZZ/SDIRZZ
+:
+: Values represent the 17 hour high and low temperatures and 
+: 24 hour precipitation as of 4 PM today. M denotes missing.
+: T denotes a trace of precipitation.
+:
+: ID :      STATION           ELEV : HIGH / LOW /  PCPN / SNODEP
+:                             FEET                        INCHES
+:
+:        ...COASTAL AREAS...
+:
+SDYBL:      Yorba Linda        370 :   83 /  60 /  0.00 /
+SLI  :      Los Alamitos AAF    25 :   76 /  62 /  0.00 /
+FUL  :      Fullerton Airport   96 :   79 /  64 /  0.00 /
+STAC1:      Santa Ana          135 :   82 /  64 /  0.00 /
+SDHTB:      Huntington Beach     5 :   76 /  63 /  0.00 /
+SNA  :      John Wayne Airport  55 :   77 /  66 /  0.00 /
+LAGC1:      Laguna Beach        35 :   77 /  61 /  0.00 /
+SDFRH:      Lake Forest        970 :   83 /  59 /  0.00 /
+L34  :      Oceanside Harbor    10 :   73 /  65 /  0.00 /
+OKB  :      Oceanside Airport   28 :   76 /  65 /  0.00 /
+SDVST:      Vista              330 :   76 /  61 /  0.00 /
+CRQ  :      Carlsbad Airport   328 :   72 /  62 /  0.00 /
+SDETS:      Encinitas          270 :   76 /  61 /  0.00 /
+SDOCH:      Del Mar            328 :   73 /  62 /  0.00 /
+NKX  :      Miramar MCAS       477 :   76 /  61 /  0.00 /
+MYF  :      Montgomery Field   420 :   75 /  63 /  0.00 /
+SAN  :      San Diego Int'l AP  15 :   73 /  65 /  0.00 /
+NZY  :      Coronado N Island   23 :   71 /  65 /  0.00 /
+SDNAC:      National City       25 :   74 /  62 /  0.00 /
+CVAC1:      Chula Vista         65 :   73 /  61 /  0.00 /
+SDM  :      Brown Field        525 :   76 /  58 /  0.00 /
+:
+:        ...INLAND AREAS...
+:
+CCB  :      Upland Cable AP   1444 :   79 /  63 /  0.00 /
+ONT  :      Ontario Int'l AP   943 :   83 /  61 /  0.00 /
+CNO  :      Chino Airport      652 :   85 /  56 /  0.00 /
+SBD  :      San Bernardino AP 1086 :   84 /  59 /  0.00 /
+AJO  :      Corona Airport     531 :   83 /  54 /  0.00 /
+RAL  :      Riverside Airport  818 :   85 /  59 /  0.00 /
+UCRC1:      Riverside          986 :   84 /  57 /  0.00 /
+RIV  :      March ARB         1542 :   83 /  55 /  0.00 /
+BUO  :      Beaumont          2680 :   80 /  55 /  0.00 /
+EORC1:      Lake Elsinore     1265 :   87 /  56 /  0.00 /
+SJRC1:      San Jacinto       1522 :   84 /  58 /  0.00 /
+SDTEC:      Temecula          1020 :   82 /  58 /  0.00 /
+SDFBK:      Fallbrook          698 :   80 /  61 /  0.00 /
+VCFC1:      Valley Center     1312 :   82 /  52 /  0.00 /
+SDSMP:      San Marcos         630 :   78 /  60 /  0.00 /
+ESCC1:      Escondido          645 :   83 /  60 /  0.00 /
+PSQC1:      San Pasqual Valley 255 :   83 /  50 /  0.00 /
+RNM  :      Ramona Airport    1393 :   82 /  48 /  0.00 /
+SGX  :      Rancho Bernardo    690 :   78 /  58 /  0.00 /
+SDPOY:      Poway              648 :   84 /  56 /  0.00 /
+ALPC1:      Alpine            1695 :   79 /  58 /  0.00 /
+SDLAM:      La Mesa            659 :   75 /  61 /  0.00 /
+SDSNN:      Santee             505 :   82 /  57 /  0.00 /
+SEE  :      Gillespie Field    364 :   79 /  59 /  0.00 /
+ELJC1:      El Cajon           405 :   79 /  59 /  0.00 /
+SDRSC:      Rancho San Diego   400 :   77 /  57 /  0.00 /
+LMGC1:      Lemon Grove        427 :   73 /  62 /  0.00 /
+:
+:        ...MOUNTAIN AREAS...
+:
+ECSC1:      El Cariso         2730 :   83 /  66 /  0.00 / 
+SDWRT:      Wrightwood        5980 :   68 /  47 /  0.00 / 
+SDLAE:      Lake Arrowhead    5328 :   70 /  48 /  0.00 / 
+BBLC1:      Big Bear Lake     6768 :   66 /  35 /  0.00 / 
+L35  :      Big Bear City AP  6752 :   63 /  30 /  0.00 /
+SDBDN:      Baldwin Lake      6770 :   66 /  37 /  0.00 /
+SDAOK:      Angelus Oaks      5800 :   68 /  49 /  0.00 /
+IDYC1:      Idyllwild         5380 :   72 /  45 /  0.00 / 
+NZAC1:      Anza              3939 :   75 /  48 /  0.00 / 
+JULC1:      Julian            4240 :   72 /  51 /  0.00 / 
+CYCC1:      Lake Cuyamaca     4637 :   74 /  45 /  0.00 / 
+MLNC1:      Mount Laguna      5920 :   66 /  47 /  0.00 / 
+:
+:        ...DESERT AREAS...
+:
+HESC1:      Hesperia          3055 :   82 /  58 /  0.00 / 
+SDAPL:      Apple Valley      2780 :   86 /  42 /  0.00 / 
+PSP  :      Palm Springs AP    425 :   95 /  68 /  0.00 / 
+IDOC1:      Indio              -21 :   92 /  69 /  0.00 / 
+TRM  :      Thermal Airport   -117 :   93 /  60 /  0.00 / 
+SDOCL:      Ocotillo Wells     149 :   96 /  71 /  0.00 / 
+BLH  :      Blythe Airport     397 :   90 /  64 /  0.00 /
+IPL  :      Imperial Airport   -56 :   92 /  64 /  0.00 /
+.END
+
+
+.BR SGX 1021 P DH16/TAIRZX/TAIRZN/PPDRZZ/SDIRZZ
+:
+: Values represent the 24 high and low temperatures and
+: 24 hour precipitation as of 4 PM.
+:
+: *** Occasionally the high temperature may have occurred
+: yesterday afternoon. ***
+:
+:  M denotes missing. T denotes a trace of precipitation.
+:
+:
+: ID :      STATION           ELEV : HIGH / LOW /  PCPN / SNODEP
+:                             FEET                        INCHES
+:
+ANAC1:      Anaheim            335 :   89 /  63 /  0.00 /
+3L3  :      Newport Beach       10 :   76 /  65 /  0.00 /
+PLRC1:      Palomar Mountain  5550 :   69 /  54 /  0.00 /   
+CPMC1:      Campo             2615 :   85 /  42 /  0.00 / 
+BROC1:      Borrego Springs    805 :   91 /  67 /  0.00 / 
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Center for Environmental Information
+(NCEI). Therefore, these data are subject to revision. Final and
+certified climate data can be accessed at www.ncei.noaa.gov                     
+ 
+$$

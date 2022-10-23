@@ -1,0 +1,83 @@
+ASUS63 KGRR 220022
+RTPGRR
+Max/Min Temperature and Precipitation Table
+for Southwest Lower Michigan
+National Weather Service Grand Rapids MI 
+822 PM EDT Fri Oct 21 2022
+
+Values represent lows over the last 18 hours...
+highs over the last 18 hours and precipitation over the
+last 24 hours
+
+.BR GRR 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                            Max   Min           Snow  Snow
+:ID        Location          Temp  Temp   Pcpn   Fall  Depth
+:
+: Automated Surface Observing System /ASOS/ Sites
+:
+GRR : Grand Rapids ASOS    :  70 /  34 /  0.00/     0/    0
+LAN : Lansing ASOS         :  69 /  35 /  0.00/     0/    0
+MKG : Muskegon ASOS        :  69 /  35 /  0.00/     0/    0
+BIV : Holland ASOS         :  72 /  37 /  0.00/     M/    M
+AZO : Kalamazoo ASOS       :  71 /  38 /  0.00/     0/    0
+BTL : Battle Creek ASOS    :  70 /  40 /  0.00/     M/    M
+JXN : Jackson ASOS         :  70 /  37 /    T /     M/    M
+:
+: Automated Weather Observing System /AWOS/ Sites
+:
+RQB : Big Rapids AWOS      :  69 /  30 /  0.00/      / 
+FPK : Charlotte AWOS       :  68 /  31 /  0.00/      / 
+LDM : Ludington AWOS       :  67 /  35 /  0.00/      / 
+RMY : Marshall AWOS        :  69 /  40 /  0.00/      / 
+MOP : Mt Pleasant AWOS     :  68 /  28 /  0.00/      / 
+Y70 : Ionia AWOS           :  69 /  37 /  0.00/      / 
+LWA : South Haven AWOS     :  73 /  41 /     M/      /     
+AMN : Alma AWOS            :  69 /  33 /     M/      /     
+FFX : Fremont AWOS         :  70 /  37 /     M/      /     
+TEW : Mason AWOS           :  71 /  37 /     M/      /     
+.END
+:
+: Surrounding Automated Weather Observing System /AWOS/ASOS/ Sites
+:
+CAD : Cadillac AWOS        :  67 /  28 /     M/      /     
+OEB : Coldwater, MI AWOS   :  70 /  44 /     M/      /     
+JYM : Hillsdale, MI AWOS   :  68 /  36 /  0.00/      / 
+BEH : Benton Harbor ASOS   :  73 /  39 /  0.00/      / 
+HTL : Houghton Lake ASOS   :  65 /  29 /  0.00/      / 
+MBL : Manistee AWOS        :  69 /  30 /  0.00/      / 
+IRS : Sturgis, MI AWOS     :  70 /  39 /  0.00/      / 
+HAI : Three Rivers, MI AWOS:  72 /  37 /     M/      /     
+
+
+T = Trace
+M = Missing
+
+Some AWOS sites do not measure precipitation.  The temperature
+data for the Cadillac and Hillsdale AWOS sites represents the highest
+and lowest temperatures that were reported on the metar observations
+that transmit three times an hour and may not represent the actual
+high or low for those sites.
+:............................................................
+
+
+Soil temperatures taken under grass covered soil at 7PM EST/8PM EDT
+:............................................................
+:    Station          Soil Temperature (degrees F)
+:............................................................
+:
+NWS Grand Rapids:  2 in:       : 48
+NWS Grand Rapids:  4 in:       : 48
+NWS Grand Rapids:  8 in:       : 48
+NWS Grand Rapids: 20 in:       : 49
+NWS Grand Rapids: 40 in:       : 52
+NWS Grand Rapids: 60 in:       : 50
+:............................................................
+These data are preliminary and have not undergone final quality 
+control by the National Centers For Environmental Information /NCEI/.
+Therefore... these data are subject to revision.  Final and certified
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

@@ -1,0 +1,397 @@
+FOUS53 KGRB 220007
+PFMGRB
+
+Point Forecast Matrices
+National Weather Service Green Bay WI
+707 PM CDT Fri Oct 21 2022
+
+WIZ010-221000-
+Rhinelander-Oneida WI
+45.63N  89.47W Elev. 1628 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      36          69          52          70          56
+Temp                44 39 38 38 51 67 69 58 57 56 55 54 60 69 70 63 58 58 58 58
+Dewpt               38 36 36 36 41 42 43 46 48 47 48 49 51 52 52 53 52 54 55 55
+RH                  79 89 92 92 68 40 39 64 72 72 77 83 72 55 53 70 80 86 90 90
+Wind dir             W  S SE SE SE SE  S  S  S  S  S  S  S  S SE SE SE  S  S  S
+Wind spd             2  1  2  3  8 10 12  8 10  9  8  8 12 13 13 13 13 13 13 14
+Wind gust                          20    20 20 19       23 28 28 27 25 28 25 27
+Clouds              FW FW FW SC SC FW FW FW CL FW FW FW SC SC SC B1 B1 B2 B2 B2
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                                S  S  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      45    52      37    49      34    50      36    51
+Temp          65 60   53 48 50 46   42 40 46 43   38 36 48 43   39 38 48 43
+Dewpt         55 52   49 44 41 38   38 37 37 36   34 33 36 37   36 36 38 37
+PWind dir         S      SW    SW      NW    NW      NW    SW       S    SW
+Wind char        BZ      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 OV B2 B2   B2 B2 B2 B1   B1 B1 B1 B1   B2 B2 B2 B1
+PoP 12hr         50      60    30      40    30      20    10      20    20
+Rain shwrs     C  C    L  C  C  C    C  C  C  C    S                S  S  S
+Tstms          S                                                           
+
+$$
+WIZ030-221000-
+Wausau-Marathon WI
+44.93N  89.63W Elev. 1193 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          73          55          72          61
+Temp                49 45 42 41 55 70 72 63 61 60 58 56 63 71 72 66 64 63 63 63
+Dewpt               40 38 38 36 41 43 44 49 50 51 51 51 54 54 55 55 56 56 58 57
+RH                  71 76 86 82 59 38 37 60 67 72 77 83 72 55 55 68 75 78 84 81
+Wind dir             W NE  E  E SE SE  S SE  S  S  S SE SE SE SE SE SE  S  S  S
+Wind spd             3  1  3  5  9 11 12  9  9  8  6  9 12 14 14 13 14 13 13 14
+Wind gust                                19    18          25 28 27    25 26 26
+Clouds              FW FW CL FW SC FW FW FW CL FW FW FW SC SC SC B1 B2 B2 B2 B1
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  S  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      48    54      41    52      38    53      39    54
+Temp          67 64   56 51 51 50   46 44 48 47   42 40 48 47   43 42 49 48
+Dewpt         57 54   51 45 42 41   41 40 39 38   37 36 38 38   39 38 40 40
+PWind dir         S      SW     W      NW    NW      NW    SW      SE     S
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   OV B2 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1   B2 B2 B2 B1
+PoP 12hr         50      60    40      40    30      20    10      20    20
+Rain shwrs     C  C    L  C  C  C    C  C  C  S    S                S  S  S
+Tstms          S                                                           
+
+$$
+WIZ035-221000-
+Wisconsin Rapids-Wood WI
+44.36N  89.84W Elev. 993 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      39          75          55          73          59
+Temp                47 43 41 41 55 72 74 64 61 60 58 57 63 72 73 66 63 62 61 61
+Dewpt               39 38 37 37 44 45 46 51 51 50 51 52 55 55 55 56 56 57 57 57
+RH                  74 82 85 85 66 38 37 63 70 69 77 83 75 55 53 70 78 84 87 87
+Wind dir            NW  E  E  E SE  S  S  S  S  S  S SE SE  S SE SE  S  S  S  S
+Wind spd             2  2  3  5  8 10 11  9  9  9  8  9 12 14 14 13 14 13 13 14
+Wind gust                             21 19 19          23 27 26 25 25    24 27
+Clouds              FW CL FW FW FW FW FW CL CL FW FW FW SC SC SC B1 B2 B2 B2 B2
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  C  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      47    55      40    53      37    53      38    54
+Temp          67 63   55 50 52 48   45 43 50 46   41 39 49 46   41 40 50 46
+Dewpt         58 55   51 46 43 43   42 40 40 39   37 36 40 40   38 38 42 41
+PWind dir         S      SW     W      NW    NW      NW     S      SE     S
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   OV OV B2 B2   B2 B2 B2 B1   SC SC B1 B1   B1 B2 B2 B1
+PoP 12hr         50      60    40      50    30      10    10      20    20
+Rain shwrs     C  C    L  L  C  C    C  C  C  S                     S  S  S
+Tstms          S                                                           
+
+$$
+WIZ013-221000-
+Wausaukee-Marinette WI
+45.37N  87.98W Elev. 745 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      37          70          48          70          55
+Temp                47 41 39 38 52 67 69 57 53 51 50 49 58 68 70 62 58 58 57 56
+Dewpt               39 39 37 37 44 44 47 51 50 49 48 48 55 54 54 54 54 53 53 54
+RH                  74 92 92 96 74 43 45 80 89 93 93 96 90 61 57 75 86 83 86 93
+Wind dir            NW  N  N NE SE SE  S SE  S  S  S  S  S SE SE SE  S  S  S  S
+Wind spd             3  2  2  2  3  8  9  5  4  4  3  4  9 12 12 11 11 11 10 11
+Wind gust                                                  24 24 25 25 24 23 21
+Clouds              FW FW FW FW SC SC FW FW FW FW FW FW FW SC SC B1 B1 B2 B2 B1
+PoP 12hr                      0           0           0           5          60
+QPF 12hr                      0           0           0           0        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  C
+Tstms                                                                S  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      51    57      42    53      35    51      36    53
+Temp          66 62   58 53 55 51   46 44 51 46   39 36 50 45   39 38 50 45
+Dewpt         57 56   51 48 47 46   44 42 42 40   37 36 39 41   39 38 42 42
+PWind dir         S      SW    SW      NW    NW      NW    SW       S     S
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1   B2 B2 B2 B1
+PoP 12hr         40      50    40      50    40      20    10      10    20
+Rain shwrs     C  C    C  C  C  C    C  C  C  C    S                   S  S
+Tstms          S                                                           
+
+$$
+WIZ031-221000-
+Shawano-Shawano WI
+44.79N  88.56W Elev. 827 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          74          54          72          59
+Temp                50 45 42 41 56 71 74 62 60 58 56 56 62 71 72 65 62 62 62 61
+Dewpt               43 42 40 40 45 46 47 53 54 54 54 54 57 57 57 57 58 58 59 59
+RH                  77 89 93 96 66 41 38 72 81 86 93 93 84 61 59 75 87 87 90 93
+Wind dir             W  W  E  E SE  S  S  S  S  S  S  S  S  S SE SE SE  S  S  S
+Wind spd             2  1  1  3  3  8  9  4  5  5  4  5  9 11 12 10 11 10 10 12
+Wind gust                                14 16             23    20    21    24
+Clouds              FW FW FW FW SC FW FW FW CL FW FW FW SC SC SC B1 B1 B2 B2 B2
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                                S  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      52    58      44    54      39    54      40    55
+Temp          69 65   59 55 55 51   49 47 51 47   43 41 51 47   43 42 52 48
+Dewpt         60 58   55 52 48 48   47 46 44 43   42 40 43 43   43 42 45 45
+PWind dir         S      SW    SW       N     W      NW    SW      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 OV B2 B2   B2 B2 B2 B1   B1 B1 B1 B1   B1 B2 B2 B2
+PoP 12hr         40      60    40      50    40      20    10      20    20
+Rain shwrs     C  C    L  L  C  C    C  C  C  S    S                S  S  S
+Tstms          S                                                           
+
+$$
+WIZ039-221000-
+Green Bay-Brown WI
+44.49N  88.13W Elev. 621 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          74          55          73          59
+Temp                51 46 44 44 57 72 74 63 61 61 58 57 63 71 72 66 63 62 61 61
+Dewpt               42 40 40 41 46 47 49 53 52 51 51 51 55 55 55 55 54 54 55 55
+RH                  71 79 86 89 67 41 41 70 72 70 77 80 75 57 55 68 72 75 81 81
+Wind dir             W SW SE  E  S  S  S  S  S  S  S  S  S  S SE SE  S  S  S  S
+Wind spd             3  3  3  3  5 11 11 10 10 10  8  8 12 14 16 14 14 13 13 14
+Wind gust                                                  26 26 27 25 25 24 26
+Clouds              FW FW FW FW FW FW FW FW CL FW CL FW FW SC SC SC B1 B2 B2 B1
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.14
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  S  C  C  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      54    61      45    57      40    55      41    57
+Temp          69 66   61 57 58 53   50 48 54 50   44 42 53 48   45 44 54 49
+Dewpt         58 56   51 49 48 48   45 44 44 43   39 38 43 42   40 40 44 44
+PWind dir         S      SW    SW      NW     W      NW    SW      SE     S
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B1   B1 SC B1 B1   B1 B2 B2 B2
+PoP 12hr         40      50    40      50    40      10     5      20    20
+Rain shwrs     C  C    C  C  C  C    C  C  C  S                     S  S  S
+Tstms          C                                                           
+
+$$
+WIZ038-221000-
+Appleton-Outagamie WI
+44.26N  88.52W Elev. 893 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          73          56          71          61
+Temp                51 47 45 45 57 70 72 63 61 61 58 57 63 70 71 66 63 63 62 61
+Dewpt               41 41 41 41 45 46 47 52 53 52 52 53 55 56 55 56 56 56 56 56
+RH                  68 79 86 86 64 42 41 67 75 72 80 86 75 61 57 70 78 78 81 84
+Wind dir             W SW SE SE  S  S  S  S  S  S  S  S  S  S SE SE  S  S  S  S
+Wind spd             3  3  3  4  8 11 12 10 10 10 10 10 13 14 14 13 14 14 14 14
+Wind gust                                   23 23          25 26 27 26 27 26 26
+Clouds              FW FW FW FW FW FW FW CL FW CL CL FW FW SC SC B1 B1 B2 B1 B1
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.14
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  C  C  S  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      51    57      44    53      39    52      40    52
+Temp          67 65   60 54 53 51   49 47 50 47   43 40 49 46   43 42 50 46
+Dewpt         57 56   52 49 48 48   47 45 44 42   39 39 43 42   41 41 45 44
+PWind dir         S      SW    SW      NE     W      NW    SW      SE     S
+Wind char        BZ      GN    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B1   B1 SC B1 B1   B1 B2 B2 B2
+PoP 12hr         40      60    40      50    40      10     5      20    20
+Rain shwrs     C  C    C  L  C  C    C  C  C  S                     S  S  S
+Tstms          C                                                           
+
+$$
+WIZ048-221000-
+Oshkosh-Winnebago WI
+43.98N  88.56W Elev. 759 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          74          56          72          61
+Temp                52 47 45 45 57 71 73 64 63 61 59 57 63 71 72 66 64 64 62 61
+Dewpt               41 40 40 41 46 46 47 51 52 52 52 52 55 55 55 55 56 55 55 55
+RH                  66 76 82 86 67 41 40 63 67 72 78 83 75 57 55 68 75 73 78 81
+Wind dir            SW SW SE SE  S  S  S  S  S  S  S  S  S  S SE SE  S  S  S  S
+Wind spd             3  2  3  5  9 11 12 10 12 12 10 11 13 14 16 14 16 16 16 16
+Wind gust                                23 27 26 20       26 27 27 27 29 27 28
+Clouds              FW FW FW FW FW FW FW FW CL CL CL FW SC SC SC SC B1 B2 B1 B1
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  C
+Tstms                                                             S  C  C  S  S
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      51    58      44    54      40    53      41    54
+Temp          67 66   61 55 55 51   49 47 51 49   44 42 50 47   44 43 51 48
+Dewpt         57 55   52 49 48 48   47 45 44 43   40 39 43 42   41 41 45 45
+PWind dir         S      SW    SW      NE     W       W    SW      SE     S
+Wind char        BZ      GN    LT      LT    GN      GN    GN      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B1   B1 SC B1 B2   B1 B2 B2 B2
+PoP 12hr         40      60    50      50    30      10     5      20    20
+Rain shwrs     C  C    C  L  C  C    C  C  C  S                     S  S  S
+Tstms          S                                                           
+
+$$
+WIZ022-221000-
+Sturgeon Bay-Door WI
+44.84N  87.42W Elev. 593 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          67          53          64          55
+Temp                50 48 46 46 54 65 66 57 58 56 55 55 58 63 64 60 58 58 57 57
+Dewpt               41 40 41 42 45 46 48 52 52 52 52 53 54 53 53 54 54 53 54 54
+RH                  71 74 83 86 71 50 52 83 80 86 90 93 86 70 67 81 86 83 90 90
+Wind dir             W  W SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             5  3  3  4  9 14 17 13 14 13 11 12 17 18 18 16 18 18 18 19
+Wind gust                                25 26             28 29 28    29 28 29
+Clouds              FW FW FW FW SC FW FW FW FW FW FW SC FW SC SC SC B1 B2 B2 B2
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  C
+Tstms                                                                S  C  C  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      52    58      45    54      42    53      42    54
+Temp          62 58   57 54 57 51   49 48 52 48   45 44 51 47   45 45 52 48
+Dewpt         54 54   51 51 48 48   47 46 44 44   42 42 42 43   43 43 45 45
+PWind dir         S       S    SW      SW     W      NW    SW       S     S
+Wind char        BZ      GN    GN      LT    GN      GN    GN      LT    GN
+Avg clouds    B2 B2   B2 B2 OV B2   B2 B2 B2 B1   B1 B1 B1 B1   B1 B2 B2 B2
+PoP 12hr         40      50    40      50    40      20    10      10    20
+Rain shwrs     C  C    C  C  C  C    C  C  C  C    S                   S  S
+Tstms          C                                                           
+
+$$
+WIZ050-221000-
+Manitowoc-Manitowoc WI
+44.13N  87.69W Elev. 634 ft
+707 PM CDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          67          53          65          55
+Temp                51 47 46 46 55 65 67 58 57 56 54 54 58 64 65 60 58 58 57 57
+Dewpt               43 42 42 43 47 49 51 52 52 52 52 52 54 53 53 54 53 53 53 54
+RH                  74 83 86 89 74 56 56 80 83 86 93 93 86 67 65 81 83 83 86 90
+Wind dir             W  W SW  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd             4  3  2  4 11 14 16 12 10 10  8 12 17 18 19 17 16 16 16 17
+Wind gust                                23 21          27 31 32 28 27 27 27 28
+Clouds              SC FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1 B2 B2 B1
+PoP 12hr                      0           0           0           5          60
+QPF 12hr                      0           0           0           0        0.20
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  C
+Tstms                                                             S  C  C  C  C
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      51    58      44    54      40    53      41    54
+Temp          62 60   56 53 56 52   48 47 52 49   44 42 51 48   45 44 52 48
+Dewpt         54 54   51 49 49 48   47 45 44 44   41 41 43 43   42 42 44 45
+PWind dir         S       S    SW       W     W       W    SW       S     S
+Wind char        BZ      GN    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2 B2   B2 B2 OV OV   OV B2 B2 B1   B1 SC B1 B1   B1 B2 B2 B2
+PoP 12hr         30      50    40      50    40      10     5      10    20
+Rain shwrs     C  C    C  C  C  C    C  C  C  S                        S  S
+Tstms          C                                                           
+
+$$

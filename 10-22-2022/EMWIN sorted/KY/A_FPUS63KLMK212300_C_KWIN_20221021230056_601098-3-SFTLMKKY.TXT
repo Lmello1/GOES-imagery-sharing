@@ -1,0 +1,137 @@
+FPUS63 KLMK 212300
+SFTKY 
+KYZ001>120-221000-
+
+Tabular State Forecast for Kentucky
+National Weather Service Louisville KY
+700 PM EDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+
+...Western Kentucky...
+   Fort Campbell
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   52/78    54/77    52/79    55/77    50/66    42/70    47/72    
+    00/00    00/00    00/00    10/40    50/20    10/00    10/20   
+
+   Henderson
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/79    57/78    55/79    57/75    50/64    42/66    46/69    
+    00/00    00/00    00/00    20/50    50/30    10/00    10/20   
+
+   Land Between The Lakes
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   57/77    58/77    56/79    58/75    50/65    46/69    48/71    
+    00/00    00/00    00/00    10/50    50/20    10/00    10/20   
+
+
+...WESTERN KENTUCKY...
+   PADUCAH
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   
+   54/80    58/79    56/79    57/75    47/64    43/68    44/70    
+    00/00    00/00    00/10    30/60    60/20    10/00    10/20   
+
+
+...Central Kentucky...
+   Bowling Green
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   54/77    53/77    51/79    55/78    54/68    45/70    49/73    
+    00/00    00/00    00/00    10/30    50/30    10/10    10/20   
+
+   Campbellsville
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   47/75    48/75    48/77    52/75    53/67    45/67    47/70    
+    00/00    00/00    00/00    10/20    40/30    10/10    10/20   
+
+   Frankfort
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   47/77    49/78    48/79    51/78    53/69    45/68    46/70    
+    00/00    00/00    00/00    10/20    40/40    20/10    10/20   
+
+   Lexington
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   48/77    50/78    48/79    53/78    55/70    47/68    48/71    
+    00/00    00/00    00/00    10/20    40/40    20/10    10/20   
+
+   Louisville
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   52/78    54/79    53/80    56/78    57/68    48/68    50/71    
+    00/00    00/00    00/00    10/30    50/30    20/00    10/20   
+
+   Mammoth Cave National Park
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   52/77    52/77    50/78    55/77    55/67    46/69    49/72    
+    00/00    00/00    00/00    10/30    50/30    20/10    10/20   
+
+   Rough River Lake
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   52/77    53/77    51/78    54/76    52/66    43/68    47/70    
+    00/00    00/00    00/00    10/40    50/30    10/00    10/20   
+
+
+...EASTERN KENTUCKY...
+   Hazard
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   43/71    45/75    48/76    52/76    55/71    48/69    48/70    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+
+...Eastern Kentucky...
+   Jackson
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   41/72    43/74    45/76    49/76    55/70    47/68    47/70    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+   London
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/71    41/74    43/74    48/74    53/69    45/68    47/70    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+   Middlesboro
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   35/67    39/72    41/72    45/72    52/69    45/69    46/70    
+    00/00    00/00    00/00    00/10    30/20    10/10    10/10   
+
+   PIKEVILLE
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   35/72    38/72    42/74    45/74    56/71    48/67    46/69    
+    00/00    00/00    00/00    00/10    20/30    20/10    10/10   
+
+   SOMERSET
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   42/73    43/74    46/76    50/75    55/69    46/68    47/70    
+    00/00    00/00    00/00    00/10    30/30    10/10    10/10   
+
+
+...Northern Kentucky...
+   Covington
+   Ptcldy   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   47/75    51/76    51/77    53/76    55/66    47/66    49/67    
+    00/00    00/00    00/00    00/10    70/70    20/00    00/10   
+
+   Maysville
+   Ptcldy   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+   44/75    48/76    46/77    50/77    54/68    46/67    47/68    
+    00/00    00/00    00/00    00/00    60/60    20/00    00/10   
+
+
+...NORTHEastern Kentucky...
+   ASHLAND
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/74    44/75    45/76    48/77    55/72    49/68    48/70    
+    00/00    00/00    00/00    00/10    30/30    20/10    10/20   
+
+
+$$
+

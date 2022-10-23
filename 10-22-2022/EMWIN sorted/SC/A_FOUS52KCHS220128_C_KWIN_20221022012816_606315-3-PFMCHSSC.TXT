@@ -1,0 +1,246 @@
+FOUS52 KCHS 220128
+PFMCHS
+
+Point Forecast Matrices
+National Weather Service Charleston SC
+927 PM EDT Fri Oct 21 2022
+
+SCZ050-220900-
+Charleston International Airport-Charleston SC
+32.91N  80.03W Elev. 45 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          75          55          75          58
+Temp                49 46 45 49 65 74 74 66 62 58 57 56 68 74 74 67 63 60 59 59
+Dewpt               43 43 42 44 49 53 55 56 55 52 51 50 54 56 56 58 58 57 57 57
+RH                  80 89 89 83 56 48 51 70 78 80 80 80 61 53 53 73 84 90 93 93
+Wind dir            NE  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             2  3  4  5  8  9  8  5  5  5  5  6  9 10  9  5  5  5  5  5
+Clouds              CL CL CL FW B1 B1 B1 FW FW FW FW FW FW FW SC SC SC FW SC SC
+PoP 12hr                      0           5           5           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      61    78      63    80      63    80      62    80
+Temp          75 69   63 62 78 70   64 64 80 71   66 64 80 72   66 63 80 70
+Dewpt         62 63   61 61 66 67   64 64 66 67   65 64 66 66   64 63 64 65
+PWind dir        NE      NE    NE      NE    SE       W     E      NE     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC B1 SC SC   SC SC SC SC   FW FW FW SC
+PoP 12hr          0       0    10      10    10      10    10       5    10
+
+$$
+GAZ118-220900-
+Savannah International Airport-Inland Chatham GA
+32.12N  81.20W Elev. 50 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          75          54          77          55
+Temp                51 48 46 49 64 74 74 65 60 58 56 55 68 76 76 66 62 59 58 57
+Dewpt               39 39 38 39 43 46 49 53 53 51 51 49 51 51 52 55 55 55 54 54
+RH                  63 71 73 68 46 37 41 65 78 77 83 80 54 42 43 68 78 87 86 90
+Wind dir            NE  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             2  2  4  4  8  9  8  5  4  4  4  5  8 10  9  5  4  3  4  5
+Clouds              CL CL CL CL CL FW FW SC FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      60    79      62    83      63    82      62    82
+Temp          77 68   62 60 78 70   64 63 82 73   66 63 81 72   66 63 81 71
+Dewpt         59 61   60 59 62 65   64 63 63 65   64 62 62 64   63 61 61 63
+PWind dir        NE      NE    NE       E    SE       S    NE       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC SC SC FW   FW FW FW FW   FW FW SC FW
+PoP 12hr          0       0     5       5    10      10    10       5    10
+
+$$
+SCZ050-220900-
+Charleston Waterfront-Charleston SC
+32.78N  79.94W Elev. 10 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          75          57          75          59
+Temp                57 54 54 56 67 74 74 67 63 60 59 58 68 74 74 67 64 61 60 60
+Dewpt               46 45 44 46 51 55 57 58 56 54 52 52 55 57 58 59 59 59 59 59
+RH                  67 71 69 69 56 51 55 73 78 81 78 80 63 55 57 75 84 93 96 96
+Wind dir            NE  N  N  N  N NE  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             3  5  5  6  9 10  9  8  8  9  9  9 10 11  9  6  6  6  6  8
+Clouds              CL CL CL SC B1 B1 B1 FW FW FW FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           5          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      62    78      65    80      65    79      64    79
+Temp          75 69   64 63 78 70   65 65 79 71   67 65 79 71   66 64 79 70
+Dewpt         62 64   63 62 66 68   65 65 67 68   66 65 66 67   66 64 65 66
+PWind dir        NE      NE    NE      NE     E       W     E      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC B1 SC SC   SC SC SC FW   FW FW FW FW
+PoP 12hr          5       5    10      10    10      10    10      10    20
+Rain shwrs                                                                S
+
+$$
+SCZ048-220900-
+Beaufort Marine Corps Air Station-Beaufort SC
+32.48N  80.72W Elev. 37 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          76          55          77          57
+Temp                50 47 46 50 65 73 74 66 61 58 57 56 67 75 75 66 63 60 58 58
+Dewpt               42 42 41 42 46 50 52 55 54 52 51 50 52 54 54 56 56 56 55 56
+RH                  74 83 83 74 50 44 46 68 78 80 80 80 59 48 48 70 78 87 90 93
+Wind dir            NE  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             2  3  5  5  9 10  8  5  5  5  6  8  9 10  9  5  5  5  5  5
+Clouds              CL CL CL CL FW SC B1 SC FW FW FW FW FW FW FW FW FW FW SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      60    80      62    82      63    81      62    81
+Temp          75 68   63 61 77 70   65 64 80 71   67 64 80 71   66 64 79 70
+Dewpt         60 62   61 60 63 66   64 64 65 66   64 63 64 65   63 61 63 64
+PWind dir        NE      NE     E       E    SE      SE     E      NE     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC SC SC FW   SC FW SC FW   FW FW FW FW
+PoP 12hr          0       0     5       5    10      10    10       5    10
+
+$$
+SCZ043-220900-
+Walterboro-Inland Colleton SC
+32.91N  80.67W Elev. 98 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      38          73          51          74          53
+Temp                43 40 39 44 64 73 73 62 57 54 53 52 66 74 74 63 59 57 56 56
+Dewpt               39 39 38 40 46 49 51 54 52 50 48 48 52 54 54 56 55 54 54 55
+RH                  86 96 96 86 52 43 46 75 83 86 83 86 61 50 50 78 87 90 93 96
+Wind dir            NE  N  N  N  N NE  N  N  N  N  N  N  N  N  N  N  N  N  N  N
+Wind spd             2  2  2  4  6  8  5  2  3  4  4  5  8  9  6  2  2  3  4  5
+Clouds              CL CL CL CL FW B1 B1 FW FW FW FW FW FW FW FW FW FW FW SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      56    77      60    79      60    79      58    78
+Temp          74 66   59 58 77 69   62 61 79 71   63 62 79 70   63 61 78 69
+Dewpt         61 62   59 58 64 66   62 61 65 66   63 61 64 65   62 61 63 63
+PWind dir        NE      NE    NE       E    SE      SE    NE      NE     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC   SC SC SC SC   SC B1 SC SC   SC SC SC SC   FW FW SC SC
+PoP 12hr          0       0     5       5    10      10    10       5    10
+
+$$
+GAZ099-220900-
+Metter-Candler GA
+32.40N  82.06W Elev. 197 ft
+927 PM EDT Fri Oct 21 2022
+
+Date           10/21/22      Sat 10/22/22            Sun 10/23/22            Mon
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          75          49          78          52
+Temp                49 46 44 47 62 73 74 62 56 54 52 50 67 76 77 64 59 56 54 53
+Dewpt               37 36 35 35 40 40 41 48 48 47 46 47 50 49 48 53 52 51 51 51
+RH                  63 68 70 63 44 30 30 60 74 77 80 89 54 39 36 67 78 83 90 93
+Wind dir            NE NE  N  N  N NE NE NE NE  N  N  N  N NE NE  N NE NE NE  N
+Wind spd             1  1  2  2  5  6  4  2  2  2  2  3  5  6  5  2  2  2  2  3
+Clouds              CL CL CL CL CL CL CL CL FW FW FW FW CL CL CL CL FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date           10/24  Tue 10/25/22  Wed 10/26/22  Thu 10/27/22  Fri 10/28/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    81      61    83      60    84      60    83
+Temp          77 67   58 56 79 70   63 61 82 72   65 61 82 71   64 61 81 71
+Dewpt         57 60   58 56 60 64   63 61 62 64   63 60 61 63   62 60 60 61
+PWind dir        NE      NE     E      SE     S      SE     E       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC SC SC   SC SC SC FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0     5       5    10       5    10       5    10
+
+$$
+
+PRODUCT KEY...
+
+--- Cloud Cover --- 
+CODE   PERCENTAGE            SKY COVER DAY/NIGHT
+ CL    0 TO <=5 percent      Sunny/Clear
+ FW    >5 TO <=25 percent    Sunny/Mostly Clear
+ SC    >25 TO <=50 percent   Partly Cloudy
+ B1    >50 TO <=69 percent   Mostly Cloudy
+ B2    >69 TO <=87 percent   Mostly Cloudy
+ OV    >87 TO 100 percent    Cloudy
+
+--- Obstructions to Visibility ---    --- Weather Coverage ---
+CODE   TYPE                           CODE   QUALIFYING TERM
+ F     Fog                             S     Slight
+ PF    Patchy Fog                      C     Chance
+ F+    Dense Fog                       L     Likely
+ PF+   Patchy Dense Fog                O     Occasional
+ H     Haze                            D     Definite
+ BS    Blowing Snow  
+ K     Smoke  
+ BD    Blowing Dust  
+ AF    Volcanic Ashfall  
+
+--- Extended Wind Forecast Character ---
+                           12-HR MAX SUSTAINED
+CODE   WIND CHARACTER          WIND SPEED
+ LT    Light                   < 8 mph
+ GN    Gentle                  8-14 mph
+ BZ    Breezy                  15-22 mph
+ WY    Windy                   23-30 mph
+ VW    Very Windy              31-39 mph
+ SD    Strong/Damaging         >=40 mph
+

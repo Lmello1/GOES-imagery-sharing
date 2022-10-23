@@ -1,0 +1,67 @@
+ASUS66 KMTR 220036
+RTPMTR
+
+:Regional Temperature and Precipitation Table
+:National Weather Service San Francisco Bay Area
+:515 PM PDT Fri Oct 21 2022
+:
+:Values are highs and lows the last 18 hours.
+:Precipitation the last 24 hours.  M=missing  T=trace. 
+:
+: ID :   Location          Elev :     High/ Low / PP24HR /
+:
+:...North Bay...
+KENC1:   Kentfield          145 :      69 /  47 /  0.00 /
+NSHC1:   Napa                35 :      M /  49 /  0.00 /
+APC  :   Napa Arpt           33 :      69 /  47 /  0.00 /
+STS  :   Sonoma Cnty Arpt   125 :      68 /  48 /  0.00 /
+STSC1:   Santa Rosa         145 :      66 /  51 /  0.00 /
+:
+:...San Francisco Peninsula...
+HMBC1:   Half Moon Bay       27 :      65 /  49 /  0.00 /
+RWCC1:   Redwood City       145 :      71 /  50 /  0.00 /
+SFOC1:   San Francisco      150 :      59 /  53 /  0.00 /
+SFO  :   San Francisco Arpt   8 :      67 /  52 /  0.00 /
+:
+:...East Bay...
+CCR  :   Concord Arpt        23 :      74 /  51 /  0.00 /
+FETC1:   Fremont             38 :      65 /  49 /  0.00 /
+HWD  :   Hayward Arpt        47 :      65 /  51 /  0.00 /
+LVK  :   Livermore Arpt     393 :      80 /  51 /  0.00 /
+OAMC1:   Oakland             30 :      64 /  55 /  0.00 /
+OAK  :   Oakland Arpt        86 :      64 /  53 /  0.00 /
+:
+:...South Bay and Santa Clara Valley...
+GILC1:   Gilroy             194 :       M /   M /     M /
+SJC  :   San Jose Arpt       51 :      72 /  55 /  0.00 /
+:
+:...Monterey Bay and Big Sur...
+PPSC1:   Big Sur RAWS       354 :      63 /  51 /  0.00 /
+MRY  :   Monterey Arpt      165 :      62 /  52 /  0.00 /
+SCRC1:   Santa Cruz         130 :       M /   M /     M /
+WVI  :   Watsonville Arpt   160 :      63 /  50 /  0.00 /
+CTOC1:   Corralitos         327 :      70 /  51 /  0.00 /
+:
+:...Interior Monterey County/San Benito County...
+HSEC1:   Hollister          404 :      73 /  49 /  0.00 /
+KICC1:   King City          320 :       M /   M /  0.00 /
+SNS  :   Salinas Arpt        84 :      66 /  53 /  0.00 /
+PCLC1:   Pinnacles NP      1322 :      91 /  51 /  0.00 /
+PKFC1:   Parkfield         1525 :      89 /  49 /  0.00 /
+.End
+
+
+Today's high and low temperatures.
+* = estimated high temperature.
++ = estimated low temperature.
+# = estimated high and low temperature.
+
+
+These data are preliminary and have not undergone final
+quality control by the National Centers for Environmental  
+Information. Therefore...these data are subject to revision.
+Final and certified climate data can be accessed at 
+www.ncdc.noaa.gov.
+
+
+$$

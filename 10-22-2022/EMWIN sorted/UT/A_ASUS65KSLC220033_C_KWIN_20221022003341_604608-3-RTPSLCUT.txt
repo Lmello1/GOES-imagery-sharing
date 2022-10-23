@@ -1,0 +1,107 @@
+ASUS65 KSLC 220033
+RTPUT 
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR UTAH
+NATIONAL WEATHER SERVICE SALT LAKE CITY UTAH
+632 PM MDT FRI OCT 21 2022
+
+*********************************************************************
+* COOPERATIVE OBSERVER DATA:
+* REPORTS ARE FOR THE 24 HOUR PERIOD ENDING AT OBSERVATION TIME
+*********************************************************************
+
+
+DATE: FRI OCT 21 2022
+.BR SLC 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ 
+:                          OBS     MAX    MIN
+:ID     STATION            TIME    TEMP   TEMP    PCPN
+:       UTAH....  
+AMFU1  :ALPINE          : DH1800 /  71 /   40 /   0.00
+ATAU1  :ALTA            : DH1800 /   M /    M /   0.00
+BRGU1  :BRIGHAM CITY    : DH1600 /  72 /   35 /   0.00
+SLTU1  :CITY CK WATER PL: DH1600 /  72 /   41 /   0.00
+ECSU1  :ESCALANTE       : DH1700 /  76 /   37 /   0.00
+KANU1  :KANAB           : DH1700 /  75 /   39 /   0.00
+KODU1  :KODACHRME BSN SP: DH1700 /  72 /   25 /   0.00
+PROU1  :PROVO BYU       : DH1704 /  76 /   41 /   0.00
+SLCU1  :SLC DOWNTOWN    : DH1600 /  76 /   53 /   0.00
+SPFU1  :SPANISH FORK    : DH1700 /  73 /   42 /   0.00
+:
+:
+:       WYOMING...
+:
+.END
+
+*********************************************************************
+* COOPERATIVE OBSERVER DATA FROM SITES NEAR THE
+* SALT LAKE CITY FORECAST AREA
+* REPORTS ARE FOR THE 24 HOUR PERIOD ENDING AT OBSERVATION TIME
+*********************************************************************
+
+
+.B SLC 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ
+:                          OBS     MAX    MIN
+:ID     STATION            TIME    TEMP   TEMP    PCPN
+:       UTAH....
+BLFU1  :BLUFF           : DH1800 /  72 /   37 /   0.00
+ROSU1  :ROOSEVELT       : DH1600 /  75 /   26 /   0.00
+:
+:
+.END
+
+*********************************************************************
+* AUTOMATED DATA FROM ASOS AND AWOS SITES:
+* HIGH AND LOW TEMPERATURE OVER THE PAST 18 HOURS ENDING 600 PM MDT
+* 24 HOUR PRECIPITATION ENDING 600 PM MDT
+*********************************************************************
+
+
+.BR SLC 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ
+:                        MAX    MIN
+:ID   STATION            TEMP   TEMP    PCPN
+:     UTAH....
+BCE  :BRYCE CANYON    :   64 /   25 /   0.00
+CDC  :CEDAR CITY      :   71 /   35 /   0.00
+LGU  :LOGAN           :   72 /   29 /   0.00
+MLF  :MILFORD         :   76 /   36 /   0.00
+OGD  :OGDEN           :   76 /   46 /   0.00
+PUC  :PRICE           :   69 /   37 /   0.00
+SLC  :SALT LAKE CITY  :   77 /   50 /   0.00
+SGU  :ST GEORGE       :   81 /   49 /   0.00
+ENV  :WENDOVER        :   79 /   40 /   0.00
+:
+:     WYOMING...
+EVW  :EVANSTON        :   65 /   36 /   0.00
+:
+.END
+
+*********************************************************************
+* AUTOMATED DATA FROM ASOS AND AWOS SITES NEAR THE 
+* SALT LAKE CITY FORECAST AREA. 
+* HIGH AND LOW TEMPERATURE OVER THE PAST 18 HOURS ENDING 600 PM MDT
+* 24 HOUR PRECIPITATION ENDING 600 PM MDT
+*********************************************************************
+
+
+.B SLC 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ
+:                        MAX    MIN
+:ID   STATION            TEMP   TEMP    PCPN
+:     UTAH....
+CNY  :CANYONLANDS     :   75 /   34 /   0.00
+VEL  :VERNAL          :   74 /   34 /   0.00
+:
+:
+:     ARIZONA...
+PGA  :PAGE            :   78 /    M /   0.00
+:
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY 
+CONTROL BY THE NATIONAL CENTER FOR ENVIRONMENTAL INFORMATION.  
+THEREFORE, THESE DATA ARE SUBJECT TO REVISION.  
+FINAL AND CERTIFIED CLIMATE DATA CAN BE ACCESSED AT 
+WWW.NCDC.NOAA.GOV.
+
+
+ $$
+
+ TO VIEW THIS DATA ON A MAP, GO TO HTTPS://WWW.WEATHER.GOV/SLC/MAPRTP

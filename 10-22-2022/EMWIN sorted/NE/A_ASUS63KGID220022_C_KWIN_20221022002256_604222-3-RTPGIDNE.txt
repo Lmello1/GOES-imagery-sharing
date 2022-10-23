@@ -1,0 +1,54 @@
+ASUS63 KGID 220022
+RTPGID
+
+
+Max/Min Temperature and Precipitation Table for S Cen NE/N Cen KS
+National Weather Service Hastings NE
+722 PM CDT Fri Oct 21 2022
+
+: Values represent 18 hour high, low over the last 18 hours
+: and precipitation over the last 24 hours ending at 7 pm CDT.
+: Snow depth is taken daily and is valid as of 7 pm CDT.
+
+
+.BR GID 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:
+:                                                 Snow / Snow
+:       Station              Max / Min  / Pcpn  / Fall / Depth
+:
+AUH  :  Aurora Airport    :   78 /  37  / 0.00  /      /
+GRI  :  Grand Island Arpt :   80 /  40  / 0.00  /  0.0 /   0 
+HSI  :  Hastings Airport  :   78 /  47  / 0.00  /  0.0 /   0 
+HJH  :  Hebron Airport    :   81 /  49  / 0.00  /      /
+HDE  :  Holdrege Airport  :   74 /  44  / 0.00  /      /
+EAR  :  Kearney Airport   :   77 /  45  / 0.00  /      /
+LXN  :  Lexington Airport :   78 /  36  / 0.00  /      /
+ODX  :  Ord Airport       :   76 /  31  / 0.00  /      /
+JYR  :  York Airport      :   77 /  37  / 0.00  /      /
+PHG  :  Phillipsburg KS   :   85 /  34  /       /      /
+K82  :  Smith Center KS   :    M /   M  /       /      /
+.END
+:
+.BR GID 1021 C DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+
+
+: Cooperative Observations
+: Values represent 24 hour high and low temperature
+: and also the precipitation over the last 24 hours.
+:
+:                 Obs                             Snow / Snow
+:                 Time    /  Max / Min  / Pcpn  / Fall / Depth
+:
+GNVN1:  Geneva  : DHM    /     M /   M  /    M  /    M /   M
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+
+Rossi

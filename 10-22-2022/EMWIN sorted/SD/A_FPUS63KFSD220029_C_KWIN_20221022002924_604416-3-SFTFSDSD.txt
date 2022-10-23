@@ -1,0 +1,111 @@
+FPUS63 KFSD 220029
+SFTSD 
+STZ000-221100-
+
+Tabular State Forecast for South Dakota
+National Weather Service Sioux Falls SD
+728 PM CDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...WESTERN SOUTH DAKOTA...
+   Buffalo
+   Ptcldy   Rain     Snow     Ptcldy   Ptcldy   Ptcldy   Sunny    
+   43/66    41/49    28/41    28/53    28/51    29/48    28/54    
+    00/00    10/70    90/90    20/00    10/10    20/10    10/00   
+
+   Custer
+   Ptcldy   Rain     Snow     Ptcldy   Ptcldy   Ptcldy   Sunny    
+   43/68    44/51    24/37    26/47    26/47    28/44    25/48    
+    00/00    10/70    70/60    20/10    10/10    20/20    20/00   
+
+   Faith
+   Ptcldy   Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/68    42/58    30/42    28/53    29/51    31/49    29/54    
+    00/00    00/30    80/80    20/00    00/10    10/20    10/00   
+
+   Philip
+   Sunny    Ptcldy   Rnsnow   Sunny    Ptcldy   Mocldy   Ptcldy   
+   39/77    42/62    30/46    26/56    28/56    31/51    28/55    
+    00/00    00/20    60/60    20/00    00/10    20/20    10/00   
+
+   Pine Ridge
+   Sunny    Ptcldy   Snow     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   37/80    38/61    26/45    26/55    28/56    29/50    26/53    
+    00/00    00/30    60/50    10/00    10/10    20/20    10/10   
+
+   Rapid City
+   Ptcldy   Mocldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   40/73    44/56    31/45    29/56    31/54    32/49    29/55    
+    00/00    00/40    70/70    10/00    10/10    20/20    10/00   
+
+...CENTRAL SOUTH DAKOTA...
+   Chamberlain
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Mocldy   Ptcldy   
+   45/83    46/79    37/48    28/55    30/56    32/53    31/56    
+    00/00    00/10    30/30    10/00    00/00    10/20    10/10   
+
+   Mobridge
+   Ptcldy   Ptcldy   Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   43/68    43/69    34/44    28/53    30/52    31/51    30/54    
+    00/00    00/10    70/70    30/10    00/10    10/20    20/00   
+
+   Pierre
+   Ptcldy   Ptcldy   Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   43/74    45/71    36/46    30/55    31/55    34/51    31/55    
+    00/00    00/10    50/50    20/00    00/00    10/20    10/10   
+
+   Winner
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Mocldy   Ptcldy   
+   48/85    50/77    35/48    30/57    32/57    34/54    32/56    
+    00/00    00/10    30/30    10/00    00/00    10/20    10/10   
+
+...EASTERN SOUTH DAKOTA...
+   Aberdeen
+   Ptcldy   Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   41/69    43/75    40/48    27/52    28/52    30/49    29/52    
+    00/00    00/10    40/50    30/10    10/10    10/30    20/10   
+
+   Huron
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Mocldy   Ptcldy   
+   42/81    49/80    41/51    28/55    29/55    32/53    31/56    
+    00/00    00/10    30/30    20/10    00/00    10/30    20/10   
+
+   Mitchell
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Mocldy   Ptcldy   
+   43/85    52/82    42/51    29/55    30/56    33/54    32/57    
+    00/00    00/10    30/20    10/10    00/00    10/20    20/20   
+
+   Sioux Falls
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   43/83    53/82    46/52    31/52    31/54    35/53    35/54    
+    00/00    00/10    30/20    10/10    10/10    10/20    20/20   
+
+   Sisseton
+   Sunny    Sunny    Windy    Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   42/72    47/76    46/54    32/52    32/52    34/50    33/52    
+    00/00    00/10    40/40    30/10    10/10    10/30    30/20   
+
+   Watertown
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   43/73    50/76    42/49    28/50    29/50    32/49    31/50    
+    00/00    00/10    30/30    20/10    10/10    10/30    30/20   
+
+   Yankton
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   44/86    54/84    45/53    32/55    32/57    35/55    36/55    
+    00/00    00/10    30/20    10/10    10/10    10/20    20/20   
+
+
+$$
+

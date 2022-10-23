@@ -1,0 +1,114 @@
+ASUS63 KAPX 220116
+RTPAPX
+
+
+Eastern Upper/Northern Lower Michigan Temperature and Precip Summary
+National Weather Service Gaylord MI
+916 PM EDT Fri Oct 21 2022
+
+18 hour High/Low Temperature ending 8 pm EDT
+24 hour Precipitation/Snowfall ending 8 pm EDT
+Snow Depth observed at 8 pm EDT
+ 
+.BR APX  1021  ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:..................................................................
+:                         MAX   MIN   24 HR    SNOW  SNOW
+:ID    LOCATION           TEMP  TEMP  PRECIP   FALL  DEPTH
+:..................................................................
+ANJ : Sault Ste Marie   :  64 /  36  / 0.00 /  0.0 /  0.0
+APN : Alpena            :  66 /  33  / 0.00 /  0.0 /  0.0
+HTL : Houghton Lake     :  65 /  29  / 0.00 /  0.0 /  0.0
+PLN : Pellston          :  70 /  32  / 0.00 /      / 
+TVC : Traverse City     :  72 /  36  / 0.00 /      / 
+GLR : Gaylord           :  67 /  35  / 0.00 /      / 
+.END
+ 
+Cooperative Observations
+Temperature/Precipitation/Snowfall values are for 24 hour period
+ending 8 pm EDT.  Snow Depth is observed at 8 pm EDT.
+...................................................................
+                              OBS    MAX   MIN          SNOW  SNOW
+ID      LOCATION              TIME   TEMP  TEMP  PCPN   FALL  DEPTH
+...................................................................
+FRKM4: Frankfort 2NE        :DH1812/  63 /  37 / 0.00 / 0.0 / 0.0
+MAPM4: Maple City 1E        :DH1815/  69 /  38 / 0.00 / 0.0 / 0.0
+ONAM4: Onaway 4N            :DH1800/  67 /  31 / 0.00 / 0.0 / 0.0
+ 
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information.
+Therefore...these data are subject to revision.  Final
+and certified climate data can be accessed at www.ncdc.noaa.gov.
+ 
+&& 
+ 
+The following are supplemental temperature and precipitation data.
+This includes data which are received from non-National Weather 
+Service maintained observing systems...as well as reports from 
+public weather spotters.  Data is only partially quality controlled
+and is not suitable for official climatological records.
+ 
+.BR APX  1021  ES DH19/TAIRZS/TAIRZI
+:
+:Automated Temperature Data--18 hr High/Low ending 8 pm EDT
+:..................................................................
+:                         MAX    MIN
+:ID    LOCATION           TEMP   TEMP
+:..................................................................
+:
+ERY : Newberry          :  58  /  41
+CIU : Kinross           :  66  /  35
+MCD : Mackinac Island   :  64  /  40
+DRM : Drummond Island   :  57  /  40
+SJX : Beaver Island     :  64  /  45
+SLH : Cheboygan         :  68  /  37
+PZQ : Rogers City       :  69  /  38
+CVX : Charlevoix        :  67  /  38
+MGN : Harbor Springs    :  67  /  39
+ACB : Bellaire          :  69  /  32
+FKS : Frankfort         :  67  /  38
+MBL : Manistee          :  68  /  31
+CAD : Cadillac          :  67  /  28
+Y31 : West Branch       :  67  /  26
+OSC : Oscoda            :  62  /  32
+LDM : Ludington         :  66  /  35
+RQB : Big Rapids        :  69  /  31
+MOP : Mount Pleasant    :  68  /  29
+IKW : Midland           :  69  /  30
+.END
+ 
+U.S. Forest Service Remote Automated Weather Stations (RAWS)
+Data is only partially quality controlled
+18 hour High/Low Temperature ending 8 pm EDT
+Minimum Relative Humidity over past 18 hours
+12/24 hour Precipitation ending 8 pm EDT
+...................................................................
+                            MAX   MIN   MIN  12 HR   24 HR 
+ID       LOCATION           TEMP  TEMP  RH   PRECIP  PRECIP
+...................................................................
+AGRM4:  Alger RAWS        :  69 /  26 /  31 / 0.00 /  0.00
+ATAM4:  Atlanta RAWS      :  67 /  33 /  36 / 0.00 /  0.00
+BCYM4:  Barton City RAWS  :  66 /  31 /  35 / 0.01 /  0.01
+GYGM4:  Grayling RAWS     :  68 /  30 /  35 / 0.00 /  0.00
+INDM4:  Indian River RAWS :  72 /  34 /  29 / 0.00 /  0.00
+MMOM4:  Mio RAWS          :  66 /  28 /  37 / 0.00 /  0.00
+NMIM4:  N Manitou Island  :  64 /  41 /  34 / 0.00 /  0.00
+RACM4:  Raco RAWS         :  61 /  37 /  45 / 0.00 /  0.00
+REXM4:  Rexton RAWS       :  60 /  40 /  52 / 0.00 /  0.00
+RSCM4:  Roscommon RAWS    :  68 /  27 /   M / 0.00 /  0.00
+RYDM4:  Rudyard RAWS      :  66 /  32 /  39 / 0.00 /  0.00
+SBDM4:  The Bear RAWS     :  70 /  37 /  34 / 0.00 /  0.00
+SCKM4:  Silver Creek RAWS :  64 /  29 /  42 / 0.00 /  0.00
+WLLM4:  Wellston RAWS     :  70 /  29 /  33 / 0.00 /  0.01
+ 
+The following are precipitation reports received by the National
+Weather Service in Gaylord...valid for the time period ending
+around 8 pm EDT.  All reports have been recorded in inches.
+ 
+Spotter Reports from Eastern Upper and Northern Lower Michigan:
+ 
+                                        WATER   TIME      SNOW
+LOCATION                  RAIN   SNOW   EQUIV   PERIOD    DEPTH
+None received
+
+$$
+

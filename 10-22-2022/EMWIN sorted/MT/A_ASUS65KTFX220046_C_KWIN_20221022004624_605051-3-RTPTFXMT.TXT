@@ -1,0 +1,157 @@
+ASUS65 KTFX 220046
+RTPMT 
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR MONTANA
+NATIONAL WEATHER SERVICE GREAT FALLS MT
+645 PM MDT Fri Oct 21 2022
+
+...Full Time Stations...
+ 
+High temp last 12 hours through 6 PM MDT. Low temp over past
+18 hours...precipitation and snowfall past 24 hours at 6 PM.
+Snow depth at 6 PM MDT. Stations are automated and may
+underestimate winter precipitation. 
+ 
+.BR TFX 1021 M DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                       12HR 18HR  24-HR  24-HR  SNOW
+:ID    STATION          ELEV            HIGH  LOW   PCPN   SNFL DEPTH
+BHK  : Baker Muni Apt   2929 :           72 /  34 / 0.00
+BIL  : Billings Logan   3567 :           67 /  48 /    T /      /   M
+BZN  : Bozeman Yell Apt 4475 :           67 /  40 / 0.00 /      /   0
+BTM  : Butte Mooney Apt 5550 :           56 /  46 / 0.00
+CTB  : Cut Bank Muni Ap 3838 :           49 /  36 / 0.01 /      /   0
+DLN  : Dillon Airport   5200 :           64 /  41 / 0.00 /      /   0
+GGW  : Glasgow Wokal Ap 2285 :           52 /  46 / 0.02 /  0.0 /   0
+GDV  : Glendive Airport 2457 :           56 /  41 /    T
+GTF  : Great Falls Apt  3664 :           58 /  38 /    T /  0.0 /   0
+HVR  : Havre Airport    2585 :           49 /  39 / 0.12 /  0.0 /   0
+HLN  : Helena Airport   3828 :           63 /  45 / 0.00 /  0.0 /   0
+JDN  : Jordan Airport   2662 :           60 /  41 / 0.05
+GPI  : Kalispell Glac   2965 :           57 /  43 / 0.17 /    M /   0
+LWT  : Lewistown Apt    4145 :           61 /  41 / 0.03 /      /   0
+LVM  : Livingston Apt   4653 :           71 /  51 / 0.00
+MLS  : Miles City Apt   2628 :           71 /  44 / 0.00
+MSO  : Missoula Airport 3202 :           58 /  43 / 0.04 /  0.0 /   0
+SDY  : Sidney Airport   1985 :           50 /  38 /    T
+OLF  : Wolf Point Apt   1980 :           49 /  43 / 0.03
+ 
+:Other AWOS and CRN locations...no NWS quality control performed.
+3U3   : Anaconda Apt    5030 :           59 /  45
+1FM   : Augusta 8NE     4405 :           57 /  42 / 0.00
+BSPM8 : Bannack SP      5971 :           62 /  32 / 0.00
+6S0   : Big Timber Apt  4492 :           68 /  55 / 0.00
+GOMM8 : Brusett 4SE     2643 :           46 /  39 / 0.04
+S71   : Chinook Apt     2414 :           48 /  41
+CII   : Choteau Apt     3947 :           52 /  41 / 0.00
+1DM   : Denton 7NE      3585 :           61 /  42 / 0.02
+38S   : Deer Lodge Apt  4693 :           59 /  43
+EKS   : Ennis Airport   5383 :           64 /  43 / 0.00
+1HM   : Fairfield 6N    3867 :           58 /  39 /    T
+1S3   : Forsyth Airport 2727 :           72 /  46
+79S   : Fort Benton Apt 2869 :           50 /  43
+1BM   : Geyser 6E       4048 :           59 /  41 / 0.01
+1NM   : Grass Rnge 11NW 3808 :           64 /  41 / 0.06
+HRF   : Hamilton Apt    3642 :           61 /  46
+00U   : Hardin Big Horn 3025 :            M /   M / 0.00
+1KM   : Harlowton 1N    4362 :           62 /  43 / 0.00
+1LM   : Judith Gap 1NE  4638 :           60 /  45 /    T
+6S8   : Laurel Airport  3517 :           70 /  45 / 0.00
+S59   : Libby Airport   2601 :           55 /  45
+GFA   : Malmstrom AFB   3527 :           59 /  38 / 0.01
+M75   : Malta Airport   2254 :           50 /  43 / 0.00
+1MM   : Moore 4NE       4120 :           62 /  42 / 0.02
+MVH   : NBar Grass Rng  4446 :           61 /  43 / 0.00
+S34   : Plains Airport  2467 :           59 /  43
+PWD   : Plentywood Apt  2250 :           45 /  37
+PRSM8 : Poplar 13NE     2085 :           48 /  41 / 0.08
+1JM   : Power 7NE       3778 :           53 /  40 / 0.03
+1AM   : Raynesford 3W   3998 :           60 /  43 / 0.06
+RPX   : Roundup Apt     3485 :           66 /  46
+1OM   : Roy 1E          3562 :           62 /  45 / 0.06
+MRYM8 : St Mary         4575 :           53 /  38 / 0.15
+1GM   : Simms 13SW      4300 :            M /   M / 0.00
+1CM   : Stanford 5SE    4385 :           60 /  43 / 0.02
+THM   : Thompson Fls Ap 2467 :           57 /  45
+RVF   : Twin Bridges Ap 4777 :           63 /  45
+1IM   : Ulm 8S          3634 :           59 /  42 /    T
+JRWM8 : Utica 11SW      5070 :           56 /  43 / 0.05
+1EM   : Winifred 7S     3663 :            M /   M / 0.00
+.END
+ 
+:...Cooperative Stations...
+:These stations report temperature once every 24 hours. High and 
+:low temperature...precipitation...and snowfall for the past 24
+:hours through this evening...high temperature could have occurred
+:yesterday. Snow depth this evening.
+:The DDHHNN group is day/hour/minute of the observation.
+ 
+.BR TFX 1021 M DH18/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:...NORTHEAST MONTANA...
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+CULM8 : Culbertson      1942 : DD211700/ 67 /   M / 0.03 /    M /   M
+GNDM8 : Glendive 1E     2076 : DD211400/ 79 /  43 / 0.00 /    M /   M
+MLAM8 : Malta           2262 : DD211559/ 74 /  42 /    T /    M /   M
+POGM8 : Port of Morgan  2830 : DD211500/ 57 /  35 /    M /    M /   M
+SMIM8 : St Marie        2756 : DD211600/ 70 /  40 / 0.02 /  0.0 /   0
+WLFM8 : Wolf Point      2090 : DD211600/ 75 /  42 /    T /  0.0 /   0
+ 
+:...SOUTHEAST MONTANA...
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+PLEM8 : Plevna          2780 : DD211803/ 70 /  33 / 0.00 /  0.0 /   0
+ 
+:...SOUTH CENTRAL MONTANA...
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+BGTM8 : Big Timber      4100 : DD211900/ 69 /  52 / 0.00 /  0.0 /   0
+HDNM8 : Hardin          2905 : DD211700/ 72 /  43 / 0.00 /  0.0 /   0
+MYSM8 : Mystic Lake     6544 : DD211600/ 64 /  51 / 0.00 /    M /   M
+ 
+:...NORTH CENTRAL MONTANA...  
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+GSSM8 : Grass Range     3490 : DD211800/ 65 /  42 / 0.08 /    M /   M
+HLTM8 : Holter Dam      3487 : DD211650/ 66 /  51 / 0.00 /  0.0 /   0
+STNM8 : Stanford        4860 : DD211800/ 58 /  39 / 0.02 /    M /   M
+ 
+:...SOUTHWEST MONTANA...
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+BZMM8 : Bozeman 6W      4775 : DD211600/ 70 /  49 / 0.00 /    M /   M
+BZEM8 : Bozeman MSU     4913 : DD211600/ 68 /  45 / 0.00 /  0.0 /   0
+MADM8 : Norris Madison  4745 : DD211530/ 71 /  47 / 0.00 /  0.0 /   0
+PHIM8 : Philipsburg     5270 : DD211400/ 64 /  24 / 0.00 /    M /   M
+SULM8 : Sula 3ENE       4475 : DDM     /  M /   M / 0.00 /    M /   M
+TOWM8 : Townsend        3840 : DD211700/ 63 /  42 / 0.00 /  0.0 /   0
+ 
+:...NORTHWEST MONTANA...
+:                              OBS TIME 24HR 24-HR 24-HR  24-HR  SNOW
+:ID    STATION          ELEV     DDHHNN HIGH  LOW   PCPN   SNFL DEPTH
+HERM8 : Heron 2NW       2240 : DD211800/ 55 /  41 / 0.17 /  0.0 /   0
+KERM8 : Seli's Ksank Dm 2730 : DD211800/ 58 /  42 / 0.11 /    M /   M
+THOM8 : Thompson Falls  2380 : DD211600/ 61 /  44 / 0.01 /    M /   M
+
+
+...Montana Temperature Extremes...
+
+High Temp...  72   Hardin
+                   Forsyth Airport
+                   Baker Muni Apt
+
+Low Temp...   24   Philipsburg
+
+...Montana Maximum Precipitation...
+
+
+Max Precip...   0.17   Heron 2NW
+                       Kalispell Glac
+
+COOP stations report every 24 hours. If the high appears to be from
+yesterday the COOP station is not considered for the state high.
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+These data are subject to revision. Final and certified 
+climate data can be accessed at NCEI - www.ncdc.noaa.gov.
+
+$$

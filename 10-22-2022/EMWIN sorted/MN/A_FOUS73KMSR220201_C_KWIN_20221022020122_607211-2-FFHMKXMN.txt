@@ -1,0 +1,34 @@
+FOUS73 KMSR 220201
+FFHMKX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+900 PM CDT FRI OCT 21 2022
+                                                                        
+MILWAUKEE HYDROLOGIC SERVICE AREA                                       
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221022 Z DH00/DC2210220200 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** WISCONSIN HEADWATER POINTS ***                                  
+:                                                                       
+AFTW3     2.6/  3.1/  3.7 :AFTON WI              ROCK R
+BCHW3     1.8/  1.9/  2.6 :BLANCHARDVILLE  WI    E BR PECATONICA R
+BUNW3     3.1/  3.5/  4.2 :BUNCOMBE WI           GALENA R
+DARW3     2.8/  3.2/  4.1 :DARLINGTON WI         PECATONICA R
+MTNW3     1.7/  1.9/  2.8 :MARTINTOWN WI         PECATONICA R
+MAZW3     2.5/  2.7/  3.6 :MAZOMANIE WI          BLACK EARTH CR
+KINW3     3.5/  4.0/  4.5 :MILWAUKEE WI          KINNICKINNIC R
+SEBW3     2.6/  2.7/  3.1 :SHEBOYGAN WI          SHEBOYGAN R
+WKEW3     3.3/  3.3/  3.4 :WAUKESHA WI           FOX R
+WWTW3     3.4/  3.5/  3.7 :WAUWATOSA WI          MENOMONEE R
+BLOW3     2.0/  2.1/  2.4 :BELOIT WI             TURTLE CR
+MFSW3     0.5/  1.0/  1.0 :MENOMONEE FALLS WI    MENOMONEE R
+OAKW3     2.3/  2.4/  2.6 :SOUTH MILWAUKEE       OAK CR
+.END
+$$

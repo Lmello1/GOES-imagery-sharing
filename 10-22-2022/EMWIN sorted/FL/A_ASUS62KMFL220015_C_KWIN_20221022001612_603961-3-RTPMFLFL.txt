@@ -1,0 +1,36 @@
+ASUS62 KMFL 220015
+RTPMFL
+ 
+Mainland South Florida Temperature and Precipitation Table
+National Weather Service Miami FL
+815 PM EDT Fri Oct 21 2022
+
+Note: Data is for the 18-Hour Period Ending at 7 pm(EST)/8 pm(EDT) Today.
+
+:                                   High           Low       24 Hour
+:                                   Today         Today      Rainfall
+:   Airport Observations                   
+:
+.B MFL 1021 E DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+FLL : Fort Lauderdale Intl        :    84     /     67    /      T     
+FXE : Fort Lauderdale Exec        :    82     /     66    /    0.01    
+HST : Homestead AFB               :    80     /     64    /      T     
+MIA : Miami                       :    83     /     67    /    0.03    
+APF : Naples                      :    79     /     63    /    0.00    
+OPF : Opa-locka                   :    82     /     67    /      T     
+HWO : Pembroke Pines              :    81     /     66    /      T     
+PMP : Pompano Beach               :    84     /     66    /      T     
+TMB : West Kendall-Tamiami        :    82     /     64    /      T     
+PBI : West Palm Beach             :    82     /     65    /    0.01    
+:
+.END
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center (NCDC). Therefore 
+these data are subject to revision. Final and certified climate
+data can be accessed at WWW.NCDC.NOAA.GOV.
+
+
+$$
+
+

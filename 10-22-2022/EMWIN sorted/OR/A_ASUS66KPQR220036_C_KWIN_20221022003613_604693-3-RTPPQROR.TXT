@@ -1,0 +1,114 @@
+ASUS66 KPQR 220036
+RTPOR 
+Regional Temperature and Precipitation Table
+National Weather Service Pendleton Oregon
+535 PM PDT FRI OCT 21 2022
+
+:Max temp is the 18 hour maximum temperature ending at 5:00 PM
+:Min temp is the 18 hour minimum temperature ending at 5:00 PM
+:Precipitation and snowfall are 24 hour totals ending at 5:00 PM
+
+Northwest Oregon and SW Washington
+.BR PDX 1022 DH00/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                 Max   Min   24 hr   24 hr   Snow
+:ID    Station             Elev  Temp  Temp    Pcpn    Snfl  Depth
+AST  : Astoria            11    :  52 /  42 /  0.26 /     M /   M
+SSDO3: Seaside            10    :  51 /  44 /  0.15 /     M /   M
+TMK  : Tillamook          36    :  52 /  41 /  0.22 /     M /   M
+ONP  : Newport           130    :   M /   M /     M /     M /   M
+FLOO3: Florence           75    :  55 /  41 /  0.06 /     0 /   0
+KLS  : Kelso, WA          25    :  51 /  44 /  0.23 /     M /   M
+SPB  : Scappoose          35    :  52 /  42 /  0.18 /     M /   M
+VUO  : Vancouver, WA      25    :  54 /  45 /  0.27 /     M /   M
+PDX  : Portland Airport   27    :  54 /  47 /  0.31 /     0 /   0
+PGWO3: Portland Downtwn  160    :   M /   M /     M /     M /   M
+PQRO3: Portland NWS WFO   30    :  52 /  45 /  0.39 /     0 /   0
+TTD  : Troutdale          35    :  55 /  44 /  0.35 /     M /   M
+HIO  : Hillsboro         204    :  52 /  40 /  0.29 /     M /   M
+UAO  : Aurora            196    :  52 /  42 /  0.44 /     M /   M
+MMV  : McMinnville       160    :  52 /  39 /  0.26 /     M /   M
+SLE  : Salem             210    :  57 /  42 /  0.13 /     M /   M
+CVO  : Corvallis         246    :  59 /  42 /     T /     M /   M
+EUG  : Eugene            369    :  65 /  45 /     T /     0 /   0
+77S  : Creswell          541    :  66 /  46 /  0.01 /     M /   M
+4S2  : Hood River        630    :  57 /  46 /  0.04 /     M /   M
+.END
+
+Southwestern and South Central Oregon
+.BR PDX 1022 DH00/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                 Max   Min   24 hr   24 hr   Snow
+:ID    Station             Elev  Temp  Temp    Pcpn    Snfl  Depth
+OTH  : North Bend            11 :  61 /  49 /     T /     M /   M
+BOK  : Brookings Arpt       459 :  72 /  58 /     0 /     M /   M
+RBG  : Roseburg             525 :  70 /  50 /     T /     M /   M
+SXT  : Sexton Summit       3958 :  62 /  49 /     T /     M /   M
+MFR  : Medford             1330 :  72 /  45 /     0 /     0 /   0
+LMT  : Klamath Falls       4090 :  67 /  32 /     0 /     M /   M
+LKV  : Lakeview            4730 :  71 /  25 /     0 /     M /   M
+.END
+
+Northeastern and North Central Oregon
+.BR PDX 1022 DH00/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                 Max   Min   24 hr   24 hr   Snow
+:ID    Station            Elev  Temp  Temp    Pcpn    Snfl  Depth
+BDN  : Bend(Arpt)         3454  :  63 /  41 /     0 /     M /   M
+HRI  : Hermiston           640  :  61 /  49 /  0.14 /     M /   M
+LGD  : La Grande          2700  :  60 /  40 /  0.08 /     M /   M
+MEH  : Meacham            3726  :  53 /  40 /  0.15 /     M /   M
+PDT  : Pendleton(Arpt)    1495  :  63 /  46 /  0.13 /     0 /   0
+RDM  : Redmond            3077  :  64 /  41 /     T /     M /   M
+DLS  : The Dalles          250  :  67 /  52 /     T /     M /   M
+ELN  : Ellensburg..WA     1759  :  59 /  49 /     0 /     M /   M
+HMS  : Hanford..WA         733  :  62 /  52 /     T /     M /   M
+PSC  : Pasco..WA           407  :  58 /  46 /  0.09 /     M /   M
+YKM  : Yakima..WA         1060  :  58 /  44 /  0.01 /     M /   M
+ALW  : Walla Walla..WA    1210  :  61 /  46 /  0.18 /     M /   M
+GCD  : John Day(Arpt)     3700  :  59 /  42 /     0 /     M /   M
+S39  : Prineville (Aprt)  3250  :  63 /  34 /     0 /     M /   M
+S33  : Madras(Arpt)       2427  :  63 /  39 /     0 /     M /   M
+6K5  : Sisters (Arpt)     3152  :  63 /  54 /     0 /     M /   M
+S21  : Sunriver (Arpt)    4152  :  57 /  34 /     0 /     M /   M
+S40  : Prosser (Arpt)..WA  695  :   M /   M /     M /     M /   M
+RLD  : Richland(Arpt)..WA  390  :  60 /  49 /  0.06 /     M /   M
+1S5  : Sunnyside Aprt..WA  768  :  54 /  43 /  0.03 /     M /   M
+1YT  : Yakima TC..WA      1371  :  57 /  49 /     T /     M /   M
+JSY  : Joseph(Arpt)       4120  :  55 /  41 /  0.02 /     M /   M
+9S9  : Lexington(Arpt)    1624  :   M /   M /     M /     M /   M
+.END
+
+Extreme Eastern and Southeastern Oregon
+.BR PDX 1022 DH00/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:                                 Max   Min   24 hr   24 hr   Snow
+:ID    Station             Elev  Temp  Temp    Pcpn    Snfl  Depth
+BKE  : Baker City         3370  :  59 /  32 /     T /     M /   M
+BNO  : Burns              4140  :  64 /  32 /     0 /     M /   M
+ONO  : Ontario            2190  :  72 /  40 /     0 /     M /   M
+REO  : Rome               4050  :  75 /  37 /     0 /     M /   M
+.END
+
+Freezing Levels Across the Northwestern Contiguous USA
+.BR PDX 1021 P DH17/HZ
+:                            Freezing Level /  FZL Change
+:ID   Location and Elev.  Now   -12hr/ -24hr/ 12hrs/ 24hrs
+SLE :Salem   (sfc = 0.2):  9.0:  13.8/  12.6/  -4.8/  -3.6
+MFR :Medford (sfc = 1.3): 12.3:  14.3/  12.6/  -2.0/  -0.3
+BOI :Boise   (sfc = 2.9): 11.6:  11.5/  12.8/   0.1/  -1.2
+:Both elevation and frzg data in 1000S of feet (MSL)
+.END
+
+:..State Temperature Extremes...
+
+Max Temp... 75 Rome
+
+Min Temp... 25 Lakeview
+
+:..State Precipitation Extremes...
+
+Max Precip... 0.44 Aurora
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$

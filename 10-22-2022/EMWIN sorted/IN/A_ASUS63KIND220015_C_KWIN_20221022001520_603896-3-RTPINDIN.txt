@@ -1,0 +1,46 @@
+ASUS63 KIND 220015
+RTPIND
+
+
+Max/Min Temperature and Precipitation Table for Central Indiana
+National Weather Service Indianapolis IN
+815 PM EDT Fri Oct 21 2022
+
+Values represent high and low temperatures over the last 18 hours,
+24-hour precipitation ending at 7:00 p.m. EST/8:00 p.m. EDT, and snow
+depth at 7:00 p.m. EST/8:00 p.m. EDT.
+
+
+.BR IND 1021 ES DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Central Indiana -- Temperature and Precipitation Stations
+:................................................................
+:         Station           Max / Min / 24-Hr / Snow / Snow
+:          Name             Temp/ Temp/ Precip/ Fall / Depth
+:................................................................
+:
+:
+IND   : Indianapolis      :  75 /  44 /  0.00 /  0.0 /   0   
+:
+:Automated Surface Observation Stations/Unofficial Data
+BMG   : Bloomington       :  75 /  47 /  0.00 /    M /   M
+EYE   : Eagle Creek Arpt  :  74 /  37 /  0.00 /    M /   M
+LAF   : Lafayette         :  75 /  45 /  0.00 /    M /   M
+MIE   : Muncie            :  74 /  47 /  0.00 /    M /   M
+GEZ   : Shelbyville       :  76 /  43 /  0.00 /    M /   M
+HUF   : Terre Haute       :  77 /  45 /  0.00 /    M /   M
+:
+:U.S. Climate Reference Network/Non-Commissioned Site/Unofficial Data
+FPCI3 : Oolitic 2.6 WSW   :  74 /  48 /  0.00 /    M /   M
+:
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by NCEI. Therefore, these data are subject to revision. Final
+and certified climate data can be accessed at the National Centers 
+for Environmental Information /NCEI/ - www.ncdc.noaa.gov.
+
+
+$$
+

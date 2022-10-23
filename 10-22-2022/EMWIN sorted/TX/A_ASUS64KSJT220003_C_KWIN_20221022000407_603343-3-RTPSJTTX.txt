@@ -1,0 +1,50 @@
+ASUS64 KSJT 220003
+RTPSJT
+REGIONAL TEMPERATURE AND PRECIPITATION SUMMARY
+NATIONAL WEATHER SERVICE SAN ANGELO TX
+703 PM CDT Fri Oct 21 2022
+
+Values represent lows over the last 18 hours, highs
+over the last 18 hours and precipitation over the
+last 24 hours...7 PM TO 7 PM.
+
+.BR SJT 1021 C DH19/TAIPZS/TAIPZI/PPDPZZ
+
+
+:                         MAX   MIN
+:ID    LOCATION           TEMP  TEMP   PCPN
+-------------------------------------------
+ABI  : Abilene ASOS     :  90 /  54 /  0.00
+JCT  : Junction ASOS    :  86 /  45 /  0.00
+SJT  : San Angelo ASOS  :  87 /  49 /  0.00
+.End
+
+
+.BR SJT 1021 C DH19/TAIPZS/TAIPZI
+
+
+:                         MAX   MIN
+:ID    LOCATION           TEMP  TEMP
+------------------------------------
+81R  : San Saba AWOS    :  87 /  51 / 
+BBD  : Brady 3NE AWOS   :  86 /  54 / 
+BWD  : Brownwood AWOS   :   M /   M / 
+COM  : Coleman AWOS     :  89 /  54 / 
+OZA  : Ozona AWOS       :  82 /  45 / 
+SOA  : Sonora AWOS      :  84 /  43 / 
+SWW  : Sweetwater AWOS  :  86 /  57 / 
+
+
+.End
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+
+
+
+$$
+

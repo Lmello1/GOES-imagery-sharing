@@ -1,0 +1,42 @@
+FGUS53 KDVN 220131
+RVDDVN
+IAC011-019-031-045-055-057-061-087-095-097-101-103-105-107-111-113-
+115-139-163-177-183-ILC011-015-067-071-073-085-109-131-155-161-177-
+187-195-MOC045-199-222130-
+
+
+Daily River and Lake Summary
+National Weather Service Quad Cities IA/IL
+831 PM CDT Fri Oct 21 2022
+
+River forecasts include past precipitation and forecast rainfall for
+the next 48 hours.
+
+.B DVN 1021 C DH19/DC2210212030/HT/HG/
+.B1 DRD+1/HTIFF/HGIFF/DRD+2/HTIFF/HGIFF/DRD+3/HTIFF/HGIFF/
+.B2 DRD+4/HTIFF/HGIFF/DRD+5/HTIFF/HGIFF
+:
+:------------------------------------------------------------------
+:                       Fld  7 PM  ********* Forecast *********
+: ID   Location         Stg   Stg   Sat   Sun   Mon   Tue   Wed
+:------------------------------------------------------------------
+: Mississippi River
+DLDI4 :Dubuque LD11      16:  4.8// 4.8// 4.8// 4.7// 4.7// 4.7/
+DBQI4 :Dubuque           17:/ 7.5// 7.5// 7.4// 7.4// 7.4// 7.4
+BLVI4 :Bellevue LD12     17:  4.1// 3.8// 3.8// 3.8// 3.8// 3.8/
+FLTI2 :Fulton LD13       16:  4.1// 3.9// 3.9// 3.9// 3.9// 3.9/
+CMMI4 :Camanche          17:/ 9.4// 9.4// 9.4// 9.3// 9.3// 9.3
+LECI4 :Le Claire LD14    11:  4.2// 4.3// 4.2// 4.2// 4.2// 4.2/
+RCKI2 :Rock Island LD15  15:  3.9// 3.9// 3.9// 3.9// 3.9// 3.9/
+ILNI2 :Ill. City LD16    15:  3.1// 3.2// 3.2// 3.2// 3.2// 3.2/
+MUSI4 :Muscatine         16:/ 5.7// 5.7// 5.7// 5.7// 5.7// 5.7
+NBOI2 :New Boston LD17   15:  2.9// 2.9// 2.8// 2.8// 2.8// 2.8/
+KHBI2 :Keithsburg        14:/ 5.6// 5.7// 5.6// 5.6// 5.6// 5.6
+GLDI2 :Gladstone LD18    10:  1.1// 1.0// 1.0// 1.0// 1.0// 1.0/
+BRLI4 :Burlington        15:/ 7.6// 7.5// 7.5// 7.5// 7.5// 7.5
+EOKI4 :Keokuk LD19       16:  4.0// 3.8// 3.8// 3.7// 3.7// 3.7/
+GGYM7 :Gregory Landing   15:/ 8.6// 8.2// 8.2// 8.2// 8.1// 8.1
+.END
+
+$$
+

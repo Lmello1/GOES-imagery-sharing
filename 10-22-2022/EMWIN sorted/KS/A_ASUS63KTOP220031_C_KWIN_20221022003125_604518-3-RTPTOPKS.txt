@@ -1,0 +1,58 @@
+ASUS63 KTOP 220031
+RTPKS 
+ 
+Max/Min Temperature and Precipitation Table for Kansas
+National Weather Service Topeka KS
+731 PM CDT Fri Oct 21 2022
+
+Values represent the high and low temperatures over the last 18 hours
+and precipitation over the last 24 hours ending at 6 PM CST/7 PM CDT.
+
+.BR TOP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                 ***First Order Climate Stations***
+:
+:                                   Max    Min           Snow   Snow
+:Id          Location              Temp   Temp   Pcpn    Fall   Depth
+CNK : Concordia Airport         :    86 /  54 /  0.00 /    M /   M
+DDC : Dodge City Airport        :    87 /  44 /  0.00 /  0.0 /   0
+GLD : Goodland Airport          :    80 /  48 /  0.00 /  0.0 /   0
+TOP : Topeka Billard Airport    :    90 /  43 /  0.00 /  0.0 /   0
+ICT : Wichita Eisenhower        :    88 /  43 /  0.00 /  0.0 /   0
+.END
+
+
+.BR TOP 1021 C DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+:                   ***Other Automated Stations***
+: 
+:                                   MAX    MIN           
+:Id          Location              Temp   Temp   Pcpn    
+CNU : Chanute Airport           :    88 /  50 /  0.00
+CFV : Coffeyville Airport       :    87 /  47 /  0.00
+EHA : Elkhart Airport           :    86 /  51 /  0.00
+EMP : Emporia Airport           :    90 /  48 /  0.00
+GCK : Garden City Airport       :    86 /  38 /  0.00
+HYS : Hays Airport              :    88 /  38 /  0.00
+HLC : Hill City Airport         :    88 /  40 /  0.00
+HUT : Hutchinson Airport        :    88 /  47 /  0.00
+LWC : Lawrence Airport          :    87 /  37 /  0.00
+LBL : Liberal Airport           :    87 /  37 /  0.00
+MHK : Manhattan Airport         :    90 /  35 /  0.00
+P28 : Medicine Lodge Airport    :    92 /  42 /  0.00
+OJC : Olathe Airport            :    86 /  50 /  0.00
+PPF : Parsons Airport           :    86 /  47 /  0.00
+PTT : Pratt Airport             :    87 /  45 /  0.00
+RSL : Russell Airport           :    89 /  42 /  0.00
+SLN : Salina Airport            :    89 /  42 /  0.00
+WLD : Winfield Airport          :    91 /  47 /  0.00
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

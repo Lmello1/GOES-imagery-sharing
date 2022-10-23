@@ -1,0 +1,45 @@
+ASUS63 KICT 220018
+RTPICT
+
+Max/Min Temperature and Precipitation Table
+For Central...South Central and Southeast Kansas
+National Weather Service Wichita Kansas
+712 PM CDT Fri Oct 21 2022
+
+.BR ICT 1021 CS DH18/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: Values represent 18 hour highs lows over the last 18 hours and
+: precipitation over the last 24 hours ending at 6 pm CST / 7 pm CDT
+:
+:
+:...................................................................
+:       Station              Max / Min  / 24-Hr  / Snow  /  Snow
+:        Name                Temp/ Temp / Precip / Fall  /  Depth
+:...................................................................
+:
+: First order / ASOS/ Sites
+RSL  : Russell             :  89 /  42 /   0.00 /       /     
+SLN  : Salina              :  89 /  42 /   0.00 /       /     
+HUT  : Hutchinson          :  88 /  47 /   0.00 /       /     
+AAO  : Wichita Jabara      :  88 /  54 /   0.00 /       /     
+ICT  : Wichita Eisenhower  :  88 /  43 /   0.00 /  0.0  /    0
+WLD  : Winfield            :  91 /  47 /   0.00 /       /     
+CNU  : Chanute             :  88 /   M /   0.00 /       /     
+PPF  : Parsons             :  86 /  47 /   0.00 /       /     
+CFV  : Coffeyville         :  87 /  47 /   0.00 /       /     
+:
+: AWOS Sites
+GBD  : Great Bend          :  89 /  41 /   0.00 /       /     
+EWK  : Newton              :  88 /  52 /   0.00 /       /     
+LYO  : Lyons Airport       :  89 /  41 /   0.00 /       /     
+1K1  : Benton Airport      :  87 /  49 /     M  /       /     
+K88  : Iola Airport        :  85 /  46 /     M  /       /     
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$

@@ -1,0 +1,77 @@
+ASUS65 KVEF 220012
+RTPVEF
+Max/Min Temperature and Precipitation Table for
+the Southern Great Basin and Mojave Desert
+National Weather Service Las Vegas NV
+512 PM PDT Fri Oct 21 2022
+
+High and low temperatures since midnight...
+precipitation for the 24 hours ending at 5 pm PDT
+
+
+.BR VEF 1021 P DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: ...Southern Nevada...
+:
+:                                    Max   Min    24-Hr   Snow   Snow
+:Id    Station                Elev   Temp  Temp   Pcpn    Fall   Depth
+DRA : Desert Rock             3301 :  81 /  48 /  0.00  /      /    
+HND : Henderson Exec          2458 :  86 /  59 /  0.00  /      /    
+INS : Indian Springs          3123 :  82 /  46 /  0.00  /      /    
+LAS : Harry Reid Airport      2180 :  85 /  62 /  0.00  /      /    
+LSV : Nellis AFB              1880 :  89 /  54 /  0.00  /      /    
+VGT : N Las Vegas Arpt        2203 :  86 /  60 /  0.00  /      /    
+:
+: ...Southeast California...
+:
+DAG : Barstow-Daggett         1917 :  89 /  60 /  0.00  /      /    
+BIH : Bishop                  4102 :  81 /  35 /  0.00  /      /    
+EED : Needles                  890 :  91 /  68 /  0.00  /      /    
+NXP : Twentynine Palms        2110 :  85 /  58 /  0.00  /      /    
+.END
+
+
+High and low temperatures since midnight...
+precipitation for the 24 hours ending at 5 pm MST
+
+
+.BR VEF 1021 MS DH17/TAIRZS/TAIRZI/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: ...Northwest Arizona...
+:
+:                                    Max   Min    24-Hr   Snow   Snow
+:Id    Station                Elev   Temp  Temp   Pcpn    Fall   Depth
+IGM : Kingman                 3420 :  81 /  55 /  0.00  /      /    
+.END
+
+
+ ...Cooperative Station...
+High and low temperature since midnight...
+precipitation for the 24 hours ending at 5 pm PDT
+
+
+.BR VEF 1021 P DH17/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+: ...Southeast California...
+:                              Obs        Max   Min    24-Hr  Snow   Snow
+:Id     Station         Elev   Time       Temp  Temp   Pcpn   Fall   Depth
+DEVC1 : Death Valley NP -194 : DH211601/   96 /  64 /  0.00 /  0.0 /    0
+.END
+
+
+These data are preliminary and have not undergone final quality control by the 
+National Center For Enviromental Information /NCEI/. Therefore...these data are 
+subject to revision. Final and certified climate data can be accessed at 
+www.ncei.noaa.gov.
+
+
+Additional temperature and precipitation data collected by CO-OP observers can 
+be accessed at www.wrh.noaa.gov/vef/RTP.
+
+
+Lake Mead and Lake Mohave water elevations can be accessed under the "Links" 
+section at weather.gov/vegas/lakemead or weather.gov/vegas/lakemohave.
+
+
+$$
+

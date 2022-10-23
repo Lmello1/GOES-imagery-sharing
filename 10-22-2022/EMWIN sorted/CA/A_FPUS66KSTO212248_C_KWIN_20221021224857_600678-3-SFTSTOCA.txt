@@ -1,0 +1,119 @@
+FPUS66 KSTO 212248
+SFTSTO
+CAZ013>019-063-064-066>069-221300-
+
+Tabular State Forecast for California
+National Weather Service Sacramento CA
+348 PM PDT Fri Oct 21 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Sat      Sun      Mon      Tue      Wed      Thu      Fri      
+   Oct 22   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   
+
+...SACRAMENTO VALLEY...
+   Shasta Dam
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   54/67    44/65    46/74    50/66    46/63    45/68    47/67    
+    30/20    10/00    00/20    30/30    50/40    10/10    20/20   
+
+   Redding
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   51/69    38/68    39/76    43/68    39/66    40/71    39/71    
+    20/10    10/00    00/10    30/30    40/40    10/10    20/20   
+
+   Red Bluff
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   57/70    47/70    46/76    49/70    48/67    47/72    45/73    
+    10/00    00/00    00/10    20/20    40/30    10/10    10/20   
+
+   Chico
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   57/71    48/69    46/74    49/70    48/67    46/71    46/70    
+    10/10    00/00    00/00    10/20    30/30    10/00    10/20   
+
+   Oroville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   56/70    46/69    45/72    48/70    47/66    46/70    45/70    
+    20/10    00/00    00/00    10/20    30/30    10/00    10/20   
+
+   Marysville/Yuba City
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   55/72    47/69    43/73    45/70    45/67    45/71    42/71    
+    20/10    00/00    00/00    10/20    20/20    10/00    10/10   
+
+   Sacramento
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   59/72    51/70    48/73    49/72    50/69    49/71    46/72    
+    10/10    00/00    00/00    00/20    20/20    10/00    10/10   
+
+   Fairfield/Suisun City
+   Ptcldy   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   
+   57/76    48/72    48/77    48/75    49/72    47/74    44/75    
+    00/00    00/00    00/00    00/20    20/20    10/00    10/10   
+
+...NORTHERN SAN JOAQUIN VALLEY...
+   Stockton
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   59/72    50/68    46/71    49/72    52/67    48/69    46/72    
+    10/10    00/00    00/00    00/10    20/20    10/00    00/10   
+
+   Modesto
+   Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   57/71    50/67    46/71    48/72    51/67    48/68    46/72    
+    10/20    00/00    00/00    00/10    20/20    10/00    00/10   
+
+...COASTAL RANGE...
+   Alder Springs
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   45/53    36/49    41/59    46/55    41/49    40/54    42/54    
+    10/00    00/00    00/10    10/30    30/30    00/10    10/20   
+
+...SIERRA NEVADA FOOTHILLS...
+   Paradise
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   54/62    45/61    48/66    53/62    50/58    48/63    50/63    
+    20/10    00/00    00/00    10/20    30/30    10/00    10/20   
+
+   Grass Valley
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   49/61    37/60    39/66    44/63    43/57    39/63    42/64    
+    20/40    00/00    00/00    10/20    30/30    10/00    10/10   
+
+   Jackson
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   55/64    41/64    43/66    49/67    48/62    44/65    47/68    
+    20/40    10/00    00/00    00/10    20/20    10/00    00/10   
+
+...SIERRA NEVADA...
+   Blue Canyon
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   44/49    36/49    40/58    46/54    42/47    39/53    43/55    
+    30/60    10/00    00/00    00/20    30/30    10/00    00/10   
+
+...NORTHEAST CALIFORNIA...
+   Burney
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   
+   32/55    20/54    20/64    27/58    24/52    20/58    23/60    
+    50/40    20/00    00/20    20/30    40/40    10/10    10/20   
+
+   Chester
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   
+   34/54    22/52    22/64    29/59    26/51    24/57    24/61    
+    30/30    10/00    00/10    10/20    30/30    10/00    10/20   
+
+   Quincy
+   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   37/59    22/56    22/67    29/63    28/55    23/61    23/64    
+    40/30    00/00    00/00    10/20    30/30    10/00    10/10   
+
+
+$$
+

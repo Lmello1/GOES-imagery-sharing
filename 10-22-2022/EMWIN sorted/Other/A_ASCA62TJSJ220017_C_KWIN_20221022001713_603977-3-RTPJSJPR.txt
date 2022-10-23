@@ -1,0 +1,32 @@
+ASCA62 TJSJ 220017
+RTPPR 
+
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+PUERTO RICO AND THE U.S. VIRGIN ISLANDS
+NATIONAL WEATHER SERVICE SAN JUAN, PR 
+817 PM AST Fri Oct 21 2022
+
+
+
+Values represent lows over the last 18 hours...
+Highs over the last 18 hours and precipitation over the
+last 24 hours 
+
+.BR SJU 1021 AS DH20/TAIRZS/TAIRZI/PPDRZZ
+:                             MAX   MIN
+:ID        LOCATION          TEMP  TEMP    PCPN
+JSJ  : SAN JUAN AIRPORT:     89 /  78 /    0.02
+IST  : ST THOMAS AIRPORT :   91 /  80 /    0.00
+ISX  : ST  CROIX AIRPORT :   90 /  78 /       T
+.END
+
+
+These data are preliminary and have not undergone final quality control
+by the National Climatic Data Center / NCDC/. Therefore...these data are
+subject to revision. Final and certified climate data can be accessed
+at www.ncdc.noaa.gov.
+
+$$
+
+

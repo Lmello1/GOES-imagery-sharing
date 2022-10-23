@@ -1,0 +1,59 @@
+ASUS43 KLSX 220057
+RWRMO 
+
+WEATHER SUMMARY FOR MISSOURI
+NATIONAL WEATHER SERVICE SPRINGFIELD MO
+800 PM CDT FRI OCT 21 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+       CURRENT SKY AND/OR WEATHER CONDITIONS ARE NOT AVAILABLE FOR
+       CHILLICOTHE AND FARMINGTON.
+
+MOZ001>031-035>038-043-044-053-054-220200-
+...NORTHERN AND WESTERN MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KANSAS CTY INT PTCLDY    71  39  31 S14       29.64R                  
+LEE'S SUMMIT   CLEAR     74  39  28 S14G22    29.67R                  
+ST JOSEPH      PTCLDY    65  39  38 S9        29.61S                  
+CHILLICOTHE      N/A     72  39  30 S5        29.65R                  
+     
+$$
+MOZ066>068-077>081-088>096-101>105-220200-
+...SOUTHWEST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SPRINGFIELD    CLEAR     71  36  27 S10       29.77R                  
+JOPLIN         MOCLDY    74  39  28 S14       29.74R                  
+BRANSON        CLEAR     70  37  30 S7        29.83R                  
+               
+$$
+MOZ032>034-039>042-045>050-055>058-069>072-220200-
+...CENTRAL MISSOURI...  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA       NOT AVBL                                               
+JEFFERSON CITY PTCLDY    73  33  23 E8        29.73R                  
+ROLLA          CLEAR     70  30  22 S10       29.79R                  
+SEDALIA        CLEAR     67  36  31 S12       29.72R                  
+WARRENSBURG    CLEAR     70  36  28 S6        29.68S                  
+               
+$$
+MOZ051-052-059>065-220200-
+...EAST CENTRAL MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST LOUIS INTL  PTCLDY    73  37  27 S12       29.79R                  
+                   
+$$
+MOZ072>076-082>087-097>100-106>115-220200-
+...SOUTH CENTRAL AND SOUTHEAST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAPE GIRARDEAU CLEAR     64  47  53 S7        29.88R                  
+POPLAR BLUFF   CLEAR     66  48  52 S7        29.87R                  
+WEST PLAINS    CLEAR     65  46  50 SE6       29.86R                  
+                                       
+$$
+  

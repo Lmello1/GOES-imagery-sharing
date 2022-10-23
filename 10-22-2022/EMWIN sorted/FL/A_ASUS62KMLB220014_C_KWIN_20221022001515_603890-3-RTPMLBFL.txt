@@ -1,0 +1,37 @@
+ASUS62 KMLB 220014
+RTPMLB
+Evening Regional Temperature And Precipitation Summary
+National Weather Service Melbourne, FL
+814 PM EDT Fri Oct 21 2022
+
+ Note: High and low temperatures are from the last 18 hours.
+
+:                                                   24 Hour Rainfall
+:                                High       Low          Ending
+:   Airport Observations        Today      Today          8 pm
+:
+.B MLB 1021 E DH19/TAIRZS/TAIRZI/PPDRZZ
+:
+DAB : Daytona Beach Intl Apt   :   75   /    57    /    0.00    
+FPR : Treasure Coast Intl Apt  :   79   /    64    /    0.00    
+LEE : Leesburg Intl Apt        :   76   /    53    /    0.00    
+MLB : Melbourne Intl Apt       :   76   /    61    /    0.00    
+MCO : Orlando Intl Apt         :   78   /    58    /    0.00    
+ORL : Orlando Executive Apt    :   78   /    58    /    0.00    
+SFB : Orlando Sanford Apt      :   76   /    58    /    0.00    
+VRB : Vero Beach Apt           :   78   /    63    /    0.00    
+TTS : Kennedy Space Center     :   76   /    58    /    0.00    
+XMR : Cape Canaveral SFS       :   77   /    62    /    0.00    
+COF : Patrick SFB              :   76   /    64    /    0.00    
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+
+
