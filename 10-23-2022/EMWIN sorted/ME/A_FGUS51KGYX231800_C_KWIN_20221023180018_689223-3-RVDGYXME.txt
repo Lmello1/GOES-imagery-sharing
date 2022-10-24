@@ -1,0 +1,63 @@
+FGUS51 KGYX 231800
+RVDGYX
+NHZ001>003-005-007>009-011>013-015-VTZ004-007-010-012-014- 
+MEZ007>009-012>014-020>021-240600-
+Daily River And Lake Summary
+National Weather Service Gray ME
+200 PM EDT Sun Oct 23 2022
+
+.B pwm 1023 dc22102314 dh12/hg/drh+24/hgiff
+
+
+:  Station                 Flood  7 am   24-hr   7 am
+:ID       Name             Stage Stage  Change Forecast
+:                                                Mon
+:Connecticut River
+NSTN3 :North Stratford     13.0: 3.95/: -0.08:  3.90 /
+DLTN3 :Dalton              17.0: 8.70/: -0.15:  8.60 /
+WELV1 :Wells River         11.0: 3.00/: -0.04:  2.90 /
+WLBN3 :West Lebanon        22.0: 3.96/: -0.03:  4.00 /
+WLPN3 :North Walpole       28.0: 5.99/: -3.22: 10.80 /
+WCLN3 :West Claremont       7.0: 1.26/: -0.04:  1.30 /
+  
+:Pemigewasset River
+WOON3 :Woodstock            9.0: 2.88/: -0.06:  3.00 /
+PLMN3 :Plymouth            13.0: 1.06/: -0.06:  1.10 /
+  
+:Baker River
+RUMN3 :Rumney              10.0: 0.64/: -0.04:  0.80 /
+  
+:Smith River
+BRSN3 :Bristol              8.0: 1.83/: -0.05:  2.00 /
+  
+:Merrimack River
+FRJN3 :Franklin Junction   16.0: 4.54/: -0.05:  4.50 /
+GOFN3 :Goffs Falls         11.0: 3.68/: -0.33:  3.80 /
+  
+  
+:Contoocook River
+HENN3 :Henniker            12.0:    M/:     M:  5.80 /
+PTRN3 :Peterborough         5.5: 1.65/: -0.04:  1.70 /
+  
+:Piscataquog River
+GFFN3 :Goffstown            9.0: 4.33/:  0.78:  4.20 /
+  
+:Androscoggin River
+RMFM1 :Rumford             15.0: 4.76/: -0.10:  4.70 /
+AUBM1 :Auburn              13.0: 4.93/: -0.32:  4.80 /
+GRMN3 :Gorham               8.0: 4.38/: -0.04:  4.40 /
+
+
+:Swift River
+ROXM1 :Roxbury              7.0: 1.96/: -0.10:  1.90 /
+  
+:Carrabassett River
+NANM1 :North Anson         15.0: 4.22/: -0.24:  4.10 /
+  
+:Kennebec River
+SIDM1 :North Sidney        17.0: 8.73/: -0.79:  8.70 /
+MERM1 :Mercer              12.0: 4.16/: -0.20:  4.20 /
+
+
+.End
+

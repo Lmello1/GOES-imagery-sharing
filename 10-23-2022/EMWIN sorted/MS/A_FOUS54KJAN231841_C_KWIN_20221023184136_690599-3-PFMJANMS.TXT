@@ -1,0 +1,282 @@
+FOUS54 KJAN 231841
+PFMJAN
+
+Point Forecast Matrices
+National Weather Service Jackson MS
+141 PM CDT Sun Oct 23 2022
+
+MSZ049-241000-
+Jackson-Hinds MS
+32.32N  90.08W Elev. 320 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          82          67          75          47
+Temp          82 71 64 61 59 58 71 81 82 73 69 68 69 69 74 73 74 64 56 53 49 47
+Dewpt         54 54 59 59 58 58 63 61 61 64 66 67 68 68 70 64 58 55 53 51 49 47
+RH            38 55 84 93 96100 76 51 49 73 90 97 97 97 87 73 57 73 90 93100100
+Wind dir       S SE  S  S SE SE SE  S  S SE SE  S  S  S  S SW  W  W  W NW NW NW
+Wind spd      11  4  6  5  4  4 10 12 12  8 11 11 11 12 16 16 14  9  6  4  2  2
+Wind gust        14 18 16       20       19 23 26 25 27 33 29 29 20 17         
+Clouds        FW SC FW SC SC SC FW SC B1 SC B1 B2 OV OV B2 B1 FW FW FW FW FW FW
+PoP 12hr                      5           5          40          80           5
+QPF 12hr                      0           0        0.03        0.20           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  D  D  C  S               
+Tstms                                              C  C  C  C  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      44    74      48    74      55    71      52    69
+Temp          68 58   48 44 71 62   52 48 72 65   58 55 70 62   55 52 67 61
+Dewpt         47 48   47 44 51 53   52 48 56 58   57 55 58 59   55 52 57 57
+PWind dir         N      NE    NE       E     E       E     E       W     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW SC B1 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0       0     0      10    40      40    30      10    20
+Rain                                                             S  S  S  S
+Rain shwrs                                 C  C    C  C  C  S              
+
+$$
+MSZ052-241000-
+Meridian-Lauderdale MS
+32.33N  88.75W Elev. 320 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          78          63          77          49
+Temp          78 65 59 54 51 51 67 77 78 70 66 65 65 65 72 76 74 66 59 55 51 49
+Dewpt         46 47 51 52 51 51 57 60 61 63 64 64 65 65 68 68 64 61 55 52 50 48
+RH            32 52 75 93100100 70 56 56 78 93 97100100 87 76 71 84 87 90 96 96
+Wind dir      SE SE  S  S SE SE SE  S  S SE  S  S  S SE  S  S SW SW  W  W NW NW
+Wind spd      10  4  5  4  3  3  6 11 11  6  8  8  8  9 13 16 13  9  8  8  4  4
+Wind gust                                         18 21 28 33 26 20            
+Clouds        CL SC SC SC SC B1 B1 B1 B1 B1 SC B1 B2 OV B2 B2 B1 SC FW FW FW FW
+PoP 12hr                      0           5          20          80          10
+QPF 12hr                      0           0        0.01        0.21           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  D  D  D  C               
+Tstms                                              S  C  C  C  C               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      44    72      47    74      55    69      52    68
+Temp          67 57   48 44 69 61   51 47 72 65   58 55 68 61   55 52 67 60
+Dewpt         47 49   48 44 50 53   51 47 54 58   57 55 58 59   55 52 55 57
+PWind dir        NW       N    NE      NE     E       E     E      SE    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW SC SC B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0       0     0       5    30      40    40      20    20
+Rain                                                             S  S  S  S
+Rain shwrs                                    S    C  C  C  C              
+
+$$
+MSZ034-241000-
+Greenville-Washington MS
+33.48N  90.98W Elev. 160 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      60          85          67          73          47
+Temp          85 76 69 64 62 61 73 83 85 76 72 70 69 68 72 71 71 64 57 53 49 47
+Dewpt         55 56 57 56 57 57 61 60 59 61 63 64 66 67 66 59 53 51 49 48 46 44
+RH            36 50 66 75 84 87 66 46 41 60 73 81 90 97 81 66 53 63 75 83 89 89
+Wind dir       S  S  S  S  S SE  S  S  S SE  S  S  S  S  S SW  W  W NW  W NW NW
+Wind spd      17 11  9 10  9  9 14 16 17 13 14 16 16 17 19 20 21 14 10  6  4  4
+Wind gust                                      27 28 29 34 35 35 25            
+Clouds        FW SC SC SC B1 B1 FW SC B1 B1 B1 B2 OV OV B2 SC FW FW FW FW FW FW
+PoP 12hr                      0           5          60          70           0
+QPF 12hr                      0           0        0.16        0.29           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  L  L  L  L  S  S               
+Tstms                                              C  C  C  S  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      44    73      49    73      53    70      51    69
+Temp          68 58   48 44 70 62   53 49 71 64   56 53 68 61   54 51 67 61
+Dewpt         43 45   45 44 48 49   49 49 53 54   54 53 55 54   53 51 54 54
+PWind dir         N      NE    NE       E     E      NE    NE      NW    NW
+Wind char        GN      LT    LT      LT    LT      LT    GN      GN    LT
+Avg clouds    FW FW   FW FW FW FW   SC SC B1 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0       0     0      10    40      40    30      20    20
+Rain                                                             S  S  S  S
+Rain shwrs                                 C  C    C  C  C  S              
+
+$$
+MSZ025-241000-
+Greenwood-Leflore MS
+33.50N  90.08W Elev. 160 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          84          67          74          46
+Temp          84 74 67 63 60 58 72 81 84 75 70 69 69 68 73 72 71 64 56 53 48 46
+Dewpt         54 54 55 56 56 57 61 60 59 61 63 65 67 68 68 63 55 52 51 49 47 46
+RH            36 50 65 78 87 96 68 49 43 62 78 87 93100 84 73 57 65 83 86 96100
+Wind dir       S  S SE  S  S SE  S  S  S SE  S  S  S  S  S SW  W  W  W  W NW NW
+Wind spd      14  8  8  8  6  6 13 14 14 11 12 14 14 16 19 18 18 12  9  6  4  3
+Wind gust        18    18                   24 27 28 29 35 34 36 26 19         
+Clouds        SC B1 B1 SC B1 SC FW SC B1 SC B1 B2 OV OV B2 B1 SC FW SC FW FW FW
+PoP 12hr                      0           5          50          80           5
+QPF 12hr                      0           0        0.06        0.34           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  D  D  S  S               
+Tstms                                              C  C  C  S  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      43    73      47    74      53    70      51    68
+Temp          67 57   47 43 70 61   51 47 72 64   56 53 68 61   54 51 66 60
+Dewpt         45 47   47 43 50 51   51 47 55 55   55 53 57 56   54 51 56 55
+PWind dir         N      NE    NE       E     E       E     E      NW     W
+Wind char        GN      LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    FW FW   FW FW FW FW   SC SC B1 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0       0     0      10    40      40    30      20    20
+Rain                                                             S  S  S  S
+Rain shwrs                                 S  C    C  C  C  C              
+
+$$
+MSZ047-241000-
+Vicksburg-Warren MS
+32.35N  91.03W Elev. 110 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          83          68          75          47
+Temp          83 73 66 62 60 59 72 82 83 75 70 69 69 69 74 73 73 64 57 53 49 47
+Dewpt         55 56 59 59 59 59 63 62 61 64 65 67 68 68 68 62 55 53 52 50 48 46
+RH            38 55 78 90 96100 73 51 47 69 84 93 97 97 82 68 53 67 83 89 96 96
+Wind dir       S  S  S  S SE SE SE  S  S SE SE  S  S  S  S SW  W  W NW NW NW NW
+Wind spd      12  6  8  8  6  6 11 12 12 10 11 12 12 13 16 16 16  9  5  3  2  2
+Wind gust           18                      23 25 26 26 29 29 29 20            
+Clouds        FW SC FW FW B1 SC FW B1 B1 SC B1 B2 OV B2 B2 SC FW FW FW FW FW FW
+PoP 12hr                      5           5          50          70           0
+QPF 12hr                      0           0        0.04        0.20           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  L  L  S  S               
+Tstms                                              C  C  C  S  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      44    75      49    74      54    71      52    69
+Temp          69 58   48 44 72 63   53 49 72 65   57 54 69 62   55 52 68 61
+Dewpt         46 48   47 44 51 53   52 49 56 58   56 54 58 59   55 52 57 58
+PWind dir         N      NE    NE       E     E       E     E      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW SC B1 B1   B2 B2 B2 B1   B1 B1 B1 SC
+PoP 12hr          0       0     0      10    40      40    30      10    20
+Rain                                                                   S  S
+Rain shwrs                                 C  C    C  C  S  S              
+
+$$
+MSZ060-241000-
+Natchez-Adams MS
+31.62N  91.30W Elev. 320 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      60          83          68          76          48
+Temp          82 72 66 63 61 61 73 81 83 75 70 70 70 69 73 74 74 64 57 54 50 48
+Dewpt         59 60 61 60 59 59 63 62 63 65 67 69 69 68 67 60 54 53 52 50 48 47
+RH            46 66 84 90 93 93 71 53 51 71 90 97 97 97 81 62 50 67 83 86 93 96
+Wind dir       S  S  S SE SE SE SE  S  S SE SE  S  S  S SW SW  W NW NW NW NW NW
+Wind spd      13 10 11 10  9  9 13 13 13 11 12 13 13 14 14 14 14  9  6  5  5  4
+Wind gust                                   23 26 25 26 26 25 25 20            
+Clouds        SC SC FW SC SC B1 B1 B1 B1 SC SC B2 B2 B2 B1 SC FW FW FW FW FW FW
+PoP 12hr                      5           5          50          60           0
+QPF 12hr                      0           0        0.05        0.27           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  L  L  S  S               
+Tstms                                              C  C  C  S  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      45    76      50    73      56    71      52    70
+Temp          69 59   49 45 73 64   54 50 71 65   59 56 70 62   55 52 68 62
+Dewpt         46 47   46 45 49 51   52 50 58 59   57 56 57 58   55 52 55 57
+PWind dir         N      NE     E       E    SE       E     W      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW SC B1 B2   B2 B2 B1 SC   B1 B1 B1 SC
+PoP 12hr          0       0     0      20    50      40    20      10    20
+Rain                                                                   S  S
+Rain shwrs                              S  C  C    C  C  S  S              
+Tstms                                              S                       
+
+$$
+MSZ074-241000-
+Hattiesburg-Forrest MS
+31.27N  89.26W Elev. 110 ft
+141 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          81          67          80          50
+Temp          80 67 59 56 56 56 70 80 80 70 68 68 69 69 76 79 76 69 62 57 52 50
+Dewpt         52 55 58 56 56 56 65 65 65 67 67 68 68 68 72 70 67 63 57 53 52 50
+RH            38 65 96100100100 84 60 60 90 97100 97 97 87 74 74 81 84 86100100
+Wind dir       S  S SE SE SE  E SE SE SE SE SE SE  S  S  S  S SW SW  W NW NW NW
+Wind spd       9  4  3  3  3  3  6 10 11  6  6  6  6  6 11 14 11  6  6  6  3  2
+Wind gust                                            18 25 31 23               
+Clouds        CL SC CL FW B1 B2 B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 B1 FW FW FW FW FW
+PoP 12hr                     10          10          30          70          10
+QPF 12hr                      0           0        0.03        0.13           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  L  L  L  C               
+Tstms                                              C  C  C  C  C               
+Obvis                        PF                                                
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      46    76      49    77      57    73      53    71
+Temp          71 60   50 46 73 63   53 49 74 68   60 57 71 64   56 53 69 62
+Dewpt         50 51   49 46 52 54   53 49 56 58   59 57 61 60   56 53 57 57
+PWind dir         N       N    NE      NE     E      SE    SE       W     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW SC B1   B2 B2 B2 B1   SC B1 B1 SC
+PoP 12hr          0       0     0       5    30      40    40      10    20
+Rain                                                                   S  S
+Rain shwrs                                    C    C  C  C  S              
+
+$$

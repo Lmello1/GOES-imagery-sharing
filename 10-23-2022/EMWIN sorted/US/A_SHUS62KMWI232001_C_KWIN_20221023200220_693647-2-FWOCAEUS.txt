@@ -1,0 +1,25 @@
+SHUS62 KMWI 232001
+FWOCAE
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:01:57 GMT
+ 
+Listing of Observations (Columbia, SC)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+SCFC P 380380 221023 13 R 1  -4 -65   3 0 0 290  2     70  -6   3   3  0 0.000
+CSNWR  381201 221023 13 R 1  72  43  36 0 0 357  0     75  49  86  31  0 0.000
+LONG C 382301 221023 13 R 2  78  48  35 0 0 240  1     79  42  89  21  0 0.000
+CONGAR 382603 221023 13 R 2  78  51  39 0 0 354  1     78  44 100  32  0 0.000
+WEIR T 382604 221023 12 R 3  75  46  36 0 0 358  5     76  52  80  25  0 0.000
+SAVRIV 383101 221023 13 R 2  76  49  40 0 0 323  3     76  41  93  23  0 0.000
+ORANGE 383201 221023 13 R 2  76  51  42 0 0   4  3     76  45  99  34  0 0.000
+SANTEE 383401 221023 13 R 2  76  53  45 0 0 335  4     76  50  89  39  0 0.000
+SAVRAW 383701 221023 13 R 1  76  50  41 0 0   5  3     76  49  81  24  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:01:57 GMT
+

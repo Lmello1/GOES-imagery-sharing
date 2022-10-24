@@ -1,0 +1,117 @@
+FPUS65 KLKN 232031
+SFTLKN
+NVZ030-041-241330-
+
+Tabular State Forecast for Northern and Central Nevada
+National Weather Service Elko NV
+131 PM PDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...HUMBOLDT COUNTY...
+   Winnemucca
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   17/58    33/57    31/51    18/52    18/58    21/62    27/60    
+    00/10    30/20    40/40    10/00    00/00    00/20    20/20   
+
+   McDermitt
+   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/50    27/52    25/45    15/46    20/52    22/55    25/53    
+    00/60    60/20    50/50    10/00    00/00    10/30    30/30   
+
+...ELKO COUNTY...
+   Elko
+   Sunny    Mocldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   17/50    31/52    30/46    19/45    17/51    21/56    25/54    
+    00/00    40/20    60/60    20/00    00/00    00/10    10/20   
+
+   Spring Creek
+   Sunny    Mocldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   16/46    29/48    28/43    17/42    16/49    21/54    25/51    
+    00/00    30/20    50/50    20/00    00/00    00/10    10/20   
+
+   Carlin
+   Sunny    Mocldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   17/50    30/50    29/45    18/45    15/52    19/55    23/52    
+    00/00    40/20    50/50    20/00    00/00    00/10    10/20   
+
+   Wells
+   Sunny    Mocldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   13/47    26/49    25/44    15/43    15/49    19/54    22/52    
+    10/10    40/20    60/60    20/00    00/00    00/10    20/20   
+
+   Jackpot
+   Sunny    Ptcldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/50    31/47    28/40    19/41    20/48    23/52    27/50    
+    00/40    60/20    60/60    20/00    00/00    00/10    20/20   
+
+   Wildhorse
+   Sunny    Mocldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   14/42    26/42    17/36    6/36     7/43     10/47    15/45    
+    10/40    70/20    70/70    20/00    00/00    10/20    30/30   
+
+   Lamoille Canyon (7800 feet)
+   Sunny    Mocldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   11/33    26/35    23/31    13/29    16/37    23/42    27/39    
+    10/10    40/30    70/70    30/00    00/00    00/10    20/20   
+
+   West Wendover
+   Sunny    Mocldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   30/52    39/53    38/53    32/49    29/49    31/53    35/54    
+    00/00    10/20    30/50    20/00    00/00    00/00    10/10   
+
+...WHITE PINE COUNTY...
+   Ely
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   10/46    22/53    25/48    15/44    14/53    20/55    22/55    
+    00/00    10/20    20/30    20/00    00/00    00/00    10/10   
+
+   Ruth
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   12/42    26/49    27/44    18/40    17/49    22/52    25/50    
+    00/00    10/20    20/30    20/00    00/00    00/00    10/10   
+
+   McGill
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   14/45    28/52    30/47    19/44    19/52    24/55    27/54    
+    00/00    10/20    20/30    20/00    00/00    00/00    10/10   
+
+   Great Basin National Park
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   22/41    34/47    35/44    26/36    26/44    32/48    34/48    
+    00/00    00/20    20/30    30/10    00/00    00/00    10/10   
+
+...LANDER AND EUREKA COUNTIES...
+   Battle Mountain
+   Sunny    Mocldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   17/55    31/54    30/49    19/49    17/56    20/59    25/57    
+    00/00    30/20    50/50    10/00    00/00    00/20    20/20   
+
+   Austin
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   22/48    36/49    33/40    25/42    28/50    32/52    35/50    
+    00/00    10/30    40/40    10/00    00/00    00/10    10/10   
+
+   Eureka
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   12/51    29/54    28/48    18/47    16/56    20/59    25/57    
+    00/00    10/30    30/40    20/00    00/00    00/10    10/10   
+
+...NORTHERN NYE COUNTY...
+   Tonopah
+   Sunny    Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   
+   23/58    32/62    33/57    28/54    26/59    29/62    33/61    
+    00/00    00/10    10/10    10/00    00/00    00/00    00/10   
+
+
+$$

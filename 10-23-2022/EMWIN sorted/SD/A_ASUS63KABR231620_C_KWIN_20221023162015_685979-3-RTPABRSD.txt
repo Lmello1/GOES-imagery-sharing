@@ -1,0 +1,83 @@
+ASUS63 KABR 231620
+RTPABR
+
+Supplemental Temperature and Precipitation Table
+National Weather Service Aberdeen SD
+1115 AM CDT Sun Oct 23 2022
+
+Values represent highs yesterday, lows over the last 12 hours
+ending at 7 AM CDT, and precipitation over the last 24 hours
+ending at 7 AM CDT.
+
+Snow depth is measured daily and is valid as of 7 AM CDT.
+.BR ABR 1023 C DH01/TAIRZX/DH07/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota
+:Temperature and precipitation stations
+:................................................................
+:       Station              Max / Min  / 24 hr   / Snow  /  Snow
+:        Name                Temp/ Temp / Pcpn    / Fall  /  Depth
+:................................................................
+:South Dakota
+:
+ABR  : Aberdeen            :  68 /  37 /  0.00 /   0.0 /    0
+MBG  : Mobridge AP         :  65 /  45 /  0.00 /   0.0 /    0
+PIR  : Pierre Regional AP  :  63 /  38 /  0.00 /   0.0 /    0
+8D3  : Sisseton AP         :  74 /  35 /  0.00 /   0.0 /    0
+ATY  : Watertown Regional  :  69 /  43 /  0.00 /   0.0 /    0
+:
+:Minnesota
+:
+VVV  : Ortonville MN       :  75 /  43 /     M /     M /    M
+ETH  : Wheaton MN          :  73 /  36 /     M /     M /    M
+:
+.END
+
+.BR ABR 1023 C DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota Cooperative Weather Observer
+:Temperature and Precipitation Reports
+:Values are for the past 24 hours ending between 6 am and 8 am.
+:.................................................................
+:      Station           Report  Max / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp  Temp /  Pcpn  /  Fall / Depth
+:.................................................................
+:
+BRIS2:  Britton         : DH0700/  70 /  38  /  0.00  /     M /   M
+CLWS2:  Castlewood COOP : DH0900/  69 /  39  /  0.00  /     M /   M
+CAKS2:  Clark No 2      : DH0600/  66 /  44  /  0.00  /     M /   M
+ERKS2:  Eureka          : DH0800/  61 /  43  /  0.00  /     M /   M
+FAUS2:  Faulkton 1NW    : DH0800/  63 /  35  /  0.00  /     M /   M
+GNVS2:  Gann Valley     : DH0730/  68 /  38  /  0.00  /     M /   M
+MLBS2:  Milbank         : DH0730/  73 /  35  /  0.00  /   0.0 /   0
+MURS2:  Murdo           : DH0900/  64 /  44  /  0.00  /     M /   M
+ROSS2:  Roscoe          : DH0700/  63 /  39  /  0.00  /   0.0 /   0
+ROYS2:  Roy Lake State P: DH0800/  65 /  41  /  0.00  /   0.0 /   0
+TURS2:  Turton          : DH0700/  64 /  38  /  0.00  /     M /   M
+BRVM5:  Browns Valley   : DH0500/  72 /  32  /  0.00  /   0.0 /   0
+:
+.END
+.BR ABR 1023 C DH07/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Minnesota and South Dakota Cooperative Weather Observer
+:24 hour precipitation - These stations report precipitation only.
+:................................................................
+:       Station                  Report    24 hr  /  Snow /  Snow
+:        Name                     Time     Pcpn   /  Fall /  Depth
+:................................................................
+:
+
+DOLS2:  Doland            :      DH0800/   0.00   /   0.0 /    0
+AYES2:  Hayes 6E          :      DH0600/   0.00   /     M /    M
+HYTS2:  Hayti             :      DH0800/   0.00   /   0.0 /    0
+SIWS2:  Sisseton 3 W      :      DH0700/   0.00   /   0.0 /    0
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+
+
+$$

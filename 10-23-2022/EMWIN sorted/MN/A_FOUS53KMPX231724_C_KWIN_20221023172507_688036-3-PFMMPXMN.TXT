@@ -1,0 +1,392 @@
+FOUS53 KMPX 231724
+PFMMPX
+FOUS53 KMPX 231724
+PFMMPX
+
+Point Forecast Matrices
+National Weather Service Twin Cities/Chanhassen MN
+1224 PM CDT Sun Oct 23 2022
+
+MNZ041-232200-
+Alexandria-Douglas MN
+45.87N  95.38W Elev. 1424 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          48          54          33          50
+Temp                   70 71 69 66 64 63 52 50 50 48 43 39 37 35 34 37 45 49 44
+Dewpt                  55 55 57 59 58 56 47 41 36 34 32 32 31 30 30 31 31 31 32
+RH                     59 57 66 78 81 78 83 71 58 58 65 76 79 82 85 79 58 50 62
+Wind dir               SE SE SE SE  S  S SW SW SW SW  W  W  W  W  W  W  W  W  W
+Wind spd               20 23 18 18 19 20 19 23 24 23 14 13 12 11  9 10 10 10  5
+Wind gust              33 34 32 36 32 34 33 35 37 34                           
+Clouds                 FW B1 B1 B2 B1 B1 SC B1 B1 B2 B1 B1 B1 B1 SC SC FW FW FW
+PoP 12hr                     10          60          10           5           0
+QPF 12hr                      0        0.05           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  L  C  C                                       
+Tstms                         C  C  C  S                                       
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          29    48      36    48      38    53      35    54
+Temp          37 30 45 43   38 39 46 45   42 39 50 47   39 36 51 48
+Dewpt         31 30 31 30   31 33 37 38   37 36 38 36   34 32 35 34
+PWind dir        NW     W      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    GN
+Avg clouds    FW FW FW FW   B1 OV OV B2   B2 B2 SC FW   FW FW SC SC
+PoP 12hr          0     0      30    40      20     5       0     0
+Rain shwrs                      C  C  C    S                       
+
+$$
+MNZ049-232200-
+St Cloud-Stearns MN
+45.55N  94.07W Elev. 1027 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          54          60          36          51
+Temp                   70 73 72 67 65 65 61 55 55 53 47 42 39 37 37 40 46 50 46
+Dewpt                  56 57 59 61 62 60 55 46 40 36 34 34 32 32 32 33 33 32 34
+RH                     61 57 64 81 90 84 81 72 57 52 60 73 76 82 82 76 60 50 63
+Wind dir               SE SE SE SE SE  S  S SW SW SW  W  W  W  W  W  W  W  W  W
+Wind spd               19 19 17 19 18 19 17 19 19 18 11  9  6  6  5  6  6  5  2
+Wind gust              31 33 32 35 35 35 32 31 31 28    19                     
+Clouds                 FW B1 B1 B2 B1 B1 B1 B1 B1 B1 B1 SC SC SC SC SC FW FW FW
+PoP 12hr                     20          60          10           5           0
+QPF 12hr                      0        0.08           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  L  C  C                                       
+Tstms                         C  C  C  S                                       
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    49      36    49      39    53      35    55
+Temp          38 32 46 44   38 38 47 47   43 40 50 47   39 35 52 49
+Dewpt         33 31 33 33   33 34 38 40   38 38 40 39   36 33 38 38
+PWind dir        NW     W      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 OV OV OV   B2 B2 B1 FW   FW FW SC SC
+PoP 12hr          0     0      20    40      20     5       5     5
+Rain shwrs                      S  C  C    S                       
+
+$$
+MNZ060-232200-
+Minneapolis-Hennepin MN
+44.88N  93.22W Elev. 840 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          60          68          40          53
+Temp                   73 75 74 70 69 69 68 61 61 58 53 49 45 41 40 43 49 52 48
+Dewpt                  58 59 59 61 62 61 57 50 43 39 36 35 33 33 33 34 34 34 34
+RH                     59 58 59 73 78 76 68 67 51 49 52 58 62 73 76 70 56 50 58
+Wind dir               SE SE SE  S  S  S  S SW SW SW SW  W  W  W  W  W  W NW NW
+Wind spd               17 19 17 17 17 16 17 18 18 17 10  9  8  6  5  6  8  8  4
+Wind gust              33 33 33 37 39 39 34 29 29 27 20                        
+Clouds                 FW SC B1 B2 B1 B1 B2 B2 B2 B2 B2 B1 SC SC SC SC FW FW FW
+PoP 12hr                     20          50          30          10           5
+QPF 12hr                      0        0.06           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C  C     S  C  C                           
+Tstms                         S  C  C                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    51      38    52      43    56      39    57
+Temp          43 36 49 46   41 40 50 50   47 43 53 50   43 39 54 51
+Dewpt         34 33 34 33   33 35 38 38   39 39 40 39   38 35 38 38
+PWind dir        NW    NW      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B2 OV OV   OV B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0      10    30      30     5       5     5
+Rain shwrs                         S  C    C                       
+
+$$
+MNZ073-232200-
+Redwood Falls-Redwood MN
+44.54N  95.11W Elev. 1020 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          50          57          35          55
+Temp                   73 78 76 68 67 65 53 52 53 53 48 42 39 36 36 41 50 54 49
+Dewpt                  56 55 57 59 58 56 45 40 34 31 30 30 30 30 30 32 31 30 31
+RH                     55 45 52 73 73 73 74 63 48 43 49 62 70 79 79 70 48 40 50
+Wind dir               SE SE SE  S  S SW SW SW SW SW  W  W  W  W  W  W NW NW  W
+Wind spd               23 24 19 23 21 18 18 20 20 18 12 11 10  9  6  9 10  9  3
+Wind gust              36 39 34 41 35 31 31 32 31 28                           
+Clouds                 FW SC SC B1 SC SC B1 B1 B1 B1 B1 SC SC SC FW FW FW FW FW
+PoP 12hr                     20          50          10           5           0
+QPF 12hr                      0        0.08           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  C  S                                          
+Tstms                         C  C  S                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    53      38    53      38    56      35    57
+Temp          38 31 50 48   41 41 50 49   42 39 53 50   39 35 54 51
+Dewpt         31 30 32 30   31 32 36 36   38 36 38 36   34 32 36 35
+PWind dir        NW     W      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    CL CL FW SC   B2 OV OV OV   B2 B1 SC FW   FW FW SC SC
+PoP 12hr          0     0      30    40      20     5       5     5
+Rain shwrs                      C  C  C    S                       
+
+$$
+MNZ083-232200-
+Mankato-Blue Earth MN
+44.23N  93.92W Elev. 1020 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          56          64          37          55
+Temp                   75 78 76 71 70 70 63 57 59 56 52 47 41 38 37 42 50 54 49
+Dewpt                  58 58 59 61 60 59 53 45 40 36 33 33 31 31 32 34 34 33 33
+RH                     55 50 56 71 71 68 70 64 49 47 48 58 67 76 82 73 54 45 54
+Wind dir               SE SE SE  S  S  S SW SW SW SW  W  W  W  W  W  W NW NW NW
+Wind spd               24 25 24 24 24 24 16 18 18 17 11  9  6  6  4  6  9  8  3
+Wind gust              34 39 37 42 42 34 32                                    
+Clouds                 FW SC SC B1 SC B1 B2 B2 B2 B2 B1 SC SC SC FW FW FW FW FW
+PoP 12hr                     20          50          20          10           5
+QPF 12hr                      0        0.02           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C        S  S  S                           
+Tstms                         S  C  C                                          
+Wind                          Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    54      38    54      41    57      35    57
+Temp          38 34 51 47   41 42 52 50   44 41 54 51   40 36 54 51
+Dewpt         32 32 35 33   33 33 38 38   39 38 41 40   37 35 39 38
+PWind dir        NW    NW      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW CL CL FW   B1 B2 B2 OV   B2 B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0      10    30      20     5       5     5
+Rain shwrs                         S  C    S                       
+
+$$
+MNZ091-232200-
+Fairmont-Martin MN
+43.66N  94.42W Elev. 1161 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          53          59          35          55
+Temp                   73 78 76 71 69 69 58 54 56 55 51 46 41 38 36 43 50 54 49
+Dewpt                  57 58 58 60 59 56 48 42 37 33 32 32 30 30 31 33 32 30 31
+RH                     57 50 54 68 70 63 69 64 49 43 48 58 65 73 82 67 50 40 50
+Wind dir                S  S  S  S  S SW SW SW SW  W  W  W  W  W  W NW NW NW NW
+Wind spd               26 27 24 25 26 24 17 20 20 19 11 10  8  8  5 10 11 11  4
+Wind gust              37 42 39 42 44 34 29                                    
+Clouds                 FW SC SC B1 SC B1 B2 B2 B1 B2 B1 SC FW FW FW FW FW FW CL
+PoP 12hr                     20          40          20           5           5
+QPF 12hr                      0        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C           S  S                           
+Tstms                         S  C  C                                          
+Wind                          Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    54      39    54      39    56      35    57
+Temp          39 33 51 48   41 41 51 50   44 40 53 50   39 36 54 50
+Dewpt         30 31 33 31   32 32 36 36   38 36 40 38   36 33 38 36
+PWind dir        NW    NW      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    CL CL FW FW   B1 OV OV OV   B2 B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0      10    30      20     5       5     5
+Rain shwrs                         S  C    S                       
+
+$$
+MNZ093-232200-
+Albert Lea-Freeborn MN
+43.69N  93.37W Elev. 1257 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          58          66          36          52
+Temp                   72 76 73 67 66 65 64 60 60 57 52 48 44 39 37 43 49 51 46
+Dewpt                  57 57 58 60 59 58 55 49 41 38 37 36 33 31 32 34 34 32 32
+RH                     59 52 59 78 78 78 73 67 49 49 56 63 65 73 82 70 56 48 58
+Wind dir                S  S SE  S  S  S  S SW SW SW  W  W  W  W  W NW NW NW NW
+Wind spd               25 25 25 26 27 24 16 17 17 14  6  8  6  4  3  6  9 10  3
+Wind gust              37 40 40 43 43 41 32          17                        
+Clouds                 FW SC B1 B1 SC B1 B2 OV B2 OV B2 B1 SC FW FW FW FW SC FW
+PoP 12hr                     20          40          40          20           5
+QPF 12hr                      0        0.04        0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C        S  C  C  S                        
+Tstms                         S  S  C                                          
+Wind                          Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    53      37    53      39    53      35    56
+Temp          38 33 50 45   39 40 51 49   43 40 50 48   39 36 53 49
+Dewpt         32 31 34 32   33 33 36 36   38 37 40 39   37 35 38 38
+PWind dir        NW    NW      SE    SE      SE     S      SE     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B2 OV B2   B2 B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0      10    20      20    10       5     5
+Rain shwrs                            S    S                       
+
+$$
+MNZ057-232200-
+Willmar-Kandiyohi MN
+45.11N  95.09W Elev. 1129 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          50          56          34          53
+Temp                   71 75 73 69 65 65 54 52 52 52 47 41 38 36 35 39 47 52 48
+Dewpt                  56 55 57 59 59 56 46 40 35 32 30 30 30 29 30 32 31 30 31
+RH                     59 50 57 70 81 73 74 63 52 46 51 65 73 75 82 76 53 43 51
+Wind dir               SE SE SE SE  S SW SW SW SW SW  W  W  W  W  W  W  W  W  W
+Wind spd               21 24 19 21 20 18 18 19 21 20 13 11  9  8  5  9 10 10  3
+Wind gust              33 36 33 42 36 33 32 32 32          20                  
+Clouds                 FW SC B1 B1 B1 B1 B1 B1 B1 B1 B1 SC SC SC SC FW FW CL CL
+PoP 12hr                     20          60          10           5           0
+QPF 12hr                      0        0.13           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  C  C  S                                       
+Tstms                         C  C  C                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    51      38    51      38    54      34    55
+Temp          38 31 48 46   40 40 48 48   42 39 51 48   39 34 52 49
+Dewpt         31 30 32 30   31 32 37 37   37 36 38 36   34 32 35 35
+PWind dir        NW     W      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    CL CL FW FW   B1 OV OV B2   B2 B2 SC FW   FW FW SC SC
+PoP 12hr          0     0      30    40      20     5       5     5
+Rain shwrs                      C  C  C    S                       
+
+$$
+WIZ015-232200-
+Rice Lake-Barron WI
+45.49N  91.74W Elev. 1145 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      73          62          69          38          50
+Temp                   69 71 67 64 62 63 63 65 65 61 54 49 47 42 38 42 47 49 44
+Dewpt                  58 59 59 60 61 61 60 58 52 47 45 42 39 36 35 36 36 36 37
+RH                     68 66 75 87 97 93 90 78 63 60 71 77 74 79 89 79 65 61 76
+Wind dir               SE SE SE SE  S  S  S  S SW SW SW SW  W  W  W  W  W  W NW
+Wind spd               16 18 18 17 18 18 18 18 17 17  9  8  6  6  4  6  6  6  2
+Wind gust              32 34 33 36 35 37 34 36 33 32 21                        
+Clouds                 FW SC B2 B2 B2 B2 OV OV B2 B2 B2 B2 B1 SC SC B1 SC SC SC
+PoP 12hr                     20          60          40          30           5
+QPF 12hr                      0        0.09        0.03        0.03           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  L  L  C  C  C  C  C  S                     
+Tstms                         S  C  C  S  S                                    
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    49      33    50      39    53      35    55
+Temp          38 34 47 42   35 35 47 46   42 39 50 46   39 35 52 47
+Dewpt         35 33 34 35   33 32 37 39   39 38 42 41   39 35 41 41
+PWind dir        NW    NW       E    SE      SE     S       S     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC FW FW   SC B2 OV OV   OV OV B2 SC   FW SC SC SC
+PoP 12hr          5     0       5    20      20     5       5     5
+Rain shwrs                            S    S                       
+
+$$
+WIZ027-232200-
+Eau Claire-Eau Claire WI
+44.82N  91.49W Elev. 906 ft
+1224 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      75          65          72          40          51
+Temp                   71 73 71 66 65 66 67 68 68 63 57 51 49 45 41 43 48 50 46
+Dewpt                  58 58 59 60 61 61 59 59 54 50 47 45 41 38 36 36 36 37 36
+RH                     63 59 66 81 87 84 75 73 61 62 69 80 74 76 82 76 63 61 68
+Wind dir               SE SE SE SE  S  S  S  S  S SW SW SW  W  W  W  W  W NW NW
+Wind spd               18 19 17 17 18 20 17 18 19 16 10  6  6  6  4  5  9  9  4
+Wind gust              31 32 31 33 35 37 35 33 31    20                        
+Clouds                 FW SC B1 B2 B2 B1 OV OV B2 OV OV B2 B1 SC SC SC SC B1 SC
+PoP 12hr                     10          60          60          40          10
+QPF 12hr                      0        0.09        0.08        0.06           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C  C  S  S  C  L  C  C                     
+Tstms                         S  C  C  S  S                                    
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    51      34    52      40    53      36    55
+Temp          40 35 49 45   36 37 50 48   44 41 50 47   40 36 52 49
+Dewpt         35 33 35 34   33 32 37 38   39 38 41 41   39 36 41 40
+PWind dir        NW    NW       E    SE      SE     S      SE     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC FW FW   SC B2 B2 B2   OV OV B2 SC   FW SC SC SC
+PoP 12hr          5     0       5    10      20    10       5     5
+Rain shwrs                                 S  S                    
+
+$$

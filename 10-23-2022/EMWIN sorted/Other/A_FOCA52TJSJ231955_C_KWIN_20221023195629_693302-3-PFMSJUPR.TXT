@@ -1,0 +1,280 @@
+FOCA52 TJSJ 231955
+PFMSJU
+
+Point Forecast Matrices
+National Weather Service San Juan PR
+355 PM AST Sun Oct 23 2022
+
+PRZ001-240815-
+Luis Munoz Marin International Airport-San Juan
+18.43N  66.00W Elev. 9 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      77          89          76          88          74
+Temp          88 85 81 79 78 77 81 87 89 85 81 79 77 76 80 86 88 84 79 77 76 74
+Dewpt         75 75 74 74 74 75 75 75 75 75 76 75 75 76 76 75 75 75 75 74 74 74
+RH            66 72 79 85 88 94 82 68 64 72 85 88 94100 88 70 66 74 88 90 94100
+Wind dir       E  E SE SE SE SE  E  E  E  E SE SE SE SE  E  E NE NE NE  E  E  E
+Wind spd      10  8  5  4  5  5  9 12 10  8  5  5  5  4  8  3  9  6  5  4  4  3
+Clouds        B1 SC SC SC SC FW SC SC SC SC SC B1 B1 B2 B2 OV OV OV OV OV B2 B2
+PoP 12hr                     40          40          60          80          80
+QPF 12hr                   0.22        0.36        0.37        0.84        0.73
+Rain shwrs     L  C  S  C  C  S  S  S  S  C  C  C  C  L  L  L  L  D  D  D  L  L
+Tstms          S                          S           S  S  S  S  S  S  S  S  C
+Heat index    98 94 86          87 96 99 94 87          86 95 98 92            
+Max heat         98    90          96    99    90          95    98    87      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      75    87      75    87      77    87      76    88
+Temp          84 83   77 75 85 83   77 75 85 84   79 77 85 84   78 76 86 84
+Dewpt         75 75   74 75 75 75   75 75 76 75   75 76 75 75   75 75-100 75
+PWind dir         E      SE    SE      SE     E       E     E       E     E
+Wind char        LT      LT    LT      LT    GN      GN    GN      GN    LT
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B2   B2 B1 SC B1
+PoP 12hr         60      60    60      60    60      50    60      60    50
+Rain shwrs     L  L    L  L  L  L    L  L  L  L    C  C  L  L    L  L  C  C
+Tstms          C  C    C  C  C  C    C  C  C  C          S  C    C  C  S  S
+
+$$
+PRZ002-240815-
+Roosevelt Roads Naval Airstation-Ceiba PR
+18.25N  65.63W Elev. 39 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      76          88          77          87          76
+Temp          87 84 80 78 77 76 80 86 88 85 81 79 78 77 81 85 87 84 80 78 77 76
+Dewpt         75 74 74 74 74 75 76 75 75 75 76 75 75 77 77 76 76 76 75 75 75 76
+RH            68 72 82 88 90 97 88 70 66 72 85 88 91100 88 75 70 77 85 91 94100
+Wind dir       E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  N NE NE NE  E
+Wind spd       6  6  6  6  6  5  9  8  8  8  8  8 10  5  8  5  4  8 10 10  6  6
+Clouds        B1 SC SC B1 B1 SC SC SC SC SC SC B1 B1 B2 B2 B2 B2 OV OV OV B2 B2
+PoP 12hr                     40          40          60          80          80
+QPF 12hr                   0.26        0.49        0.53        0.83        0.78
+Rain shwrs     C  C  C  C  C  C  C  C  C  C  C  C  C  L  L  L  L  D  D  D  L  L
+Tstms          S                          S     S  S  S  S  S  S  S  S  S  S  C
+Heat index    96 91 84          86 95 98 94 87          88 94 98 93 85         
+Max heat         96    88          95    98    91          94    98    89      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          87      76    86      78    86      77    86      78    87
+Temp          85 84   78 76 84 84   80 78 85 83   79 77 84 84   80 78 85 84
+Dewpt         76 75   75 75 75 75   75 77 77 76   75 76 76 76   75 76-100 75
+PWind dir         E       E    SE       E     E       E     E       E     E
+Wind char        LT      LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1 B2   B2 B2 SC SC
+PoP 12hr         60      60    60      60    60      60    60      60    60
+Rain shwrs     L  L    L  L  L  L    L  L  L  L    L  L  L  L    L  L  C  L
+Tstms          C  C    C  C  C  C    C  C  C  C    S  S  S  C    C  C  S  S
+
+$$
+PRZ007-240815-
+Mercedita Airport-Ponce PR
+18.02N  66.56W Elev. 26 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      73          88          72          85          72
+Temp          88 83 78 76 75 73 79 85 88 83 78 75 74 72 77 83 85 81 77 75 73 72
+Dewpt         73 72 71 69 69 70 69 72 73 73 72 70 72 71 71 72 71 70 70 70 70 70
+RH            61 70 79 79 82 90 72 65 61 72 82 84 93 97 82 70 63 69 79 84 90 93
+Wind dir       E NE NE NE NE NE SE SE SE NE NE NE NE NE SE  E NE NE NE NE NE NE
+Wind spd       5  3  2  2  3  4 10  6  6  4  4  4  4  3  2  6  4  5  6  5  3  4
+Clouds        SC SC FW SC FW SC SC SC FW SC SC B1 B1 B2 B2 OV OV B2 B2 B2 B1 B2
+PoP 12hr                     30          30          60          70          60
+QPF 12hr                   0.13        0.23        0.36        0.96        0.45
+Rain shwrs     S  S  S  S  S  C  C  S  S  S  C  C  C  L  L  L  L  L  L  L  C  S
+Tstms                                                 S  S  S  S  S  S  S  S   
+Heat index    96 88                91 96 89                88 90 85            
+Max heat         96    85          91    96    84          88    91            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          87      71    86      72    86      75    86      75    88
+Temp          84 82   74 71 83 82   75 72 84 83   77 75 84 83   77 75 86 84
+Dewpt         72 71   70 71 71 70   70 70 71 70   67 68 73 71   69 70-100 71
+PWind dir         E       E     E       E     E      NE     E      NE     E
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2   SC B1 B2 B2   SC SC B1 B1   SC SC SC SC   FW FW SC B1
+PoP 12hr         60      60    60      50    50      40    40      10    50
+Rain shwrs     L  L    C  L  L  L    C  C  C  C    C  C  C  C    S  S  C  C
+Tstms          C  C    S  C  C  C    S  S  S  S                        S  S
+
+$$
+PRZ008-240815-
+Rafael Hernandez Airport-Aguadilla PR
+18.50N  67.13W Elev. 237 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          86          74          85          76
+Temp          88 83 78 75 74 72 77 84 86 82 78 76 75 74 78 83 85 82 79 78 77 76
+Dewpt         72 72 74 73 72 71 72 73 72 72 74 73 72 72 74 74 72 71 73 73 72 72
+RH            59 70 88 94 93 97 85 70 63 72 88 90 90 93 88 74 65 69 82 85 85 87
+Wind dir       E  E  E  E  E  E  E NE  E  E SE SE  E  E NE NE NE NE  E  E  E  E
+Wind spd       9 10 10  9  6  8  4  3  4  4  4  4  4  4 13 12 10 10 12  9 10  9
+Clouds        B1 B1 SC SC SC SC FW SC B1 SC SC SC SC B2 B2 OV OV B2 B2 B2 B2 SC
+PoP 12hr                     60          60          40          90          60
+QPF 12hr                   0.15        0.77        0.17        1.09        0.41
+Rain shwrs     C  L  C  S  S  S     C  L  S  C  S  S  C  C  D  D  L  L  L  C  C
+Tstms          S  S                 S  S              S  S  C  C  S  S  S  S  S
+Heat index    95 88                90 92 87                90 91 86            
+Max heat         96    84          90    92    84          90    91    85      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      74    86      73    85      76    85      76    85
+Temp          83 81   76 74 84 82   76 73 83 82   78 76 83 82   78 76 83 82
+Dewpt         74 72   72 72 73 71   73 72 75 72   73 73 74 72   73 73-100 72
+PWind dir         E       E     E       E     E       E     E       E     E
+Wind char        GN      GN    LT      LT    LT      GN    BZ      GN    GN
+Avg clouds    B1 B2   SC SC B1 B1   SC SC B1 B1   SC SC SC B2   SC SC SC SC
+PoP 12hr         60      50    50      50    60      20    60      40    50
+Rain shwrs     L  L    C  C  C  C    C  C  L  L    S  S  L  L    C  C  C  C
+Tstms          C  C    S  S  S  S    S  S  C  C          S  S    S  S  S  S
+
+$$
+PRZ010-240815-
+Eugenio Maria de Hosto Airport-Mayaguez PR
+18.27N  67.15W Elev. 28 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      70          90          72          86          71
+Temp          90 84 77 74 72 70 77 87 90 84 78 76 74 72 77 84 86 81 76 74 73 71
+Dewpt         74 73 73 71 70 70 76 75 74 74 74 73 72 72 76 76 74 73 73 72 72 71
+RH            60 70 87 90 93100 97 68 60 72 88 90 93100 97 77 68 77 90 93 97100
+Wind dir       E  E  E  E  E  E SW NW NE NE NE NE  E  E  W  N NE NE NE  E NE  E
+Wind spd       2  3  5  4  3  3  3  4  2  5  4  4  3  2 11  8  8  9 12  8  6  6
+Clouds        OV SC FW SC FW SC FW B2 B2 SC FW SC SC B1 B1 OV OV B2 B2 B2 B1 SC
+PoP 12hr                     40          80          50          90          60
+QPF 12hr                   0.09        1.00        0.21        1.16        0.39
+Rain shwrs     D  C  S              L  D  S  S  S  S  C  C  D  D  L  L  L  C  S
+Tstms          C  S                 S  C              S  S  C  C  S  S  S  S   
+Heat index    99 90                96 99 91                93 94 86            
+Max heat         99    84          96    99    86          93    95            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      70    85      71    87      73    87      73    90
+Temp          83 81   73 70 82 81   74 71 84 83   76 73 85 83   76 73 87 85
+Dewpt         76 73   71 70 77 73   72 71 77 74   73 73 76 73   73 73-100 73
+PWind dir         E       E    SE       E     E       E     E       E    NE
+Wind char        LT      LT    LT      LT    LT      LT    GN      GN    GN
+Avg clouds    B1 B1   SC SC B1 B1   SC SC B1 B2   SC SC SC B1   SC SC SC B1
+PoP 12hr         60      50    60      30    60      30    60      20    60
+Rain shwrs     L  L    C  C  L  L    C  C  L  L    C  C  L  L    S  S  L  L
+Tstms          C  C    S  S  C  C    S  S  C  C          S  S          C  C
+
+$$
+VIZ001-240815-
+CYRIL E. King Airport-St Thomas USVI
+18.33N  64.97W Elev. 23 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      80          89          80          87          79
+Temp          86 84 82 81 81 80 83 87 89 86 83 82 81 80 83 86 87 85 82 81 80 79
+Dewpt         74 74 74 74 74 74 75 75 75 75 75 75 76 76 76 76 76 75 75 75 75 75
+RH            68 72 77 79 79 82 77 68 64 70 77 79 85 88 80 72 70 72 79 82 85 88
+Wind dir       E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E NE  E  E  E  E
+Wind spd       9 11 12 11 10 11 11 10 10 12 14 12 12 12 12  9  6  3 11 11 10 11
+Clouds        SC SC B1 SC SC SC SC SC SC SC SC B1 B1 B2 B2 B2 B2 OV OV OV B2 B2
+PoP 12hr                     30          40          60          70          70
+QPF 12hr                   0.12        0.59        0.48        0.69        0.59
+Rain shwrs     C  C  S  S  S  S  S  C  C  C  S  C  C  L  L  C  C  L  L  L  C  L
+Tstms                                  S        S  S  S  S  S  S  S  S  S  S  C
+Heat index    94 91 88 86 86 84 90 96 99 95 90 89 87 86 91 96 98 94 89 87 85   
+Max heat         95    90    86    96    99    94    89    96    98    90    85
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          85      77    86      79    88      79    88      80    89
+Temp          84 83   79 77 84 84   80 79 86 85   81 79 86 86   82 80 87 86
+Dewpt         76 75   75 75 75 75   75 75 75 75   75 76 76 76   75 74-100 75
+PWind dir        SE       E    SE       E     E       E     E       E     E
+Wind char        GN      LT    GN      GN    GN      BZ    BZ      BZ    GN
+Avg clouds    B2 B2   B2 B2 B1 B1   B2 B2 B2 B2   SC SC SC SC   B2 B1 SC SC
+PoP 12hr         60      60    60      60    60      50    60      60    50
+Rain shwrs     L  L    L  L  C  L    L  L  L  L    C  C  C  L    L  L  C  C
+Tstms          C  C    C  C  S  C    C  C  C  C       S  S  C    C  C      
+
+$$
+VIZ002-240815-
+Henry E. Rohlsen Airport-St Croix USVI
+17.70N  64.80W Elev. 74 ft
+355 PM AST Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+AST 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      78          89          78          88          77
+Temp          89 86 82 80 79 78 82 87 89 86 82 80 79 78 82 86 88 85 81 79 78 77
+Dewpt         74 74 74 74 74 75 75 75 75 75 75 75 76 76 76 76 75 75 75 75 75 76
+RH            61 68 77 82 85 91 79 68 64 70 79 85 91 94 82 72 66 72 82 88 91 97
+Wind dir       E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E
+Wind spd       9  9 10  8  9 10 11 11 10 10 11 11 10 12 12 10  6  1  5 10  9  9
+Clouds        B1 SC SC SC SC SC SC SC SC B1 SC B1 B1 B2 B2 B2 B2 OV OV OV B2 B2
+PoP 12hr                     30          30          50          60          60
+QPF 12hr                   0.12        0.37        0.48        0.66        0.54
+Rain shwrs     C  S  S  S  S  C  S  S  S  S  C  C  C  C  C  C  C  L  L  L  C  L
+Tstms                                           S  S  S  S  S  S  S  S  S  S  C
+Heat index    98 94 88 84       89 96 99 95 89 85       89 96 98 94 87         
+Max heat         98    91    84    96    99    92    85    96    98    90      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+AST 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          85      75    87      75    88      77    88      77    89
+Temp          84 82   77 75 85 83   77 75 86 85   79 77 86 85   79 77 87 85
+Dewpt         76 75   75 75 75 75   75 75 76 75   75 76 76 75   74 75-100 75
+PWind dir        SE       E    SE       E     E       E     E       E     E
+Wind char        GN      GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    B2 B2   B2 B2 B1 B2   B2 B2 B2 B1   SC SC B1 B1   SC SC FW SC
+PoP 12hr         60      60    60      60    60      50    50      40    50
+Rain shwrs     L  L    L  L  L  L    L  L  L  L    C  C  C  C    C  C  S  C
+Tstms          C  C    C  C  C  C    C  C  C  C       S  S  S    S  S      
+
+$$

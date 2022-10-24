@@ -1,0 +1,183 @@
+FPUS63 KGRR 232115
+SFTMI 
+MIZ001>083-241000-
+
+Tabular State Forecast for Michigan
+National Weather Service Grand Rapids MI
+515 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...SOUTHEAST LOWER MICHIGAN...
+   Detroit
+   Ptcldy   Mocldy   Shwrs    Sunny    Ptcldy   Ptcldy   Mocldy   
+   52/73    56/72    54/60    39/55    42/57    43/59    46/58    
+    00/00    00/10    80/80    20/00    00/10    10/20    30/40   
+
+   Ann Arbor
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   52/74    55/73    51/59    36/55    39/56    41/59    43/57    
+    10/10    10/20    80/80    20/00    00/10    10/20    30/40   
+
+   Monroe
+   Ptcldy   Mocldy   Shwrs    Sunny    Mocldy   Ptcldy   Mocldy   
+   52/73    56/72    53/59    38/55    41/56    43/58    45/57    
+    00/00    00/20    80/80    20/00    00/10    10/20    30/40   
+
+   Pontiac
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   52/72    55/70    51/58    37/54    39/55    41/58    43/56    
+    10/10    10/20    80/80    30/00    00/10    10/20    30/40   
+
+   Bad Axe
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   51/71    54/70    49/57    38/52    37/54    38/55    40/56    
+    00/10    10/20    60/70    40/00    00/00    10/20    20/30   
+
+   Port Huron
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   50/69    55/68    53/59    41/53    41/55    42/56    44/57    
+    00/00    00/10    60/70    40/00    00/10    10/20    30/40   
+
+   Flint
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   55/74    57/72    51/58    36/54    38/56    40/58    42/57    
+    10/10    10/20    80/80    20/00    00/10    10/20    20/30   
+
+   Tri Cities
+   Mocldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   55/73    58/71    49/55    35/52    37/54    38/56    41/56    
+    20/20    10/30    80/80    20/00    00/00    10/20    20/30   
+
+...SOUTHWEST LOWER MICHIGAN...
+   Mt Pleasant
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   56/73    55/70    46/52    33/52    35/53    37/55    39/55    
+    20/20    10/50    80/80    10/00    00/10    10/20    20/30   
+
+   Grand Rapids
+   Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   58/73    57/68    47/53    34/52    36/55    38/57    41/56    
+    50/30    10/70    90/80    10/00    00/10    10/20    30/30   
+
+   Muskegon
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   58/69    54/63    45/52    37/54    39/55    40/56    43/56    
+    60/30    20/80    80/70    00/00    00/10    10/20    20/30   
+
+   Lansing
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   56/74    57/72    50/56    35/53    37/56    39/57    42/57    
+    20/20    10/40    80/80    10/00    00/10    10/20    30/40   
+
+   Kalamazoo
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   57/73    56/70    47/55    34/54    37/57    39/58    42/57    
+    40/30    10/70    90/80    10/00    00/10    20/20    30/30   
+
+   Benton Harbor/St Joe
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   56/72    55/66    47/54    38/54    40/57    42/57    44/57    
+    10/10    10/90    90/70    00/00    00/10    10/20    30/30   
+
+   Hillsdale
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   52/75    52/71    49/57    33/53    38/56    40/57    42/56    
+    00/00    00/50    90/80    10/00    00/10    10/20    30/30   
+
+...NORTHERN LOWER MICHIGAN...
+   Traverse City
+   Shwrs    Shwrs    Shwrs    Ptcldy   Mocldy   Sunny    Ptcldy   
+   58/71    54/66    43/50    35/52    37/55    37/57    39/57    
+    50/50    20/70    80/70    10/00    00/10    10/10    20/20   
+
+   Ludington
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Mocldy   
+   57/68    52/62    42/51    35/52    36/54    37/55    39/56    
+    60/30    30/80    80/60    00/00    00/10    10/10    20/20   
+
+   Gaylord
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Sunny    Ptcldy   
+   55/70    55/66    41/47    31/49    33/52    33/54    36/54    
+    40/40    10/60    80/80    10/00    00/10    10/10    20/20   
+
+   Cadillac
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Sunny    Ptcldy   
+   54/70    52/65    39/47    29/51    33/52    33/55    35/54    
+    40/40    10/70    80/70    10/00    00/10    10/10    20/30   
+
+   Alpena
+   Mocldy   Mocldy   Shwrs    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   52/70    54/68    43/52    33/52    36/53    35/56    38/56    
+    20/20    10/30    70/70    30/00    00/10    10/10    20/30   
+
+   Tawas City
+   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   53/68    55/66    46/55    36/51    39/52    40/55    41/54    
+    10/10    10/20    70/70    30/00    00/00    10/10    20/30   
+
+...WESTERN UPPER MICHIGAN...
+   Ironwood
+   Mocldy   Ptcldy   Ptcldy   Mocldy   Mocldy   Sunny    Ptcldy   
+   60/71    39/50    33/46    29/50    36/53    35/55    36/54    
+    50/30    30/10    10/00    00/20    30/10    10/00    10/10   
+
+   Houghton/Hancock
+   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   
+   56/68    43/51    37/45    33/49    37/53    38/54    38/54    
+    60/40    60/20    20/00    00/10    20/10    10/00    10/10   
+
+...CENTRAL UPPER MICHIGAN...
+   Marquette
+   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   
+   55/66    47/55    40/47    34/49    38/52    39/55    39/53    
+    50/40    80/40    30/10    00/10    10/10    10/10    10/10   
+
+   Negaunee/Ishpeming
+   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   
+   55/65    46/52    36/44    31/47    35/50    36/53    36/51    
+    50/40    80/40    30/10    00/10    20/10    10/10    10/10   
+
+   Iron Mountain
+   Shwrs    Mocldy   Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   
+   57/68    48/56    36/49    28/51    35/52    33/56    35/53    
+    50/50    80/40    30/10    00/00    10/10    10/10    10/10   
+
+   Menominee
+   Mocldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   56/66    51/57    38/53    31/51    38/52    35/55    38/54    
+    50/40    60/50    40/10    00/00    10/10    10/10    10/20   
+
+   Escanaba
+   Mocldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   
+   55/63    50/58    37/52    29/51    36/53    34/55    35/54    
+    50/30    60/60    50/10    00/00    10/10    10/10    10/20   
+
+...EASTERN UPPER MICHIGAN...
+   Newberry
+   Mocldy   Shwrs    Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   56/65    53/60    38/47    31/49    34/51    35/54    35/53    
+    50/20    30/70    70/30    00/00    10/10    10/10    10/20   
+
+   Sault Ste. Marie
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+   53/64    53/62    43/48    34/49    36/51    37/54    38/53    
+    40/20    20/60    80/50    00/00    00/10    10/10    10/20   
+
+   Straits Of Mackinac
+   Mocldy   Shwrs    Shwrs    Ptcldy   Mocldy   Sunny    Ptcldy   
+   53/65    49/61    40/48    34/48    37/50    38/52    39/52    
+    50/20    20/60    80/50    00/00    00/10    10/10    10/20   
+
+
+$$

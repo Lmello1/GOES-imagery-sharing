@@ -1,0 +1,121 @@
+FPUS63 KIND 231944
+SFTIN 
+INZ001>092-241000-
+
+Tabular State Forecast for Indiana
+National Weather Service Indianapolis IN
+344 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...NORTHERN INDIANA...
+   Angola, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Mocldy   
+   54/75    53/71    50/56    35/54    38/56    41/58    43/57    
+    00/00    00/60    90/80    10/00    00/10    10/20    30/30   
+
+   Fort Wayne, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Mocldy   
+   54/77    55/73    52/57    36/55    39/59    43/60    44/59    
+    00/00    00/60    90/80    00/00    00/10    10/20    30/30   
+
+   Gary, IN
+   Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   61/74    58/65    47/54    39/54    41/56    43/57    45/57    
+    30/20    30/90    90/60    00/00    00/10    20/20    30/30   
+
+   Michigan City, IN
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   57/73    56/66    46/54    38/54    39/57    41/57    43/57    
+    10/10    10/90    90/70    00/00    00/10    10/20    30/30   
+
+   Rochester, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   56/76    56/70    49/54    36/54    38/58    41/59    43/57    
+    10/00    10/80    90/70    00/00    00/10    10/20    30/30   
+
+   South Bend, IN
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   57/76    56/69    48/54    36/54    38/58    40/59    43/57    
+    10/10    10/80    90/70    00/00    00/10    10/20    30/30   
+
+   Valparaiso, IN
+   Mocldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   60/75    58/66    46/53    36/54    38/57    40/57    43/57    
+    30/10    20/90    90/70    00/00    00/10    20/20    30/30   
+
+...CENTRAL INDIANA...
+   Columbus, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   52/79    57/73    49/58    37/59    40/64    45/63    47/61    
+    00/00    10/60    80/60    00/00    00/10    20/30    40/40   
+
+   Indianapolis, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   56/78    57/73    50/58    38/59    41/61    44/63    46/61    
+    00/00    10/60    80/70    00/00    00/10    20/30    40/40   
+
+   Kokomo, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   56/78    56/73    49/56    36/57    38/60    41/61    43/60    
+    00/00    10/60    90/70    00/00    00/10    20/30    30/30   
+
+   Lafayette, IN
+   Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   59/77    58/70    47/56    36/57    39/61    41/61    43/60    
+    10/00    10/70    80/70    00/00    00/10    20/30    30/30   
+
+   Muncie, IN
+   Ptcldy   Shwrs    Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   54/77    58/76    52/59    38/59    41/63    43/63    46/62    
+    00/00    10/50    90/70    00/00    00/10    20/30    40/40   
+
+   Richmond, IN
+   Ptcldy   Rain     Rain     Sunny    Ptcldy   Ptcldy   Ptcldy   
+   52/76    55/74    50/57    37/57    40/61    43/62    45/59    
+    00/00    00/60    90/60    00/00    00/10    20/30    40/40   
+
+   Terre Haute, IN
+   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   58/79    60/70    46/59    37/59    40/62    44/63    46/61    
+    00/00    20/80    80/50    00/00    00/10    20/30    30/30   
+
+...SOUTHERN INDIANA...
+   Bloomington, IN
+   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   55/78    58/71    48/57    37/59    41/62    44/62    46/60    
+    00/00    10/60    80/60    00/00    00/10    20/30    30/30   
+
+   Evansville, IN
+   Sunny    Tstrms   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   59/80    62/73    49/62    41/64    45/67    49/67    50/65    
+    00/00    30/90    90/10    00/00    00/10    30/30    30/20   
+
+   Jasper, IN
+   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   56/81    59/76    47/61    38/63    41/66    46/66    47/64    
+    00/00    10/90    90/20    00/00    00/10    30/30    30/30   
+
+   Scottsburg, IN
+   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   53/79    57/76    49/59    38/62    41/65    45/65    47/63    
+    00/00    00/70    80/30    00/00    00/10    20/30    30/30   
+
+   Vincennes, IN
+   Ptcldy   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   58/80    60/71    47/60    38/61    42/64    46/65    47/62    
+    00/00    20/80    80/50    00/00    00/10    20/30    30/20   
+
+
+$$
+

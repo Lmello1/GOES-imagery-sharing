@@ -1,0 +1,88 @@
+ASUS42 KTAE 232110
+RWRTAE
+RWRTAE
+North Florida/South Alabama/Southwest Georgia Weather Roundup
+National Weather Service Tallahassee Florida
+500 PM EDT SUN OCT 23 2022
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+!FLZ017-115-028-034-025-232200
+...North Florida...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TALL INTL ARPT SUNNY     80  44  27 VRB3      30.09F                  
+FSU LOVE BLDG    N/A     79  45  29 NW2         N/A                   
+APALACHICOLA   SUNNY     75  58  55 SE8       30.10S                  
+PERRY          NOT AVBL                                               
+CROSS CITY     SUNNY     82  50  33 NE8       30.09R                  
+JACKSONVILLE   MOSUNNY   76  60  57 NE14      30.11R                  
+$$
+
+!FLZ112-006-005-002-011-232200
+...Florida Panhandle...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARIANNA       SUNNY     78  40  25 MISG      30.10S                  
+BONIFAY        NOT AVBL                                               
+PANAMA CITY NW FAIR      82  37  20 VRB3      30.08F                  
+TYNDALL AFB    SUNNY     77  48  36 SW7       30.09S                  
+TYND DRONE APT FAIR      78  53  41 W8        30.06S                  
+DE FUNIAK SPR  FAIR      78  38  23 CALM      30.10F                  
+EGLIN AFB      SUNNY     76  50  39 S7        30.07S                  
+DESTIN         SUNNY     79  52  38 S6        30.09F                  
+HURLBURT       SUNNY     74  49  40 S7        30.08F                  
+CRESTVIEW      SUNNY     82  40  22 MISG      30.10F                  
+PENSACOLA      SUNNY     77  49  37 SE7       30.09F                  
+$$
+
+!ALZ063-066-232200
+...South Alabama...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOTHAN         SUNNY     79  37  22 NE8       30.13F                  
+OZARK CAIRNS   SUNNY     77  38  24 NE6       30.09F                  
+FT RUCKER HELI SUNNY     76  41  28 CALM      30.10F                  
+RUCKER HELI 3  FAIR      77  40  26 SE9       30.09F                  
+RUCKER HELI 2  FAIR      77  38  25 CALM      30.08F                  
+FLORALA APT    SUNNY     80  35  19 VRB5      30.11F                  
+ANDALUSIA      SUNNY     83  38  20 S3        30.09F                  
+TROY           SUNNY     82  42  24 VRB5      30.11F                  
+EUFALA         NOT AVBL                                               
+MOBILE         MOSUNNY   79  49  34 SE9       30.08F                  
+$$
+
+!GAZ120>161-232200
+...Southwest and South Central Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+THOMASVILLE    FAIR      77  46  33 CALM      30.12S                  
+BAINBRIDGE     SUNNY     79  44  29 E5        30.12S                  
+MOODY AFB      SUNNY     78  48  34 N6        30.09F                  
+VALDOSTA       SUNNY     80  49  33 NE3       30.10F                  
+MOULTRIE       SUNNY     77  46  33 N3        30.12S                  
+BLAKELY        SUNNY     77  34  20 E5        30.11F                  
+ALBANY         SUNNY     79  45  29 NE7       30.13S                  
+TIFTON         NOT AVBL                                               
+FITZGERALD     FAIR      77  50  37 CALM      30.12F                  
+CORDELE        FAIR      77  42  28 CALM      30.13S                  
+AMERICUS       FAIR      76  43  30 E5        30.12S                  
+HOMERVILLE     FAIR      80  52  38 NE5       30.11S                  
+$$
+
+!GMZ750-755-770-775-232200
+...Coastal and Buoy Obs...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+KEATON BEACH     2100   70     290/  6/  7 1019.3F
+CEDAR KEY        2000   74     300/  8/ 10 1019.3F
+C TOWER          2100   71                 1019.8F
+APALACHICOLA BUO 2050   74 79   60/  8/ 12 1017.7S         2/ 4
+PANAMA CITY BUOY 2050   74      80/ 16/ 19   N/A           2/ 5
+MOBILE BUOY      2050   76 78   80/ 12/ 14 1018.2F         2/ 6
+ORANGE BCH AL BU 2050   73 76   90/ 10/ 14 1018.4F         2/ 4
+$$
+  

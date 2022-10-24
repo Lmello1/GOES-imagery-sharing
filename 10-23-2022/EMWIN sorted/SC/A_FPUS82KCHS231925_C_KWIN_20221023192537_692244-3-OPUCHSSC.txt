@@ -1,0 +1,74 @@
+FPUS82 KCHS 231925
+OPUCHS
+
+TEST...KCHS/KSAV Gateway Observations...TEST
+National Weather Service Charleston SC
+300 PM EDT SUN OCT 23 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+SCZ050-WAZ558-NCZ071-TXZ119-213-PAZ071-DCZ001-FLZ074-172-MI076-
+NYZ176-178-MAZ016-IL014-TNZ027-NJZ106-GAZ044-MD014-232000-
+
+...Gateway Observations for Charleston International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Chas Airport   SUNNY     75  51  43 N12       30.13F                  
+Seattle        PTSUNNY   49  43  80 SW8       30.16R                  
+Charlotte      MOSUNNY   73  39  29 N8        30.17F                  
+Dallas DFW     MOSUNNY   85  61  44 S26G44    29.77F                  
+Dallas Love    MOSUNNY   84  60  44 S25G41    29.80F                  
+Philladelphia  CLOUDY    62  55  77 NE14      30.22F                  
+Wash National  PTSUNNY   67  53  61 N8        30.20F                  
+Baltimore      CLOUDY    66  50  56 N7G17     30.19F                  
+Miami          MOSUNNY   85  65  51 E13       30.02F                  
+Detroit        PTSUNNY   74  50  42 S12       30.11F                  
+Newark         CLOUDY    62  48  60 N10       30.25F                  
+Laguardia      CLOUDY    62  45  53 NE12      30.25F                  
+J F K          CLOUDY    61  51  70 NE10      30.25F                  
+Boston Logan   CLOUDY    58  51  78 NE10      30.33F                  
+Ft. Lauderdale MOSUNNY   83  67  58 NE13      30.01F                  
+Chicago O'Hare MOSUNNY   78  55  44 S22G38    29.85F                  
+Chicago Midway MOSUNNY   80  55  42 S23G39    29.87F                  
+Houston Bush   PTSUNNY   85  58  39 S18G29    29.91F                  
+Houston Hobby  PTSUNNY   86  59  39 S21G33    29.91F                  
+Nashville      MOSUNNY   78  44  29 S15G23    30.11F                  
+Atlanta        MOSUNNY   72  37  28 VRB5      30.17F                  
+London Heathrw   N/A     55  54  94 S8        29.44S                  
+
+$$
+ 
+GAZ044-118-TXZ119-213-NCZ071-DCZ001-MDZ014-506-PAZ021-071-NJZ106-
+NYZ176-178-MAZ106-OHZ011-021-055-MIZ076-KYZ091-ILZ014-INZ047-
+MNZ060-ONZ431-232000-
+
+...Gateway Observations for Savannah International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  MOSUNNY   76  51  41 CALM      30.13F                  
+Atlanta        MOSUNNY   72  37  28 VRB5      30.17F                  
+Charlotte      MOSUNNY   73  39  29 N8        30.17F                  
+Dallas DFW     MOSUNNY   85  61  44 S26G44    29.77F                  
+Houston Bush   PTSUNNY   85  58  39 S18G29    29.91F                  
+Wash National  PTSUNNY   67  53  61 N8        30.20F                  
+Wash Dulles    PTSUNNY   65  52  62 N12       30.21F                  
+Baltimore      CLOUDY    66  50  56 N7G17     30.19F                  
+Philadelphia   CLOUDY    62  55  77 NE14      30.22F                  
+Newark         CLOUDY    62  48  60 N10       30.25F                  
+Laguardia      CLOUDY    62  45  53 NE12      30.25F                  
+J F K          CLOUDY    61  51  70 NE10      30.25F                  
+Boston         CLOUDY    58  51  78 NE10      30.33F                  
+Pittsburg      MOSUNNY   70  39  32 E6        30.19F                  
+Akron          MOSUNNY   75  42  30 S9        30.17F                  
+Cleveland      MOSUNNY   76  46  34 SE13G18   30.13F                  
+Cincinnati     MOSUNNY   76  48  37 S12       30.10F                  
+Columbus       SUNNY     76  46  34 S6        30.13F                  
+Detroit        PTSUNNY   74  50  42 S12       30.11F                  
+Chicago O'Hare MOSUNNY   78  55  44 S22G38    29.85F                  
+Minneapolis    MOSUNNY   75  54  47 SE23G41   29.52F                  
+Indianapolis   MOSUNNY   78  51  38 S20G32    30.00F                  
+Toronto Canada MOSUNNY   64  41  42 SE9       30.21F                  
+
+$$
+  

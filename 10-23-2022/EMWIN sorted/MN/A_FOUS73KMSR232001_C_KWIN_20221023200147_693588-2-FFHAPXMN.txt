@@ -1,0 +1,24 @@
+FOUS73 KMSR 232001
+FFHAPX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+301 PM CDT SUN OCT 23 2022
+                                                                        
+GAYLORD HYDROLOGIC SERVICE AREA                                         
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221023 Z DH18/DC2210232001 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** MICHIGAN HEADWATER POINTS ***                                   
+:                                                                       
+BVTM4     3.5/  4.0/  4.5 :BEAVERTON MI          TOBACCO R
+MYFM4     3.1/  3.3/  4.5 :MAYFIELD MI           BOARDMAN R
+RUDM4     3.5/  3.7/  4.1 :RUDYARD MI            PINE RIVER
+.END
+$$

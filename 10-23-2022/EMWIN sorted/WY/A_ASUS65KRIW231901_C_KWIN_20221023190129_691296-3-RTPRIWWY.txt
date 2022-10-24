@@ -1,0 +1,102 @@
+ASUS65 KRIW 231901
+RTPRIW
+Regional Temperature and Precipitation Table
+National Weather Service Riverton WY
+101 PM MDT Sun Oct 23 2022
+
+     
+      Western and Central Wyoming Airport Locations
+
+
+ Note - Values represent yesterdays highs, lows over the last 18 
+        hours, and precipitation over the last 24 hours ending at
+        noon MDT
+     
+.BR RIW 1023 M DH05/TAIRZX/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                               Max   Min          Snow   Snow
+:ID    Station           Elev   Temp  Temp  Pcpn   Fall   Depth
+:     
+AFO  : Afton             6215:   55 /  30 /    M
+46U  : Alpine            5635:   55 /  34 /    M
+BPI  : Big Piney         6975:   53 /  27 / 0.01
+BYG  : Buffalo           4970:   66 /  34 / 0.26
+CPR  : Casper            5320:   66 /  34 / 0.15 /      /   0
+COD  : Cody              5100:   61 /  33 / 0.03
+U68  : Cowley            4090:   55 /  37 /    M
+DUB  : Dubois            7260:   50 /  27 /    M
+EVW  : Evanston          7165:   52 /  26 / 0.08
+FBR  : Fort Bridger      7030:    M /   M /    M
+GCC  : Gillette          4330:   70 /  33 / 0.23
+GEY  : Greybull          3935:   62 /  36 / 0.06
+W43  : Hulett            4265:    M /   M /    M
+JAC  : Jackson           6445:   43 /  29 /    M
+EMM  : Kemmerer          7285:   50 /  28 /    M
+P60  : Lake Yellowstone  7835:    M /  23 /    M
+LND  : Lander            5585:   65 /  33 / 0.02 /      /   0
+PNA  : Pinedale          7085:   50 /  28 /    M
+POY  : Powell            5050:   54 /  32 /    M
+RIW  : Riverton          5525:   65 /  32 / 0.16 /      /   0
+RKS  : Rock Springs      6760:   56 /  28 / 0.07
+SHR  : Sheridan          3965:   59 /  35 / 0.22
+HSG  : Thermopolis       4900:   71 /  32 /    M
+WRL  : Worland           4245:   69 /  35 / 0.13
+.END
+
+
+      Western and Central Wyoming Cooperative Locations
+     
+ NOTE - Values are for the previous 24 hours. In some weather
+        situations, reported low temperatures may reflect 
+        conditions for the previous day.
+     
+.BR RIW 1023 M DH15/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+: 
+:                              Obs      Max  Min         Snow  Snow
+:ID    Station           Elev  Time     Temp Temp  Pcpn  Fall  Depth
+:
+AFOW4: Afton (town)      6245: DH0800 /  48/  29/  0.35/  0.4/    0
+BDFW4: Bedford           6425: DH0700 /  46/  28/  0.57/  1.5/    1
+BHRW4: Big Horn          4050: DH0800 /  57/  37/  0.25/  0.0/    0
+TNSW4: Big Trails        4680: DH0700 /  67/  31/  0.29/    T/    0
+BRSW4: Boulder           6940: DH0800 /  48/  27/     T/    T/    T
+SBDW4: Boysen Dam        4710: DH0840 /  67/  37/  0.13/  0.0/    0
+BUFW4: Buffalo (town)    4670: DH0800 /  65/  33/  0.33/  0.0/    0
+CLAW4: Clark             4090: DH0800 /  55/  37/  0.00/  0.0/    0
+COPW4: Cody (town)       5085: DH0800 /  60/  35/  0.01/  0.0/    0
+DANW4: Daniel            7355: DH0800 /  64/  18/     T/  0.0/    0
+DARW4: Darwin Ranch      8160: DH1900 /  48/   M/     M/    M/    1
+DBOW4: Dubois (town)     6955: DH0600 /  51/  26/     T/    T/    0
+EYPW4: E Entrance YNP    6950: DH0700 /  40/  28/  0.35/  0.0/    0
+GRNW4: Green River       6130: DH0700 /  56/  31/  0.20/  0.3/    0
+MRAW4: Jackson Dam       6800: DH0800 /  42/  27/  0.20/    T/    0
+LMRW4: Lamar Rs YNP      6555: DH0800 /  47/  28/  0.14/  0.0/    0
+LNRW4: Lander (town)     5320: DH0800 /  63/  39/  0.00/  0.0/    0
+BMTW4: Lucerne           4280: DH0700 /  68/  40/  0.06/    M/    0
+MOOW4: Moose             6470: DH0800 /  44/  29/  0.14/    T/    0
+NFKW4: Pahaska           6725: DH0700 /  43/  29/  0.30/  0.0/    0
+PRSW4: Powder River      5700: DH0800 /  62/  31/  0.23/  2.0/    2
+RIVW4: Riverton (town)   4950: DH0700 /  67/  33/  0.04/    T/    0
+RFOW4: Riverton WFO      5575: DHM    /  64/   M/  0.00/  0.0/    0
+STOW4: Story             5085: DH0801 /  55/  32/  0.30/  0.4/    T
+TWRW4: Tower Falls Rs    6265: DH0800 /  44/  30/  0.14/  0.0/    0
+WORW4: Worland (town)    4060: DH0700 /  73/  38/  0.01/    M/    M
+.END
+:
+.BR RIW 1023 M DH05/TX/TN/PPD/SFD/SD
+:
+:            ***Unofficial Cooperative Observations***
+:
+:                              Obs      Max  Min         Snow  Snow
+:ID    Station           Elev  Time     Temp Temp  Pcpn  Fall  Depth
+:     
+HUDW4: Hudson            5090: DH0630 /  70/  37/  0.00/  0.0/    0
+.END
+     
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+data can be accessed at: www.ncei.noaa.gov
+     
+$$
+

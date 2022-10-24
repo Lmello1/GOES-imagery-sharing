@@ -1,0 +1,25 @@
+SHUS61 KMWI 231916
+FWOCAR
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 19:16:26 GMT
+ 
+Listing of Observations (Caribou, ME)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+SAINT  170032 221023 13 R 2  68  45  45 0 0 239  1     68  39  86  41  0 0.000
+ISLE A 170131 221023 13 R 3  60  54  82 0 0  13  1     67  47 100  67  1 0.010
+DOLBY  170191 221023 13 R 2  64  51  64 0 0 150  1     64  39  95  41  0 0.000
+INDIAN 170211 221023 13 R 2  68  38  34 0 0 122  3     68  44  91  34  3 0.030
+NARRAG 170291 221023 13 R 3  68  52  58 0 0 212  2     68  38  83  51  0 0.000
+COBSCO 170292 221023 13 R 2  63  56  79 0 0 137  2     63  39 100  60  0 0.000
+MCFARL 170791 221023 13 R 3  63  49  62 0 0 163  3     67  49  92  60  0 0.000
+MOOSEH 170850 221023 13 R 3  70  49  48 0 0 271  1     71  42 100  40  1 0.010
+TURNER 172501 221023 12 R 2  73  38  28 0 0 188  3     73  34  98  28  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 19:16:26 GMT
+

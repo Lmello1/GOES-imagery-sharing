@@ -1,0 +1,27 @@
+SHUS64 KMWI 231831
+FWOMRX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:06 GMT
+ 
+Listing of Observations (Knoxville/Tri-Cities, TN)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+BISO-N 400902 221023 12 R 2  74  37  27 0 0 259  3     76  43  97  27  0 0.000
+CHUCK  403101 221023 13 R 1  73  39  30 0 0 162  3     73  53  97  30  0 0.000
+HAMBLE 403301 221023 13 R 2  72  40  32 0 0 336  2     72  41  97  32  0 0.000
+NOLICH 403602 221023 12 O 1  71  40  32 0 0 357  3  6  71  41  81  29  0 0.000
+WATAUG 403604 221023 13 O 0  67  38  34 0 0 322  4  5  68  50  52  33  0 0.000
+LENOIR 405101 221023 13 R 3  69  39  34 0 0 236  1     71  50  97  34  0 0.000
+TELLIC 407502 221023 12 O 1  72  36  27 0 0 101  2  6  73  38  98  27  0 0.000
+INDIAN 407603 221023 12 O 1  72  41  33 0 0 194  3  6  72  51  63  33  0 0.000
+PRENTI 409201 221023 13 R 1  70  38  32 0 0 333  3     70  52  73  32  0 0.000
+OCOEE  409502 221023 13 O 1  71  34  26 0 0 288  4  6  72  43  86  26  0 0.000
+DELANO 409503 221023 13 R 1  76  38  26 0 0  69  2     76  42  98  26  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:06 GMT
+

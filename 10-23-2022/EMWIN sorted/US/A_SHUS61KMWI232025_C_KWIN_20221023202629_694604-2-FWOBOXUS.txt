@@ -1,0 +1,30 @@
+SHUS61 KMWI 232025
+FWOBOX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:25:41 GMT
+ 
+Listing of Forecasted Observations (Boston, MA)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD1 PD2
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- ---  --  --
+Stations not in a Zone:
+CACO   191203 221024 13 F 3  67  63  87 2 2 158  6  0  67  55 100  87  14   0
+CACO   191203 221025 13 F 2  67  62  84 1 1 113  3  0  67  58 100  84   0   0
+CACO   191203 221026 13 F 3  66  62  87 1 1  45  4  0  67  59 100  84   0   0
+CACO   191203 221027 13 F 1  66  58  78 1 1 315  8  0  66  59 100  78   0   0
+CACO   191203 221028 13 F 1  58  47  69 1 1  23 14  0  66  52  90  69   0   0
+CACO   191203 221029 13 F 2  59  48  69 1 1  45 11  0  59  51  89  69   0   0
+CACO   191203 221030 13 F 1  62  50  67 1 1  45  9  0  62  52  90  67   0   0
+CAMP E 191204 221024 13 F 3  67  64  93 2 2 135  5  0  67  55 100  87  12   0
+CAMP E 191204 221025 13 F 2  67  64  92 1 1 113  4  0  67  61 100  90   0   0
+CAMP E 191204 221026 13 F 2  65  64  97 1 1  45  3  0  67  60 100  90   0   0
+CAMP E 191204 221027 13 F 1  67  58  73 1 1 315  7  0  67  59 100  73   0   0
+CAMP E 191204 221028 13 F 1  56  47  74 1 1  23 13  0  67  52  86  73   0   0
+CAMP E 191204 221029 13 F 2  56  48  77 1 1  45 10  0  57  50  89  74   0   0
+CAMP E 191204 221030 13 F 2  59  51  75 1 1  23  9  0  59  49  96  75   0   0
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:25:41 GMT
+

@@ -1,0 +1,76 @@
+FNUS76 KSTO 232108
+FWSSTO
+
+Spot Forecast for BCCER Rx Burn Unit 441 B...Chico State Ecolgical Reserves
+National Weather Service Sacramento CA
+208 PM PDT Sun Oct 23 2022
+
+Forecast is based on ignition time of 0700 PDT on October 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+High pressure moves over Northern California for a brief period 
+on Monday which will bring seasonable temperatures, decreased 
+winds, and mostly sunny skies to the area. A system approaches
+from the north Monday night bringing some increased cloud cover
+Monday night and Tuesday. Slight chance for a light shower on
+Tuesday, but the better chances near the burn site will be Tuesday
+evening into Wednesday.
+
+
+.MONDAY...
+TIME (PDT)      7 AM   9 AM   11 AM  1 PM   3 PM   5 PM   
+Sky (%).........27     9      11     11     11     28     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+LAL.............1      1      1      1      1      1      
+Temp............53     60     68     72     73     71     
+RH..............27     25     21     21     23     27     
+SL/VL wind......NE 6   NE 2   SW 2   SW 2   SW 5   SW 5   
+SL/VL wind gust.7      3      10     10     12     10     
+Ridgetop wind...NE 6   N 5    W 2    W 2    W 5    W 5      
+Mix hgt (ft)....300    400    2100   2100   2900   2300   
+Transport wind..NE 6   N 5    W 2    W 2    W 5    W 5    
+
+.MONDAY NIGHT...
+TIME (PDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........28     57     57     52     55     55     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............0      0      0      0      0      0      
+LAL.............1      1      1      1      1      1      
+Temp............68     62     61     61     60     58     
+RH..............29     33     35     36     36     32     
+SL/VL wind......SW 5   E 2    E 2    E 2    NE 2   NE 2   
+SL/VL wind gust.10     7      7      7      6      6      
+Ridgetop wind...W 5    E 3    E 3    E 3    NE 3   NE 3      
+Mix hgt (ft)....2300   700    700    400    400    400    
+Transport wind..W 5    E 3    E 3    E 3    NE 3   NE 3   
+
+.TUESDAY...
+TIME (PDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........40        61        47        54        
+Weather cov.....                    S CHC     S CHC     
+Weather type....NONE      NONE      RNSHWR    RNSHWR    
+Tstm cov........                                        
+CWR.............0         0         0         0         
+LAL.............1         1         1         1         
+Temp............56        59        67        69        
+RH..............35        38        29        29        
+SL/VL wind......NE 2G5    NE 3      SW 3G8    SW 7G13   
+Ridgetop wind...NE 2      NE 2      W 5       W 7        
+Mix hgt (ft)....400       400       2700      4900      
+Transport wind..NE 2      NE 2      W 5       W 7       
+
+$$
+Forecaster...EH
+Requested by...Mitchell Bamford
+Type of request...PRESCRIBED
+.TAG 2220159.0/STO
+.DELDT 10/23/22
+.FormatterVersion 2.0.0
+.EMAIL mbamford@csuchico.edu

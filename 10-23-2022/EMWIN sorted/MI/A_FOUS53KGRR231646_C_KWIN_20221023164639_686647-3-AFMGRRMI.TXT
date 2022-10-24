@@ -1,0 +1,873 @@
+FOUS53 KGRR 231646
+AFMGRR
+
+Area Forecast Matrices
+National Weather Service Grand Rapids MI
+1246 PM EDT Sun Oct 23 2022
+
+MIZ037-240900-
+Mason-
+Including the city of Ludington
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          68          51          61          41
+Temp          71 66 63 61 59 58 63 68 68 65 62 60 57 53 57 57 56 52 49 48 44 42
+Dewpt         55 54 52 51 51 50 53 53 53 53 51 50 49 49 52 53 52 51 48 46 44 41
+RH            57 65 67 70 75 75 70 59 59 65 67 69 75 86 83 86 86 96 96 93100 96
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW NW NW  N  N
+Wind spd      16 14 16 16 16 16 17 19 18 16 12 12 11  8  8  5  4  2  4  5  9  9
+Wind gust     27                   32 31 28 32 32 26 25 19 17          17 23 27
+Clouds        FW B1 B1 B2 B2 B2 B2 B2 B2 OV OV OV OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                     50          10          50          70          60
+QPF 12hr              0.01-0.07           0           0        0.20   0.38-0.55
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  C              S  S  C  C  L  L  L  L  L  L  C  C  S
+Tstms                S  S                                                      
+Wind chill                                                                   36
+Min chill                                                                    34
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          51      34    52      36    53      36    55      38    55
+Temp          49 44   38 35 50 46   39 38 52 47   40 37 54 46   41 39 54 47
+Dewpt         41 38   36 35 37 38   37 36 41 42   40 37 43 42   40 38 44 43
+PWind dir         N       N     E       E     E       E     N      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC B1 B1 B1   B2 B2 B2 B1   B1 B1 SC SC   B1 B1 B1 B2
+PoP 12hr         20       5     0       5    20      20    20      20    20
+Rain shwrs     S                              S    S  S  S  S    S  S  S  S
+
+$$
+MIZ038-240900-
+Lake-
+Including the city of Baldwin
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          70          52          62          40
+Temp          71 66 62 60 58 57 62 69 69 65 62 61 58 54 58 58 57 54 51 48 45 41
+Dewpt         55 54 52 50 50 49 53 53 54 54 51 49 48 48 53 54 53 53 50 48 45 41
+RH            57 65 70 69 75 75 72 57 59 68 67 65 69 80 83 86 86 96 96100100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S SW  S  W NW  N  N
+Wind spd      13 12 13 12 11 13 13 14 12 12 10 10  9  6  6  5  4  3  4  4  6  8
+Wind gust     27                   25 31 25 26 25 21 20 18 17 16       16 17 21
+Clouds        FW B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 B2 OV OV OV OV OV OV B2 B2 B2 B2
+PoP 12hr                     50          10          40          70          60
+QPF 12hr                   0.03           0           0   0.14-0.20   0.53-0.60
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  C              S  S  C  C  C  C  L  L  L  L  C  C  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          50      32    52      34    53      35    55      36    54
+Temp          48 42   36 32 49 45   37 36 51 47   39 36 54 45   40 37 53 47
+Dewpt         41 38   35 32 37 37   35 35 41 42   39 36 42 41   39 37 45 43
+PWind dir        NW       N     E       E    SE       E     E      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC B1 B1   B2 B2 B2 B1   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    10      20    30      20    20
+Rain shwrs     C                              S    S  S  S  C    S  S  S  S
+
+$$
+MIZ039-240900-
+Osceola-
+Including the city of Reed City
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          70          53          63          40
+Temp          70 63 60 58 56 55 61 68 69 64 61 59 56 54 59 60 59 54 51 48 45 41
+Dewpt         54 53 51 49 48 48 52 52 53 53 50 48 47 48 52 54 54 54 51 48 45 41
+RH            57 70 72 72 74 77 72 57 57 67 67 67 72 80 78 81 83100100100100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW  N
+Wind spd      14 12 12 12 11 12 13 16 13 13 10 10  8  6  9  8  5  4  4  5  5  8
+Wind gust     28                   26 31 25 25 27 23 21 20 19 18       16 18 21
+Clouds        FW SC B1 B2 B2 B2 B2 B1 B2 B2 B2 B2 OV B2 OV OV B2 OV OV B2 B2 B2
+PoP 12hr                     40           5          30          60          70
+QPF 12hr                   0.02           0           0        0.14   0.55-0.65
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C                    C  C  C  C  L  L  L  L  L  L  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          50      31    50      33    52      34    54      36    54
+Temp          48 41   34 31 48 43   36 35 50 45   38 36 53 43   39 37 52 46
+Dewpt         41 39   34 31 36 37   35 35 41 42   38 36 41 41   38 37 44 44
+PWind dir        NW       N     E       E     E       E     E      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC B1   B1 B2 B2 B2   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    10      20    30      20    20
+Rain shwrs     C                                   S  S  S  C    S  S  S  S
+
+$$
+MIZ040-240900-
+Clare-
+Including the city of Clare
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          71          54          65          41
+Temp          71 64 59 57 55 54 61 68 70 65 61 60 57 54 60 63 61 56 53 50 47 42
+Dewpt         53 52 50 48 47 48 51 51 52 51 49 47 46 46 51 53 55 54 52 49 47 42
+RH            53 65 72 72 74 80 70 54 53 60 65 62 67 74 72 70 81 93 96 96100100
+Wind dir       S SE SE SE  S SE  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW NW
+Wind spd      13 10 11 10  9 10 12 13 12 12  9  8  6  5  6  9  5  3  3  4  5  5
+Wind gust     26                   24 28    23 25 20 18 19 19 18             18
+Clouds        FW SC SC B1 B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 OV OV B2 OV B2 B2 B2 B2
+PoP 12hr                     30           5          20          60          70
+QPF 12hr                   0.01           0           0        0.11   0.63-0.75
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C                    S  S  C  C  L  L  L  L  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          51      31    51      33    53      35    54      36    54
+Temp          49 42   35 32 49 43   37 36 50 45   39 36 53 44   39 37 52 46
+Dewpt         42 39   35 32 36 37   35 35 42 42   39 36 41 41   39 37 44 44
+PWind dir        NW       N    NE       E     E      NE     E       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   FW SC SC B1   B1 B2 B2 B2   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    10      20    30      30    20
+Rain shwrs     C  S                                S  S  S  C    C  S  S  S
+
+$$
+MIZ043-240900-
+Oceana-
+Including the city of Hart
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          68          52          61          42
+Temp          70 66 63 61 59 58 63 67 68 65 62 61 57 54 57 57 56 53 50 49 46 43
+Dewpt         56 54 53 52 51 51 53 53 54 54 51 51 50 50 53 54 53 52 50 48 45 43
+RH            61 65 70 72 75 77 70 61 61 68 67 70 77 86 86 90 90 96100 96 96100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW  N  N
+Wind spd      16 16 17 17 16 18 18 19 17 16 12 11 10  8  8  6  4  2  4  5  8  9
+Wind gust     29                   31 32 28 34 34 27 26 20 19 16    14 17 24 31
+Clouds        FW B1 B1 B2 B2 B2 B2 B2 B2 OV OV B2 OV OV OV OV OV OV OV B2 B2 B2
+PoP 12hr                     50          10          50          70          60
+QPF 12hr                   0.04           0           0   0.20-0.26   0.44-0.54
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C              S  S  C  C  L  L  L  L  L  L  C  C  C
+Tstms                S  S                                                      
+Wind chill                                                                   37
+Min chill                                                                    36
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          51      35    52      36    53      38    55      39    54
+Temp          49 44   39 36 50 46   40 38 51 47   41 39 54 46   42 40 54 47
+Dewpt         42 40   37 35 39 39   37 37 43 43   41 39 43 43   41 40 45 44
+PWind dir        NW       N     E       E     E       E    NE       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC B1 B1   B2 B2 B2 B1   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      20    30      20    20
+Rain shwrs     C                              S    S  S  S  C    S  S  S  S
+
+$$
+MIZ044-240900-
+Newaygo-
+Including the city of Fremont
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          71          54          63          42
+Temp          71 66 62 60 59 58 63 69 69 66 63 62 58 55 59 59 58 55 52 50 47 43
+Dewpt         56 55 53 52 51 51 53 54 55 55 52 50 50 50 53 56 55 54 52 50 47 43
+RH            59 68 72 75 75 77 70 59 61 68 67 65 75 83 80 90 90 96100100100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S SW  S SW NW NW NW
+Wind spd      13 12 12 12 11 12 13 14 12 12 10 10  8  6  8  6  5  4  4  4  5  6
+Wind gust     28                   25 29 23 27 26 23 20 20 21 18    14 17 19 21
+Clouds        FW B1 B1 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV B2 B2 B2 B2
+PoP 12hr                     40          10          40          70          70
+QPF 12hr                   0.04           0           0   0.16-0.23   0.48-0.57
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  S  C  C                    C  C  C  C  L  L  L  L  C  C  C
+Tstms                S  S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          51      34    52      36    53      37    55      39    54
+Temp          49 43   37 34 49 45   39 37 51 47   41 38 54 46   41 39 53 47
+Dewpt         43 40   37 34 39 38   37 36 43 44   41 38 44 43   41 39 46 45
+PWind dir        NW       N     E       E     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   SC SC B1 B1   B2 B2 B2 B1   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      20    30      20    20
+Rain shwrs     C                              S    S  S  S  C    S  S  S  S
+
+$$
+MIZ045-240900-
+Mecosta-
+Including the city of Big Rapids
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          70          55          64          42
+Temp          71 65 61 59 57 56 62 69 70 65 62 61 58 55 60 61 60 56 53 51 48 43
+Dewpt         54 54 52 50 50 49 52 53 53 54 51 49 47 48 52 55 55 55 53 51 48 43
+RH            55 68 72 72 77 77 70 57 55 68 67 65 67 77 75 81 84 96100100100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW NW
+Wind spd      14 11 12 12 10 12 14 14 13 13 10 10  8  6  9  9  5  4  5  5  5  6
+Wind gust     27                   25 29    25 24 21 18 20 19 18       16 17 18
+Clouds        FW B1 B1 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV B2 OV OV B2 OV OV OV B2 B2
+PoP 12hr                     30           5          30          60          70
+QPF 12hr                   0.03           0           0        0.15   0.55-0.67
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  C                    C  C  C  C  L  L  L  L  L  L  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          51      32    50      35    53      37    54      38    54
+Temp          49 43   36 33 49 44   37 36 50 47   40 37 52 46   40 39 52 47
+Dewpt         42 40   36 33 38 38   37 36 43 44   40 37 43 43   40 38 45 46
+PWind dir        NW       N     E       E     E       E    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   SC SC B1 B1   B2 B2 B2 B1   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    10      20    30      30    30
+Rain shwrs     C                                   S  S  S  C    C  S  S  C
+
+$$
+MIZ046-240900-
+Isabella-
+Including the city of Mount Pleasant
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          71          56          67          43
+Temp          71 64 60 58 57 56 62 69 71 66 62 61 58 56 61 64 63 58 55 52 49 45
+Dewpt         53 53 51 50 48 48 51 51 52 52 50 48 47 47 51 54 55 56 54 52 49 45
+RH            53 67 72 75 72 74 67 53 51 61 65 62 67 72 70 70 75 93 96100100100
+Wind dir       S SE SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W NW NW
+Wind spd      14 10 11 10 10 11 13 16 13 13  9  9  8  5  9 10  6  3  4  5  5  6
+Wind gust     26                      27    23 23 19 18 19    18          16   
+Clouds        SC SC SC B1 B2 B2 B2 B1 B2 B2 B2 B2 B2 B2 OV OV B2 OV OV OV B2 B2
+PoP 12hr                     30           5          20          60          70
+QPF 12hr                   0.01           0           0   0.09-0.16   0.65-0.77
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C                    S  S  C  C  L  L  L  L  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          52      33    51      36    53      37    54      38    54
+Temp          49 43   37 33 49 44   38 37 50 47   41 38 52 46   41 39 52 48
+Dewpt         43 41   36 33 38 39   37 36 43 44   41 38 43 43   41 39 46 46
+PWind dir        NW       N    NE       E     E      NE    NE      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC B1   B1 B2 B2 B2   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    10      20    30      30    30
+Rain shwrs     C  S                                S  S  C  C    C  S  S  C
+
+$$
+MIZ050-240900-
+Muskegon-
+Including the city of Muskegon
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          70          54          63          44
+Temp          72 67 63 62 60 59 63 68 69 66 63 62 59 55 58 59 58 55 52 51 47 45
+Dewpt         56 54 53 52 51 51 53 53 55 54 51 50 50 50 53 54 54 53 52 49 47 44
+RH            57 63 70 70 72 75 70 59 61 65 65 65 72 83 83 83 86 93100 93100 96
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW NW  N
+Wind spd      14 13 14 14 13 16 16 17 14 13 11 10  9  8  9  8  5  3  5  5  6  9
+Wind gust     28                   27 28 24 31 31 27 26 20 19 18    16 18 21 27
+Clouds        FW B1 B1 B2 B2 B2 B2 B1 B1 B2 OV B2 OV OV OV OV OV OV OV B2 B2 B2
+PoP 12hr                     50          10          40          70          60
+QPF 12hr                   0.04           0           0   0.20-0.27   0.45-0.55
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C              S  S  C  C  L  L  L  L  L  L  C  C  C
+Tstms                S  S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          52      36    53      38    55      39    56      40    56
+Temp          50 45   40 37 50 47   41 39 52 49   43 40 55 47   43 41 55 48
+Dewpt         43 40   38 35 39 39   38 37 43 44   42 39 44 43   42 40 45 44
+PWind dir        NW       N     E       E     E      NE    NE       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC B1 B1   B2 B2 B2 B1   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      20    30      30    30
+Rain shwrs     C                              S    S  S  C  C    C  S  S  C
+
+$$
+MIZ051-240900-
+Montcalm-
+Including the city of Greenville
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          72          56          67          44
+Temp          72 64 62 60 58 57 63 69 71 66 63 61 58 57 61 64 62 58 55 53 50 45
+Dewpt         55 54 52 50 50 50 52 52 53 53 51 49 47 48 53 55 57 57 55 52 50 45
+RH            55 70 70 69 75 77 67 55 53 63 65 65 67 72 75 73 84 96100 96100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W NW NW
+Wind spd      14 11 12 11 11 12 14 16 13 13 10 10  9  8 10 10  8  5  5  6  6  8
+Wind gust     27                      27    25 24 21 18 20 23 19               
+Clouds        SC SC SC B1 B2 B2 B2 B1 B1 B2 B2 B2 B2 B2 OV OV B2 OV OV OV B2 B2
+PoP 12hr                     20           5          20          60          70
+QPF 12hr                   0.02           0           0   0.12-0.17   0.55-0.72
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S                    S  S  C  C  L  L  L  L  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          53      34    51      36    53      38    54      39    54
+Temp          49 43   38 34 49 45   39 37 51 47   41 39 52 47   42 40 52 48
+Dewpt         44 42   37 34 39 40   38 37 44 45   41 39 45 44   42 40 47 46
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC B1   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    10      20    30      30    30
+Rain shwrs     C  S                           S    S  S  C  C    C  S  S  C
+
+$$
+MIZ052-240900-
+Gratiot-
+Including the city of Alma
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          73          58          70          46
+Temp          73 65 62 60 58 57 63 71 73 67 63 62 60 58 63 67 65 60 57 55 51 47
+Dewpt         52 52 51 50 48 48 50 51 50 50 48 47 47 47 51 54 55 57 56 54 51 47
+RH            48 63 67 69 69 72 62 49 44 54 58 58 62 67 65 63 70 90 96 96100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  W NW NW
+Wind spd      14 10 11 11 10 11 13 17 14 12 10  9  8  6  9 10  8  4  5  5  5  5
+Wind gust     26                      27    21 21 18 17 19       14          16
+Clouds        SC FW SC SC B1 B2 B2 B1 B2 B2 B2 B2 B2 B2 B2 B2 B2 OV OV OV OV B2
+PoP 12hr                     30           5          10          50          80
+QPF 12hr                      0           0           0        0.10   0.61-0.74
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C                          C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          54      35    52      37    54      39    55      40    55
+Temp          50 45   39 35 49 45   40 38 51 48   43 40 53 48   43 41 53 48
+Dewpt         44 42   38 35 40 40   38 37 43 45   42 40 45 44   43 41 46 46
+PWind dir        NW       N    NE       E     E      NE    NE      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC SC   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    10      20    30      30    30
+Rain shwrs     C  S                                S  S  C  C    C  S  S  C
+
+$$
+MIZ056-240900-
+Ottawa-
+Including the cities of Grand Haven and Jenison
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          71          56          65          45
+Temp          72 67 64 62 60 59 64 71 70 66 64 63 60 57 60 61 59 56 53 52 49 46
+Dewpt         56 54 53 52 51 50 53 54 55 54 51 49 49 50 54 56 56 55 53 51 48 46
+RH            57 63 67 70 72 72 67 55 59 65 63 60 67 77 81 84 90 96100 96 96100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW NW NW
+Wind spd      16 13 13 14 12 14 16 16 14 13 11 11 10  9 10 10  6  5  5  5  8 10
+Wind gust     29                   26 29    28 27 26 25       18    17 18 20 24
+Clouds        FW B1 B1 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV B2 B2 B2 B2
+PoP 12hr                     40           5          30          70          70
+QPF 12hr                   0.03           0           0   0.20-0.27   0.46-0.59
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C                    C  C  L  L  L  L  L  L  C  C  C
+Tstms                S  S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          53      36    53      38    55      40    56      41    56
+Temp          50 45   40 37 50 47   40 39 53 49   43 40 55 48   43 42 55 48
+Dewpt         44 41   38 36 40 40   38 38 45 45   42 40 46 44   42 41 47 46
+PWind dir        NW       N     E       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC B1 B1   B2 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  S  C  C
+
+$$
+MIZ057-240900-
+Kent-
+Including the city of Grand Rapids
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          72          57          66          44
+Temp          72 66 63 60 59 58 63 70 71 66 64 62 60 58 61 62 61 57 55 53 50 45
+Dewpt         56 54 52 51 51 50 52 54 55 54 51 49 48 49 53 57 57 57 54 52 50 45
+RH            57 65 67 72 75 75 67 57 57 65 63 62 64 72 75 84 87100 96 96100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W NW NW
+Wind spd      14 11 12 12 11 12 14 14 13 13 10 10  9  8 10 10  8  5  5  5  6  8
+Wind gust     29                      27    26 24 21 19 20 23 19       16 17 18
+Clouds        SC B1 SC B2 B2 B2 B2 B1 B1 B2 B2 B2 OV B2 OV OV B2 OV B2 B2 B2 B2
+PoP 12hr                     30           5          30          70          70
+QPF 12hr                   0.03           0           0   0.15-0.21   0.54-0.62
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C                    C  C  C  C  L  L  L  L  L  L  C
+Tstms                S  S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          53      35    52      37    54      39    55      40    54
+Temp          49 44   39 35 49 46   39 38 52 48   42 39 53 48   43 41 53 48
+Dewpt         45 42   38 35 40 40   38 38 45 45   42 39 46 44   43 41 48 46
+PWind dir        NW       N     E       E     E       E    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC B1   B1 B2 B2 B2   B1 SC SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  C  C  C
+
+$$
+MIZ058-240900-
+Ionia-
+Including the city of Ionia
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          72          57          68          45
+Temp          72 65 62 60 58 57 63 71 71 66 63 61 59 58 63 65 63 59 56 54 51 47
+Dewpt         54 53 51 50 50 49 51 52 53 52 50 48 47 48 52 55 56 57 56 54 51 47
+RH            53 65 67 69 75 75 65 51 53 61 62 62 64 69 67 70 78 93100100100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW
+Wind spd      14 11 11 11 11 11 14 16 13 12 10 10  9  9 10 11 10  5  6  6  6  8
+Wind gust     26                      28    23 23 20    20 21    16            
+Clouds        SC SC SC B1 B2 B2 B2 B1 B1 B2 B2 B2 B2 B2 OV OV B2 OV OV B2 B2 B2
+PoP 12hr                     20           5          20          60          80
+QPF 12hr                   0.01           0           0        0.14   0.61-0.72
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S                    S  S  C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          54      35    52      37    54      39    55      41    55
+Temp          50 44   39 36 49 45   39 38 52 48   43 40 53 48   43 41 53 48
+Dewpt         45 42   38 36 40 40   39 38 44 45   42 40 46 44   43 41 47 46
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    20      30    30      30    30
+Rain shwrs     C  S                           S    S  C  C  C    C  C  C  C
+
+$$
+MIZ059-240900-
+Clinton-
+Including the city of St. Johns
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          74          58          71          47
+Temp          72 65 62 60 58 57 64 71 73 68 64 63 60 58 63 68 66 61 58 56 52 48
+Dewpt         52 51 51 49 48 48 49 50 50 49 48 47 46 47 51 54 55 56 57 55 52 48
+RH            49 60 67 67 69 72 58 47 44 51 56 56 60 67 65 61 68 84 96 96100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW
+Wind spd      14 11 11 12 11 11 13 17 13 12 10 10  9  9 10 11  9  5  5  6  6  6
+Wind gust     25                      28 23 21 20 19             16            
+Clouds        SC FW SC SC B1 B2 B2 B1 B2 B2 B2 B2 B2 B2 B2 B2 B2 OV OV OV OV B2
+PoP 12hr                     20           5          10          50          80
+QPF 12hr                      0           0           0        0.10   0.58-0.68
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  S                          C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      36    52      38    55      40    56      41    55
+Temp          52 46   40 36 50 46   40 39 53 49   43 41 54 48   43 42 54 48
+Dewpt         45 42   38 36 39 40   39 38 43 45   43 41 45 44   43 42 46 46
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    10      20    30      30    30
+Rain shwrs     C  S                           S    S  S  C  C    C  C  C  C
+
+$$
+MIZ064-240900-
+Allegan-
+Including the city of Holland
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          72          56          67          45
+Temp          73 67 63 61 60 59 64 71 71 67 64 62 60 57 62 63 61 57 54 52 49 46
+Dewpt         56 54 52 50 49 48 51 53 54 53 50 48 47 48 53 56 57 56 54 51 49 46
+RH            55 63 67 67 67 67 63 53 55 61 60 60 62 72 72 78 87 96100 96100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW NW NW NW
+Wind spd      17 13 13 14 12 13 16 16 14 14 10 10  8  6  9  8  6  5  5  5  6  8
+Wind gust     31                   26 27    26 26 24 21 19 21 18    17 17 20 24
+Clouds        SC SC B1 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV B2 B2 B2 B2
+PoP 12hr                     30           5          30          70          70
+QPF 12hr                   0.01           0           0   0.20-0.29   0.53-0.67
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C                    C  C  C  C  L  L  L  L  L  L  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          54      35    54      37    56      39    56      41    56
+Temp          51 45   39 36 51 47   40 38 53 50   43 40 55 48   43 41 55 48
+Dewpt         45 42   38 35 40 40   38 38 45 45   42 40 46 45   42 41 47 46
+PWind dir        NW       N     E       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  C  C  C
+
+$$
+MIZ065-240900-
+Barry-
+Including the city of Hastings
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          73          58          68          45
+Temp          72 65 62 60 59 58 65 72 71 66 63 62 60 58 63 66 63 59 56 54 51 47
+Dewpt         53 52 51 50 48 48 49 51 51 51 49 47 46 48 52 54 55 56 55 53 51 47
+RH            51 63 67 69 67 69 56 48 49 58 60 58 60 69 67 65 75 90 96 96100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW
+Wind spd      16 11 12 12 11 12 14 16 13 13 10 10  9  8 10 11  9  5  5  6  6  8
+Wind gust     28                   26 28    21 20 19 18 20 21 20 16            
+Clouds        SC SC SC B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 OV B2 OV B2 B2 B2 B2
+PoP 12hr                     30           5          20          70          80
+QPF 12hr                   0.01           0           0   0.14-0.22   0.59-0.67
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  S  C  S                    S  S  C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      35    53      37    56      40    56      41    55
+Temp          51 44   39 36 50 46   40 38 53 49   43 41 55 47   43 42 55 47
+Dewpt         44 41   38 36 38 38   38 38 43 44   42 40 45 44   43 42 45 44
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B1 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  C  C  C
+
+$$
+MIZ066-240900-
+Eaton-
+Including the city of Charlotte
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          73          57          70          46
+Temp          72 64 62 60 58 56 64 71 72 66 63 61 59 57 63 66 64 60 57 55 51 47
+Dewpt         52 51 50 48 48 47 48 49 49 49 47 47 45 46 51 53 55 56 56 54 51 47
+RH            49 63 65 64 69 72 56 46 44 54 56 60 60 67 65 63 73 87 96 96100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW
+Wind spd      14 11 12 12 11 12 14 16 13 12 10 10  8  8 10 11 10  5  5  6  5  6
+Wind gust     26                      31 23 21    18 18 20       16            
+Clouds        SC FW SC B1 B1 B2 B2 B1 B1 B2 B2 B2 B2 B2 B2 OV B2 OV OV OV B2 B2
+PoP 12hr                     20           0          10          60          80
+QPF 12hr                      0           0           0   0.11-0.16   0.59-0.66
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S                          C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      35    53      37    56      40    56      41    55
+Temp          52 45   39 35 50 45   39 38 53 49   43 41 54 48   43 42 54 47
+Dewpt         44 41   38 35 38 38   38 38 43 44   42 40 45 44   43 41 45 45
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    20      30    30      30    30
+Rain shwrs     C  S                           S    S  C  C  C    C  C  C  C
+
+$$
+MIZ067-240900-
+Ingham-
+Including the city of Lansing
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          74          57          71          48
+Temp          72 64 60 59 57 55 64 71 73 67 63 61 59 57 63 68 67 61 57 56 53 49
+Dewpt         51 51 50 48 47 47 48 49 48 47 46 46 45 45 50 53 55 56 56 55 52 49
+RH            48 63 69 67 69 74 56 46 41 49 54 58 60 64 62 59 65 84 96 96 96100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW
+Wind spd      14 11 11 11 10 11 13 16 13 12 10  9  8  8 10 11 10  5  5  5  5  5
+Wind gust                             29 24 21 19 18 18    21    16            
+Clouds        SC FW SC SC B1 B2 B2 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 OV OV OV OV B2
+PoP 12hr                     20           0          10          50          80
+QPF 12hr                      0           0           0   0.05-0.11   0.56-0.64
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  S                          S  S  C  C  D  D  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          56      36    54      38    56      41    57      41    56
+Temp          52 46   40 36 51 46   40 40 54 50   44 41 54 49   43 42 55 48
+Dewpt         46 42   38 36 39 39   39 39 44 44   43 41 45 44   43 42 46 46
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B1 B2
+PoP 12hr         40       5     0       5    20      30    30      30    30
+Rain shwrs     C  S                           S    S  C  C  C    C  C  C  C
+
+$$
+MIZ071-240900-
+Van Buren-
+Including the city of South Haven
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          73          56          67          44
+Temp          74 68 63 61 59 59 64 71 72 68 64 62 59 57 63 63 62 57 54 51 49 45
+Dewpt         55 53 51 50 48 48 50 52 53 52 49 47 47 48 53 55 56 56 54 51 49 45
+RH            51 59 65 67 67 67 60 51 51 57 58 58 64 72 70 75 81 96100100100100
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW NW
+Wind spd      17 14 14 14 12 14 16 17 14 13 10  9  8  6  8  8  6  5  4  5  5  8
+Wind gust     31                26 27 29    26 24 23 21 19 20 19 16 18 17 20 25
+Clouds        SC SC B1 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV B2 OV B2 B2
+PoP 12hr                     30           5          30          80          70
+QPF 12hr                   0.01           0           0   0.25-0.33   0.59-0.82
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  C  C  C                    C  C  L  L  D  D  L  L  L  L  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      35    55      37    57      39    57      41    57
+Temp          52 45   39 36 52 47   40 39 54 50   43 40 55 49   43 41 55 49
+Dewpt         44 42   38 36 39 40   38 38 44 45   42 40 46 45   42 41 45 46
+PWind dir        NW       N     E       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B2 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  C  C  C
+
+$$
+MIZ072-240900-
+Kalamazoo-
+Including the city of Kalamazoo
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          73          57          69          46
+Temp          73 66 62 60 59 59 64 71 72 67 63 62 59 58 63 66 64 59 56 53 51 47
+Dewpt         53 52 51 49 48 48 49 51 51 51 49 47 46 48 52 54 55 56 55 53 51 47
+RH            49 61 67 67 67 67 58 49 48 56 60 58 62 69 67 65 73 90 96100100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW NW NW
+Wind spd      17 12 13 13 11 13 14 17 14 13 10  9  9  8 10 10  8  4  4  5  5  6
+Wind gust     29                      28    21 19    18    21 19 16    16 16 17
+Clouds        SC FW SC B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 OV B2 B2 B2 B2
+PoP 12hr                     30           0          20          70          80
+QPF 12hr                      0           0           0   0.19-0.26   0.65-0.77
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs        S  S  C  C                    S  S  C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      35    54      38    56      40    57      41    55
+Temp          52 44   39 36 51 46   40 39 53 50   43 41 54 49   43 42 54 48
+Dewpt         45 42   38 36 39 39   38 38 43 45   43 41 45 45   43 42 45 45
+PWind dir        NW       N     E       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B2 B2
+PoP 12hr         30       5     0       5    20      30    30      30    30
+Rain shwrs     C                              S    S  C  C  C    C  C  C  C
+
+$$
+MIZ073-240900-
+Calhoun-
+Including the city of Battle Creek
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          73          57          71          46
+Temp          73 66 62 60 58 57 64 71 72 67 63 61 59 58 63 67 65 60 57 55 51 47
+Dewpt         51 51 50 48 47 47 48 49 49 49 47 46 45 46 51 53 55 56 56 54 51 47
+RH            46 58 65 64 67 69 56 46 44 52 56 58 60 64 65 61 70 87 96 96100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  W NW
+Wind spd      16 11 11 11 11 11 13 16 13 12 10 10  9  8 10 11 10  4  5  5  5  6
+Wind gust     27                      31 23 20       18          16            
+Clouds        FW FW SC B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 OV OV B2 B2 B2
+PoP 12hr                     20           0          10          60          80
+QPF 12hr                      0           0           0   0.14-0.20   0.65-0.76
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S                    S  S  C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          55      35    54      38    56      41    57      41    55
+Temp          52 45   39 36 51 46   40 39 54 50   44 41 54 49   43 42 54 48
+Dewpt         45 42   38 36 39 38   39 38 43 44   43 41 45 44   43 42 45 45
+PWind dir        NW       N    NE       E     E      NE    NE       E     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B2 B2
+PoP 12hr         40       5     0       5    20      30    40      30    30
+Rain shwrs     C  S                           S    S  C  C  C    C  C  C  C
+
+$$
+MIZ074-240900-
+Jackson-
+Including the city of Jackson
+1246 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          74          56          71          47
+Temp          73 65 60 58 56 54 63 71 73 67 62 61 58 56 63 68 67 61 57 56 52 48
+Dewpt         51 51 50 48 46 46 48 49 49 48 46 45 45 45 50 54 55 56 56 55 52 48
+RH            46 60 69 69 69 74 58 46 43 50 56 56 62 66 62 61 65 84 96 96100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W
+Wind spd      13 10 10 11  9 10 13 16 12 12  9  8  8  6 10 10 10  5  5  5  5  5
+Wind gust     24                      31 23 20 19 18 17    20    16            
+Clouds        SC FW SC SC B1 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 OV B2 OV OV OV OV B2
+PoP 12hr                     10           0           5          50          80
+QPF 12hr                      0           0           0   0.04-0.14   0.56-0.76
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  S                          S  S  C  C  D  D  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          57      35    54      38    56      41    57      41    56
+Temp          53 46   39 36 51 46   40 40 54 50   44 41 55 50   43 42 54 49
+Dewpt         48 43   38 36 40 40   39 39 44 45   43 41 46 45   43 42 46 46
+PWind dir        NW       N    NE       E     E      NE    NE      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC   SC B1 B2 B2
+PoP 12hr         40       5     0       5    20      30    40      30    30
+Rain shwrs     C  S                           S    S  C  C  C    C  C  C  C
+
+$$

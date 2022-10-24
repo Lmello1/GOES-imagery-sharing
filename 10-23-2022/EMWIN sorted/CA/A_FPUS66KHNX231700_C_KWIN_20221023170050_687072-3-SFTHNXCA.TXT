@@ -1,0 +1,257 @@
+FPUS66 KHNX 231700
+SFTHNX
+CAZ300>339-240100-
+
+Tabular State Forecast for Central California
+National Weather Service San Joaquin Valley - Hanford CA
+1000 AM PDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+...SAN JOAQUIN VALLEY...
+   Livingston
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+     /69    41/70    44/72    45/68    41/68    42/72    43/70    
+      /00    00/00    00/10    20/10    00/00    00/00    10/20   
+
+   Merced
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+     /72    42/74    44/75    47/71    42/72    43/75    44/74    
+      /00    00/00    00/10    20/20    00/00    00/00    10/10   
+
+   Chowchilla
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+     /69    39/71    42/73    45/68    39/69    40/73    41/71    
+      /00    00/00    00/10    20/20    00/00    00/00    10/10   
+
+   Los Banos
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+     /70    45/73    48/75    48/70    45/70    45/74    47/72    
+      /00    00/00    00/10    20/10    00/00    00/00    10/20   
+
+   Madera
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    41/71    43/73    45/68    40/69    41/74    42/72    
+      /00    00/00    00/10    20/10    00/00    00/00    10/10   
+
+   Mendota
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    42/73    44/75    46/71    42/70    42/74    44/73    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Clovis
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    46/72    48/73    49/69    45/69    47/73    47/72    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Fresno
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    46/73    48/73    49/69    45/69    46/73    47/72    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Kerman
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    40/71    43/73    45/69    40/69    40/74    42/72    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Sanger
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    42/72    43/73    46/69    42/70    42/74    43/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/10   
+
+   Reedley
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /68    42/72    44/73    45/69    41/70    42/74    43/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Selma
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    43/72    45/74    47/69    43/70    44/74    44/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/10   
+
+   Kingsburg
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    41/72    43/74    45/69    41/70    42/74    42/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/10   
+
+   Dinuba
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    42/72    44/73    45/68    40/70    42/74    42/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Lemoore
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /70    42/73    44/75    48/70    43/70    43/75    44/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/10   
+
+   Hanford
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /71    41/74    42/76    47/72    43/73    42/77    43/75    
+      /00    00/00    00/00    10/10    00/00    00/00    00/10   
+
+   Visalia
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    42/73    43/75    46/70    43/71    43/76    43/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Exeter
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    44/72    46/73    45/68    42/70    45/74    45/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Tulare
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /68    44/72    46/73    48/69    44/70    44/74    45/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Lindsay
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    44/71    46/73    45/68    42/70    45/73    45/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Coalinga
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    46/72    49/75    48/71    44/69    47/74    48/73    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Corcoran
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    42/73    44/74    47/70    42/71    42/75    43/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Porterville
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    47/71    49/73    48/68    45/69    47/73    48/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Avenal
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /69    49/72    52/75    51/71    48/69    50/74    50/72    
+      /00    00/00    00/00    10/10    00/00    00/00    10/10   
+
+   Delano
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    44/72    45/73    47/69    43/69    44/75    45/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Wasco
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    42/73    44/74    45/69    42/70    42/75    43/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Shafter
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    42/73    44/75    45/69    42/69    42/76    43/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Bakersfield
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    49/73    52/73    50/68    48/69    49/75    50/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Lamont
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    45/73    49/75    48/69    45/71    47/76    48/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Arvin
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    46/73    49/75    48/69    45/72    48/76    49/73    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Taft
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /65    49/72    54/75    53/69    49/69    50/74    51/72    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+...SIERRA NEVADA...
+   Yosemite Valley
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Sunny    
+     /65    29/74    33/71    31/65    27/70    31/71    32/72    
+      /00    00/00    00/20    20/20    10/00    00/00    00/10   
+
+   Mariposa
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+     /62    44/65    49/66    45/61    42/63    47/67    47/67    
+      /00    00/00    00/10    20/20    00/00    00/00    10/10   
+
+   Oakhurst
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+     /64    33/70    37/71    37/65    33/68    36/71    38/71    
+      /00    00/00    00/10    20/20    00/00    00/00    10/10   
+
+   Shaver Lake
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    
+     /48    31/54    37/56    34/50    32/53    35/56    36/56    
+      /00    00/00    00/10    20/20    10/00    00/00    00/10   
+
+   Lodgepole
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /46    24/55    32/56    28/49    24/51    29/55    30/56    
+      /00    00/00    00/10    10/10    10/00    00/00    00/00   
+
+   Three Rivers
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    45/72    49/75    47/69    44/72    48/75    49/74    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+   Lake Isabella
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /63    39/71    43/74    43/66    39/70    42/73    44/74    
+      /00    00/00    00/00    10/10    00/00    00/00    00/00   
+
+...TEHACHAPI MOUNTAINS...
+   Tehachapi
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /54    32/60    35/65    37/58    34/60    36/64    36/64    
+      /00    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Frazier Park
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /54    28/61    34/65    32/59    28/59    32/64    33/64    
+      /00    00/00    00/00    00/10    00/00    00/00    00/00   
+
+...NORTHERN MOJAVE DESERT...
+   Inyokern
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    42/68    46/75    49/74    45/70    45/72    47/74    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Ridgecrest
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    39/70    42/75    45/75    42/71    41/74    43/75    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   California City
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /66    39/68    40/75    46/71    40/70    39/72    41/73    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Mojave
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /64    42/67    44/74    49/68    42/68    42/70    44/72    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Edwards AFB
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /67    38/68    38/75    46/71    38/70    37/72    38/73    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Rosamond
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /68    39/68    40/77    46/71    40/71    39/73    41/74    
+      /00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+
+$$
+

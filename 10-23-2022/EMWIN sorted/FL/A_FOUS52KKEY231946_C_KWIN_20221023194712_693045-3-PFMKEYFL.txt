@@ -1,0 +1,79 @@
+FOUS52 KKEY 231946
+PFMKEY
+
+Point Forecast Matrices
+National Weather Service Key West FL
+346 PM EDT Sun Oct 23 2022
+
+FLZ078-240900-
+Key West-Monroe FL
+24.55N  81.75W Elev. 3 ft
+346 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      75          83          75          83          72
+Temp          80 77 78 77 76 76 81 83 81 77 78 77 76 76 81 83 81 75 76 75 73 73
+Dewpt         69 69 69 70 70 71 72 72 71 71 71 71 71 72 72 72 71 70 70 70 70 70
+RH            69 76 74 79 82 85 74 70 72 82 79 82 85 87 74 70 72 84 82 84 90 90
+Wind dir      NE  E  E  E  E NE NE NE NE  E  E  E  E  E NE NE NE NE NE NE NE NE
+Wind spd      11 11 11 12 12 12 11 10  9  9 10 10 10  9  8  6  4  3  3  4  4  3
+Clouds        FW FW FW FW FW SC FW FW FW SC FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      0           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+Heat index    83                85 88 85                85 87 85               
+Max heat         84                89    87                89    86            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      71    84      72    84      75    84      74    84
+Temp          85 75   75 73 83 74   75 73 83 77   77 76 83 76   77 75 83 74
+Dewpt         70 69   69 70 70 69   70 71 71 71   72 72 71 70   72 72 72 71
+PWind dir        NE       N     E      NE     E       E     E       E     E
+Wind char        LT      LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    FW FW   FW FW FW CL   FW FW FW CL   FW FW FW FW   FW FW FW FW
+PoP 12hr          5      10    10      10    10      10    10      20    20
+Rain shwrs                   S  S    S  S  S  S    S  S  S  S    S  S  S  S
+
+$$
+FLZ077-240900-
+Marathon-Monroe FL
+24.72N  81.04W Elev. 5 ft
+346 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      74          85          74          85          72
+Temp          81 78 77 76 76 74 77 83 82 79 78 77 76 74 77 83 82 78 77 75 75 72
+Dewpt         70 70 70 70 71 71 72 72 71 71 72 72 71 71 72 72 71 71 71 71 69 69
+RH            69 76 79 82 85 90 85 70 69 77 82 85 85 90 85 70 69 79 82 87 82 90
+Wind dir      NE  E  E  E NE NE NE  E NE NE NE NE NE NE NE NE NE NE NE NE NE NE
+Wind spd      11 13 12 10 10 10  9  9  9 10  9  9  9  9  6  5  3  2  3  3  4  4
+Clouds        FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      0           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+Heat index    84                   87 86 82                88 86               
+Max heat         87                87    90                88    91            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          85      73    84      72    85      74    85      74    86
+Temp          83 78   75 73 82 78   75 72 82 79   76 74 83 79   76 74 84 78
+Dewpt         70 69   69 70 70 69   70 71 71 72   72 72 71 72   72 72 72 72
+PWind dir         N       N    NE      NE     E       E     E       E     E
+Wind char        LT      LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    FW FW   FW FW FW CL   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          5      10    10      10    10      10    10      20    20
+Rain shwrs                   S  S    S  S  S  S    S  S  S  S    S  S  S  S
+
+$$

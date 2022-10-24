@@ -1,0 +1,29 @@
+SHUS64 KMWI 232035
+FWOMOB
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (Mobile, AL)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+GROVE  015201 221023 13 R 2  79  43  28 0 0  92  4     79  51  95  28  0 0.000
+OPNPND 015902 221023 12 R 2  82  40  23 0 0 141  4     82  46  89  23  0 0.000
+DIXON  016301 221023 13 R 2  83  40  22 0 0 180  0     83  44  93  22  0 0.000
+SRS    016302 221023 13 R 3  78  34  21 0 0   0  0     78  48  81  21  0 0.000
+BON SE 016703 221023 13 R 1  80  60  51 0 0 118  4     82  58  99  40  0 0.000
+NAVAL  080202 221023 13 R 1  77  54  46 0 0 120  6     77  50  96  31  0 0.000
+BLACKW 080203 221023 13 R 2  82  35  19 0 0  71  2     82  46  85  19  0 0.000
+ESCAMB 089908 221023 13 O 0  74  45  36 0 0 129  7     77  46  94  29  0 0.000
+OKALOO 089912 221023 13 O 1  75  41  29 0 0 110  9     75  48  76  27  0 0.000
+SANTA  089913 221023 13 O 0  74  45  36 0 0 129  7     77  46  94  29  0 0.000
+WAUSAU 226702 221023 13 R 2  82  50  33 0 0  85  4     82  51 100  33  0 0.000
+GREENE 227601 221023 13 R 2  82  49  32 0 0 258  4     82  49 100  32  0 0.000
+BLACK  227802 221023 13 R 0  81  57  44 0 0 171  0     81  52 100  44  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

@@ -1,0 +1,141 @@
+FNUS51 KBUF 231733
+FWFBUF
+
+Fire Weather Planning Forecast for Western New York
+National Weather Service Buffalo NY
+133 PM EDT Sun Oct 23 2022
+
+.DISCUSSION...
+Primarily calm and quiescent weather will continue today and into 
+the middle of the week as high pressure currently centered over the 
+Canadian Maritimes ridges back across the region. During this time, 
+temperatures will be well above normal with highs averaging in the 
+upper 60s to low 70s.
+
+NYZ001-002-010-011-232100-
+Niagara-Orleans-Northern Erie-Genesee-
+133 PM EDT Sun Oct 23 2022
+
+                                Today      Tonight          Mon
+Cloud cover                    Mclear        Pcldy       Mclear
+Precip chc (%)                      0            0            0
+Precip type                      None         None         None
+Max/Min Temp                       72           47           71
+AM Wind (mph)                 Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var
+Precip amount                    0.00         0.00         0.00
+Precip duration                                                
+Precip begin                                                   
+Precip end                                                     
+Min/Max Humidity (%)               32           94           52
+Haines Index                        5            5            4
+LAL                                 1            1            1
+Mixing height (ft-AGL)           3730           70         3830
+Transport wind (kt)              E  9         E 12        SE  3
+Vent Rate (kt-ft)               33570          840        11490
+Dispersion Index                   34            1           11
+Remarks...None.
+
+$$
+
+NYZ012-019>021-085-232100-
+Wyoming-Chautauqua-Cattaraugus-Allegany-Southern Erie-
+133 PM EDT Sun Oct 23 2022
+
+                                Today      Tonight          Mon
+Cloud cover                    Mclear       Mclear       Mclear
+Precip chc (%)                      0            0            0
+Precip type                      None         None         None
+Max/Min Temp                       69           44           70
+AM Wind (mph)                 Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var
+Precip amount                    0.00         0.00         0.00
+Precip duration                                                
+Precip begin                                                   
+Precip end                                                     
+Min/Max Humidity (%)               28          100           47
+Haines Index                        4            4            4
+LAL                                 1            1            1
+Mixing height (ft-AGL)           4890           70         4160
+Transport wind (kt)             SE  6        SE  9        NE  2
+Vent Rate (kt-ft)               29340          630         8320
+Dispersion Index                   29            1            8
+Remarks...None.
+
+$$
+
+NYZ003>005-013-014-232100-
+Monroe-Wayne-Northern Cayuga-Livingston-Ontario-
+133 PM EDT Sun Oct 23 2022
+
+                                Today      Tonight          Mon
+Cloud cover                     Pcldy        Pcldy       Mclear
+Precip chc (%)                      0            0            0
+Precip type                      None         None         None
+Max/Min Temp                       71           47           71
+AM Wind (mph)                 Lgt/Var                   Lgt/Var
+PM Wind (mph)                   SE  5      Lgt/Var      Lgt/Var
+Precip amount                    0.00         0.00         0.00
+Precip duration                                                
+Precip begin                                                   
+Precip end                                                     
+Min/Max Humidity (%)               28           96           48
+Haines Index                        5            4            4
+LAL                                 1            1            1
+Mixing height (ft-AGL)           4360           70         4440
+Transport wind (kt)             SE 10        SE 11        NE  4
+Vent Rate (kt-ft)               43600          770        17760
+Dispersion Index                   44            1           18
+Remarks...None.
+
+$$
+
+NYZ006>008-232100-
+Oswego-Jefferson-Lewis-
+133 PM EDT Sun Oct 23 2022
+
+                                Today      Tonight          Mon
+Cloud cover                     Pcldy        Mcldy        Pcldy
+Precip chc (%)                      0            0            0
+Precip type                      None         None         None
+Max/Min Temp                       69           46           68
+AM Wind (mph)                 Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var
+Precip amount                    0.00         0.00         0.00
+Precip duration                                                
+Precip begin                                                   
+Precip end                                                     
+Min/Max Humidity (%)               28           91           55
+Haines Index                        4            4            2
+LAL                                 1            1            1
+Mixing height (ft-AGL)           3410           70         4400
+Transport wind (kt)             SE  8         E  7         N  5
+Vent Rate (kt-ft)               27280          490        22000
+Dispersion Index                   27            0           22
+Remarks...None.
+
+$$
+
+.EXTENDED FORECAST...
+
+.MONDAY NIGHT...Mostly clear. Lows around 50. 
+.TUESDAY...Mostly sunny. Highs in the lower 70s. 
+.WEDNESDAY...Mostly cloudy. A chance of showers. Lows in the mid
+50s. Highs in the upper 60s. 
+.THURSDAY...Mostly cloudy. A chance of showers. Cooler. Lows in
+the mid 40s. Highs in the mid 50s. 
+.FRIDAY...Partly cloudy. Lows around 40. Highs in the mid 50s. 
+.SATURDAY...Mostly cloudy. Lows in the lower 40s. Highs in the
+upper 50s. 
+
+WIND MONDAY NIGHT...North around 5 mph. 
+WIND TUESDAY...East around 5 mph. 
+WIND WEDNESDAY...East around 5 mph. 
+WIND THURSDAY...West around 10 mph. 
+WIND FRIDAY...Northeast around 5 mph. 
+WIND SATURDAY...East around 5 mph. 
+
+.OUTLOOK 8 TO 14 DAYS...
+Temperatures above normal.  Precipitation near normal.
+
+$$

@@ -1,0 +1,89 @@
+FPUS64 KBRO 232056
+SFTBRO
+TXZ248>255-351-353>355-451-454-455-241100-
+
+Tabular State Forecast for Deep South Texas
+National Weather Service Brownsville TX
+356 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Lower Texas Coast...
+   Port Mansfield
+   Ptcldy   Ptcldy   Sunny    Mocldy   Mocldy   Ptcldy   Sunny    
+   76/85    69/78    67/78    71/80    74/83    65/75    64/76    
+    10/10    70/20    00/00    10/40    40/40    10/10    10/10   
+
+   Port Isabel
+   Mocldy   Mocldy   Sunny    Mocldy   Tstrms   Ptcldy   Ptcldy   
+   77/85    71/79    68/80    73/82    76/84    67/77    67/77    
+    10/10    50/30    00/10    10/40    30/50    10/10    10/10   
+
+   South Padre Island
+   Ptcldy   Mocldy   Sunny    Mocldy   Tstrms   Ptcldy   Ptcldy   
+   79/83    73/78    71/78    75/80    77/82    69/75    69/76    
+    10/10    50/30    00/10    10/40    30/50    10/10    10/10   
+
+
+...Rio Grande Valley...
+   Brownsville
+   Mocldy   Mocldy   Sunny    Mocldy   Mocldy   Ptcldy   Ptcldy   
+   76/89    69/84    61/84    69/86    74/89    63/81    61/82    
+    10/10    50/30    00/10    10/30    20/40    20/10    10/10   
+
+   Harlingen
+   Ptcldy   Ptcldy   Sunny    Mocldy   Mocldy   Ptcldy   Sunny    
+   74/90    67/83    57/84    67/85    71/89    61/80    59/81    
+    10/10    60/20    00/00    10/30    20/40    10/10    10/10   
+
+   Raymondville
+   Ptcldy   Ptcldy   Sunny    Mocldy   Mocldy   Ptcldy   Sunny    
+   73/91    65/83    55/83    64/85    70/88    59/79    56/81    
+    10/10    60/10    00/00    10/40    30/40    10/10    00/10   
+
+   Weslaco
+   Ptcldy   Ptcldy   Sunny    Mocldy   Ptcldy   Ptcldy   Sunny    
+   75/92    68/84    58/86    67/85    72/89    61/81    59/82    
+    10/10    60/10    00/00    10/30    10/30    10/10    10/10   
+
+   McAllen
+   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   76/95    68/85    59/87    67/88    71/90    61/82    59/83    
+    20/00    60/10    00/00    10/30    10/20    10/10    00/00   
+
+
+...Other Deep South Texas Cities...
+   Rio Grande City
+   Vryhot   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   74/97    66/85    57/87    64/88    70/89    59/82    56/83    
+    20/00    40/00    00/00    00/20    10/10    10/10    00/00   
+
+   Falfurrias
+   Ptcldy   Sunny    Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    
+   73/92    64/81    53/82    62/84    69/85    58/78    55/80    
+    10/10    60/00    00/00    00/30    20/40    10/10    00/00   
+
+   Hebbronville
+   Ptcldy   Sunny    Sunny    Ptcldy   Mocldy   Sunny    Sunny    
+   72/93    63/80    55/82    60/83    67/84    57/78    54/79    
+    10/00    50/00    00/00    00/20    20/30    10/10    00/00   
+
+   Zapata
+   Vryhot   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   74/97    65/85    58/87    65/89    70/89    60/83    57/85    
+    20/00    40/00    00/00    00/20    10/20    00/10    00/00   
+
+
+$$
+

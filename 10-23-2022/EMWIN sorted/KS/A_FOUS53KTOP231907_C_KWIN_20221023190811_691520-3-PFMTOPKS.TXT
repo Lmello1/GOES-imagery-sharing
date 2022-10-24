@@ -1,0 +1,279 @@
+FOUS53 KTOP 231907
+PFMTOP
+FOUS53 KTOP 231907
+PFMTOP
+
+Point Forecast Matrices
+National Weather Service Topeka KS
+207 PM CDT Sun Oct 23 2022
+
+KSZ039-241000-
+Topeka-Shawnee KS
+39.08N  95.62W Elev. 979 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          63          41          61          36
+Temp          83 79 76 72 69 64 62 60 55 53 48 46 43 41 47 56 60 54 46 43 40 38
+Dewpt         61 59 59 61 60 58 55 50 49 47 46 41 37 35 36 35 33 33 33 32 31 31
+RH            47 50 56 68 73 81 78 69 80 80 93 83 79 79 65 45 36 45 60 65 70 76
+Wind dir       S  S  S  S  S SW NW NW NW NW NW NW NW  N  N NW NW NW NW NW NW NW
+Wind spd      25 26 27 26 18 13 10 10  6  3  2  4  4  5  9 12 13  4  2  2  2  2
+Wind gust     42 47 49 43 34                                                   
+Clouds        FW SC B1 B1 OV OV OV OV OV B2 SC SC SC B1 SC FW FW CL CL CL CL CL
+PoP 12hr                     30          80          20          10           0
+QPF 12hr                   0.04        0.67           0           0           0
+Rain shwrs              S  C  D  D  D  D  S  S                                 
+Sprinkles      C                                                               
+Tstms                      S                                                   
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      42    63      42    60      38    61      38    64
+Temp          60 56   47 43 59 57   47 42 56 53   44 39 57 54   43 39 59 55
+Dewpt         36 39   38 37 41 44   43 42 45 44   42 38 42 41   41 38 42 41
+PWind dir         E      SE    SE       E    NE      NE    NE      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC B1   B1 B1 B1 SC   FW SC SC SC   FW SC SC SC
+PoP 12hr          0       0    10      30    30      20     5       0     0
+Rain shwrs                           C  C  C  S    S                       
+
+$$
+KSZ040-241000-
+Lawrence-Douglas KS
+39.02N  95.22W Elev. 820 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      64          65          41          60          36
+Temp          82 78 75 72 70 67 63 59 54 53 49 47 44 42 47 55 58 53 45 42 40 38
+Dewpt         61 60 60 60 61 58 58 53 51 50 48 44 39 36 37 36 35 35 34 32 31 31
+RH            49 54 60 66 73 73 84 80 90 89 96 89 82 79 68 49 42 50 65 67 70 76
+Wind dir       S  S  S  S  S  S  W NW NW NW NW NW NW  N  N  N NW NW NW NW NW NW
+Wind spd      21 25 25 24 18 14  9 10  9  5  3  3  5  5  9 12 12  5  3  3  2  2
+Wind gust     39 46 46 41 35                                  24               
+Clouds        SC SC B1 B1 B2 OV OV OV OV B2 SC SC B1 B1 SC SC FW CL CL CL CL CL
+PoP 12hr                     30          90          30          10           0
+QPF 12hr                   0.02        0.80        0.02           0           0
+Rain shwrs                 C  D  D  D  D  C  C  S  S                           
+Sprinkles      C                                                               
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      42    63      41    59      38    61      37    63
+Temp          60 55   46 42 58 57   47 42 56 53   44 39 57 53   43 38 59 55
+Dewpt         37 39   38 37 41 43   43 41 45 44   42 39 43 41   41 38 43 42
+PWind dir         E      SE    SE       E    NE      NE    NE      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC B1   B1 B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0    10      30    30      20     5       5     0
+Rain shwrs                           C  C  C  C    S                       
+
+$$
+KSZ054-241000-
+Emporia-Lyon KS
+38.34N  96.20W Elev. 148 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      61          64          41          63          36
+Temp          83 78 74 71 68 66 60 57 53 52 48 46 44 42 48 57 61 54 47 43 40 38
+Dewpt         59 58 58 60 59 56 53 48 48 45 43 39 36 33 35 32 29 30 30 29 29 29
+RH            44 50 57 68 73 70 78 72 83 77 83 76 73 70 60 38 29 40 51 57 64 70
+Wind dir       S  S  S  S  S SW NW NW NW  N NW NW  N  N  N  N NW NW NW NW NW NW
+Wind spd      28 31 29 26 20 14 11 10  8  5  5  6  8  9 11 13 13  4  4  3  3  3
+Wind gust     44 52 50 42 35                                  25               
+Clouds        CL B1 B1 B1 B2 OV OV OV OV B1 SC SC B1 SC SC FW CL CL CL CL CL CL
+PoP 12hr                     30          80          30          10           0
+QPF 12hr                   0.06        0.73           0           0           0
+Rain shwrs              S  C  D  D  L  L  C  C  S  S                           
+Sprinkles      C                                                               
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      42    64      42    61      39    62      37    65
+Temp          62 56   46 42 59 58   47 44 57 54   44 40 58 54   44 39 60 56
+Dewpt         32 37   38 37 41 43   43 42 43 43   41 38 40 39   40 38 40 40
+PWind dir         E      SE     S       E    NE      NE     E      SE     S
+Wind char        LT      GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC B1   B1 B1 B1 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0    10      40    30      10     5       0     0
+Rain shwrs                           C  C  C  S                            
+
+$$
+KSZ022-241000-
+Manhattan-Riley KS
+39.15N  96.67W Elev. 1030 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          58          38          63          35
+Temp          85 75 73 71 65 59 57 57 57 53 47 45 42 40 46 57 61 55 47 42 39 37
+Dewpt         58 57 57 60 54 48 43 42 40 38 37 34 32 31 33 31 28 29 31 31 31 30
+RH            40 54 57 68 68 67 59 57 53 57 68 65 67 70 60 37 28 37 53 65 73 75
+Wind dir       S  S  S  S SW NW NW NW NW  W NW NW  N NW NW NW NW  N NW NW NW  N
+Wind spd      26 28 28 24 14  6 10 10  8  2  2  3  3  2  5 10 10  2  1  1  1  0
+Wind gust     43 50 54 41 27                                                   
+Clouds        FW SC B1 SC B2 OV OV OV B2 SC SC SC SC SC FW FW CL CL CL CL CL CL
+PoP 12hr                     30          60          10           5           0
+QPF 12hr                   0.10        0.26           0           0           0
+Rain shwrs           C  C  C  L  L  C  C                                       
+Sprinkles      C                                                               
+Tstms                S  S                                                      
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      42    63      41    59      36    62      36    64
+Temp          61 57   47 44 59 57   47 42 55 53   43 38 57 54   43 38 59 56
+Dewpt         32 35   38 37 41 43   43 41 42 42   40 37 39 39   38 37 39 40
+PWind dir        SE      SE     S       E    NE      NE    SE      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   SC SC B1 B2   B1 B1 B1 SC   FW FW SC SC   SC SC SC SC
+PoP 12hr          0       5    10      30    30      10     5       0     0
+Rain shwrs                           C  C  C  S                            
+
+$$
+KSZ020-241000-
+Concordia-Cloud KS
+39.55N  97.65W Elev. 1364 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          58          36          64          36
+Temp          86 80 73 68 58 54 54 57 58 54 47 43 41 38 46 58 62 56 47 44 40 38
+Dewpt         54 54 54 49 44 39 37 31 29 28 29 29 29 28 30 26 25 25 27 27 27 27
+RH            34 41 51 51 59 57 52 37 33 36 49 57 62 67 53 29 24 30 45 51 59 64
+Wind dir       S  S  S SW NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N  N  N  N
+Wind spd      27 28 25 19 12 11 14 13 11  6  6  6  6  5  8 11 11  5  3  3  3  3
+Wind gust     43 51 47 34 23                                                   
+Clouds        FW FW B1 SC B1 OV OV B2 B1 FW FW FW FW FW CL CL CL CL CL CL FW FW
+PoP 12hr                     20          30           5           5           0
+QPF 12hr                      0        0.02           0           0           0
+Rain shwrs        S  S  S     C  C                                             
+Tstms             S     S                                                      
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      43    63      40    60      36    62      36    65
+Temp          60 58   48 45 59 57   47 42 55 53   43 38 57 55   43 39 59 56
+Dewpt         29 31   35 35 38 40   40 38 37 36   36 34 35 35   35 33 35 34
+PWind dir        SE      SE    SE      NE     N       E     S       S     S
+Wind char        GN      GN    GN      GN    GN      LT    LT      LT    GN
+Avg clouds    SC SC   B1 B1 B1 B1   B1 B1 SC FW   FW FW SC SC   SC SC SC SC
+PoP 12hr          0      10    20      30    20      10     5       0     0
+Rain shwrs                   S       C  C  S  S                            
+
+$$
+KSZ059-241000-
+Garnett-Anderson KS
+38.28N  95.24W Elev. 997 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      65          65          42          60          36
+Temp          81 77 74 71 69 66 64 59 54 54 50 48 46 44 47 53 57 53 46 43 41 39
+Dewpt         59 57 57 59 60 60 60 54 52 50 48 46 42 38 38 36 35 35 34 32 31 30
+RH            47 50 55 66 73 81 87 83 93 86 93 93 86 79 71 52 43 50 63 65 67 70
+Wind dir       S  S  S  S  S  S SW NW NW NW NW  N  N  N  N  N  N  N NW NW NW NW
+Wind spd      25 29 29 25 21 16 10 10 10  5  4  4  5  8 11 13 12  4  3  3  2  2
+Wind gust     41 49 52 43 37 29 21 20                         24               
+Clouds        FW SC B1 B1 OV OV OV OV OV B2 B1 B1 B1 B1 SC SC FW CL CL CL CL FW
+PoP 12hr                     30          90          40          20           0
+QPF 12hr                   0.02        1.19        0.05           0           0
+Rain shwrs              S  C  D  D  D  D  C  C  C  C  S  S                     
+Sprinkles      C                                                               
+Tstms                            S                                             
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      41    63      41    58      39    60      38    62
+Temp          60 54   45 42 59 57   48 44 55 54   45 40 57 53   44 40 58 55
+Dewpt         36 39   38 37 40 43   44 42 44 44   42 40 41 41   41 39 41 41
+PWind dir         E      SE    SE      SE    NE      NE    NE      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW SC SC B1   B1 B2 B2 SC   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0    10      40    30      20    10       5     0
+Rain shwrs                           C  C  C  C    S                       
+
+$$
+KSZ012-241000-
+Hiawatha-Brown KS
+39.85N  95.54W Elev. 1099 ft
+207 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      60          61          37          58          34
+Temp          83 78 72 70 67 62 59 59 57 52 47 43 41 38 46 54 57 51 43 41 39 37
+Dewpt         60 60 60 60 59 53 47 43 45 44 41 36 33 32 35 34 32 32 32 30 29 29
+RH            46 54 66 71 75 72 64 55 64 74 79 76 73 79 65 46 38 48 65 65 67 72
+Wind dir       S  S  S  S  S  W NW NW  W NW  W NW NW NW NW NW NW NW NW NW NW NW
+Wind spd      27 29 28 27 20 13 12 10  8  3  5  6  6  6 11 13 14  5  4  5  4  4
+Wind gust     43 51 49 43 34                                  25               
+Clouds        FW FW SC B1 B2 OV OV OV B2 B2 SC FW SC SC SC FW FW CL CL CL CL FW
+PoP 12hr                     30          70          20          10           0
+QPF 12hr                   0.04        0.40           0           0           0
+Rain shwrs              S  C  L  L  L  L  S  S                                 
+Sprinkles      C                                                               
+Tstms                   S                                                      
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      41    60      40    57      36    59      36    62
+Temp          58 54   45 42 58 55   45 41 55 51   41 37 56 51   40 37 58 53
+Dewpt         35 37   37 36 39 42   42 40 42 42   40 36 40 39   39 36 39 38
+PWind dir         E      SE    SE       E    NE      NE     E      SE     S
+Wind char        GN      GN    BZ      LT    GN      LT    GN      LT    GN
+Avg clouds    FW SC   SC B1 B1 B1   B1 B1 B1 SC   FW FW SC SC   SC SC SC SC
+PoP 12hr          0       0    10      30    30      10     5       0     0
+Rain shwrs                           C  C  C  S                            
+
+$$

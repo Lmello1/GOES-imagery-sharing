@@ -1,0 +1,89 @@
+ASUS65 KREV 231824
+RTPREV
+
+Regional Temperature and Precipitation Table
+National Weather Service Reno Nevada
+1115 AM PDT Sun Oct 23 2022
+
+Values represent highs yesterday, lows over the last 12 hours
+and precipitation over the last 24 hours.
+
+Snow depth is measured daily and is valid as of 5 AM PDT.
+.BR REV 1023 P DH01/TAIRZX/DH05/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:California and Nevada
+:Automated Temperature and Precipitation Stations
+:...............................................................
+:       Station              Max / Min / 24 hr /  Snow /  Snow
+:        Name                Temp/ Temp/ Pcpn  /  Fall /  Depth
+:...............................................................
+NFL  : Fallon Naval Air St :   M /   M /     M /       /     
+LOL  : Lovelock Airport    :  68 /  46 /  0.00 /       /     
+RNO  : Reno Airport        :  66 /  31 /    T  /   0.0 /    0
+TVL  : South Lake Tahoe Ai :  56 /  21 /  0.02 /       /     
+CXP  : Carson City Airport :  64 /  23 /  0.02 /       /     
+HTH  : Hawthorne Airport A :   M /   M /     M /       /     
+MEV  : Minden Airport AWOS :  64 /  21 /  0.05 /       /     
+MMH  : Mammoth Yosemite Ai :  57 /  23 /  0.00 /       /     
+:
+.END
+
+.BR REV 1023 P DH11/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Automated full time stations
+:24 Hour high temperatures ending at 1100 AM PDT
+:Low temperatures this morning
+:24 hour precipitation
+:...................................................................
+:      Station           Report  Max  / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp / Temp /  Pcpn  /  Fall / Depth
+:...................................................................
+:
+HICC1:  Palisades 8K FT : DH1100/  38 /  20  /        /       /    
+MKEC1:  Markleeville CA : DH1100/  56 /  24  /     0  /       /    
+:
+.END
+
+.BR REV 1023 P DH05/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:California and Nevada Cooperative Weather Observer
+:Temperature and Precipitation Reports
+:Values are for the past 24 hours.
+:...................................................................
+:      Station           Report  Max  / Min  / 24 hr  /  Snow / Snow
+:       Name              Time   Temp / Temp /  Pcpn  /  Fall / Depth
+:...................................................................
+:
+BDEC1:  Bodie Calif St P: DH0800/   M /  12  /  0.30  /   1.0 /   1
+CRCN2:  Carson City - FS: DH0700/  58 /  25  /  0.00  /   0.0 /   0
+CEDC1:  Cedarville      : DH0830/  48 /  22  /  0.08  /    T  /   0
+DAGN2:  Dagget Pass 3ENE: DH0900/  44 /  22  /    T   /    T  /   0
+GLBN2:  Glenbrook       : DH0700/  50 /  23  /  0.02  /   0.4 /   T 
+LEVC1:  Lee Vining      : DH0900/  57 /  24  /  0.06  /     M /   M
+MNAN2:  Mina 1SE        : DH0700/  66 /  37  /  0.10  /   0.0 /   0
+MINN2:  Minden          : DH0600/  65 /  26  /  0.07  /   0.0 /   0
+REV  :  NWS Reno        :    DHM/  62 /  31  /    T   /    T  /   0
+SPSN2:  Spanish Springs : DH0900/  65 /  26  /    T   /   0.0 /   0
+SNVC1:  Susanville      : DH0900/   M /  26  /    T   /   0.0 /   0
+TAHC1:  Tahoe City      : DH0800/  52 /  20  /  0.08  /    T  /   T 
+TAAC1:  Tahoma          : DH0700/  45 /  23  /  0.09  /    T  /   0
+TRK  :  Truckee Airport : DH0456/  54 /  13  /  0.00  /   0.0 /   0
+VERC1:  Verdi 2W        : DH0900/  54 /  23  /    T   /   0.0 /   0
+VRCN2:  Virginia City   : DH0800/  58 /  32  /    M   /     M /   0
+YRGN2:  Yerington       : DH0800/  55 /  30  /    T   /   0.0 /   0
+:
+.END 
+
+Selected hydrological information for the Truckee River Basin...
+   Lake level for Lake Tahoe at Tahoe City....6223 feet at 1100 AM
+   Truckee River water temperatures at Sparks
+      Minimum this morning....................47 degrees
+      Maximum yesterday afternoon.............54 degrees
+   
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+
+$$

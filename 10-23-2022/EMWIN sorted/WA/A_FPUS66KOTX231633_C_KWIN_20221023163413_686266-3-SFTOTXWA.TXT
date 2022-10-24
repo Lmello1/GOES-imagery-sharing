@@ -1,0 +1,135 @@
+FPUS66 KOTX 231633
+SFTOTX
+IDZ001>004-026-027-WAZ031>038-041-043>044-047>049-240100-
+
+Tabular State Forecast for Eastern Washington and Northern Idaho
+National Weather Service Spokane WA
+933 AM PDT SUN OCT 23 2022
+
+Rows Include...
+   Daily predominant daytime weather 6am-6pm
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6pm-6am/daytime 6am-6pm
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+...Eastern Washington...
+   Spokane Airport
+   Sunny    Rain     Rain     Mocldy   Ptcldy   Mocldy   Mocldy   
+     /49    35/47    33/49    34/47    32/50    35/53    36/52    
+      /10    80/80    20/50    60/40    20/20    20/30    30/30   
+
+   Spokane Downtown
+   Sunny    Rain     Rain     Rain     Mocldy   Mocldy   Mocldy   
+     /51    36/47    35/50    34/49    33/51    36/55    37/53    
+      /10    90/90    20/50    60/50    20/20    30/30    30/40   
+
+   Deer Park
+   Sunny    Rnsnow   Rain     Mocldy   Mocldy   Mocldy   Mocldy   
+     /50    31/45    29/47    29/45    28/47    31/51    33/50    
+      /10    90/90    20/50    60/40    20/20    30/40    40/40   
+
+   Davenport
+   Sunny    Rain     Rain     Mocldy   Ptcldy   Mocldy   Mocldy   
+     /50    34/49    32/49    32/48    30/50    34/53    36/52    
+      /00    80/80    10/60    60/30    10/20    30/40    40/40   
+
+   Wilbur
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+     /51    35/50    31/50    32/49    31/51    35/54    36/53    
+      /00    60/60    00/60    60/20    10/20    30/40    40/40   
+
+   Grand Coulee
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+     /56    37/57    36/53    37/53    35/55    41/57    41/57    
+      /00    60/60    10/60    60/20    10/20    30/40    40/30   
+
+   Newport
+   Sunny    Rnsnow   Rain     Mocldy   Mocldy   Mocldy   Mocldy   
+     /49    30/43    28/46    28/45    26/46    28/50    29/49    
+      /10    90/90    30/50    50/40    20/20    30/30    30/40   
+
+   Colville
+   Sunny    Rain     Rain     Mocldy   Mocldy   Mocldy   Mocldy   
+     /51    30/48    21/47    21/47    20/48    25/50    26/50    
+      /10    80/80    20/50    50/30    10/30    30/40    40/40   
+
+   Republic
+   Sunny    Rnsnow   Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+     /54    29/49    20/50    20/49    18/49    24/51    25/51    
+      /00    60/60    10/60    60/20    10/30    30/40    40/40   
+
+   Omak
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+     /56    35/54    30/52    33/52    31/52    36/54    36/54    
+      /00    50/50    10/50    50/20    10/30    30/40    40/40   
+
+   Winthrop
+   Sunny    Rnsnow   Rain     Ptcldy   Ptcldy   Rain     Ptcldy   
+     /54    29/54    27/50    24/50    25/50    28/51    29/52    
+      /00    70/70    40/60    60/30    20/40    40/50    50/40   
+
+   Wenatchee
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /53    37/56    37/50    36/52    35/53    38/53    39/53    
+      /00    60/60    20/60    60/30    20/30    30/40    40/40   
+
+   Moses Lake
+   Sunny    Mocldy   Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /55    37/56    34/53    31/54    29/55    34/56    34/56    
+      /00    40/40    00/50    50/20    10/20    20/30    30/30   
+
+   Ritzville
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+     /51    36/52    34/53    32/52    31/54    34/57    36/56    
+      /00    80/80    10/60    60/30    10/20    20/30    30/30   
+
+   Pullman
+   Ptcldy   Rnsnow   Mocldy   Rain     Ptcldy   Mocldy   Mocldy   
+     /44    31/44    32/47    30/45    28/47    30/51    32/51    
+      /10    80/90    50/40    70/60    20/20    20/30    30/40   
+
+   Rosalia
+   Ptcldy   Rain     Rain     Rain     Ptcldy   Mocldy   Mocldy   
+     /48    34/46    32/49    31/47    29/50    31/53    34/53    
+      /10    80/80    20/50    60/50    20/20    20/30    30/40   
+
+...Northern Idaho...
+   Bonners Ferry
+   Ptcldy   Rain     Mocldy   Mocldy   Mocldy   Mocldy   Mocldy   
+     /48    32/43    31/44    29/44    29/44    31/47    31/47    
+      /00    90/90    40/40    50/40    20/30    30/40    40/40   
+
+   Sandpoint
+   Sunny    Rain     Mocldy   Mocldy   Mocldy   Mocldy   Mocldy   
+     /47    33/43    33/42    31/42    30/42    31/46    31/46    
+      /10    90/90    50/40    50/40    20/30    30/30    30/40   
+
+   Coeur d'Alene
+   Ptcldy   Rnsnow   Rain     Rain     Mocldy   Mocldy   Mocldy   
+     /47    33/44    34/47    33/45    33/47    34/51    35/50    
+      /10    90/90    40/50    60/50    20/20    30/30    30/40   
+
+   Kellogg
+   Ptcldy   Rnsnow   Mocldy   Rnsnow   Mocldy   Mocldy   Mocldy   
+     /42    33/41    36/42    35/40    34/42    35/46    38/47    
+      /10    80/90    80/40    60/60    30/20    20/30    30/40   
+
+   Saint Maries
+   Ptcldy   Rnsnow   Mocldy   Rnsnow   Mocldy   Mocldy   Mocldy   
+     /46    32/43    33/45    31/43    29/47    30/49    32/50    
+      /10    80/90    70/40    60/60    30/20    20/30    30/40   
+
+   Lewiston
+   Ptcldy   Rain     Mocldy   Rain     Ptcldy   Mocldy   Mocldy   
+     /49    35/48    38/53    39/50    37/54    38/56    39/57    
+      /10    60/90    50/40    70/60    20/10    10/30    30/40   
+
+
+$$
+

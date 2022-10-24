@@ -1,0 +1,66 @@
+FOUS71 KRHA 231950
+FFHNJ1
+HEADWATER STATEMENT FOR NEW JERSEY STREAMS                              
+MIDDLE ATLANTIC RIVER FORECAST CENTER                                   
+NATIONAL WEATHER SERVICE STATE COLLEGE PA                               
+332 PM EDT SUN OCT 23 2022
+                                                                        
+APPROXIMATE 1/3/6/12-HR BASIN AVERAGED RAINFALL (INCHES)                
+REQUIRED TO CAUSE MINOR, MODERATE, AND MAJOR FLOODING AT                
+THE INDICATED HEADWATER LOCATIONS.                                      
+                                                                        
+.B RHA 221023 Z DH18/DC2210231932/DUE/PPHCF/PPTCF/PPQCF/PPKCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  12HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====  ====================  ==================
+:                                                                       
+: NWS BROOKHAVEN SERVICE AREA...                                        
+:  Ramapo River...                                                      
+MAWN4     4.5/  4.9/  5.2/  5.3 :Mahwah (8ft)          Ramapo River
+:MAWN4md  5.4/  5.9/  6.2/  6.4  Mahwah (9)            Ramapo River
+:MAWN4mj  6.5/  7.0/  7.4/  8.0  Mahwah (12)           Ramapo River
+:  Hohokus Brook...                                                     
+HOHN4     1.8/  2.1/  2.6/  3.6 :Ho-Ho-Kus (3ft)       Hohokus Brook
+:  Saddle River...                                                      
+LODN4     2.1/  2.4/  3.2/  3.3 :Lodi (6ft)            Saddle River
+:LODN4md  2.7/  3.1/  3.9/  4.2  Lodi (7)              Saddle River
+:LODN4mj  3.0/  3.4/  4.4/  4.7  Lodi (8)              Saddle River
+:  Rahway River...                                                      
+SPGN4     2.4/  2.5/  2.6/  3.2 :Springfield (5.5ft)   Rahway River
+:                                                                       
+: NWS MT. HOLLY SERVICE AREA...                                         
+:  PASSAIC BASIN...                                                     
+:  Passaic River...                                                     
+CAMN4     3.6/  4.0/  4.9/  5.8 :Chatham (6ft)         Passaic River
+:CAMN4md  5.8/  6.3/  7.4/  8.0  Chatham (7.2)         Passaic River
+:CAMN4mj  6.5/  7.0/  7.4/  8.0  Chatham (8.2)         Passaic River
+:  Rockaway River...                                                    
+BOTN4     6.5/  7.0/  7.4/  8.0 :Boonton Abv. (5ft)    Rockaway River
+:BOTN4md  6.5/  7.0/  7.4/  8.0  Boonton Abv. (6)      Rockaway River
+:BOTN4mj  6.5/  7.0/  7.4/  8.0  Boonton Abv. (7)      Rockaway River
+:  Whippany River...                                                    
+WHIN4     3.1/  3.3/  3.7/  3.9 :Morristown (6ft)      Whippany River
+:  RARITAN BASIN..                                                      
+:  South Branch Raritan River...                                        
+STTN4     3.8/  4.0/  4.1/  4.5 :Stanton (8ft)         S. Br. Raritan River
+:STTN4md  5.1/  5.4/  5.5/  6.0  Stanton (10)          S. Br. Raritan River
+:STTN4mj  6.4/  6.8/  6.9/  7.7  Stanton (12)          S. Br. Raritan River
+:  North Branch Raritan River...                                        
+RRTN4     3.0/  3.2/  3.5/  3.9 :Raritan (10ft)        N. Br. Raritan River
+:RRTN4md  3.6/  4.0/  4.4/  5.0  Raritan (12)          N. Br. Raritan River
+:RRTN4mj  4.9/  5.4/  5.9/  6.8  Raritan (15)          N. Br. Raritan River
+:  Millstone River...                                                   
+BKWN4     3.0/  3.2/  3.4/  3.5 :Blackwells Mills(9ft)   Millstone River
+:BKWN4md  3.3/  3.6/  3.8/  3.9  Blackwells Mills(10)   Millstone River
+:BKWN4mj  5.1/  5.6/  5.9/  6.1  Blackwells Mills(15)   Millstone River
+:  DELAWARE BASIN...                                                    
+:  Assunpink Creek...                                                   
+TACN4     2.6/  2.7/  3.1/  3.5 :Trenton (8.5ft)       Assunpink Creek
+:TACN4md  3.1/  3.3/  3.7/  4.1  Trenton (9.5)         Assunpink Creek
+:TACN4mj  3.8/  4.0/  4.5/  5.0  Trenton (11)          Assunpink Creek
+.END
+$$
+NNNN
+:chps
+$$
+NNNN

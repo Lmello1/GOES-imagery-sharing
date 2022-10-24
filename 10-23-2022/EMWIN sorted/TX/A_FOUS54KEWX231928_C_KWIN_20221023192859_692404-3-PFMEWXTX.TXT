@@ -1,0 +1,551 @@
+FOUS54 KEWX 231928
+PFMEWX
+
+Point Forecast Matrices
+National Weather Service Austin/San Antonio TX
+228 PM CDT Sun Oct 23 2022
+
+TXZ192-241000-
+Austin Bergstrom-Travis TX 
+30.19N  97.67W Elev. 462 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          80          54          76          45
+Temp          87 81 75 73 72 72 73 76 77 74 69 65 58 55 61 71 76 69 58 53 48 46
+Dewpt         64 65 68 70 70 70 72 73 73 71 68 57 47 44 43 41 43 44 45 44 43 41
+RH            46 58 79 90 93 93 97 90 87 90 97 75 67 66 51 34 31 40 62 71 83 83
+Wind dir       S  S  S  S  S  S  S  S SW  N  S  W NW NW NW NW  N  N  N  W NW NW
+Wind spd      19 18 17 13 13 13 14 16 13  9 11 16 14 19 19 16 13  5  3  2  2  2
+Wind gust              24                            29 33                     
+Clouds        SC B1 B1 B2 OV OV OV OV B2 SC SC SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          80          60           0           0
+QPF 12hr                      0        0.29        0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  L  L  D  L  L  L  C  C                           
+Tstms                      C  L  L  D  L  L  L  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      49    81      60    75      52    73      48    76
+Temp          73 71   55 49 76 76   64 61 71 69   56 52 69 68   55 49 71 70
+Dewpt         41 44   46 48 55 58   62 61 62 55   53 50 51 49   48 47 50 50
+PWind dir         E      SE    SE      SE     N       N     N      NW     N
+Wind char        LT      LT    GN      LT    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW SC   B1 B1 B1 SC   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      50    50      10     0       0     0
+Rain shwrs                      S    C  C  C  S                            
+Tstms                           S    C  C  C  S                            
+
+$$
+TXZ192-241000-
+Austin Camp Mabry-Travis TX 
+30.32N  97.77W Elev. 597 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          81          55          76          49
+Temp          86 82 75 73 73 72 73 76 77 75 70 65 60 56 61 71 76 71 61 56 53 50
+Dewpt         64 64 67 69 69 69 71 73 73 72 68 54 45 42 42 40 42 44 44 43 42 41
+RH            48 55 76 87 87 90 93 90 87 90 93 68 58 59 49 32 30 38 53 62 66 71
+Wind dir       S  S  S  S  S  S  S  S SW NW SW NW NW NW NW NW NW  N  N  W  W  W
+Wind spd      17 16 16 13 12 12 13 14 10  6 11 14 16 20 18 16 11  3  2  2  2  2
+Wind gust        26                   20          26 33 31                     
+Clouds        SC B1 B2 OV OV OV OV OV B1 SC SC SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          80          60           0           0
+QPF 12hr                      0        0.48        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  L  L  D  L  L  L  C  C                           
+Tstms                      C  L  L  D  L  L  L  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      51    80      61    74      53    72      50    75
+Temp          74 72   57 51 74 76   65 62 70 69   58 54 68 68   56 50 70 70
+Dewpt         41 43   45 48 54 58   61 60 61 54   52 50 50 49   48 47 50 49
+PWind dir        SE      SE    SE      SE     N       N     N      NW     N
+Wind char        LT      LT    GN      LT    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW SC   B1 B1 B1 SC   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      50    50      10     0       0     0
+Rain shwrs                      S    C  C  C  S                            
+Tstms                           S    C  C  C  S                            
+
+$$
+TXZ172-241000-
+Burnet Airport-Burnet TX 
+30.74N  98.23W Elev. 1191 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          80          52          74          46
+Temp          85 83 76 74 72 72 71 74 76 74 67 62 56 53 57 69 73 69 58 54 50 47
+Dewpt         60 61 64 67 68 68 69 69 66 64 59 49 43 42 41 38 37 37 38 39 39 38
+RH            43 47 66 79 87 87 93 84 71 71 75 62 62 66 55 32 27 31 47 57 66 71
+Wind dir       S  S  S  S  S  S  S  S  W  S  W NW NW NW NW NW NW  N NE SE  S SW
+Wind spd      20 16 16 17 17 13 16 16 10  5 11 17 20 20 19 17 13  4  2  2  2  2
+Wind gust        27 27 27 27 26                   31 31                        
+Clouds        SC B1 B2 OV OV OV OV B2 SC SC B1 SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          80          30           0           0
+QPF 12hr                   0.02        0.42           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  L  D  D  C  C  C                                 
+Tstms                      C  L  D  D  C  C  C                                 
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      51    79      59    72      51    71      49    75
+Temp          73 71   58 52 73 76   65 60 68 66   56 51 67 67   55 49 70 70
+Dewpt         39 40   43 46 53 55   59 57 57 51   50 48 49 46   46 45 48 47
+PWind dir         S      SE    SE       S    NW       N     N      NW     W
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW SC   SC B1 B1 SC   FW FW SC FW   FW FW FW FW
+PoP 12hr          0       0    20      40    40       5     0       0     0
+Rain shwrs                      S    C  C  C  S                            
+Tstms                           S    C  C  C  S                            
+
+$$
+TXZ183-241000-
+Del Rio Intl -Val Verde TX 
+29.38N 100.92W Elev. 1017 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          89          56          77          51
+Temp          81 80 77 75 73 71 74 83 87 84 73 65 60 56 62 72 77 73 63 58 54 51
+Dewpt         65 65 64 65 67 69 70 65 59 56 46 35 32 36 39 36 34 37 38 40 40 41
+RH            58 60 64 71 81 93 87 55 39 38 38 33 35 47 43 27 21 27 39 51 59 68
+Wind dir      SE SE SE SE SE SE SW  N  N  N NW NW NW NW NW NW NW  E SE SE SE SE
+Wind spd      18 13 12 16 18 13 10  9  6 11 23 23 21 17 14 10  6  2  3  5  5  6
+Clouds        B2 B2 B2 B2 B2 B2 SC FW FW FW FW CL CL CL CL CL CL CL CL CL CL CL
+PoP 12hr                     20          20           5           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S  S                                                
+Tstms                   S  S                                                   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      57    80      61    78      54    75      51    77
+Temp          74 74   64 58 74 77   67 62 74 74   61 54 70 71   58 52 71 73
+Dewpt         43 44   46 53 61 61   63 55 42 45   48 48 47 46   47 48 49 49
+PWind dir        SE      SE    SE       S    NW       N     N       E    SE
+Wind char        GN      GN    GN      GN    BZ      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW SC SC   SC SC FW CL   CL CL FW FW   CL CL FW FW
+PoP 12hr          0       0     5      20     5       0     0       0     0
+Rain shwrs                              S                                  
+Tstms                                   S                                  
+
+$$
+TXZ217-241000-
+Eagle Pass-Maverick TX 
+28.71N 100.49W Elev. 732 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          91          58          78          51
+Temp          84 82 78 77 75 72 75 86 91 87 76 69 63 59 64 74 78 73 64 59 55 52
+Dewpt         67 67 65 68 70 70 71 69 64 61 52 40 34 33 40 38 38 40 39 41 41 41
+RH            57 61 64 74 84 93 87 57 41 42 43 35 34 37 41 27 24 30 40 51 59 66
+Wind dir      SE SE SE SE SE SE  S  W  W  N  N NW NW NW NW NW NW  N  S  S SE  E
+Wind spd      13  9  9 13 13 11  9  8  4  4 14 23 19 19 16 11  6  2  2  3  3  3
+Wind gust                                      35 29                           
+Clouds        B2 B2 B2 B2 B2 B1 SC CL CL FW FW CL CL CL CL CL CL CL CL CL CL CL
+PoP 12hr                     20          10          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S  S                                                   
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          80      58    81      62    78      56    76      52    78
+Temp          76 76   65 59 76 79   69 63 75 74   63 56 73 72   60 53 74 74
+Dewpt         45 47   50 56 64 65   66 57 45 45   49 48 48 48   47 48 50 50
+PWind dir        SE      SE    SE       E    NW       N     N      NE    SE
+Wind char        GN      GN    GN      GN    BZ      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW SC SC   SC SC FW CL   CL CL FW FW   CL CL FW FW
+PoP 12hr          0       0     5      20    10       0     0       0     0
+Rain shwrs                              S                                  
+Tstms                                   S                                  
+
+$$
+TXZ188-241000-
+Fredericksburg Airport-Gillespie TX 
+30.25N  98.92W Elev. 1670 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      68          81          49          74          42
+Temp          83 81 73 70 69 68 71 74 78 76 65 59 53 49 57 69 74 68 55 49 45 43
+Dewpt         60 58 63 66 66 67 68 68 65 61 55 41 35 40 38 33 33 34 36 36 36 36
+RH            46 46 71 87 90 97 90 82 64 60 70 51 50 71 49 26 22 28 49 61 70 76
+Wind dir       S  S  S  S  S  S  S SW  W SW  W NW NW NW NW NW NW  N  E  S  S  S
+Wind spd      20 14 14 17 16 16 16 14 11  5 11 17 21 21 19 17 12  4  2  2  3  3
+Wind gust        25       26                   27    32                        
+Clouds        SC B2 B2 OV OV OV B2 B1 SC FW SC FW FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          60          20           0           0
+QPF 12hr                   0.01        0.12           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  L  L  C  C  S  S                                 
+Tstms                   C  C  L  L  C  C  S  S                                 
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      49    79      56    73      48    71      44    75
+Temp          73 71   54 49 75 75   62 57 71 68   55 48 67 66   50 45 70 69
+Dewpt         36 37   43 46 54 57   61 56 50 47   47 46 46 44   44 43 45 44
+PWind dir         S       S     S       S    NW       N     N      NW    SW
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW FW SC   SC B1 SC FW   FW FW SC FW   FW FW FW FW
+PoP 12hr          0       0    10      40    30       5     0       0     0
+Rain shwrs                           C  C  C                               
+Tstms                                C  C  C                               
+
+$$
+TXZ173-241000-
+Georgetown Airport-Williamson TX 
+30.69N  97.69W Elev. 804 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          78          52          75          45
+Temp          86 82 75 73 73 71 72 75 74 72 67 61 56 52 59 70 74 68 58 53 49 46
+Dewpt         65 64 67 69 69 68 71 73 72 70 66 54 45 43 42 42 43 44 44 43 41 40
+RH            50 55 76 87 87 90 97 94 93 93 97 78 66 71 53 36 33 42 59 69 74 79
+Wind dir       S  S  S  S  S  S  S  S NW NE SW  W NW NW NW NW NW  N  N  W  W  W
+Wind spd      20 18 18 17 17 16 18 18 12  8 11 18 20 23 21 19 14  5  3  2  3  3
+Wind gust              27 27                         34 32                     
+Clouds        SC B1 B2 OV OV OV OV B2 B1 SC SC SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          80          50           0           0
+QPF 12hr                      0        0.54        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  L  D  D  L  C  C  C  C                           
+Tstms                      C  L  D  D  L  C  C  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      49    79      58    73      50    72      48    75
+Temp          73 71   55 49 74 74   62 59 69 67   56 51 68 68   55 48 70 69
+Dewpt         42 44   44 46 53 56   59 58 60 55   52 49 51 50   47 46 51 50
+PWind dir        SE      SE    SE      SE    NW       N     N      NW    NW
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW FW   SC B1 B1 SC   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      50    50      10     5       0     0
+Rain shwrs                      S    C  C  C  C                            
+Tstms                           S    C  C  C  C                            
+
+$$
+TXZ204-241000-
+Hondo Airport-Medina TX 
+29.36N  99.16W Elev. 912 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          88          56          80          46
+Temp          86 84 78 75 74 73 74 80 85 83 73 66 60 56 64 75 80 74 61 54 49 47
+Dewpt         63 63 67 69 69 69 71 71 68 64 59 44 36 37 39 36 35 36 39 39 39 39
+RH            46 49 69 82 84 87 90 74 57 53 62 45 41 49 40 24 20 25 44 57 68 74
+Wind dir       S SE SE SE  S  S  S  S SW NW NW NW NW NW  N  N NW  N NE  E NE NE
+Wind spd      17 14 17 13 12 12 12 12  9  6 16 19 18 19 19 13 10  5  3  4  4  5
+Wind gust                                      29                              
+Clouds        B1 B1 B2 OV OV OV OV B1 FW FW SC FW FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          40          30           0           0
+QPF 12hr                   0.03        0.15           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  C  C  C  S     C  C                                 
+Tstms                   C  C  C  C        C  C                                 
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          81      54    81      62    78      53    77      50    79
+Temp          75 75   59 54 76 77   67 63 75 72   60 54 73 71   55 50 74 73
+Dewpt         39 40   48 50 59 62   65 62 53 48   49 47 47 46   46 45 48 47
+PWind dir        SE      SE    SE      SE    NW       N     N       N    SW
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW SC SC   B1 B1 SC FW   CL FW FW FW   CL FW FW FW
+PoP 12hr          0       0    10      30    30       0     0       0     0
+Rain shwrs                           S  C  C                               
+Tstms                                S  C  C                               
+
+$$
+TXZ186-241000-
+Kerrville Airport-Kerr TX 
+29.98N  99.09W Elev. 1679 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      68          82          50          76          42
+Temp          84 80 73 71 70 69 71 75 80 77 67 61 55 51 59 71 75 69 56 50 46 42
+Dewpt         62 62 65 68 67 67 70 70 67 63 56 42 35 38 38 33 34 35 37 37 37 36
+RH            48 54 76 90 90 93 97 84 65 62 68 49 47 61 45 25 22 28 49 61 71 79
+Wind dir       S  S SE  S  S  S  S SW NW SW NW NW NW NW NW NW NW  N  E SE  S  S
+Wind spd      19 16 14 16 14 13 13 12 11  5 13 18 23 21 20 16 11  4  2  1  2  3
+Wind gust                 25                   29    39 31                     
+Clouds        SC B1 B2 OV OV OV OV B2 SC FW SC FW FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          50          20           0           0
+QPF 12hr                   0.04        0.15           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C  C  C  S  S  S                                 
+Tstms                   C  C  C  C  C     S  S                                 
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      49    79      58    74      49    72      45    76
+Temp          73 71   54 49 74 75   63 59 71 68   54 49 68 66   51 46 71 70
+Dewpt         37 39   44 48 57 59   62 57 51 47   47 46 46 45   45 44 46 45
+PWind dir         S       S     S       S    NW       N     N       N    SW
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW FW SC   SC B1 SC FW   FW FW FW FW   CL FW FW FW
+PoP 12hr          0       0    10      40    30       5     0       0     0
+Rain shwrs                           S  C  C                               
+Tstms                                S  C  C                               
+
+$$
+TXZ209-241000-
+La Grange Airport-Fayette TX 
+29.92N  96.95W Elev. 298 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          81          57          76          46
+Temp          87 81 75 74 73 73 77 79 79 75 72 69 61 57 62 71 76 68 58 54 49 47
+Dewpt         63 64 67 69 69 68 70 70 71 70 69 64 53 48 45 42 42 43 44 44 43 42
+RH            45 56 76 84 87 84 79 74 77 84 90 84 75 72 54 35 30 40 59 69 80 83
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  W NW NW NW NW NW  N  N NW  N  N
+Wind spd      18 16 12 12 11 11 17 16 16 12 12 17 11 13 20 17 14  4  2  1  2  2
+Wind gust                 21       27                                          
+Clouds        SC B1 B2 B2 B2 B2 B1 OV B2 B1 B2 B1 SC CL CL CL CL CL CL CL CL CL
+PoP 12hr                     20          60          80           0           0
+QPF 12hr                      0        0.51        0.41           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  C  L  L  D  D  L  L                           
+Tstms                      S  C  C  L  L  D  D  L  L                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          80      51    81      61    75      53    73      50    77
+Temp          76 72   55 51 77 75   65 61 71 69   58 54 70 68   56 51 72 70
+Dewpt         41 43   48 47 52 56   61 61 62 58   54 51 51 51   49 48 52 52
+PWind dir        NE      SE    SE      SE     N       N     N      NW     N
+Wind char        LT      LT    GN      LT    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW SC   B1 B1 B1 SC   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      50    50      10     5       0     0
+Rain shwrs                      S    C  C  C  C                            
+Tstms                           S    C  C  C  C                            
+
+$$
+TXZ207-241000-
+New Braunfels Airport-Guadalupe TX 
+29.71N  98.04W Elev. 699 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          86          56          78          48
+Temp          89 83 77 75 74 74 76 78 83 80 73 68 61 57 64 74 77 71 61 55 51 49
+Dewpt         62 64 67 69 69 69 70 70 70 68 66 55 43 41 40 37 38 40 40 41 40 40
+RH            41 53 71 82 84 84 82 76 65 67 79 63 51 55 41 26 24 32 46 59 66 71
+Wind dir       S  S  S  S  S  S  S  S SW  E  S NW NW NW NW  N  N  N NE NW NW  N
+Wind spd      19 21 19 16 14 13 17 17 13 13 18 19 16 18 21 17 13  8  4  3  3  4
+Clouds        SC B1 B2 OV OV OV OV B2 SC SC SC SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          70          60           0           0
+QPF 12hr                      0        0.08        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  L  L  C  C  L  L  C  C                           
+Tstms                      C  L  L  C  C  L  L  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          81      53    82      62    77      54    75      51    79
+Temp          76 74   57 54 77 77   67 63 73 70   59 55 71 69   56 52 74 73
+Dewpt         40 41   46 49 56 59   63 62 59 51   51 49 49 47   48 46 49 49
+PWind dir         E      SE    SE      SE     N       N     N      NW     N
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW FW SC   B1 B2 B1 FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      40    50       5     0       0     0
+Rain shwrs                      S    C  C  C  S                            
+Tstms                           S    C  C  C  S                            
+
+$$
+TXZ205-241000-
+San Antonio Intl-Bexar-BEXAR TX 
+29.55N  98.47W Elev. 797 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      72          86          57          78          51
+Temp          86 83 76 74 73 73 74 78 84 82 73 67 61 57 63 74 77 72 62 58 54 51
+Dewpt         64 65 69 70 69 70 72 73 71 69 65 50 39 40 40 36 39 40 41 41 41 41
+RH            48 55 79 87 87 90 93 85 65 65 76 54 44 53 43 25 25 31 46 53 61 68
+Wind dir       S SE SE  S  S  S  S  S SW  W SW NW NW NW NW  N NW NE NE NE  N  N
+Wind spd      17 17 16 13 12 12 14 13 10  6 12 17 14 18 19 14 11  5  3  3  3  3
+Wind gust           26    23                                                   
+Clouds        B1 B1 B2 OV OV OV OV OV SC SC FW SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          60          60           0           0
+QPF 12hr                   0.05        0.09           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  L  C  C  S  L  L  S  S                           
+Tstms                      C  L  C  C  S  L  L  S  S                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      55    80      64    77      55    75      52    78
+Temp          76 73   59 55 76 77   67 65 73 71   60 55 72 70   57 52 74 72
+Dewpt         39 41   47 50 58 61   65 63 57 50   50 48 49 47   47 47 49 48
+PWind dir        SE      SE    SE      SE    NW       N     N       N    SW
+Wind char        LT      LT    GN      LT    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW FW SC   B1 B2 B1 FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      40    40       5     0       0     0
+Rain shwrs                      S    C  C  C                               
+Tstms                           S    C  C  C                               
+
+$$
+TXZ208-241000-
+San Marcos Airport-Caldwell TX 
+29.90N  97.87W Elev. 600 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          83          55          77          46
+Temp          88 83 75 74 73 72 74 77 82 78 70 66 59 55 62 72 77 71 58 54 49 47
+Dewpt         63 64 68 70 70 70 71 72 72 70 69 58 47 43 42 40 41 42 43 42 41 41
+RH            43 53 79 87 90 93 90 85 72 76 97 75 64 64 48 31 28 35 57 64 74 79
+Wind dir       S  S  S  S  S  S  S  S SW  N  S NW NW NW NW NW NW  N  N NW NW NW
+Wind spd      20 19 17 16 14 13 17 17 16 12 14 17 17 20 21 17 14  6  3  3  3  3
+Wind gust                                               33                     
+Clouds        SC B1 B2 OV OV OV B2 OV SC SC SC SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          70          60           0           0
+QPF 12hr                      0        0.14        0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  L  L  C  C  L  L  C  C                           
+Tstms                      C  L  L  C  C  L  L  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          79      50    81      60    76      52    74      49    78
+Temp          75 73   55 51 76 77   65 61 72 71   57 53 69 69   54 50 72 72
+Dewpt         40 42   46 48 56 59   63 61 61 53   52 49 50 49   48 46 50 49
+PWind dir         E      SE    SE      SE     N       N     N      NW     N
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL CL FW SC   B1 B2 B1 SC   FW FW FW FW   FW FW FW FW
+PoP 12hr          0       0    20      50    50       5     0       0     0
+Rain shwrs                      S    C  C  C  S                            
+Tstms                           S    C  C  C  S                            
+
+$$
+TXZ205-241000-
+Stinson Field-Bexar TX 
+29.33N  98.47W Elev. 581 ft
+228 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      73          88          58          80          52
+Temp          88 84 78 75 75 75 75 80 86 84 75 70 63 59 65 74 79 74 63 58 55 52
+Dewpt         63 65 69 70 70 70 71 72 70 68 65 53 41 39 40 37 37 39 41 42 41 41
+RH            43 53 74 84 84 84 87 77 59 59 71 55 44 47 40 26 22 28 44 55 59 66
+Wind dir       S SE SE  S  S  S  S  S  S  S  E NW NW NW NW  N  N NE  E  E NE NE
+Wind spd      18 18 16 13 11 12 14 13 11  8 13 14 13 14 18 13 10  5  3  3  3  3
+Wind gust           27    24                                                   
+Clouds        B1 B1 B2 B2 OV OV OV B2 SC SC FW SC FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          50          50           0           0
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C  C  C  C  C                           
+Tstms                      C  C  C  C  C  C  C  C  C                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          81      56    82      65    78      56    77      53    79
+Temp          77 75   61 57 78 78   68 66 74 73   61 57 73 72   58 53 75 74
+Dewpt         39 41   48 51 59 61   65 64 58 51   51 49 49 48   47 47 49 48
+PWind dir         E      SE    SE      SE     N       N     N       N    SW
+Wind char        LT      LT    GN      GN    GN      GN    GN      LT    LT
+Avg clouds    CL CL   CL FW FW SC   B1 B2 B1 FW   FW FW FW FW   CL FW FW FW
+PoP 12hr          0       0    20      40    40       5     0       0     0
+Rain shwrs                      S    C  C  C                               
+Tstms                           S    C  C  C                               
+
+$$

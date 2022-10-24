@@ -1,0 +1,163 @@
+FOMY50 PGUM 231745
+PFMGUM
+
+Point Forecast Matrices
+National Weather Service Tiyan GU
+345 AM ChST Mon Oct 24 2022
+
+GUZ001-240845-
+Guam International Airport-Tiyan GU
+13.48N 144.79E Elev. 248 ft
+345 AM ChST Mon Oct 24 2022
+
+Date                Mon 10/24/22            Tue 10/25/22            Wed 10/26/22
+ChST3hrly     01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16
+UTC 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+
+Max/Min                      87          77          88          78          87
+Temp             77 78 83 87 86 84 82 79 78 78 84 88 87 85 83 80 79 79 84 87 87
+Dewpt            76 76 76 76 76 76 76 76 76 77 77 77 77 77 77 77 77 76 76 76 76
+RH               97 94 80 70 72 77 82 91 94 97 80 70 72 77 82 91 94 91 77 70 70
+Wind dir         SE SE SE SE SE SE SE SE SE  E SE SE SE SE SE  E  E  E SE  E  E
+Wind spd          6  8 11 10  8  8  6  5  5 10 11 11  9  8  8  5  6  5  9  6  4
+Clouds           B2 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     40          30          20          20          40
+QPF 12hr                   0.39        0.09        0.06        0.12        0.10
+Rain shwrs        C  C  C  C  C  S  S  S  S  S  S  S  S  S  S  S  S  C  C  C  C
+Tstms                                                                S  S  S  S
+Heat index             91 97 96 93 89          93 99 98 96 91 86       93 98 97
+Max heat               91    97    95    87    93    99    98    90    93    98
+
+
+Date               Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+ChST6hrly     22   04 10 16 22   04 10 16 22   04 10 16 22   04 10 16
+UTC 6hrly     12   18 00 06 12   18 00 06 12   18 00 06 12   18 00 06
+
+Min/Max            77    87      77    86      76    86      78    87
+Temp          82   77 83 86 81   78 82 85 81   77 82 85 82   79 83 86
+Dewpt         77   77 76 76 77   77 77 77 77   77 77 76 76   76 76 77
+PWind dir           E     E       E     E      SE    SE      SE    SE
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1
+PoP 12hr           40    40      40    50      50    50      50    50
+Rain shwrs     C    C  C  C  C    C  C  C  C    C  C  C  C    C  C  C
+Tstms          S    S  S  S  S    S  S  S  S    S  S  S  S    S  S  S
+
+$$
+MPZ001-240845-
+Rota International Airport-Sinapalu MP
+14.17N 145.23E Elev. 592 ft
+345 AM ChST Mon Oct 24 2022
+
+Date                Mon 10/24/22            Tue 10/25/22            Wed 10/26/22
+ChST3hrly     01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16
+UTC 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+
+Max/Min                      87          77          88          77          86
+Temp             77 77 83 87 86 84 82 79 78 78 84 88 87 85 82 80 78 78 83 86 85
+Dewpt            76 76 76 76 76 76 76 76 76 76 76 76 77 77 77 77 76 77 77 77 77
+RH               97 97 80 70 72 77 82 91 94 94 77 68 72 77 85 91 94 97 82 75 77
+Wind dir          E  E  E  E SE SE SE SE SE SE SE  E  E SE  E SE  E  E  E  E  E
+Wind spd         11 11 13 12 11 10 10  9  9  9 12 11 10 11 10  8 10 10 11 12 10
+Clouds           B2 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     40          30          20          20          40
+QPF 12hr                   0.05        0.02        0.03        0.12        0.11
+Rain shwrs        C  C  C  C  C  S  S  S  S  S  S  S  S  S  S  S  S  C  C  C  C
+Tstms                                                                S  S  S  S
+Heat index             90 97 96 93 89          92 99 98 95 90 85       91 97 96
+Max heat               90    97    95    87    92    99    97    89    91    97
+
+
+Date               Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+ChST6hrly     22   04 10 16 22   04 10 16 22   04 10 16 22   04 10 16
+UTC 6hrly     12   18 00 06 12   18 00 06 12   18 00 06 12   18 00 06
+
+Min/Max            76    86      77    86      76    86      78    87
+Temp          81   77 82 85 81   78 82 85 81   77 82 85 82   79 83 86
+Dewpt         77   76 76 76 77   76 76 76 77   77 76 76 76   75 76 76
+PWind dir           E     E       E     E      SE    SE      SE    SE
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1
+PoP 12hr           40    40      40    50      50    50      50    50
+Rain shwrs     C    C  C  C  C    C  C  C  C    C  C  C  C    C  C  C
+Tstms          S    S  S  S  S    S  S  S  S    S  S  S  S    S  S  S
+
+$$
+MPZ002-240845-
+Tinian-San Jose MP
+14.97N 145.63E Elev. 74 ft
+345 AM ChST Mon Oct 24 2022
+
+Date                Mon 10/24/22            Tue 10/25/22            Wed 10/26/22
+ChST3hrly     01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16
+UTC 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+
+Max/Min                      88          78          88          78          88
+Temp             78 78 84 88 87 85 83 80 79 79 84 88 87 85 83 80 79 79 84 88 87
+Dewpt            76 76 77 76 76 77 77 77 76 77 77 77 77 77 77 77 77 77 77 77 77
+RH               94 94 80 68 70 77 82 91 91 94 80 70 72 77 82 91 94 94 80 70 72
+Wind dir          E  E  E  E  E  E SE  E  E  E SE  E  E  E SE  E SE  E  E  E  E
+Wind spd         10 13 14 13 13 12 11 10  9 10 12 12 12 11 12 10 12 10 11 12 12
+Clouds           B2 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     40          30          20          20          40
+QPF 12hr                   0.07        0.05        0.06        0.09        0.13
+Rain shwrs        C  C  C  C  C  S  S  S  S  S  S  S  S  S  S  S  S  C  C  C  C
+Tstms                                                    S  S  S  S  S  S  S  S
+Heat index             93 99 98 95 91 86       93 99 98 96 91 86       94100 99
+Max heat               93    99    97    89    93    99    98    90    94   100
+
+
+Date               Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+ChST6hrly     22   04 10 16 22   04 10 16 22   04 10 16 22   04 10 16
+UTC 6hrly     12   18 00 06 12   18 00 06 12   18 00 06 12   18 00 06
+
+Min/Max            78    87      77    86      78    86      78    86
+Temp          83   79 83 86 82   78 82 85 82   78 83 85 82   79 83 85
+Dewpt         78   77 77 77 77   77 77 77 77   77 77 76 76   76 76 77
+PWind dir           E     E       E     E      SE    SE      SE    SE
+Wind char          GN    GN      GN    GN      GN    GN      GN    LT
+Avg clouds    B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1
+PoP 12hr           40    40      40    50      50    50      50    50
+Rain shwrs     C    C  C  C  C    C  C  C  C    C  C  C  C    C  C  C
+Tstms          S    S  S  S  S    S  S  S  S    S  S  S  S    S  S  S
+
+$$
+MPZ003-240845-
+Saipan International Airport-Obyan MP
+15.11N 145.72E Elev. 215 ft
+345 AM ChST Mon Oct 24 2022
+
+Date                Mon 10/24/22            Tue 10/25/22            Wed 10/26/22
+ChST3hrly     01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16
+UTC 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+
+Max/Min                      88          78          88          78          88
+Temp             78 79 84 88 87 85 83 80 79 79 84 88 87 85 83 80 79 79 84 88 87
+Dewpt            76 76 77 76 76 77 77 77 76 77 77 77 77 77 77 77 77 77 77 77 77
+RH               94 91 80 68 70 77 82 91 91 94 80 70 72 77 82 91 94 94 80 70 72
+Wind dir          E  E  E SE  E SE SE SE  E  E  E  E  E  E  E  E  E  E  E  E  E
+Wind spd         10 11 12 13 12 11 10 10  9 10 11 12 11 10 11 10  9 11 11 13 12
+Clouds           B2 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     40          30          20          20          40
+QPF 12hr                   0.16        0.07        0.08        0.10        0.13
+Rain shwrs        C  C  C  C  C  S  S  S  S  S  S  S  S  S  S  S  S  C  C  C  C
+Tstms                                                    S  S  S  S            
+Heat index             93 99 98 96 91 86       93 99 99 96 91 86       94100 99
+Max heat               93    99    98    89    93    99    98    90    94   100
+
+
+Date               Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+ChST6hrly     22   04 10 16 22   04 10 16 22   04 10 16 22   04 10 16
+UTC 6hrly     12   18 00 06 12   18 00 06 12   18 00 06 12   18 00 06
+
+Min/Max            78    87      78    86      78    86      78    86
+Temp          83   79 83 86 82   78 83 85 82   78 83 85 82   79 83 85
+Dewpt         78   77 77 77 77   77 77 77 77   77 77 76 76   76 76 76
+PWind dir           E     E       E     E      SE    SE      SE    SE
+Wind char          GN    GN      GN    GN      GN    GN      GN    LT
+Avg clouds    B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1
+PoP 12hr           40    40      40    50      50    50      50    50
+Rain shwrs     C    C  C  C  C    C  C  C  C    C  C  C  C    C  C  C
+Tstms          S    S  S  S  S    S  S  S  S    S  S  S  S    S  S  S
+
+$$

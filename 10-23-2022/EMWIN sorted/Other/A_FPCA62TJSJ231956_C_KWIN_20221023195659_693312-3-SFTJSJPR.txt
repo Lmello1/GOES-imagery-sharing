@@ -1,0 +1,127 @@
+FPCA62 TJSJ 231956
+SFTPR 
+PRZ001>013-VIZ001-002-240915-
+
+Tabular State Forecast for PUERTO RICO AND U.S. VIRGIN ISLANDS
+National Weather Service San Juan PR
+356 PM AST Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...PRZ001\San Juan and Vicinity-...
+   Including the municipalities of...BAYAMON...CAROLINA...CATANO...
+   Sunny    Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   74/87    73/86    72/84    72/86    73/85    74/85    74/86    
+    30/30    30/60    70/60    60/60    60/60    50/60    50/50   
+
+
+...PRZ002...
+   Northeast-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   74/86    74/85    74/84    74/85    75/84    75/84    75/85    
+    40/30    40/60    80/60    60/60    60/60    60/60    60/50   
+
+
+...PRZ003...
+   Southeast-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Ptcldy   Ptcldy   
+   72/85    72/82    73/83    71/85    72/84    74/84    74/84    
+    30/30    40/60    70/60    60/60    60/60    60/40    50/30   
+
+
+...PRZ004...
+   Eastern Interior-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   70/84    69/82    69/80    69/83    70/82    71/82    71/83    
+    30/30    40/70    70/60    60/60    60/60    60/60    50/50   
+
+
+...PRZ005...
+   Nort Central-
+   Shwrs    Tstrms   Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   72/87    71/86    72/83    70/85    71/86    73/86    73/86    
+    50/50    30/90    60/60    60/60    40/60    40/60    30/50   
+
+
+...PRZ006...
+   Central Interior-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   68/82    67/79    67/78    67/82    68/80    69/80    69/81    
+    30/30    30/80    60/60    60/60    50/60    50/50    20/50   
+
+
+...PRZ007...
+   Ponce and Vicinity-
+   Sunny    Shwrs    Tstrms   Tstrms   Shwrs    Ptcldy   Tstrms   
+   71/86    70/83    71/82    70/84    71/84    73/84    73/86    
+    20/30    30/70    60/60    50/60    40/50    40/30    10/50   
+
+
+...PRZ008...
+   Northwest-
+   Shwrs    Tstrms   Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   70/87    71/85    71/81    70/84    71/85    73/85    73/86    
+    50/70    20/90    60/60    50/60    30/60    30/60    30/50   
+
+
+...PRZ009...
+   Western Interior-
+   Shwrs    Tstrms   Tstrms   Tstrms   Tstrms   Shwrs    Tstrms   
+   66/83    67/81    67/79    67/82    68/82    69/82    69/82    
+    40/80    20/90    60/60    50/60    30/60    40/60    20/60   
+
+
+...PRZ010...
+   Mayaguez and Vicinity-
+   Shwrs    Shwrs    Tstrms   Shwrs    Tstrms   Shwrs    Tstrms   
+   71/88    72/85    72/82    70/85    71/86    73/86    73/88    
+    40/70    20/90    60/60    50/60    30/60    30/60    20/60   
+
+
+...PRZ011...
+   Southwest-
+   Ptcldy   Shwrs    Shwrs    Tstrms   Shwrs    Ptcldy   Tstrms   
+   72/90    73/86    72/85    71/86    72/87    74/87    74/90    
+    20/20    30/70    60/50    30/60    40/50    40/30    10/60   
+
+
+...PRZ012...
+   Culebra-
+   Ptcldy   Shwrs    Tstrms   Shwrs    Tstrms   Shwrs    Shwrs    
+   80/90    80/86    79/85    78/86    79/86    79/86    80/90    
+    30/20    50/60    70/60    60/50    60/60    50/50    60/50   
+
+
+...PRZ013...
+   Vieques-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Shwrs    
+   78/90    79/87    78/85    77/86    78/86    78/86    78/89    
+    40/30    40/60    80/60    60/60    60/60    60/60    60/50   
+
+
+...VIZ001...
+   St Thomas St John and adjacent islands
+   Ptcldy   Shwrs    Tstrms   Shwrs    Tstrms   Shwrs    Sunny    
+   79/89    78/86    78/84    76/85    78/86    78/86    78/89    
+    30/30    40/50    70/60    60/50    60/60    40/50    60/20   
+
+
+...VIZ002...
+   St Croix-
+   Ptcldy   Shwrs    Tstrms   Tstrms   Tstrms   Shwrs    Sunny    
+   77/90    78/87    77/85    78/86    77/86    77/86    77/90    
+    20/30    40/50    60/60    60/60    60/60    40/50    40/20   
+
+
+$$

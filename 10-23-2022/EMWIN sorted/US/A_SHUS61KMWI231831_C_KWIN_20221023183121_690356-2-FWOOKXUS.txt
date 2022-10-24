@@ -1,0 +1,20 @@
+SHUS61 KMWI 231831
+FWOOKX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:05 GMT
+ 
+Listing of Observations (New York City, NY)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+RINGWO 280311 221023 13 R 3  60  47  64 0 0  22  2     71  42 100  26  0 0.000
+USMA   300712 221023 12 R 3  59  47  65 0 0  28  1     65  44  89  36  0 0.000
+EASTPO 305702 221023 13 R 4  55  53  96 0 0  29  1     69  50  99  42  2 0.030
+WALLKI 305803 221023 12 R 3  58  43  59 0 0  31  4     71  35  98  29  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:05 GMT
+

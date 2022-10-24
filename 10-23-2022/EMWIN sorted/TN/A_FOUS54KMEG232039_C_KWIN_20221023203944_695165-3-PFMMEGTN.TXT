@@ -1,0 +1,167 @@
+FOUS54 KMEG 232039
+PFMMEG
+
+Point Forecast Matrices
+National Weather Service Memphis TN
+339 PM CDT Sun Oct 23 2022
+
+TNZ088-241000-
+Memphis-Shelby TN 
+35.04N  89.98W Elev. 298 ft
+339 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      61          80          65          71          47
+Temp          80 75 70 67 64 62 69 77 79 74 72 71 69 66 69 68 65 59 54 53 49 47
+Dewpt         56 55 54 52 53 55 59 59 58 58 61 63 65 66 67 64 56 52 50 47 46 44
+RH            44 50 57 59 67 78 70 54 49 57 68 76 87100 93 87 73 78 86 80 89 89
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W  W  W NW
+Wind spd      13  9 10 10  9  8 12 13 13 10 12 12 13 12 14 14 14 12 10  6  5  4
+Wind gust     24             18 24          27 29 28 23 33 31 32 29 24 18      
+Clouds        SC SC SC B1 SC FW FW SC B2 B1 B1 B1 OV OV B2 B2 B1 B1 B1 FW FW CL
+PoP 12hr                      0           0          60          90           5
+QPF 12hr                      0           0        0.05        0.55           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  L  L  D  D  C  C               
+Tstms                                                 C  S  S  S               
+Heat index    80                                                               
+Max heat         81                      80                                    
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      46    69      49    71      55    65      52    65
+Temp          62 59   51 46 66 62   53 49 68 65   59 55 63 61   56 52 62 60
+Dewpt         45 45   44 43 48 48   48 49 55 54   54 54 56 56   55 52 56 54
+PWind dir         N      NE    NE       E     E      NE    NE      NE     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   CL FW FW FW   SC SC SC B1   B1 B1 B1 SC   SC B1 B1 SC
+PoP 12hr          0       0     0      10    30      40    30      20    10
+Rain shwrs                                 S  C    C  C  C  C    S         
+
+$$
+TNZ052-241000-
+Jackson-Madison TN 
+35.60N  88.92W Elev. 413 ft
+339 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          78          62          70          43
+Temp          79 70 63 61 59 56 68 75 76 71 65 65 65 63 67 67 65 57 51 48 46 43
+Dewpt         51 50 50 48 47 48 53 51 52 55 58 59 61 63 63 63 59 55 50 46 44 42
+RH            38 49 62 62 64 74 59 43 43 57 78 81 87100 87 87 81 93 96 93 93 96
+Wind dir       S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S SW SW  W  W  W  W
+Wind spd      13  6  8  8  6  5 11 13 12  8 10 10 11 11 16 16 14 10 11 10  6  5
+Wind gust                       21          26 27 26 24 33 32 29 29 25         
+Clouds        FW SC B1 B1 B1 FW FW SC B1 B1 B1 B1 B2 OV B2 B2 B1 B1 B1 B1 SC SC
+PoP 12hr                      0           0          40          90          10
+QPF 12hr                      0           0        0.03        0.67        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  D  D  L  L               
+Tstms                                                    S  S  S               
+Wind chill                                                                   39
+Min chill                                                                    39
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      39    67      43    71      49    66      48    65
+Temp          61 55   43 40 64 58   47 44 68 62   53 50 63 59   52 49 62 57
+Dewpt         44 44   42 40 46 46   46 44 51 52   52 50 54 54   52 49 51 52
+PWind dir        NW      NE    NE       E     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   CL FW FW CL   FW B1 SC SC   B1 B2 B1 SC   B1 B1 B1 SC
+PoP 12hr          0       0     0       5    20      40    40      20    10
+Rain shwrs                                    S    C  C  C  C    S         
+
+$$
+ARZ026-241000-
+Jonesboro-Craighead AR 
+35.83N  90.65W Elev. 253 ft
+339 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          80          63          69          45
+Temp          81 76 69 68 65 63 70 77 79 76 71 70 68 64 67 65 63 56 52 50 47 45
+Dewpt         56 54 55 53 54 56 58 57 56 56 58 61 64 64 64 59 53 49 47 45 43 41
+RH            42 46 61 59 68 78 66 50 45 50 63 73 87100 90 81 70 77 83 83 86 86
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W  W  W  W NW
+Wind spd      18 11 11 12 11 11 16 18 18 12 13 14 13 12 17 17 18 13 11  9  5  6
+Wind gust                       26       23 26 29 26    32 35 31 32 23         
+Clouds        FW FW SC B1 B1 FW SC B1 B1 B1 B1 B2 OV OV B2 B1 B1 B1 SC FW CL CL
+PoP 12hr                      0           5          80          90           5
+QPF 12hr                      0           0        0.30        0.74           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                C  C  D  D  D  D  C  C               
+Tstms                                           S  S  S  S  S  S               
+Heat index    81                                                               
+Max heat         82                      80                                    
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      43    65      46    67      51    65      50    64
+Temp          62 58   47 43 62 59   50 46 64 62   55 51 62 60   53 50 61 60
+Dewpt         41 43   42 41 46 46   44 45 50 51   52 50 53 53   53 50 52 51
+PWind dir         N      NE     E      NE    NE      NE    NE      NE    NE
+Wind char        GN      LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    CL CL   CL FW FW FW   SC SC SC SC   B1 B1 SC SC   SC B1 B1 SC
+PoP 12hr          0       0     0      10    30      40    30      20     5
+Rain shwrs                                 S  C    C  C  C  C    S         
+
+$$
+MSZ016-241000-
+Tupelo-Lee MS 
+34.27N  88.77W Elev. 354 ft
+339 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          80          62          74          46
+Temp          80 71 61 58 54 51 67 77 80 73 67 66 64 64 69 71 70 63 55 51 48 46
+Dewpt         48 47 48 47 47 48 53 54 57 58 60 61 63 64 66 65 61 54 51 48 46 44
+RH            33 42 62 67 77 89 61 45 45 59 78 84 97100 90 81 73 72 86 89 93 93
+Wind dir       S  S  S  S  S SE  S  S  S  S  S  S  S  S  S  S SW SW  W  W  W NW
+Wind spd      12  6  5  5  5  5  9 13 13  9  9 10 10 12 14 18 14 11  8  6  5  4
+Wind gust        17                      20 19 21 20 28 34 36 31 28 19         
+Clouds        SC SC SC B1 SC FW FW SC FW SC B1 B1 B2 OV B2 B2 SC SC SC SC FW FW
+PoP 12hr                      0           0          30          90          10
+QPF 12hr                      0           0        0.02        0.48        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C  D  D  L  L               
+Tstms                                                 C  C  C                  
+Heat index                            80                                       
+Max heat                                 80                                    
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      43    71      46    74      53    68      51    68
+Temp          64 60   47 43 68 62   49 47 71 67   57 54 65 62   55 52 66 62
+Dewpt         45 46   45 43 48 49   49 47 53 54   55 54 56 56   55 52 53 54
+PWind dir        NW       N    NE      NE     E       E     E       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   CL CL FW CL   FW SC SC SC   B1 B1 B1 SC   SC SC SC SC
+PoP 12hr          0       0     0       5    20      40    40      20    10
+Rain shwrs                                    S    C  C  C  C    S         
+
+$$

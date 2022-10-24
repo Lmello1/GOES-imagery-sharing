@@ -1,0 +1,25 @@
+SHUS61 KMWI 232020
+FWOBTV
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:20:32 GMT
+ 
+Listing of Observations (Burlington, VT)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+SCHUYL 300191 221023 13 R 2  68  41  38 0 0   7  1     71  40  86  33  0 0.000
+SCHROO 300311 221023 13 R 3  68  42  39 0 0  87  0     69  31  98  33  0 0.000
+MT. VA 300312 221023 13 R 2  68  37  32 0 0  99  3     68  31  96  29  0 0.000
+WANAKE 300891 221023 13 R 3  68  34  29 0 0 123  1     72  34  97  26  0 0.000
+BRASHE 300892 221023 13 R 3  74  41  31 0 0  20  0     76  43  85  24  0 0.000
+NULHEG 430402 221023 13 R 3  69  36  30 0 0 109  4     70  33  96  28  0 0.000
+ESSEX  430501 221023 13 R 3  68  44  42 0 0 280  2     70  42  86  30  0 0.000
+ELMORE 430601 221023 13 R 3  68  39  35 0 0 144  3     70  38  96  31  0 0.000
+MT. TA 431301 221023 13 R 2  71  33  25 0 0 211  3     74  32 100  22  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:20:32 GMT
+

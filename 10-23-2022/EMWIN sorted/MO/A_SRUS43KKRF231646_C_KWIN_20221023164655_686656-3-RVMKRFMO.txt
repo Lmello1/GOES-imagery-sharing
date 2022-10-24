@@ -1,0 +1,21 @@
+SRUS43 KKRF 231646
+RVMKRF
+
+RESERVOIR DATA
+NWS Missouri Basin River Forecast Center Pleasant Hill MO
+1645Z Sun Oct 23 2022
+
+U.S. Army Corps of Engineers - Omaha District
+Missouri Mainstem Reservoir Data
+
+:data date/time is 10-23-2022 00:00
+:This overwrites the previous 06z time with 12z
+
+.A BWNN8 20221023 Z DH120000/HPIRZ   2750.64
+
+
+:END OF MESSAGE
+
+$$
+
+

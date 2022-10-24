@@ -1,0 +1,741 @@
+FOUS53 KIWX 231641
+PFMIWX
+
+Point Forecast Matrices
+National Weather Service Northern Indiana
+1241 PM EDT Sun Oct 23 2022
+
+INZ104-232100-
+South Bend Regional Aiport-St. Joseph IN
+41.71N  86.32W Elev. 799 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          58          74          57          70
+Temp                   75 76 69 64 63 60 58 65 73 73 68 64 62 59 57 64 68 66 61
+Dewpt                  53 53 51 49 49 49 48 48 49 51 50 49 47 47 49 52 54 55 55
+RH                     46 45 53 58 60 67 69 54 43 46 52 58 58 64 75 65 61 68 81
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               18 19 16 14 14 12 11 13 17 17 13 13 12 11 10 11 11 10  8
+Wind gust              31 32             21 26 28 27 24                        
+Clouds                 SC SC SC SC B1 B2 B2 B1 B1 B2 B2 B2 B2 B2 OV OV B2 OV OV
+PoP 12hr                      5           5           0          20          80
+QPF 12hr                      0        0.02           0           0        0.40
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  L
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    55      36    56      38    58      41    59
+Temp          52 46 54 47   41 36 54 48   42 39 55 50   44 41 56 49
+Dewpt         52 46 44 42   38 35 39 39   38 38 42 43   42 41 43 43
+PWind dir         W    NW       N     E       E     E      NE    NE
+Wind char        GN    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    B2 B2 B1 SC   FW SC SC SC   B1 B2 B2 B2   B1 B1 SC SC
+PoP 12hr         70    30       0     0       5    20      30    30
+Rain shwrs     L  L  C                              S    S  C  C  C
+
+$$
+INZ018-232100-
+Fort Wayne International Aiport-Allen IN
+41.00N  85.20W Elev. 814 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          54          76          56          73
+Temp                   75 76 67 63 60 57 55 65 74 74 67 64 61 59 58 66 72 71 63
+Dewpt                  51 49 48 46 46 46 45 46 46 47 46 46 45 45 47 51 52 53 56
+RH                     43 39 50 54 60 67 69 50 37 38 47 52 56 60 67 58 49 53 78
+Wind dir                S  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               17 16 12 11 10  9  9 12 14 14 10 10  9  9  6 11 12 11  5
+Clouds                 SC SC FW SC SC B1 B1 SC B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 OV
+PoP 12hr                      0           5           0           5          60
+QPF 12hr                      0           0           0           0        0.17
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    59      37    56      39    59      41    60
+Temp          55 49 58 50   43 37 53 47   42 40 56 51   46 44 57 52
+Dewpt         54 49 46 43   38 36 39 38   38 38 42 43   42 41 43 43
+PWind dir         S    NW       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   SC SC FW SC   B1 B2 B1 B2   B1 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+INZ005-232100-
+Goshen Municipal Airport-Elkhart IN
+41.53N  85.79W Elev. 827 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          57          73          56          70
+Temp                   73 75 68 64 62 59 58 64 72 73 68 65 63 60 58 64 68 65 60
+Dewpt                  53 52 51 48 47 48 47 48 49 50 49 49 47 47 48 53 54 55 56
+RH                     49 45 54 56 58 67 67 56 44 44 51 56 56 62 69 67 61 70 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               18 19 16 13 13 12 11 14 17 16 12 12 12 11 10 11 13 10  6
+Wind gust              29 29                25    26                           
+Clouds                 SC FW FW SC B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      5           5           0          10          70
+QPF 12hr                      0           0           0           0        0.27
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    55      36    55      39    57      41    57
+Temp          53 47 55 48   41 37 52 47   42 39 55 50   46 42 56 50
+Dewpt         53 47 46 42   38 36 39 39   39 38 43 43   42 41 44 43
+PWind dir        SW    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   FW SC SC SC   B1 B2 B1 B2   B1 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+INZ023-232100-
+Grissom Air Reserve Base-Miami IN
+40.65N  86.15W Elev. 812 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          57          75          58          70
+Temp                   76 78 70 65 62 59 57 66 74 74 68 65 62 60 58 66 70 66 61
+Dewpt                  53 51 50 48 46 46 45 47 49 51 50 48 46 47 50 55 57 58 59
+RH                     45 39 49 54 56 62 64 50 41 44 52 54 56 62 75 68 63 75 93
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               18 19 14 13 13 12 11 13 17 16 12 12 11 11 10 13 12 10  6
+Wind gust              29 29    25          25    26    23                     
+Clouds                 SC SC SC B1 B1 B2 B1 B1 B1 B1 B2 B1 B2 B2 B2 B2 OV OV OV
+PoP 12hr                      5           5           0          10          80
+QPF 12hr                      0           0           0           0        0.37
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  D  D  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    55      36    55      39    58      42    59
+Temp          53 46 54 48   41 37 53 47   42 40 56 51   46 43 57 52
+Dewpt         53 46 48 44   40 37 42 42   40 40 47 47   45 43 48 47
+PWind dir        SW    NW       N     E       E     E      NE    NE
+Wind char        GN    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   FW FW FW SC   B1 B2 B1 B2   B1 SC SC SC
+PoP 12hr         80    20       0     0       5    20      30    30
+Rain shwrs     D  L  S                              S    C  C  C  C
+
+$$
+MIZ177-232100-
+Benton Harbor Southwest Michigan Regional Airport-Berrien MI
+42.13N  86.43W Elev. 643 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72          58          70          56          64
+Temp                   70 71 67 63 61 60 59 64 69 69 66 62 60 57 56 60 64 61 57
+Dewpt                  53 53 52 50 49 50 49 50 51 52 51 49 47 47 48 53 54 56 54
+RH                     55 53 59 62 65 69 69 60 53 55 58 62 62 69 74 78 70 84 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S NE
+Wind spd               17 19 17 16 17 16 14 17 18 18 14 16 14 14 10 11 10 10  9
+Wind gust              28 29    27                   25 26       20            
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B1 B2 B2 OV B2 OV OV OV OV OV OV
+PoP 12hr                      5          10           5          20          80
+QPF 12hr                      0        0.03           0           0        0.36
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  L
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    53      40    54      41    55      44    55
+Temp          51 47 52 49   44 40 51 50   43 41 54 51   47 44 55 52
+Dewpt         50 45 44 42   38 37 40 40   38 38 44 45   43 41 46 45
+PWind dir         N     N      NE     E       E     E      NE    NE
+Wind char        GN    BZ      LT    GN      GN    LT      LT    LT
+Avg clouds    OV B2 B1 SC   SC SC SC SC   B2 B2 B2 B2   B2 SC SC SC
+PoP 12hr         70    30       0     0       5    20      30    30
+Rain shwrs     L  C  C                              S    C  C  C  C
+
+$$
+OHZ004-232100-
+Defiance Memorial Airport-Defiance OH
+41.34N  84.43W Elev. 707 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          53          77          57          74
+Temp                   76 77 67 61 58 55 53 66 76 76 68 64 62 59 57 66 72 73 65
+Dewpt                  49 46 46 46 46 46 45 46 46 45 46 46 45 45 46 51 54 55 56
+RH                     39 33 47 58 64 72 74 48 34 33 45 52 54 60 67 58 53 53 73
+Wind dir                S  S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               14 16 11  9 10  9  8 11 14 13 10  8  8  6  5  9 10  8  3
+Clouds                 SC FW FW FW SC SC SC SC SC SC B1 B1 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      0           0           0           5          50
+QPF 12hr                      0           0           0           0        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    60      38    56      40    59      44    60
+Temp          57 51 60 51   43 38 54 47   42 41 57 51   46 45 58 52
+Dewpt         55 51 50 45   40 38 41 41   41 40 46 46   45 44 47 46
+PWind dir         S    NW       N    NE      NE     E      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   SC SC SC SC   B1 B2 B2 B2   B1 B1 SC SC
+PoP 12hr         80    40       0     0       5    20      30    30
+Rain shwrs     D  D  C  S                           S    S  C  C  C
+
+$$
+OHZ025-232100-
+Lima Allen County Airport-Allen OH
+40.71N  84.03W Elev. 975 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          53          75          56          73
+Temp                   75 76 65 61 57 55 53 65 74 74 66 63 61 59 57 65 72 73 65
+Dewpt                  49 46 45 45 44 44 43 46 43 43 43 44 44 45 45 50 52 53 53
+RH                     40 34 48 56 62 66 69 50 33 33 43 50 53 60 64 58 49 49 65
+Wind dir                S  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               14 14 10 10 10 10  8 11 13 12  9  9  8  8  5 10 11 10  5
+Clouds                 SC FW FW FW FW SC SC FW SC SC B1 B1 B2 B2 B1 B1 B2 B2 OV
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    60      39    56      42    61      45    60
+Temp          57 52 59 51   44 40 54 48   44 43 59 53   48 46 58 52
+Dewpt         54 52 50 44   41 38 41 40   40 41 46 46   45 44 47 46
+PWind dir         S     W       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B2 SC   SC SC SC SC   SC B2 B1 B2   B2 B1 SC SC
+PoP 12hr         90    40       0     0       5    20      30    30
+Rain shwrs     D  D  C  S                           S    S  C  C  C
+
+$$
+INZ216-232100-
+Warsaw Municipal Airport-Kosciusko IN
+41.27N  85.84W Elev. 850 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          56          73          56          68
+Temp                   75 76 69 64 62 59 58 65 72 72 68 64 62 60 58 64 68 65 60
+Dewpt                  52 51 50 47 47 47 47 47 49 50 49 47 46 46 48 53 54 55 56
+RH                     45 42 51 54 58 64 67 52 44 46 51 54 56 60 69 67 61 70 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               17 18 14 12 12 11 10 12 17 14 12 10 10 10  5  9 10  6  4
+Wind gust              28 28    23          23          20                     
+Clouds                 SC FW FW B1 B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      5           5           0          10          70
+QPF 12hr                      0           0           0           0        0.31
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    55      37    54      39    56      41    57
+Temp          54 47 54 48   42 37 52 47   42 39 55 50   46 42 56 50
+Dewpt         54 47 46 43   38 36 39 39   39 38 43 44   42 41 44 44
+PWind dir        SW    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   FW SC SC SC   B1 B2 B1 B2   B1 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+INZ003-232100-
+Michigan City Municipal Airport-La Porte IN
+41.70N  86.82W Elev. 655 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          59          74          55          65
+Temp                   74 75 69 65 62 60 59 65 73 73 67 63 61 58 55 64 64 63 59
+Dewpt                  53 53 51 50 50 49 47 49 50 52 51 50 47 47 50 53 56 56 56
+RH                     48 46 53 58 65 67 64 56 44 48 56 62 60 67 83 67 75 78 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S NE
+Wind spd               18 20 17 16 17 14 14 17 18 17 14 13 13 12  6  8  8  5  4
+Wind gust              32 33 27 28 28 26 26 28 28    25 26 24    19 19 18    16
+Clouds                 SC SC SC B1 B2 OV B2 B1 B1 B2 B2 OV B2 OV OV OV OV OV OV
+PoP 12hr                      5           5           5          30          80
+QPF 12hr                      0        0.04           0           0        0.49
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  L
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    54      38    55      39    56      42    57
+Temp          51 45 54 49   43 38 54 48   41 40 55 50   45 43 57 50
+Dewpt         51 44 44 42   39 37 40 41   39 39 44 46   43 41 46 46
+PWind dir         N     N      NE     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   FW SC SC SC   B2 B2 B2 B2   B2 SC SC SC
+PoP 12hr         70    20       0     0       5    20      30    30
+Rain shwrs     L  C  S                              S    C  C  C  C
+
+$$
+INZ015-232100-
+Rochester Fulton County Airport-Fulton IN
+41.07N  86.18W Elev. 790 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          58          75          58          68
+Temp                   75 77 70 65 63 60 58 65 74 74 69 65 63 61 58 65 68 66 61
+Dewpt                  52 51 51 49 48 48 47 47 48 50 50 49 48 49 52 54 55 56 58
+RH                     45 40 51 56 58 64 67 52 40 43 51 56 58 65 80 68 63 70 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               19 19 16 14 13 12 11 13 17 17 12 12 11 10  8 11 11  9  5
+Wind gust              29 31    25          24    27    23                     
+Clouds                 SC SC SC B1 B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      5           5           0          10          80
+QPF 12hr                      0           0           0           0        0.40
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  D  D  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    55      37    55      39    57      42    57
+Temp          54 46 54 49   42 37 53 48   42 39 56 51   46 43 56 51
+Dewpt         54 46 45 44   40 37 39 40   40 39 43 45   45 43 44 45
+PWind dir         W    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   SC SC FW SC   B1 B2 B1 B2   B1 SC SC SC
+PoP 12hr         80    20       0     0       5    20      30    30
+Rain shwrs     D  L  S                              S    S  C  C  C
+
+$$
+INZ012-232100-
+Knox Starke County Airport-Starke IN
+41.33N  86.66W Elev. 685 ft
+1141 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          58          75          55          67
+Temp                   75 77 70 65 63 61 59 65 73 75 69 64 62 60 57 64 67 65 60
+Dewpt                  53 52 51 50 49 48 47 48 50 51 52 50 48 48 50 53 54 55 57
+RH                     46 42 51 58 60 62 64 54 44 43 55 60 60 64 77 67 63 70 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               19 21 17 14 14 13 13 16 18 18 14 12 12 10  6  9 10  6  5
+Wind gust              32 32    26 25       26 28       23                     
+Clouds                 SC SC SC B1 B1 B2 B2 B1 B1 B2 B2 B2 B2 OV OV OV B2 OV OV
+PoP 12hr                      5           5           0          20          80
+QPF 12hr                      0        0.03           0           0        0.54
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  L
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    54      34    54      36    56      39    57
+Temp          53 44 53 46   39 36 52 47   42 38 55 49   43 41 56 49
+Dewpt         52 44 43 43   38 35 37 41   38 38 41 45   42 40 42 45
+PWind dir        NW    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   FW SC SC SC   B1 B2 B2 B2   B1 B1 SC SC
+PoP 12hr         70    20       0     0       5    20      30    30
+Rain shwrs     L  C  S                              S    C  C  C  C
+
+$$
+INZ007-232100-
+Angola Tri-State Steuben County Airport-Steuben IN
+41.64N  85.08W Elev. 995 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      75          55          74          58          71
+Temp                   73 74 66 62 59 57 55 64 72 73 67 64 61 60 58 65 70 68 62
+Dewpt                  52 50 49 46 46 47 46 47 48 49 49 48 47 46 47 52 56 57 57
+RH                     48 43 54 56 62 69 72 54 42 43 52 56 60 60 67 63 61 68 84
+Wind dir                S  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               16 17 12 11 11 10  9 12 16 13 11 10  9  9  5  9 10  6  3
+Clouds                 SC FW FW SC SC B2 B1 B1 SC B1 B1 B1 B2 B2 B2 B2 B2 B2 OV
+PoP 12hr                      5           5           0           5          60
+QPF 12hr                      0           0           0           0        0.18
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    57      37    54      39    57      43    57
+Temp          56 54 56 49   42 37 51 46   42 40 55 50   46 43 56 49
+Dewpt         55 51 49 44   40 37 42 40   40 40 46 46   45 43 48 46
+PWind dir         S    NW       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   SC SC SC SC   B1 B2 B1 B1   B2 B1 SC SC
+PoP 12hr         80    40       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+INZ009-232100-
+Auburn De Kalb County Airport-De Kalb IN
+41.31N  85.06W Elev. 880 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          54          74          55          71
+Temp                   75 76 67 62 60 57 54 65 73 73 67 64 61 59 57 65 71 69 63
+Dewpt                  51 50 48 46 46 47 46 47 47 48 48 46 46 46 48 51 54 55 56
+RH                     43 40 50 56 60 69 74 52 40 41 50 52 58 62 72 60 55 61 78
+Wind dir                S  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               16 16 11  9 10  9  8 11 13 13 10  9  8  6  4  8  9  6  2
+Clouds                 SC FW FW SC SC B1 B1 B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 OV
+PoP 12hr                      0           5           0           5          60
+QPF 12hr                      0           0           0           0        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    57      37    54      39    57      41    57
+Temp          56 50 57 50   43 37 53 47   42 39 56 51   46 43 56 50
+Dewpt         55 50 47 44   39 37 40 40   39 39 43 45   42 42 45 44
+PWind dir         S    NW       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   B1 B2 B2 B1   B1 B1 SC SC
+PoP 12hr         80    40       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+MIZ081-232100-
+Hillsdale Municipal Airport-Hillsdale MI
+41.92N  84.59W Elev. 1182 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          53          73          54          71
+Temp                   73 74 64 60 58 55 54 63 72 72 65 61 60 58 55 64 70 69 60
+Dewpt                  49 47 45 45 45 45 45 45 45 44 45 45 44 43 45 47 49 51 54
+RH                     43 38 50 58 62 69 71 52 38 37 48 56 55 57 69 54 47 53 81
+Wind dir                S  S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               14 16 12 10 11 10  9 12 14 13 11 10  9  9  6 10 10  8  4
+Wind gust              25                                                      
+Clouds                 SC FW FW FW SC B1 B1 B1 SC B1 B1 B1 B2 B2 B2 B2 B2 B2 OV
+PoP 12hr                      0           5           0           5          50
+QPF 12hr                      0           0           0           0        0.11
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    56      35    53      37    56      40    57
+Temp          54 50 55 48   39 36 51 43   39 39 54 48   44 41 56 48
+Dewpt         53 50 44 43   38 36 36 38   38 37 40 42   41 40 41 42
+PWind dir         S    NW       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B2 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC
+PoP 12hr         80    40       5     0       5    20      30    30
+Rain shwrs     D  D  C  S                           S    S  C  C  C
+
+$$
+MIZ079-232100-
+Sturgis Kirsch Municipal Airport-St. Joseph MI
+41.81N  85.44W Elev. 924 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          57          73          56          70
+Temp                   73 75 67 64 61 59 58 65 72 73 68 65 62 60 58 64 69 66 61
+Dewpt                  52 50 50 47 47 48 47 47 48 48 49 48 47 47 48 51 51 52 56
+RH                     48 41 54 54 60 67 67 52 42 41 51 54 58 62 69 63 53 61 84
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               18 19 14 13 13 12 11 14 17 16 12 12 11 10  6 10 11  9  5
+Wind gust              28 29                                                   
+Clouds                 SC FW FW SC B1 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      5           5           0          10          70
+QPF 12hr                      0           0           0           0        0.24
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    55      36    54      38    56      41    57
+Temp          54 47 55 48   40 36 51 46   41 39 55 50   44 42 56 49
+Dewpt         54 47 44 42   38 36 37 38   38 38 40 43   42 41 41 43
+PWind dir        SW    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   FW SC SC SC   B1 B2 B2 B2   B2 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+MIZ079-232100-
+Three Rivers Municipal Dr Haines Airport-St. Joseph MI
+41.96N  85.59W Elev. 824 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          57          73          56          70
+Temp                   73 75 67 63 61 59 58 65 72 73 67 64 61 60 58 64 69 66 60
+Dewpt                  52 52 51 48 48 49 47 48 49 50 49 49 48 47 48 52 53 55 56
+RH                     48 45 56 58 62 69 67 54 44 44 52 58 62 62 69 65 57 68 87
+Wind dir                S  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               17 19 14 12 13 12 10 13 17 16 12 11 10  9  5  9 11  8  3
+Wind gust              28 29    23          24 27 26 23                      13
+Clouds                 SC FW FW SC B1 B2 B2 B2 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      5           5           0          10          70
+QPF 12hr                      0           0           0           0        0.25
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    56      35    55      38    57      41    57
+Temp          52 46 55 47   39 36 52 46   40 39 55 49   44 41 56 48
+Dewpt         52 46 45 42   38 36 39 39   39 39 42 43   42 41 43 43
+PWind dir        SW    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1 SC   SC SC SC SC   B1 B2 B2 B2   B2 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$
+INZ020-232100-
+Monticello White County Airport-White IN
+40.71N  86.77W Elev. 676 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      79          59          76          58          68
+Temp                   77 78 71 66 63 60 59 68 75 76 70 65 63 61 58 67 67 66 62
+Dewpt                  53 51 50 49 47 46 45 47 50 51 51 48 47 48 51 56 57 58 59
+RH                     43 39 47 54 56 60 60 47 41 42 51 54 56 62 77 68 70 75 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               19 20 16 13 14 12 11 14 18 18 12 12 11 11  8 11 10  9  5
+Wind gust              32 32    25       21 27       23 24 21    18          16
+Clouds                 SC SC SC B1 B1 B2 B2 B1 B1 B2 B2 B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                      5           5           0          20          90
+QPF 12hr                      0           0           0           0        0.58
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  D  D  L
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    55      36    55      39    58      42    59
+Temp          54 45 54 49   42 37 53 48   42 40 56 52   46 43 57 52
+Dewpt         54 45 46 43   40 37 41 42   40 40 46 47   45 43 47 46
+PWind dir         N    NW      NE     E       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 SC SC   FW SC FW SC   B1 B2 B1 B2   B1 SC SC SC
+PoP 12hr         70    20       0     0       5    20      30    30
+Rain shwrs     L  C  S                              S    C  C  C  C
+
+$$
+INZ021-232100-
+Logansport Cass County Airport-Cass IN
+40.71N  86.37W Elev. 738 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          58          76          58          69
+Temp                   76 78 70 65 63 60 58 67 75 75 69 65 63 60 58 66 68 66 62
+Dewpt                  53 51 50 48 47 46 45 47 50 51 50 48 47 47 50 55 57 58 59
+RH                     45 39 49 54 56 60 62 49 41 43 51 54 56 62 75 68 68 75 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               19 19 14 13 13 12 11 14 17 18 11 12 11 11  9 12 11 10  6
+Wind gust              29 31    25          25       21 23                     
+Clouds                 SC SC SC B1 B1 B2 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                      5           5           0          10          80
+QPF 12hr                      0           0           0           0        0.45
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  D  D  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    55      36    55      39    58      42    59
+Temp          53 46 54 49   41 37 53 48   42 40 56 52   46 43 57 52
+Dewpt         53 46 47 44   40 37 41 41   40 40 46 47   45 43 47 46
+PWind dir         W    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   FW FW FW SC   B1 B2 B1 B2   B1 B1 SC SC
+PoP 12hr         80    20       0     0       5    20      30    30
+Rain shwrs     D  C  S                              S    C  C  C  C
+
+$$
+INZ032-232100-
+Marion Municipal Airport-Grant IN
+40.49N  85.68W Elev. 859 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          56          75          58          72
+Temp                   76 77 69 64 61 58 56 66 74 74 68 65 62 60 58 66 72 69 63
+Dewpt                  51 50 48 46 45 44 44 45 46 47 47 46 46 46 48 53 53 54 56
+RH                     42 39 47 52 56 59 64 47 37 38 47 50 56 60 69 63 51 59 78
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               17 19 13 12 13 11 10 13 16 16 11 11 11 10 10 13 13 13  6
+Wind gust              27       23                26                           
+Clouds                 SC FW FW SC SC B1 B1 SC B1 B1 B1 B1 B2 B2 B2 B2 B2 OV OV
+PoP 12hr                      0           5           0          10          70
+QPF 12hr                      0           0           0           0        0.27
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    58      36    57      39    61      42    60
+Temp          54 47 58 50   41 37 55 49   43 39 59 53   46 43 58 52
+Dewpt         54 47 47 43   39 37 40 40   39 39 44 45   43 42 44 44
+PWind dir         S    NW       N     E       E     E      NE    NE
+Wind char        LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   SC SC FW FW   SC B2 B1 B2   B1 B1 SC SC
+PoP 12hr         80    20       0     0       5    20      30    30
+Rain shwrs     D  L  S                              S    C  C  C  C
+
+$$
+INZ034-232100-
+Portland Municipal Airport-Jay IN
+40.45N  84.99W Elev. 925 ft
+1241 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          54          76          57          74
+Temp                   75 77 67 62 60 56 54 66 75 75 67 64 61 59 57 66 73 73 65
+Dewpt                  50 47 46 45 44 44 44 45 45 45 44 44 44 44 46 51 52 53 55
+RH                     41 35 47 54 55 64 69 47 34 34 43 48 53 57 67 58 48 49 70
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               16 16 11 11 11 10  9 12 14 13 10  9  9  9  8 12 13 10  5
+Clouds                 SC FW FW SC SC B1 SC SC SC B1 B1 B1 B2 B2 B2 B2 B2 B2 OV
+PoP 12hr                      0           0           0           5          60
+QPF 12hr                      0           0           0           0        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L  D
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    59      37    58      40    61      44    61
+Temp          55 49 59 52   43 37 56 49   43 41 59 53   47 45 59 53
+Dewpt         55 49 47 43   40 37 40 40   40 40 44 45   45 43 46 46
+PWind dir         S    NW       N    NE       E     E      NE    NE
+Wind char        LT    GN      LT    LT      LT    LT      LT    GN
+Avg clouds    OV B2 B1 SC   SC SC FW FW   SC B2 B1 B2   B2 B1 SC SC
+PoP 12hr         80    30       0     0       5    20      30    30
+Rain shwrs     D  L  C                              S    S  C  C  C
+
+$$

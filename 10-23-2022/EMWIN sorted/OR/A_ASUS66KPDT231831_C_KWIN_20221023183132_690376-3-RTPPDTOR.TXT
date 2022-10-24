@@ -1,0 +1,101 @@
+ASUS66 KPDT 231831
+RTPPDT
+
+Regional Temperatures and Precipitation Table
+National Weather Service Pendleton OR
+1130 AM PDT SUN OCT 23 2022
+
+High temp yesterday/ 18 hour low temperature up til 1100 AM
+Precipitation and snowfall past 24 hours up til 1100 AM
+
+.BR PDT 1023 DH08/TX/DH18/TAIRZP/PPD/SFD/SD
+:                                 Max    Min  24 hr  24 hr   Snow
+:Id    Station             Elev  Temp   Temp   Pcpn   Snow  Depth
+BDN   : Bend(Arpt)         3454 :  50 /   M /  0.00 /    M /    M
+HRI   : Hermiston           640 :  59 /  44 /     T /    M /    M
+LGD   : La Grande          2700 :  45 /  33 /  0.09 /    M /    M
+MEH   : Meacham            3726 :  39 /  31 /  0.14 /    M /    M
+PDT   : Pendleton(Arpt)    1495 :  54 /  42 /     T /  0.0 /    0
+RDM   : Redmond            3077 :  50 /  29 /  0.01 /    M /    M
+DLS   : The Dalles          250 :  60 /  44 /  0.00 /    M /    M
+ELN   : Ellensburg..WA     1759 :  56 /  37 /  0.00 /    M /    M
+HMS   : Hanford..WA         733 :  60 /  45 /     T /    M /    M
+PSC   : Pasco..WA           407 :  59 /  39 /  0.00 /    M /    M
+YKM   : Yakima..WA         1060 :  59 /  29 /  0.00 /    M /    M
+ALW   : Walla Walla..WA    1210 :  50 /  41 /     T /    M /    M
+BKE   : Baker City         3370 :  48 /  26 /  0.01 /    M /    M
+BNO   : Burns              4140 :  48 /  20 /  0.02 /    M /    M
+ONO   : Ontario            2190 :  58 /  36 /  0.00 /    M /    M
+REO   : Rome               4050 :  50 /  35 /  0.01 /    M /    M
+:Other AWOS locations...no NWS quality control performed.
+GCD   : John Day(Arpt)     3700 :  42 /  32 /  0.27 /    M /    M
+S39   : Prineville (Aprt)  3250 :  48 /  27 /  0.00 /    M /    M
+S33   : Madras(Arpt)       2427 :  50 /  30 /  0.00 /    M /    M
+6K5   : Sisters (Arpt)     3152 :  46 /  34 /  0.00 /    M /    M
+S21   : Sunriver (Arpt)    4152 :  41 /  25 /  0.00 /    M /    M
+S40   : Prosser (Arpt)..WA  695 :   M /   M /     M /    M /    M
+RLD   : Richland(Arpt)..WA  390 :  60 /  40 /  0.04 /    M /    M
+1S5   : Sunnyside Aprt..WA  768 :  59 /  32 /  0.00 /    M /    M
+1YT   : Yakima TC..WA      1371 :  57 /  34 /  0.00 /    M /    M
+JSY   : Joseph(Arpt)       4120 :  43 /  27 /  0.03 /    M /    M
+9S9   : Lexington(Arpt)    1624 :   M /   M /     M /    M /    M
+.END
+
+
+Cooperative sites
+High temperature / low temperature / precipitation and
+Snowfall past 24 hours up til 1100 AM
+
+
+Note: These locations report data once every 24 hours.
+In some weather situations reported low temperatures
+may reflect conditions for the previous day.
+
+
+.B PDT 1023 DH18/TX/TN/PPD/SFD/SD
+:                                 Max   Min   24 hr  24 hr  Snow
+:Id     Station             Elev  Temp  Temp  Pcpn   Snow   Depth
+ANPO3 : Antelope 6SSW      3030 :  48 /  31 /  0.05 /    M /    M
+ARLO3 : Arlington           277 :  59 /  42 /  0.00 /    M /    M
+BNDO3 : Bend(city)         3660 :   M /   M /     M /    M /    M
+BWTO3 : Bend 7NE           3358 :  46 /  29 /  0.00 /  0.0 /    0
+HEPO3 : Heppner            1885 :  50 /  35 /  0.12 /  0.0 /    0
+HMSO3 : Hermiston 2NW       460 :  62 /  42 /  0.00 /    M /    M
+JDRO3 : John Day(city)     3063 :  43 /  31 /  0.30 /    M /    M
+LGDO3 : La Grande(city)    2755 :   M /   M /     M /    M /    M
+LOGO3 : Long Creek         3740 :   M /   M /     M /    M /    M
+MDRO3 : Madras             2230 :   M /   M /     M /    M /    M
+MCNO3 : McNary Dam          361 :  58 /  44 /  0.25 /    M /    M
+MORO3 : Moro               1870 :   M /   M /     M /    M /    M
+MTLO3 : Mitchell           3320 :   M /   M /     M /    M /    M
+PELO3 : Pelton Dam         1410 :  55 /  31 /  0.00 /    M /    M
+PSHO3 : Pendleton S. Hill  1161 :   M /   M /     M /    M /    M
+PNDO3 : Pendleton(ES)      1487 :   M /   M /     M /    M /    M
+PRIO3 : Prineville         2840 :  52 /  29 /  0.00 /  0.0 /    0
+SIFO3 : Sisters            3180 :   M /   M /     M /    M /    M
+SUNO3 : Sunriver           4200 :   M /   M /     M /    M /    M
+CLMW1 : Cle Elum           1920 :   M /   M /     M /    M /    M
+DYNW1 : Dayton(City)       1557 :   M /   M /     M /    M /    M
+ELBW1 : Ellensburg(City)   1480 :   M /   M /     M /    M /    M
+ESTW1 : Easton             2170 :  48 /  34 /  0.01 /    M /    M
+GNDW1 : Goldendale         1657 :   M /   M /     M /    M /    M
+IHXW1 : Ice Harbor Dam      368 :  59 /  42 /  0.05 /    M /    M
+KENW1 : Kennewick           390 :  60 /  44 /  0.00 /    M /    M
+PRSW1 : Prosser             830 :   M /   M /     M /    M /    M
+SAGW1 : Sagemoor            595 :   M /   M /     M /    M /    M
+SELW1 : Selah 2NE          1120 :   M /   M /     M /    M /    M
+SSPW1 : Satus Pass         2610 :  51 /  27 /    T  /  0.0 /    0
+SNDW1 : Snowden            2415 :   M /   M /     M /    M /    M
+SNNW1 : Sunnyside           747 :  59 /  33 /  0.00 /    M /    M
+WTMW1 : Whitman Mission     632 :   M /   M /     M /    M /    M
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+
+$$

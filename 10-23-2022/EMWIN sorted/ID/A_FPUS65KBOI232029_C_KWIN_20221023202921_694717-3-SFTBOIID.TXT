@@ -1,0 +1,161 @@
+FPUS65 KBOI 232029
+SFTBOI
+IDZ011>016-028>030-ORZ061>064-241200-
+
+Tabular State Forecast for Southwest Idaho/Southeast Oregon
+National Weather Service Boise ID
+228 PM MDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Southwest Idaho Valleys...
+   Boise
+   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   32/51    35/53    37/47    28/49    32/54    35/55    38/53    
+    00/40    80/10    40/60    10/00    00/00    10/20    30/30   
+
+   Caldwell
+   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   29/52    33/53    37/50    26/52    29/55    31/56    34/55    
+    00/40    70/10    40/60    10/00    00/00    10/20    30/30   
+
+   Emmett
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   32/51    35/54    38/49    27/50    29/54    33/55    37/54    
+    00/60    70/10    50/60    10/00    00/00    10/20    40/30   
+
+   Marsing
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   30/53    35/54    38/49    27/50    28/53    30/54    35/54    
+    00/50    70/10    40/60    10/00    00/00    10/20    30/30   
+
+   Mountain Home
+   Ptcldy   Ptcldy   Shwrs    Sunny    Ptcldy   Ptcldy   Mocldy   
+   25/54    34/54    34/48    24/49    26/54    28/56    33/55    
+    00/10    80/10    40/60    10/00    00/00    10/10    30/30   
+
+   Nampa
+   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   29/52    34/53    37/48    26/49    28/53    31/54    35/53    
+    00/40    80/10    40/60    10/00    00/00    10/20    30/30   
+
+   Payette
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   30/51    34/55    37/52    25/51    26/54    28/55    33/55    
+    00/60    50/10    50/50    10/00    00/10    10/30    40/40   
+
+   Weiser
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   30/50    33/54    37/51    26/50    26/53    28/54    34/54    
+    00/70    50/10    50/60    10/00    00/10    10/30    40/40   
+
+   Wildlife Refuge/Deer Flat /average/
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   30/52    35/53    38/48    27/49    29/52    31/54    35/53    
+    00/50    70/10    40/60    10/00    00/10    10/20    30/30   
+
+
+...West Central and Boise Mountains...
+   Cascade
+   Snow     Mocldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   18/41    24/44    25/39    9/41     12/46    18/47    23/44    
+    00/90    90/10    60/80    10/00    00/10    10/20    40/40   
+
+   Council
+   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   27/45    33/49    34/46    24/47    26/51    30/52    34/50    
+    00/90    80/10    60/70    10/10    00/10    10/30    40/40   
+
+   Idaho City
+   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   22/48    26/50    27/44    9/46     12/53    17/55    22/50    
+    00/60    90/10    50/70    10/00    00/00    10/20    40/30   
+
+   McCall
+   Snow     Mocldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Snoshwr  
+   18/38    27/41    27/39    15/41    19/46    23/47    27/45    
+    00/90    90/10    60/80    20/10    00/10    10/30    50/50   
+
+   Payette State River Mgmt Area/Crouch near 3500 ft MSL/average/
+   Rain     Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   27/45    31/50    31/45    16/47    19/53    24/55    29/50    
+    00/80    90/10    50/70    10/00    00/10    10/20    40/40   
+
+
+...Southeast Oregon...
+   Baker City
+   Rnsnow   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   21/44    28/51    31/45    19/47    23/50    24/52    28/51    
+    00/80    60/10    70/60    10/00    10/10    10/30    40/40   
+
+   Burns
+   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   18/52    25/52    28/48    18/51    20/56    24/57    28/55    
+    00/40    30/10    60/40    10/00    00/10    10/30    30/30   
+
+   Rome Airport KREO
+   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   25/58    33/55    34/49    21/52    22/58    26/60    30/57    
+    00/10    60/10    40/50    10/00    00/00    10/20    30/20   
+
+   Jordan Valley/Rome/Owyhee Canyon near 4000 ft MSL/average/
+   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   25/54    31/52    33/46    20/48    22/54    26/56    30/54    
+    00/20    70/10    40/50    10/00    00/00    10/20    30/30   
+
+   Malheur Wildlife Refuge/Frenchglen near 4000 ft MSL/average/
+   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   23/53    29/51    31/43    22/48    23/53    28/53    32/51    
+    00/30    50/10    60/40    10/00    00/10    10/30    30/30   
+
+   Ontario
+   Rain     Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   29/51    33/55    37/52    26/52    27/54    28/55    33/55    
+    00/60    40/10    40/50    10/00    00/10    10/30    30/30   
+
+   Steens Mountain National Recreation Lands near 6000 ft MSL/avg/
+   Ptcldy   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   25/46    28/45    27/36    25/41    30/47    34/48    35/46    
+    00/30    80/10    60/60    10/00    00/00    10/30    30/30   
+
+
+...South Central Idaho...
+   Fairfield
+   Sunny    Ptcldy   Snoshwr  Sunny    Ptcldy   Ptcldy   Ptcldy   
+   18/46    24/47    26/41    7/43     10/47    15/50    17/47    
+    00/10    80/10    40/70    10/00    00/00    00/10    30/30   
+
+   Glenns Ferry
+   Sunny    Ptcldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   29/56    37/55    37/50    24/51    26/56    28/58    33/56    
+    00/10    70/10    40/70    10/00    00/00    10/10    30/30   
+
+   Gooding
+   Sunny    Ptcldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   26/51    35/50    33/45    21/46    23/51    26/54    29/51    
+    00/10    60/10    40/60    10/00    00/00    00/10    20/20   
+
+   Jerome
+   Sunny    Ptcldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   28/51    36/49    33/44    26/45    27/51    30/54    34/52    
+    00/10    60/10    30/60    10/00    00/00    00/10    20/20   
+
+   Twin Falls
+   Sunny    Ptcldy   Shwrs    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   30/53    36/50    35/44    26/46    25/51    28/55    33/53    
+    00/10    70/10    30/60    10/00    00/00    00/10    20/20   
+
+
+$$
+

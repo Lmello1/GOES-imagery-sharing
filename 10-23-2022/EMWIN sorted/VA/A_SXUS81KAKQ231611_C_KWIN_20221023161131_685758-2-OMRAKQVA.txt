@@ -1,0 +1,67 @@
+SXUS81 KAKQ 231611
+OMRAKQ
+
+MARINE/BUOY REPORTS
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+1200 PM EDT SUN OCT 23 2022
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+LEWES DE         1524      61   40/ 16/ 19 1022.7
+OCEAN CITY INLET 1524      62   60/  7/ 12 1021.6
+BUOY 44009       1600   62 63   30/ 21/ 25 1020.8
+BRANDYWINE LGT   1524           30/ 14/ 17 1023.2
+THOMAS POINT MD  1600   58     350/ 15/ 16 1024.3
+GOOSES REEF MD   1542   56 61  360/ 17/ 27 1024.8    2
+COVE POINT MD    1524          310/ 13/ 17 1023.3
+PINEY POINT MD   1524           30/  8/ 12   N/A
+BISHOPS HEAD MD  1524      58   20/  8/ 17 1021.8
+POTOMAC MD       1548   57     360/ 16/ 19   N/A     1
+SOLOMONS ISLAND  1524      63   10/ 12/ 17 1021.4
+LEWISETTA VA     1524      60   20/  7/ 10 1022.7
+WALLOPS ISL BUOY 1556      62                N/A     6
+WACHAPREAGUE VA  1524      60   40/ 18/ 21 1019.2
+RAPPAHANNOCK LGT 1524          350/ 20/ 22 1021.0
+STINGRAY PT      1548   58 62  360/ 21/ 29   N/A     3
+YORKTOWN VA      1524      62  340/ 11/ 14 1020.8
+YORK RIVER RANGE 1524           10/ 21/ 23 1020.5
+BUOY 44072 YORK  1542   58 63  330/ 16/ 19   N/A     3
+$$
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BALTIMORE HARBOR 1524      62   70/  8/ 10 1023.8
+TOLCHESTER BEACH 1524      58   40/  5/  7 1024.0
+FRANCIS S KEY BR 1524           50/  8/ 10 1024.1
+CAMBRIDGE MD     1524      59   30/  9/ 12 1022.5
+WASHINGTON DC    1524      60   20/  5/  8 1024.1
+DAHLGREN         1524      61  330/  2/  6 1023.1
+WILLOUBY STN     1524           10/ 17/ 22 1020.8
+S CRANEY ISL VA  1524          360/ 14/ 18 1020.4
+DOMINION TERM    1524          340/  6/ 10 1020.7
+SOUTH CRANEY ISL 1524          360/ 14/ 18 1020.4
+MONEY POINT      1524      64  360/ 10/ 14 1020.0
+SEWELLS POINT    1524      63              1020.1
+KIPTOPEKE VA     1524      66   10/ 12/ 16   N/A
+CHES BAY BRIDGE  1524           10/ 20/ 24 1018.9
+JAMESTOWN VA     1548   56     350/  8/ 14   N/A     1
+YORK SPIT VA     1542   58 63  330/ 16/ 19   N/A     3
+CAPE HENRY VA    1524          350/ 20/ 23 1020.2
+CAPE HENRY BUOY  1556      64                N/A     6
+1ST LANDING BUOY 1542   57 64  360/ 21/ 25 1021.2    4
+BUOY 44025       1550      62              1023.1    7
+BUOY 44066       1550   61 66   60/ 25/ 33 1021.2   10
+DUCK PIER        1524      64  340/ 19/ 21 1018.3
+44100 DUCK FRF   1556      66                N/A     8
+44056 DUCK FRF   1526      66                N/A     8
+OREGON INLET NC  1524      65   20/ 10/ 17 1018.1
+HATTERAS NC      1524      64  340/ 22/ 27 1017.4
+BUOY 41025       1600      79  350/ 23/ 27 1015.8
+CAPE LOOKOUT NC  1500   60     340/ 19/ 21 1019.0
+WALLOPS ISL      1556      62                N/A     6
+$$
+  

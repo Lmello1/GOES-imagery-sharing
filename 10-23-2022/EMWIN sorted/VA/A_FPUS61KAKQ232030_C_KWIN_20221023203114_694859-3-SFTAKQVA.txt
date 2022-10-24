@@ -1,0 +1,84 @@
+FPUS61 KAKQ 232030
+SFTAKQ
+FPUS61 KAKQ 232030
+SFTAKQ
+VAZ001>100-241000-
+
+Tabular State Forecast for VIRGINIA
+National Weather Service WAKEFIELD VA
+430 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...CENTRAL AND SOUTHEAST VIRGINIA INCLUDING RICHMOND AND HAMPTON ROADS...
+   NEWPORT NEWS
+   Mocldy   Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   55/66    54/72    57/75    56/70    52/67    54/66    54/67    
+    60/20    10/10    10/10    10/10    10/10    10/20    20/20   
+
+   NORFOLK
+   Mocldy   Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   56/66    56/72    58/77    58/71    54/69    57/67    56/68    
+    50/20    10/10    10/10    10/10    10/10    10/20    20/20   
+
+   RICHMOND
+   Mocldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   52/69    53/74    55/76    54/71    49/67    51/66    51/65    
+    30/10    10/10    10/10    10/10    10/10    10/20    20/20   
+
+   WAKEFIELD
+   Mocldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   53/68    53/73    54/76    54/72    49/68    51/67    52/67    
+    30/10    10/10    10/10    10/10    10/10    10/20    20/20   
+
+...CENTRAL PIEDMONT AND SOUTHSIDE VIRGINIA...
+   DANVILLE
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   47/74    47/75    52/72    50/70    47/67    47/65    50/65    
+    10/00    00/00    10/10    10/10    00/10    10/20    20/30   
+
+   FARMVILLE
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   49/73    50/74    53/74    50/70    46/66    47/65    49/64    
+    10/10    00/00    10/10    10/10    00/10    10/20    20/30   
+
+   LYNCHBURG
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   46/75    48/74    52/72    49/70    46/67    47/65    50/64    
+    10/00    00/00    10/20    20/10    00/10    10/20    20/30   
+
+...NEW RIVER VALLEY...
+   BLACKSBURG
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/72    40/71    50/66    46/65    43/64    43/61    46/58    
+    10/00    00/00    20/20    20/10    10/10    20/20    20/30   
+
+   ROANOKE
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   43/74    45/73    52/70    50/68    46/66    47/64    50/62    
+    10/00    00/00    10/20    20/10    10/10    20/20    20/30   
+
+...NORTHERN VIRGINIA INCLUDING THE SHENENDOAH VALLEY...
+   CHARLOTTESVILLE
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   49/73    52/74    54/73    52/70    46/64    48/64    49/63    
+    10/10    00/00    10/20    20/10    10/10    10/20    20/30   
+
+   DULLES AIRPORT
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   52/67    54/71    55/72    53/67    45/63    48/63    49/63    
+    30/20    10/10    10/20    20/10    10/10    10/20    20/30   
+
+
+$$
+

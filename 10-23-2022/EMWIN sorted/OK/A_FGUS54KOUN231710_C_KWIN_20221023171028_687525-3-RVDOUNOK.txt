@@ -1,0 +1,103 @@
+FGUS54 KOUN 231710
+RVDOUN
+OKC003-005-009-011-013-015-017-019-027-029-031-033-039-043-045-047-
+049-051-053-055-057-059-063-065-067-069-071-073-075-081-083-085-
+087-093-095-099-103-109-119-123-125-129-133-137-141-149-151-153-
+TXC009-023-077-155-197-275-485-487-240509-
+
+Daily River And Lake Summary
+National Weather Service Norman OK
+1210 PM CDT Sun Oct 23 2022
+
+.B OUN 1023 DC DH12/HG/DRH+24/HGIFFZ/DRH+48/HGIFFZ/
+.B1 DRH+72/HGIFFZ
+:
+: River stages and lake levels are furnished courtesy of the
+: U.S. Geological Survey and U.S. Army Corps of Engineers.
+:
+:          River Forecast and Data Point Sites
+:
+:  Station             Flood      7AM   24-hr         7AM
+: ID    Name           Stage     Stage  Change      Forecasts
+:                                                Mon    Tue    Wed
+:
+:...Arkansas River Basin...
+:
+:Chikaskia River
+BLKO2 :Blackwell        29.0:    1.78/:  -0.03:  1.9 /  1.8 /  1.8 /
+:
+:North Canadian River
+ELNO2 :El Reno          17.0:    4.84/:   0.54:  5.1 /  5.3 /  5.2 /
+OKBO2 :Oklahoma City a  17.0:    4.95/:   0.00:  5.0 /  5.1 /  5.2 /
+:
+:...Red River Basin...
+:
+:East Cache Creek
+WLTO2 :Walters          21.0:    4.38/:  -0.05:  4.3 /  4.3 /  4.3 /
+:
+:Wichita River
+WICT2 :Wichita Falls    18.0:    2.19/:   0.03:  2.2 /  2.2 /  2.2 /
+:
+:Washita River
+PLVO2 :Pauls Valley     29.0:    5.08/:  -0.33:  4.7 /  4.6 /  4.5 /
+DURO2 :Dickson          27.0:    7.12/:  -0.03:  7.3 /  7.4 /  7.4 /
+:
+:Red River
+TRLO2 :Terral           22.0:    6.07/:  -0.04:  6.0 /  6.0 /  6.0 /
+GSVT2 :Gainesville      25.0:    7.19/:  -0.02:  7.2 /  7.2 /  7.2 /
+:
+:Blue River
+BLUO2 :Blue             28.0:    5.05/:  -0.02:  5.0 /  5.1 /  5.1 /
+:
+.END
+
+$$
+
+
+.B OUN 1023 DC202210231210 DH12/HP/
+:
+:                  Reservoir/Lake Sites
+:                                            7AM
+:   Station                        Normal    Pool     24-hr
+: ID      Name                      Pool     Elev.    Change
+:
+:...Arkansas River Basin...
+:
+GSPO2 :Great Salt Plains Lake     1125.0:  1123.10/:  -0.04:
+KAWO2 :Kaw Lake                   1013.0:  1006.11/:  -0.02:
+FSLO2 :Fort Supply Lake           2004.0:  2002.86/:  -0.01:
+HEFO2 :Lake Hefner                1199.0:  1191.50/:   0.02:
+CNLO2 :Canton Lake                1618.5:  1610.93/:  -0.22:
+OVRO2 :Lake Overholser            1242.0:  1238.78/:  -0.18:
+ACDO2 :Arcadia Lake               1006.0:  1005.30/:  -0.04:
+SHLO2 :Shawnee Lake NO. 1         1067.0:  1070.60/:  -0.04:
+NRMO2 :Lake Thunderbird           1039.0:  1036.39/:  -0.04:
+:
+:...Red River Basin...
+:
+ALTO2 :Altus Lake                 1559.0:  1534.10/:  -0.01:
+MTNO2 :Tom Steed Lake             1411.0:  1404.40/:  -0.02:
+ELWO2 :Lake Ellsworth             1235.0:  1229.89/:  -0.03:
+LTLO2 :Lake Lawtonka              1345.6:  1340.14/:   0.00:
+TBPT2 :Truscott Brine Lake        1499.0:  1456.51/:   0.00:
+SYOT2 :Lake Kemp                  1144.0:  1132.75/:  -0.02:
+DDET2 :Dundee Lake Diverson       1051.0:  1050.66/:  -0.03:
+IPRT2 :NF Buffalo Creek Reservoir 1050.0:  1041.50/:  -0.01:
+ARRT2 :Lake Arrowhead              926.4:   920.28/:  -0.04:
+ARHT2 :Lake Kickapoo              1045.0:  1038.03/:  -0.02:
+WRLO2 :Waurika Lake                951.4:   948.63/:  -0.02:
+FOSO2 :Foss Lake                  1652.0:  1637.44/:  -0.03:
+FTCO2 :Fort Cobb Lake             1342.0:  1340.09/:  -0.03:
+ARBO2 :Arbuckle Lake               872.0:   869.03/:  -0.02:
+DSNT2 :Lake Texoma                 619.0:   614.26/:  -0.03:
+ATKO2 :Atoka Lake                  590.0:   584.19/:  -0.07:
+MGCO2 :McGee Creek Lake            577.0:   571.69/:  -0.02:
+:
+:...Brazos River Basin...
+:
+SMKT2 :Millers Creek Reservoir    1334.5:  1328.59/:   0.00:
+:
+.END
+
+$$
+

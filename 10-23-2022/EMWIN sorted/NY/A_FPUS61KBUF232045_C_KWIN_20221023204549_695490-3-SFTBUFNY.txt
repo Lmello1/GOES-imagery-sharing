@@ -1,0 +1,118 @@
+FPUS61 KBUF 232045
+SFTBUF
+NYZ001>025-085-241000-
+
+Tabular State Forecast for New York
+National Weather Service Buffalo NY
+445 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Niagara Frontier...
+   Buffalo, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   50/71    50/75    55/70    45/55    41/57    43/59    44/61    
+    00/00    00/00    10/60    60/10    00/00    10/10    10/20   
+
+   Niagara Falls, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   47/70    49/73    54/69    45/54    40/57    41/58    42/61    
+    00/00    00/00    10/60    60/10    00/00    10/10    10/20   
+
+
+...Southern Tier...
+   Dunkirk, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   51/68    53/73    56/67    45/54    40/58    43/58    44/62    
+    00/00    00/00    20/60    60/20    00/00    10/10    10/20   
+
+   Jamestown, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   46/67    50/69    52/62    43/53    38/55    41/57    42/57    
+    00/00    00/00    20/70    70/20    00/00    10/10    10/20   
+
+   Olean, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   44/71    45/72    51/67    42/55    35/58    38/59    40/60    
+    00/00    00/10    20/60    60/20    00/00    10/10    10/20   
+
+   Wellsville, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   48/69    49/70    55/66    45/54    36/56    39/57    41/59    
+    00/00    10/10    20/60    60/10    00/00    10/10    10/20   
+
+   Elmira, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Mocldy   
+   46/71    51/70    56/69    45/57    36/58    40/60    41/61    
+    20/10    00/20    30/50    50/10    10/10    10/10    10/10   
+
+
+...Genesee Region...
+   Batavia, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   49/71    49/75    55/70    44/54    39/55    42/57    41/61    
+    00/00    00/00    10/60    60/10    00/00    10/10    10/10   
+
+   Rochester, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   49/70    48/74    55/72    46/56    41/57    42/58    42/62    
+    00/00    00/00    10/60    60/10    00/00    10/10    10/10   
+
+
+...Finger Lakes Region...
+   Dansville, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   50/73    51/76    56/73    46/59    39/60    41/62    42/63    
+    00/00    00/00    20/60    60/10    00/00    10/10    10/10   
+
+   Geneva, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   51/70    54/72    60/70    48/56    40/57    43/60    45/60    
+    10/10    10/10    10/50    50/20    10/10    10/10    10/10   
+
+   Penn Yan, NY
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   50/69    54/70    59/69    48/55    39/56    43/59    44/60    
+    10/10    00/10    20/50    50/10    10/10    10/10    10/10   
+
+   Ithaca, NY
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   47/69    53/68    58/68    47/56    37/56    40/58    41/59    
+    20/10    00/10    20/40    40/10    10/10    10/10    10/10   
+
+   Syracuse, NY
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   50/70    54/73    60/73    51/58    41/58    43/60    43/62    
+    20/20    10/10    20/40    40/20    10/10    10/10    10/10   
+
+
+...Eastern Lake Ontario Counties...
+   Fulton, NY
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   51/66    49/72    55/72    47/57    41/57    41/58    42/61    
+    10/10    10/10    10/40    50/30    00/00    10/10    10/10   
+
+   Watertown, NY
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   51/68    51/72    57/72    46/56    36/57    38/59    41/60    
+    10/10    00/10    10/40    50/30    00/00    10/10    10/10   
+
+   Lowville, NY
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   49/67    49/72    55/71    44/56    36/57    38/57    41/60    
+    20/20    10/20    20/40    50/30    10/00    10/10    10/10   
+
+
+$$
+

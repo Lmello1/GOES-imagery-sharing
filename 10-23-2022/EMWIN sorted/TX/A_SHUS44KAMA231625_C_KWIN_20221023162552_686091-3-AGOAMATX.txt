@@ -1,0 +1,36 @@
+SHUS44 KAMA 231625
+AGOAMA
+Texas/Oklahoma Panhandles Supplementary Observations
+National Weather Service Amarillo TX
+1125 AM CDT Sun Oct 23 2022
+
+Data below provided by National Weather Service
+Cooperative Weather Observers. Temperature values
+and precipitation totals are from the past 24 hours.
+:
+                         HIGH   LOW    PCPN
+BSHT2 : Bushland 1WSW   :  80 /  50 /  0.00
+FOLT2 : Follett         :  89 /  54 /  0.00
+GRUT2 : Gruver          :  86 /  54 /  0.00
+PAPT2 : Pampa # 2       :  84 /  54 /  0.00
+SDMT2 : Sanford Dam     :  84 /  54 /  0.00
+: 
+ ...Precipitation Reporting Only...
+HPHT2 : Allison 5ENE    :  0.00
+TXLT2 : Texline         :  0.00
+:
+ ...AGRICULTURAL DATA 0800-0800...
+               *** SOIL TEMPERATURES ***
+           2-IN  4-IN     4-IN      6-IN   PAN
+                        MAX   MIN          EVAP
+ Bushland    54         70    61     62    0.43
+ Sanford Dam                               0.48
+ 
+Notes: T means a Trace, MM or MSG means missing.
+This data is preliminary and has not undergone final quality
+control by the National Centers For Environmental Information /NCEI/.
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

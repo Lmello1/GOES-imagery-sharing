@@ -1,0 +1,207 @@
+FOUS71 KRHA 231950
+FFHPA2
+HEADWATER STATEMENT FOR THE DELAWARE AND SUSQUEHANNA BASINS             
+MIDDLE ATLANTIC RIVER FORECAST CENTER                                   
+NATIONAL WEATHER SERVICE STATE COLLEGE PA                               
+332 PM EDT SUN OCT 23 2022
+                                                                        
+APPROXIMATE 1/3/6/12-HR BASIN AVERAGED RAINFALL (INCHES)                
+REQUIRED TO CAUSE MINOR, MODERATE, AND MAJOR FLOODING AT                
+THE INDICATED HEADWATER LOCATIONS.                                      
+                                                                        
+.B RHA 221023 Z DH18/DC2210231932/DUE/PPHCF/PPTCF/PPQCF/PPKCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  12HR  HEADWATER NAME
+:======= ====  ====  ====  ====  ====================
+:                                                                       
+: NWS BINGHAMTON SERVICE AREA...                                        
+:  SUSQUEHANNA BASIN...                                                 
+:  Chenango River...                                                    
+SHBN6     3.4/  3.6/  3.7/  3.7 :Sherburne (8.5ft)  
+:SHBN6md  4.0/  4.2/  4.3/  4.3  Sherburne (9)      
+:SHBN6mj  4.7/  4.9/  5.0/  5.0  Sherburne (10.6)   
+:  Otselic River...                                                     
+CINN6     4.7/  4.9/  5.2/  5.4 :Cincinnatus (9ft)  
+: ...moderate and major flood stages above rating table.                
+:  Cohocton River...                                                    
+CMPN6     3.0/  3.6/  3.8/  3.9 :Campbell (8ft)     
+:CMPN6md  4.1/  4.9/  5.3/  5.4  Campbell (10)      
+:CMPN6mj  4.9/  6.0/  6.6/  6.9  Campbell (11)      
+:  Canisteo River...                                                    
+WCRN6     3.9/  4.4/  4.7/  5.0 :West Cameron (17ft)
+:WCRN6md  4.2/  4.7/  5.1/  5.5  West Cameron (18)  
+:WCRN6mj  5.1/  5.9/  6.5/  7.0  West Cameron (21)  
+:  Towanda Creek...                                                     
+MONP1     3.4/  3.5/  3.6/  4.1 :Monroeton (15.5ft) 
+:MONP1md  3.9/  3.9/  4.1/  4.6  Monroeton (17)     
+:MONP1mj  4.6/  4.7/  4.8/  5.6  Monroeton (18.5)   
+:  Tunkhannock Creek...                                                 
+TNKP1     2.8/  3.3/  3.9/  4.3 :Tunkhannock (11ft) 
+:TNKP1md  3.4/  4.0/  4.8/  5.4  Tunkhannock (14)   
+:TNKP1mj  4.0/  4.8/  5.8/  6.6  Tunkhannock (17)   
+:  Lackawanna River...                                                  
+OFRP1     4.6/  5.1/  5.6/  6.0 :Old Forge (11ft)   
+:OFRP1md  5.2/  5.9/  6.5/  6.9  Old Forge (13)     
+:OFRP1mj  6.2/  7.0/  7.4/  8.0  Old Forge (16)     
+:  DELAWARE BASIN...                                                    
+:  East Branch Delaware River...                                        
+MRGN6     3.1/  3.4/  4.0/  4.5 :Margaretville (11ft)
+:MRGN6md  3.7/  4.2/  4.9/  5.6  Margaretville (12) 
+:MRGN6mj  4.4/  5.0/  6.0/  7.0  Margaretville (13) 
+:  West Branch Delaware River...                                        
+WALN6     2.5/  2.7/  2.7/  2.8 :Walton (9.5ft)     
+:WALN6md  4.3/  4.6/  4.7/  4.8  Walton (14)        
+:WALN6mj  5.6/  6.1/  6.2/  6.4  Walton (16)        
+:  Beaverkill Creek...                                                  
+CKFN6     2.3/  2.8/  3.4/  3.8 :Cooks Falls (10ft) 
+:CKFN6md  4.3/  5.4/  6.9/  8.0  Cooks Falls (16)   
+:CKFN6mj  5.1/  6.7/  7.4/  8.0  Cooks Falls (18)   
+:  Lackawaxen River...                                                  
+HWYP1     4.5/  4.9/  5.1/  5.3 :Hawley (11ft)      
+:HWYP1md  4.9/  5.4/  5.6/  5.8  Hawley (12)        
+:HWYP1mj  6.5/  7.0/  7.4/  8.0  Hawley (20)        
+:                                                                       
+: NWS STATE COLLEGE SERVICE AREA...                                     
+:  SUSQUEHANNA BASIN...                                                 
+:  Tioga River...                                                       
+MFDP1     3.9/  4.1/  4.3/  5.0 :Mansfield (12ft)   
+:MFDP1md  4.4/  4.5/  4.8/  5.7  Mansfield (13)     
+:MFDP1mj  4.9/  5.2/  5.6/  6.6  Mansfield (14)     
+:  Penns Creek...                                                       
+PNCP1     3.1/  3.5/  3.8/  4.1 :Penns Creek (8ft)  
+:PNCP1md  3.7/  4.3/  4.7/  5.0  Penns Creek (10)   
+:PNCP1mj  4.6/  5.3/  5.9/  6.4  Penns Creek (12)   
+:  Frankstown Branch Juniata River...                                   
+WIBP1     2.9/  3.0/  3.5/  3.7 :Williamsburg (12ft)
+:WIBP1md  3.1/  3.3/  3.8/  4.0  Williamsburg (13)  
+:WIBP1mj  3.5/  3.8/  4.4/  4.6  Williamsburg (15)  
+:  Little Juniata River...                                              
+SPKP1     2.8/  3.1/  3.5/  3.9 :Spruce Creek (8ft) 
+:SPKP1md  3.3/  3.7/  4.3/  4.8  Spruce Creek (10)  
+:SPKP1mj  4.6/  5.1/  6.1/  6.8  Spruce Creek (14)  
+:  Aughwick Creek...                                                    
+SLYP1     3.7/  3.8/  3.9/  4.1 :Shirleysburg (10ft)
+:SLYP1md  4.5/  4.6/  4.7/  4.9  Shirleysburg (12)  
+:SLYP1mj  6.5/  7.0/  7.4/  8.0  Shirleysburg (20)  
+:  Sherman Creek...                                                     
+SMDP1     3.4/  3.7/  4.0/  4.1 :Shermans Dale (9ft)
+:SMDP1md  4.0/  4.3/  4.7/  4.9  Shermans Dale (11) 
+:SMDP1mj  6.0/  6.6/  7.4/  7.7  Shermans Dale (16) 
+:  Conodoguinet Creek...                                                
+HGSP1     4.5/  4.5/  4.5/  4.6 :Hogestown (8ft)    
+:HGSP1md  5.7/  5.7/  5.7/  5.7  Hogestown (10)     
+:HGSP1mj  6.5/  6.9/  6.9/  7.0  Hogestown (12)     
+:  Yellow Breeches Creek...                                             
+CPHP1     4.4/  4.5/  4.5/  4.6 :Camp Hill (7ft)    
+:CPHP1md  5.2/  5.3/  5.3/  5.4  Camp Hill (9)      
+:CPHP1mj  6.5/  7.0/  7.4/  7.9  Camp Hill (13)     
+:  Swatara Creek...                                                     
+HTVP1     3.4/  3.4/  3.6/  3.8 :Harper Tavern (9ft)
+:HTVP1md  4.3/  4.4/  4.6/  4.9  Harper Tavern (12) 
+:HTVP1mj  5.4/  5.6/  5.8/  6.2  Harper Tavern (15) 
+:  Conestoga River...                                                   
+LNCP1     3.6/  3.7/  3.9/  4.3 :Lancaster (11ft)   
+:LNCP1md  4.3/  4.5/  4.7/  5.1  Lancaster (13)     
+:LNCP1mj  5.0/  5.2/  5.5/  5.9  Lancaster (15)     
+:  DELAWARE BASIN...                                                    
+:  Schuylkill River...                                                  
+LGVP1     3.1/  3.3/  3.3/  3.5 :Landingville (8ft) 
+:LGVP1md  3.9/  4.2/  4.4/  4.8  Landingville (12)  
+:LGVP1mj  4.7/  5.1/  5.4/  5.9  Landingville (14)  
+:                                                                       
+: NWS MT. HOLLY SERVICE AREA...                                         
+:  DELAWARE BASIN...                                                    
+:  Schuylkill River...                                                  
+BREP1     4.5/  4.8/  5.4/  5.9 :Berne (12ft)       
+:BREP1md  5.5/  5.9/  6.7/  7.3  Berne (14)         
+:BREP1mj  6.5/  7.0/  7.4/  8.0  Berne (16)         
+:  Bush Kill...                                                         
+SHOP1     4.9/  5.2/  5.3/  5.4 :Shoemakers (6ft)   
+:SHOP1md  5.6/  5.9/  6.1/  6.2  Shoemakers (7)     
+:SHOP1mj  6.3/  6.8/  7.0/  7.1  Shoemakers (8)     
+:  Brodhead Creek...                                                    
+MNSP1     4.4/  4.9/  5.8/  6.0 :Minisink Hills(10ft)
+:MNSP1md  5.2/  5.9/  6.9/  7.3  Minisink Hills(12) 
+:MNSP1mj  6.4/  7.0/  7.4/  8.0  Minisink Hills(15) 
+:  Little Lehigh Creek...                                               
+APAP1     4.2/  4.5/  5.0/  5.9 :Allentown-10th (8ft)
+:APAP1md  5.2/  5.6/  6.2/  7.5  Allentown-10th (10)
+:APAP1mj  6.2/  6.7/  7.4/  8.0  Allentown-10th (12)
+:  Perkiomen Creek...                                                   
+GRAP1     2.4/  2.9/  3.2/  3.8 :Graterford (11ft)  
+:GRAP1md  2.7/  3.4/  3.7/  4.4  Graterford (13)    
+:GRAP1mj  3.4/  4.2/  4.6/  5.7  Graterford (16)    
+:  Neshaminy Creek...                                                   
+LNGP1     2.5/  2.9/  3.0/  3.4 :Langhorne (9ft)    
+:LNGP1md  3.1/  3.7/  3.8/  4.2  Langhorne (10)     
+:LNGP1mj  3.5/  4.2/  4.3/  4.8  Langhorne (12)     
+:  Chester Creek...                                                     
+CHSP1     2.5/  2.6/  2.9/  3.5 :Chester (8ft)      
+:CHSP1md  3.1/  3.2/  3.5/  4.3  Chester (10)       
+:CHSP1mj  4.1/  4.2/  4.7/  5.7  Chester (14)       
+:  West Branch Brandywine Creek...                                      
+MODP1     5.0/  5.2/  5.5/  5.7 :Modena (9ft)       
+:MODP1md  5.5/  5.8/  6.2/  6.5  Modena (10)        
+:MODP1mj  6.5/  7.0/  7.4/  8.0  Modena (12)        
+:  East Branch Brandywine Creek...                                      
+DWNP1     2.1/  2.2/  2.2/  2.4 :Downingtown (7ft)  
+:DWNP1md  2.5/  2.5/  2.6/  2.9  Downingtown (8)    
+:DWNP1mj  2.9/  3.0/  3.1/  3.4  Downingtown (9)    
+:  Brandywine Creek...                                                  
+CDFP1     2.0/  2.5/  2.9/  3.1 :Chadds Ford (9ft)  
+:CDFP1md  2.4/  3.1/  3.7/  3.8  Chadds Ford (11)   
+:CDFP1mj  2.9/  3.7/  4.4/  4.6  Chadds Ford (13)   
+:  Christina River...                                                   
+CHBD1     2.2/  2.3/  2.6/  3.5 :Coochs Brdg(11ft)  
+:CHBD1md  2.5/  2.7/  3.1/  4.2  Coochs Brdg(12)    
+:CHBD1mj  3.3/  3.5/  4.0/  5.3  Coochs Brdg(13)    
+:  White Clay Creek...                                                  
+DPKD1     2.5/  2.6/  2.8/  3.5 :Delaware Pk (13ft) 
+:DPKD1md  3.3/  3.5/  3.7/  4.6  Delaware Pk (15)   
+:DPKD1mj  4.8/  5.0/  5.5/  7.0  Delaware Pk (16.5) 
+:  Red Clay Creek...                                                    
+RCCD1     2.8/  3.0/  3.3/  3.9 :Wooddale (7ft)     
+:RCCD1md  3.5/  3.7/  4.2/  4.8  Wooddale (8.5)     
+:RCCD1mj  4.2/  4.5/  4.9/  5.8  Wooddale (10)      
+.END                                                                    
+
+UPPER DELAWARE BASIN WATER SUPPLY GUIDANCE
+
+APPROXIMATE RUNOFF (IN MILLIONS OF GALLONS) PRODUCED FROM EACH OF
+THE FOLLOWING 6-HOUR RAINFALL AMOUNTS (IN INCHES)...
+
+.BR RHA 20221023 Z DH18/DC2210231950/DUE/QMXC1/QMXC2/QMXC3
+.B1 /QMXC4/QMXC5/QMXC6
+:                 RAINFALL
+:IDENT    0.1    0.5    1.0    2.0     3.0     5.0   LOCATION
+:======= ===== ====== ====== ====== ======= =======  ================
+CANN6DEL    69/   293/   725/  2320/   5070/  13876 :CANNONSVILLE-456sqmi
+DWNN6DEL   105/   302/   698/  2200/   4788/  12913 :PEPACTON-372sqmi
+LKWP1WPK    38/   132/   313/   967/   2098/   5856 :WALLENPAUPACK-228sqm
+NVRN6NVR    24/    93/   217/   614/   1220/   2997 :NEVERSINK-93sqmi
+.END
+
+:===============================================================
+:          EXPERIMENTAL NON-FCST POINT RAW MODEL OUTPUT
+:      NO MANUAL QC OR ADJUSTMENTS APPLIED...USE WITH CAUTION
+:===============================================================
+:                                                                       
+: NWS BINGHAMTON SERVICE AREA...                                        
+.B RHA 221023 Z DH18/DC2210231932/DUE/PPHCF/PPTCF/PPQCF/PPKCF
+:GageID   1hr   3hr   6hr   12hr  rainfall for indicated stages
+:  Lackawanna River...
+ARHP1     4.1/  4.2/  4.6/  5.5 :Archbald (8ft)     
+:ARHP1md  4.7/  4.9/  5.3/  6.4  Archbald (9)       
+:ARHP1mj  5.4/  5.5/  6.1/  7.4  Archbald (10)      
+PKIP1     3.5/  3.6/  3.7/  4.1 :Scranton (7.5ft.)  
+:PKIP1md  3.7/  3.8/  4.0/  4.3  Scranton (8)       
+:PKIP1mj  4.2/  4.3/  4.4/  4.8  Scranton (9.5)     
+.END
+: Model-simulated 3-hourly stage forecasts including QPF...
+.E ARHP1 20221023 DC2210231950/DH21/HGIFX/DIH3/
+.E1 2.0/2.0/2.0/2.0/2.0/2.1/2.1/2.0
+.E PKIP1 20221023 DC2210231950/DH21/HGIFX/DIH3/
+.E1 1.5/1.5/1.5/1.5/1.6/1.6/1.7/1.6
+:chps
+$$
+NNNN

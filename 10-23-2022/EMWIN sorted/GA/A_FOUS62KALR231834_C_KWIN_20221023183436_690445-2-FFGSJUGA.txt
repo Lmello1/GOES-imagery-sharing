@@ -1,0 +1,36 @@
+FOUS62 KALR 231834
+FFGSJU
+COUNTY FLASH FLOOD GUIDANCE...PUERTO RICO                               
+NATIONAL WEATHER SERVICE                                                
+SOUTHEAST RIVER FORECAST CENTER...ATLANTA GA                            
+230 PM EDT SUN OCT 23 2022
+                                                                        
+INCHES OF RAINFALL FOR SPECIFIED DURATIONS REQUIRED TO PRODUCE          
+FLASH FLOODING IN FORECAST ZONES.  LOWER AMOUNTS MAY CAUSE              
+FLASH FLOODING IN URBAN OR MOUNTAINOUS AREAS.                           
+                                                                        
+.B ALR 20221023 Z DH18/DC202210231830 /DUE/PPHCF/PPTCF/PPQCF
+:IDENTIFIERS ARE 2-LETTER STATE, Z FOR ZONE, 3-DIGIT ZONE NUMBER        
+:                                                                       
+:IDENT    1HR   3HR   6HR  ZONE NAME
+:======= ====  ====  ====  ====================
+PRZ001    0.9/  1.6/  2.1                     
+PRZ002    0.9/  1.6/  2.1                     
+PRZ003    0.9/  1.6/  2.1                     
+PRZ004    0.9/  1.6/  2.1                     
+PRZ005    0.9/  1.3/  1.7                     
+PRZ006    0.9/  1.3/  1.7                     
+PRZ007    0.9/  1.3/  1.7                     
+PRZ008    0.9/  1.3/  1.7                     
+PRZ009    0.9/  1.3/  1.7                     
+PRZ010    0.9/  1.3/  1.7                     
+PRZ011    0.9/  1.3/  1.7                     
+PRZ012    1.5/  2.4/  3.3                     
+PRZ013    1.5/  2.4/  3.3                     
+VIZ001    1.6/  2.6/  3.6                     
+VIZ002    1.9/  2.9/  4.0                     
+.END
+$$
+S.E.R.F.C. 770-486-0028 or 770-282-2112
+Regular Hours 6am-10pm Eastern Time
+After Hours Please Follow Callback Instructions

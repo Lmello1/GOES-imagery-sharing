@@ -1,0 +1,61 @@
+ASUS66 KOTX 231829
+RTPOTX
+Max/Min Temperature and Precipitation Table for
+Eastern Washington and Northern Idaho
+National Weather Service Spokane, WA
+1129 AM PDT Sun Oct 23 2022
+
+High Temp Yesterday. 18 Hour Low Temperature up to 11 AM Sunday.
+Precipitation and Snowfall past 24 hours up to 11 AM Sunday.
+ 
+.BR OTX 1023 PS DH00/TAIRZX/DH10/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:                                  Max   Min   24 HR   24 HR  Snow
+:ID      Station          Elev     Temp  Temp  Pcpn    Snow   Depth
+65S   : Bonners Ferry AP  2337 :     39 /  34 /  0.00 /      /     
+S10   : Chelan Airport    1260 :     57 /  34 /       /      /      
+COE   : Coeur d'Alene AP  2318 :     48 /  35 /       /      /      
+63S   : Colville Airport  1882 :     48 /  36 /       /      /      
+DEW   : Deer Park         2117 :     50 /  30 /  0.00 /      /     
+EPH   : Ephrata           1259 :     59 /  36 /  0.00 /      /     
+LWS   : Lewiston          1436 :     53 /  36 /  0.00 /      /     
+S52   : Methow Valley AP  1706 :     58 /  22 /  0.00 /      /     
+MWH   : Moses Lake        1181 :     59 /  34 /    T  /      /     
+MLP   : Mullan Pass       6150 :     31 /  27 /  0.19 /      /     
+OMK   : Omak              1301 :     58 /  32 /  0.00 /      /     
+PUW   : Pullman           2551 :     46 /  32 /    T  /      /     
+SZT   : Sandpoint Airport 2126 :     45 /  34 /       /      /      
+SFF   : Spokane Felts     1953 :     50 /  36 /  0.00 /      /     
+GEG   : Spokane Intl      2356 :     48 /  32 /  0.00 /      /     
+EAT   : Wenatchee AP      1255 :     58 /  36 /  0.00 /      /     
+.END
+ 
+High Temperature, Low Temperature, Precipitation and Snowfall
+past 24 hours up to 11 AM Sunday.
+ 
+NOTE: These locations report temperatures once every 24 hours.
+      In some weather situations reported low temperatures
+      may reflect conditions for the previous day.
+ 
+.BR OTX 1023 PS DH10/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                              Obs     Max   Min  24 hr  24 hr  Snow
+:ID    Station          Elev   Time    Temp  Temp Pcpn   Snow   Depth
+BONI1: Bonners Ferry    2075 : DH0600/  41 /  36 / 0.54 /  0.0 /   0
+BDDW1: Boundary Dam     1837 : DH0700/  47 /  35 / 0.04 /      /    
+CLNW1: Chelan           1120 : DH0800/  61 /  32 / 0.00 /      /    
+HLDW1: Holden Village   3220 : DH0800/  45 /  27 / 0.00 /  0.0 /   0
+NAPI1: Naples           1998 : DH0728/  40 /  35 / 0.51 /      /    
+NHPW1: Northport        1304 : DH0700/  52 /  33 / 0.00 /  0.0 /   0
+ODEW1: Odessa           1542 : DH0700/  56 /  25 / 0.00 /  0.0 /   0
+OMAW1: Omak W.W.T.P.     840 : DH0700/     /     / 0.00 /  0.0 /   0
+PTLI1: Potlatch         2755 : DH0700/  45 /  34 / 0.00 /      /    
+PRDI1: Prichard 3 ESE   2485 : DH0700/  40 /  35 / 0.26 /      /    
+SPTI1: Sandpoint        2126 : DH0815/  45 /  34 / 0.00 /      /    
+WLDW1: Wilbur           2253 : DH1006/  52 /  24 / 0.00 /  0.0 /   0
+.END
+ 
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+

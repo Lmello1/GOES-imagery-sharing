@@ -1,0 +1,20 @@
+SHUS61 KMWI 231831
+FWOALY
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:05 GMT
+ 
+Listing of Observations (Albany, NY)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+ALBANY 300011 221023 13 R 3  62  42  48 0 0 101  0     70  36 100  29  0 0.000
+LAKE P 300411 221023 13 R 3  64  35  35 0 0 114  3     66  35 100  30  0 0.000
+SARA   301901 221023 12 R 3  63  44  51 0 0  20  2     70  38 100  32  0 0.000
+WOODFO 431303 221023 13 R 3  61  33  36 0 0  62  3     67  35  97  28  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:05 GMT
+

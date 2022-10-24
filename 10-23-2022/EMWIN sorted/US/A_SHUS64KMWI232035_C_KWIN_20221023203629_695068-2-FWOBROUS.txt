@@ -1,0 +1,21 @@
+SHUS64 KMWI 232035
+FWOBRO
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:34 GMT
+ 
+Listing of Observations (Brownsville, TX)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+HEBBRO 418401 221023 13 O 1  88  62  42 0 0 129 18     88  66  96  36  0 0.000
+SANTA  418602 221023 13 O 1  92  66  42 0 0 177 10  8  92  72  88  41  0 0.000
+LAGUNA 418603 221023 13 O 1  88  68  52 0 0 181 10  9  88  70  95  52  0 0.000
+LA PUE 418604 221023 13 O 0  92  62  37 0 0 151  9  7  93  69  91  34  0 0.000
+LINN-S 418605 221023 13 O 1  92  65  41 0 0 163  9  8  92  64 100  35  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:34 GMT
+

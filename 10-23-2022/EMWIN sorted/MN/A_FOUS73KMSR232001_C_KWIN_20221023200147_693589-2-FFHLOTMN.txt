@@ -1,0 +1,54 @@
+FOUS73 KMSR 232001
+FFHLOT
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+301 PM CDT SUN OCT 23 2022
+                                                                        
+CHICAGO HYDROLOGIC SERVICE AREA                                         
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221023 Z DH18/DC2210232001 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** ILLINOIS HEADWATER POINTS ***                                   
+:                                                                       
+NBPI2     2.8/  3.0/  3.3 :CHICAGO IL            N BR CHICAGO R
+CDCI2     3.4/  3.8/  4.5 :CHICAGO HEIGHTS IL    DEER CR
+DRFI2     2.6/  3.1/  4.1 :DEERFIELD IL          N BR CHICAGO R
+DEKI2     3.5/  4.0/  4.5 :DE KALB IL            S BR KISHWAUKEE R
+DSPI2     3.4/  3.5/  3.7 :DES PLAINES IL        DES PLAINES R
+WLRI2     3.0/  3.6/  4.2 :DES PLAINES IL        WELLER CR
+EMHI2     2.7/  3.2/  3.8 :ELMHURST IL           SALT CR
+FLSI2     3.5/  4.0/  4.5 :FLOSSMOOR IL          BUTTERFIELD CR
+GLWI2     3.5/  4.0/  4.5 :GLENWOOD IL           THORN CR
+GUNI2     3.3/  3.4/  3.8 :GURNEE IL             DES PLAINES R
+JHCI2     2.5/  3.0/  3.6 :JOLIET IL             HICKORY CR
+LAFI2     2.6/  3.2/  4.1 :LAKE FOREST IL        SKOKIE R
+NILI2     3.5/  4.0/  4.5 :NILES IL              N BR CHICAGO R
+NBRI2     3.5/  4.0/  4.5 :NORTHBROOK IL         W FK N BR CHICAGO R
+OAKI2     3.5/  4.0/  4.5 :OAK FOREST IL         MIDLOTHIAN CR
+MCDI2     3.3/  3.7/  4.1 :PROSPECT HTS IL       MCDONALD CR
+ALPI2     2.0/  2.1/  2.3 :ROCKFORD IL           ALPINE DAM-KEITH CR
+LEVI2     2.3/  2.6/  3.1 :ROCKFORD IL           LEVINGS LAKE
+PPLI2     2.5/  2.8/  3.3 :ROCKFORD IL           PAGE PARK LAKE
+ROLI2     2.9/  3.4/  4.0 :ROLLING MEADOWS IL    SALT CR
+SCHI2     3.1/  3.6/  4.2 :ST CHARLES IL         FERSON CR
+SORI2     3.5/  4.0/  4.5 :SHOREWOOD IL          DU PAGE R
+THNI2     3.5/  3.6/  4.1 :THORNTON IL           THORN CR
+WHEI2     2.8/  3.0/  3.2 :WHEELING IL           BUFFALO CR
+WLSI2     3.5/  4.0/  4.5 :WILLOW SPRINGS  IL    FLAG CR
+YRKI2     2.8/  3.0/  3.4 :YORKVILLE IL          BLACKBERRY CR
+:                                                                       
+:   *** INDIANA HEADWATER POINTS ***                                    
+:                                                                       
+HDDI3     3.5/  4.0/  4.5 :DYER IN               HART DITCH
+MNTI3     3.5/  4.0/  4.3 :MUNSTER IN            HART DITCH
+LCMI3     2.8/  2.8/  2.9 :MUNSTER IN            LITTLE CALUMET R
+PRTI3     2.7/  2.8/  3.0 :PORTER IN             LITTLE CALUMET R
+.END
+$$

@@ -1,0 +1,114 @@
+FPUS62 KRAH 232045
+SFTRAH
+STZ000-241000-
+
+Tabular State Forecast for North Carolina
+National Weather Service Raleigh NC
+445 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Coastal North Carolina...
+   Cape Hatteras, NC
+   Mocldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   58/71    58/73    65/75    64/72    63/72    64/72    63/72    
+    30/20    20/20    20/20    20/20    30/30    30/40    40/40   
+
+   Elizabeth City, NC
+   Mocldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   
+   52/70    53/74    56/76    56/72    54/71    56/70    55/70    
+    20/00    00/10    10/10    10/00    00/10    10/20    20/30   
+
+   Greenville, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   50/73    52/77    56/79    56/75    53/73    55/72    56/71    
+    10/00    00/10    10/10    10/00    00/10    10/20    20/30   
+
+   Goldsboro, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   50/75    53/78    55/79    56/75    53/74    54/72    56/72    
+    10/00    00/00    00/10    10/00    00/10    10/20    20/30   
+
+   Lumberton, NC
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   49/78    51/79    56/80    56/77    56/76    56/73    57/74    
+    00/00    00/00    00/10    10/00    00/10    10/20    20/30   
+
+   New Bern, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   50/75    52/78    56/80    56/77    54/74    56/73    56/73    
+    10/00    00/10    10/10    10/00    00/10    20/20    20/30   
+
+   Newport, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   52/73    53/75    58/76    58/75    56/73    57/73    58/72    
+    10/10    10/10    10/10    10/10    10/20    30/30    30/40   
+
+   Rocky Mount, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   50/73    51/76    54/78    54/73    51/71    53/70    53/70    
+    10/00    00/00    00/10    10/00    00/10    10/20    20/30   
+
+   Wilmington, NC
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   52/76    52/78    57/80    59/77    56/76    58/74    58/74    
+    00/00    00/10    10/10    10/10    10/10    20/30    30/30   
+
+
+...Central North Carolina...
+   Albemarle, NC
+   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   43/75    44/76    53/76    51/72    50/71    51/68    52/68    
+    00/00    00/00    10/10    10/00    00/10    10/30    30/30   
+
+   Charlotte, NC
+   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   43/76    46/76    56/76    53/72    52/70    53/68    54/67    
+    00/00    00/00    10/10    10/00    10/10    20/30    30/30   
+
+   Fayetteville, NC
+   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   51/78    51/79    56/80    56/77    54/75    56/73    56/73    
+    00/00    00/00    00/10    10/00    00/10    10/20    20/30   
+
+   Greensboro, NC
+   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   
+   46/73    46/74    54/73    50/69    48/66    49/65    51/65    
+    00/00    00/00    10/10    10/00    00/10    10/30    30/30   
+
+   Raleigh-Durham, NC
+   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   50/75    50/76    55/76    54/73    51/71    53/68    54/69    
+    00/00    00/00    00/10    10/00    00/10    10/20    30/30   
+
+
+...Western North Carolina...
+   Asheville, NC
+   Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   41/72    43/71    51/69    45/68    46/65    47/61    48/60    
+    00/00    00/00    40/20    10/00    10/10    20/30    40/40   
+
+   Boone, NC
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   
+   41/68    44/65    47/61    42/61    42/59    43/56    44/54    
+    00/00    00/00    30/30    10/00    10/10    20/30    40/40   
+
+   Hickory, NC
+   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   
+   44/74    47/74    53/74    48/70    49/68    49/65    51/65    
+    00/00    00/00    20/20    10/00    10/10    20/30    40/40   
+
+
+$$
+

@@ -1,0 +1,142 @@
+FNUS51 KBUF 232033
+FWFBUF
+
+Fire Weather Planning Forecast for Western New York
+National Weather Service Buffalo NY
+433 PM EDT Sun Oct 23 2022
+
+.DISCUSSION...
+Warm and primarily calm weather will continue today and into the 
+middle of the work week as high pressure currently centered over the 
+Canadian Maritimes ridges back across the region. During this time, 
+temperatures will be well above normal with highs averaging in the 
+upper 60s to low 70s.
+
+NYZ001-002-010-011-240900-
+Niagara-Orleans-Northern Erie-Genesee-
+433 PM EDT Sun Oct 23 2022
+
+                              Tonight          Mon    Mon Night          Tue
+Cloud cover                     Pcldy       Mclear       Mclear        Pcldy
+Precip chc (%)                      0            0            0            0
+Precip type                      None         None         None         None
+Min/Max Temp                       46           72           47           74
+AM Wind (mph)                              Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var         S  6
+Precip amount                    0.00         0.00         0.00         0.00
+Precip duration                                                             
+Precip begin                                                                
+Precip end                                                                  
+Max/Min Humidity (%)               87           51          100           49
+Haines Index                        5            3            3            3
+LAL                                 1            1            1            1
+Mixing height (ft-AGL)             70         3430           70         4540
+Transport wind (kt)              E  9         E  6         E 10         S 11
+Vent Rate (kt-ft)                 630        20580          700        49940
+Dispersion Index                    1           21            1           50
+Remarks...None.
+
+$$
+
+NYZ012-019>021-085-240900-
+Wyoming-Chautauqua-Cattaraugus-Allegany-Southern Erie-
+433 PM EDT Sun Oct 23 2022
+
+                              Tonight          Mon    Mon Night          Tue
+Cloud cover                    Mclear       Mclear       Mclear        Pcldy
+Precip chc (%)                      0            0            0            0
+Precip type                      None         None         None         None
+Min/Max Temp                       45           70           46           71
+AM Wind (mph)                              Lgt/Var                      S  5
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var         S  7
+Precip amount                    0.00         0.00         0.00         0.00
+Precip duration                                                             
+Precip begin                                                                
+Precip end                                                                  
+Max/Min Humidity (%)               91           47          100           47
+Haines Index                        4            3            2            3
+LAL                                 1            1            1            1
+Mixing height (ft-AGL)             70         3900           70         4460
+Transport wind (kt)             SE  8         E  5         E  5         S 14
+Vent Rate (kt-ft)                 560        19500          350        62440
+Dispersion Index                    1           20            0           62
+Remarks...None.
+
+$$
+
+NYZ003>005-013-014-240900-
+Monroe-Wayne-Northern Cayuga-Livingston-Ontario-
+433 PM EDT Sun Oct 23 2022
+
+                              Tonight          Mon    Mon Night          Tue
+Cloud cover                     Pcldy       Mclear       Mclear        Pcldy
+Precip chc (%)                      0            0            0            0
+Precip type                      None         None         None         None
+Min/Max Temp                       48           71           48           74
+AM Wind (mph)                              Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var         S  7
+Precip amount                    0.00         0.00         0.00         0.00
+Precip duration                                                             
+Precip begin                                                                
+Precip end                                                                  
+Max/Min Humidity (%)               88           49          100           47
+Haines Index                        4            3            2            3
+LAL                                 1            1            1            1
+Mixing height (ft-AGL)             70         4130           70         5370
+Transport wind (kt)             SE 11         E  6         E  8         S 15
+Vent Rate (kt-ft)                 770        24780          560        80550
+Dispersion Index                    1           25            1           81
+Remarks...None.
+
+$$
+
+NYZ006>008-240900-
+Oswego-Jefferson-Lewis-
+433 PM EDT Sun Oct 23 2022
+
+                              Tonight          Mon    Mon Night          Tue
+Cloud cover                     Mcldy        Pcldy        Pcldy        Pcldy
+Precip chc (%)                      0            0            0            0
+Precip type                      None         None         None         None
+Min/Max Temp                       49           67           48           72
+AM Wind (mph)                              Lgt/Var                   Lgt/Var
+PM Wind (mph)                 Lgt/Var      Lgt/Var      Lgt/Var         S  7
+Precip amount                    0.00         0.00         0.00         0.00
+Precip duration                                                             
+Precip begin                                                                
+Precip end                                                                  
+Max/Min Humidity (%)               84           57          100           57
+Haines Index                        4            3            3            3
+LAL                                 1            1            1            1
+Mixing height (ft-AGL)             70         3300           70         4450
+Transport wind (kt)             SE  6         E  4         E  4         S 19
+Vent Rate (kt-ft)                 420        13200          280        84550
+Dispersion Index                    0           13            0           85
+Remarks...None.
+
+$$
+
+.EXTENDED FORECAST...
+
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 50s. 
+.WEDNESDAY...Mostly cloudy with showers likely. Highs in the
+upper 60s. 
+.THURSDAY...Mostly cloudy. A chance of showers. Cooler. Lows in
+the mid 40s. Highs in the mid 50s. 
+.FRIDAY...Partly cloudy. Lows around 40. Highs in the mid 50s. 
+.SATURDAY...Mostly cloudy. Lows in the lower 40s. Highs in the
+upper 50s. 
+.SUNDAY...Mostly cloudy. Lows in the lower 40s. Highs in the
+upper 50s. 
+
+WIND TUESDAY NIGHT...East around 5 mph. 
+WIND WEDNESDAY...Southeast around 10 mph. 
+WIND THURSDAY...West around 10 mph. 
+WIND FRIDAY...Northeast around 5 mph. 
+WIND SATURDAY...East around 5 mph. 
+WIND SUNDAY...East around 5 mph. 
+
+.OUTLOOK 8 TO 14 DAYS...
+Temperatures above normal.  Precipitation above normal.
+
+$$

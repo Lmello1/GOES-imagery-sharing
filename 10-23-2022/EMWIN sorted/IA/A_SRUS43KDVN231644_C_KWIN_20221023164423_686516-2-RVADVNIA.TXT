@@ -1,0 +1,163 @@
+SRUS43 KDVN 231644
+RVADVN
+IAC011-019-031-045-055-057-061-087-095-097-101-103-105-107-111-113-
+115-139-163-177-183-ILC011-015-067-071-073-085-109-131-155-161-177-
+187-195-MOC045-199-232043-
+
+
+Hydrologic Summary
+National Weather Service Quad Cities IA/IL
+1144 AM CDT Sun Oct 23 2022
+
+This information is a cooperative effort of the National Weather 
+Service...U.S. Army Corps of Engineers and the U.S. Geological 
+Survey.
+
+Zero datums reference NGVD12 for all locations on the Mississippi 
+River except for Fort Madison...which references the Memphis datum. 
+All other zero datums reference NGVD29.
+
+                           Cur    6hr   12hr   24hr  Water  Zero
+Location             FS    Stg    Chg    Chg    Chg   Temp  Datum
+--------------------------------------------------------------------
+
+Mississippi River
+ La Crosse           12   5.28  -0.01  -0.01  -0.03         626.320
+ McGregor            16   6.91   0.13   0.08   0.07         604.680
+ Guttenberg Dam 10   15   4.45   0.03   0.03   0.08         600.000
+ Dubuque LD11        16   4.89   0.12   0.09   0.13    50   588.200
+ Dubuque             17   7.56   0.07   0.06   0.09         585.470
+ Bellevue LD12       17   4.21   0.08   0.07   0.11    49   580.200
+ Fulton LD13         16   4.31   0.07   0.07   0.14    51   568.700
+ Camanche            17   9.20  -0.01   0.01   0.10    55   562.680
+ Le Claire LD14      11   4.11   0.00  -0.06  -0.12    54   557.080
+ Rock Island LD15    15   4.03   0.03   0.03   0.07    53   542.500
+ Fairport            14  10.33   0.00  -0.02   0.09         535.160
+ Ill. City LD16      15   3.29   0.14   0.13   0.16    51   533.790
+ Muscatine           16   5.83   0.07   0.10   0.15         530.740
+ New Boston LD17     15   2.99   0.15   0.13   0.14    53   526.570
+ Keithsburg          14   5.60   0.03   0.03   0.00         523.190
+ Gladstone LD18      10   0.99   0.03   0.12   0.03    50   518.520
+ Burlington          15   7.54   0.02   0.11   0.02         511.450
+ Fort Madison           525.15  -0.25   0.03   0.04          -6.800
+ Keokuk LD19         16   3.77   0.69   0.30  -0.04    53   477.830
+ Gregory Landing     15   8.47   0.71  -0.15  -0.16         472.710
+
+
+...Iowa Rivers...
+
+North Fork Maquoketa River
+ Fulton              12   2.83  -0.04  -0.04   0.00         679.000
+
+Maquoketa River
+ Manchester Hwy 20   14   3.87   0.01   0.02  -0.01         900.410
+ Maquoketa           24  10.24  -0.06  -0.05  -0.01         625.960
+
+Wapsipinicon River
+ Tripoli             15   6.70   0.01   0.01  -0.08         986.420
+ Independence        12   4.58   0.00   0.00  -0.01         882.850
+ Anamosa Shaw Rd     14   4.44   0.00   0.01   0.00         755.000
+ De Witt 4S          11   5.18   0.00  -0.01  -0.02         598.810
+
+Crow Creek
+ Bettendorf, IA       9   3.48   0.00   0.02   0.07         576.230
+
+Cedar River
+ Vinton              15   1.93  -0.04  -0.02  -0.06         762.060
+ Palo Blairs Ferry   12   2.26   0.00   0.00   0.02    56   725.710
+ Cedar Rapids        12   3.21   0.00  -0.01   0.00         700.470
+ Cedar Bluff         16   4.40   0.02   0.00   0.02         651.130
+ Conesville          13   5.68   0.00   0.00   0.00         581.950
+
+Big Bear Creek
+ Ladora              20  10.50   0.00  -0.20   0.01         744.540
+
+Iowa River
+ Tama US 63          20   6.54   0.01   0.02  -0.01         794.340
+ Belle Plaine        15   4.81   0.00   0.00   0.00         749.760
+ Marengo             15   5.40   0.01   0.00   0.01         720.450
+ Iowa City           24   8.95   0.00   0.00   0.01         617.270
+ Lone Tree           16   3.69  -0.01  -0.01  -0.02         588.160
+ Columbus Jct        23   8.83   0.02   0.02   0.03         587.000
+ Wapello             21  10.53   0.01   0.02   0.00         538.170
+ Oakville            11   0.52   0.00   0.00  -0.04         535.641
+
+Rapid Creek
+ Iowa City NE         9   3.32   0.00   0.00   0.00         673.720
+
+Clear Creek
+ Oxford              10   1.37   0.00  -0.01  -0.01         696.500
+ Coralville SW       11   0.60   0.00  -0.01  -0.01         647.480
+
+Muddy Creek
+ Coralville N             2.21  -0.13  -0.13   0.01         665.090
+
+Old Mans Creek
+ Iowa City SW        12   1.42   0.00   0.00  -0.01         637.490
+
+North English River
+ Parnell             24  13.29   0.07   0.07   0.07         700.000
+
+English River
+ Kalona              14   3.07   0.00  -0.05  -0.01         633.450
+
+North Skunk River
+ Sigourney           16   3.28   0.00   0.00  -0.01         651.530
+
+Skunk River
+ Augusta             15   0.60  -0.01   0.00  -0.01         521.240
+
+Cedar Creek
+ Oakland Mills       15   2.47   0.00   0.01  -0.01         565.070
+
+Des Moines River
+ Ottumwa             12   1.20   0.35   0.36   0.36    52   622.000
+ Keosauqua           22   9.67  -0.14  -0.36   0.10         547.360
+ St Francisville     18   5.55   0.06   0.09  -0.03         491.730
+
+
+...Illinois Rivers...
+
+Pecatonica River
+ Freeport            13   4.27  -0.03  -0.04  -0.02         743.180
+
+Rock River
+ Byron               13   5.97   0.01  -0.02  -0.04    52   666.130
+ Dixon               16   0.00   0.02   0.02   0.00         630.000
+ Como                12   3.60  -0.25  -0.23  -0.25         603.030
+ Joslin              12   5.48   0.00   0.00  -0.10         564.060
+ Moline              12   8.39  -0.02  -0.02  -0.02         551.340
+
+Green River
+ Geneseo             15   2.60  -0.03  -0.02  -0.07         577.660
+
+Big Bureau Creek
+ Princeton           14   2.46   0.01   0.02   0.02         555.390
+
+Edwards River
+ Orion                    0.81                              653.960
+ New Boston          17  12.06  -0.04  -0.06  -0.06         529.920
+
+Pope Creek
+ Keithsburg          24  18.95  -0.01  -0.01  -0.02         524.070
+
+Henderson Creek
+ Oquawka             22  12.92  -0.01   0.03   0.03         541.210
+
+La Moine River
+ Colmar              20   2.82  -0.02  -0.03   0.05         491.530
+
+
+...Missouri Rivers...
+
+Fox River
+ Wayland             15   1.44   0.01   0.02   0.03         501.520
+
+
+...Reservoirs...
+
+Iowa River
+ Coralville Dam     712 685.09  -0.03  -0.03  -0.06           0.000
+
+$$
+

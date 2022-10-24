@@ -1,0 +1,93 @@
+FOUS55 KSLC 232053
+PFMSLC
+
+Point Forecast Matrices
+National Weather Service Salt Lake City UT
+252 PM MDT Sun Oct 23 2022
+
+This product is issued routinely in the early morning and late afternoon.
+It may not represent the latest forecast.
+
+UTZ105-241100-
+Salt Lake City-Salt Lake UT
+40.77N 111.97W Elev. 4226 ft
+252 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      30          50          40          52          41
+Temp          45 45 37 35 33 31 33 41 47 50 44 43 45 44 43 47 51 52 46 43 43 43
+Dewpt         30 28 25 25 25 24 24 27 25 25 27 27 29 31 32 34 34 34 35 33 34 34
+RH            55 51 61 66 72 75 69 57 42 37 51 53 53 60 65 60 52 50 65 67 70 70
+Wind dir      NW NW NW NW  N NE  W  W  S SE SE SE  S SE  S  S  S SE SE SE SE  S
+Wind spd      11 12 10  8  5  3  4  8  6  6 10 11 11 10 10  5  6  6  6  6  5  6
+Clouds        B2 B1 B1 B1 SC SC SC SC FW FW SC B1 OV OV OV OV B2 B2 B2 B2 B2 B2
+PoP 12hr                     30           0          20          20          30
+QPF 12hr                   0.01           0           0        0.01        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain           C  C  C  S                       S  S  S  S        S  S  C  C  C
+Snow                 C  S                                                      
+Hard Freeze                W  W                                                
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          52      35    49      32    54      35    57      38    59
+Temp          49 49 41   37 43 48 36   33 46 53 41   36 51 55 44   39 53 56
+Dewpt         35 32 29   27 28 26 25   22 25 27 27   23 29 29 28   26 31 29
+PWind dir        SW      NW     N       E    SE       E     S       E     S
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2   B1 B1 SC FW   FW SC SC SC   SC B1 SC SC   SC B1 B1
+PoP 12hr         60      50     5       0     0       0     5       5    10
+Rain           C  L  C    C                                                
+Snow                      C                                                
+
+$$
+
+UTZ122-241100-
+Cedar City-Iron UT
+37.71N 113.10W Elev. 5581 ft
+252 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      19          45          25          57          31
+Temp          37 36 30 28 26 23 25 37 44 42 34 33 32 30 35 50 56 53 43 40 37 36
+Dewpt         27 26 25 23 22 21 20 24 25 23 19 19 20 21 24 29 30 29 28 28 26 26
+RH            67 67 81 81 85 92 81 59 47 46 54 56 61 69 64 44 37 39 55 62 64 67
+Wind dir       N  N  N NE NE NE  N  N  N  N  E  E SE SE  S  W  W SW  S  S  S  S
+Wind spd      10 11  8  9  8  8 10 11 10  8  5  4  4  3  3  5  6  8  6  5  4  5
+Clouds        B1 B1 SC SC FW FW FW CL CL FW CL CL FW FW FW FW SC SC B1 B1 B2 B1
+PoP 12hr                     20           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Snow           C  S                                                            
+Hard Freeze                W  W                                                
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          56      25    45      20    54      26    58      29    59
+Temp          50 52 37   26 39 43 29   21 45 51 35   27 50 55 39   30 52 55
+Dewpt         30 28 29   21 26 23 21   15 26 25 23   17 28 27 24   20 28 26
+PWind dir         S      NW     N      NE     E      SE     S      SE     S
+Wind char        GN      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 FW B1   B2 B1 FW FW   FW FW FW SC   SC SC FW FW   SC SC SC
+PoP 12hr          5      50    10       0     0       0     0       0     5
+Rain                 C    C                                                
+Snow                      C                                                
+
+$$
+
+
+
+For more information from NOAA's National Weather Service visit...
+http://weather.gov/saltlakecity

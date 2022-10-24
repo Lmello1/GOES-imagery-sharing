@@ -1,0 +1,112 @@
+FPUS65 KREV 232130
+SFTREV
+NVZ001>005-CAZ070>073-241300-
+
+Tabular State Forecast for Nevada
+National Weather Service Reno NV
+230 PM PDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...WESTERN NEVADA...
+   Reno
+   Sunny    Cloudy   Mocldy   Sunny    Ptcldy   Ptcldy   Mocldy   
+   28/66    41/63    38/57    30/57    31/64    34/65    37/62    
+    00/00    00/10    20/20    00/00    00/00    00/10    20/20   
+
+   Carson City
+   Sunny    Cloudy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/65    32/62    29/54    21/54    23/62    27/63    30/61    
+    00/00    00/10    20/20    00/00    00/00    00/10    20/20   
+
+   Virginia City
+   Sunny    Cloudy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   31/57    42/52    39/45    33/44    36/52    40/53    43/52    
+    00/00    00/10    20/20    00/00    00/00    00/10    20/20   
+
+   Lovelock
+   Sunny    Cloudy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   19/59    34/61    24/55    19/54    20/59    24/63    25/61    
+    00/00    10/20    20/30    10/00    00/00    00/10    20/10   
+
+   Fallon
+   Sunny    Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   25/60    36/61    33/55    25/53    26/59    28/62    33/61    
+    00/00    10/10    20/30    10/00    00/00    00/10    20/10   
+
+   Gerlach
+   Sunny    Cloudy   Mocldy   Ptcldy   Mocldy   Ptcldy   Mocldy   
+   25/61    39/60    34/54    25/54    26/59    29/60    33/60    
+    00/00    20/10    20/20    00/00    00/00    00/10    20/20   
+
+   Yerington
+   Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   23/62    32/62    30/55    24/53    25/60    28/62    32/62    
+    00/00    00/10    20/20    10/00    00/00    00/10    20/20   
+
+   Hawthorne
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   30/62    41/64    38/57    32/55    34/63    37/65    40/64    
+    00/00    00/00    10/20    10/00    00/00    00/00    10/10   
+
+...EASTERN SIERRA...
+   Truckee
+   Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   Mocldy   
+   11/60    19/53    15/48    9/51     11/56    13/57    15/54    
+    00/00    00/10    20/20    00/00    00/00    10/20    30/20   
+
+   South Lake Tahoe
+   Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   18/61    28/56    25/52    15/55    21/59    24/59    26/55    
+    00/00    00/10    20/20    00/00    00/00    10/10    20/20   
+
+   Lake Tahoe area at 8000 feet
+   Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   30/51    38/42    33/36    29/41    33/44    35/44    37/42    
+    00/00    00/10    20/20    00/00    00/00    10/20    30/20   
+
+   Markleeville
+   Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   23/63    33/57    28/50    22/53    27/58    28/58    31/57    
+    00/00    00/10    20/20    00/00    00/00    00/10    20/20   
+
+   Bridgeport
+   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   4/60     16/57    13/49    4/52     10/58    13/58    13/57    
+    00/00    00/10    20/20    10/00    00/00    00/10    20/20   
+
+   Mammoth Lakes
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/58    31/54    28/46    21/50    26/53    28/55    30/53    
+    00/00    00/00    20/20    10/00    00/00    00/00    10/10   
+
+...NORTHEAST CALIFORNIA...
+   Cedarville
+   Mocldy   Cloudy   Mocldy   Ptcldy   Ptcldy   Mocldy   Mocldy   
+   23/56    35/54    30/46    21/52    25/57    27/57    30/54    
+    00/20    40/10    40/40    00/00    00/00    10/30    30/30   
+
+   Susanville
+   Ptcldy   Cloudy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   21/63    33/59    28/52    21/54    23/60    24/59    29/57    
+    00/00    20/10    30/20    00/00    00/00    10/20    30/20   
+
+   Portola
+   Sunny    Cloudy   Mocldy   Sunny    Ptcldy   Ptcldy   Mocldy   
+   20/65    28/57    26/51    17/56    17/59    20/59    24/57    
+    00/00    10/10    30/20    00/00    00/00    10/20    30/20   
+
+
+$$
+
+http://weather.gov/reno

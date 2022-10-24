@@ -1,0 +1,94 @@
+FPUS62 KMFL 232002
+SFTMFL
+STZ000-241000-
+
+Tabular State Forecast for Florida
+National Weather Service Miami FL
+401 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Southwest Florida...
+   Naples
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   66/84    67/83    68/82    69/82    68/83    69/83    69/83    
+    00/10    10/00    00/00    10/10    10/10    10/10    10/10   
+
+   Everglades City
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   66/86    67/85    68/84    69/84    69/85    69/86    69/85    
+    10/10    10/00    00/00    10/10    10/10    10/10    10/10   
+
+   Flamingo
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   67/83    68/83    68/83    69/83    69/84    69/84    69/83    
+    00/10    10/00    00/00    00/00    00/10    10/10    10/10   
+
+
+...South Central Florida...
+   Immokalee
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   65/85    65/85    65/86    67/85    67/87    67/87    66/86    
+    00/10    10/00    00/00    10/10    10/10    10/10    10/10   
+
+   Moore Haven
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   64/83    64/84    64/85    66/84    65/85    66/85    66/85    
+    00/10    10/00    00/00    10/10    10/10    10/10    10/10   
+
+   La Belle
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   64/84    64/85    64/86    67/85    65/87    66/86    65/86    
+    00/10    10/00    00/00    10/10    10/10    10/10    10/10   
+
+   Belle Glade
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   65/83    64/83    64/85    65/85    65/84    66/85    66/84    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/10   
+
+
+...Southeast Florida...
+   West Palm Beach
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   71/84    70/84    69/85    69/85    71/85    71/85    71/85    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/20   
+
+   Fort Lauderdale
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   73/85    73/85    72/86    72/85    73/85    74/86    73/85    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/20   
+
+   Miami
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   72/86    72/86    72/87    72/87    72/87    74/86    74/86    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/20   
+
+   Miami Beach
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   75/83    75/83    74/84    74/83    75/84    76/83    75/83    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/20   
+
+   Homestead
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   69/84    70/83    69/85    69/85    70/84    71/84    71/84    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/20   
+
+   Homestead General
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   68/85    69/85    68/86    68/86    69/86    70/86    69/86    
+    10/10    10/10    10/00    00/10    10/10    10/10    10/10   
+
+
+$$
+

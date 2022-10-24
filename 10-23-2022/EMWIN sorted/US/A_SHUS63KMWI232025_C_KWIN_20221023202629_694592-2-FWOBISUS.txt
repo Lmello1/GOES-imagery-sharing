@@ -1,0 +1,26 @@
+SHUS63 KMWI 232025
+FWOBIS
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:25:43 GMT
+ 
+Listing of Observations (Bismarck, ND)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+CROSBY 320101 221023 12 R 4  40  38  96 0 0  53 23     49  38 100  57  7 0.130
+LOSTWO 320220 221023 12 R 3  41  37  88 0 0  29 10     49  38  91  64  0 0.000
+J. CLA 320401 221023 12 R 3  52  42  70 0 0  45  9     52  44  84  70  1 0.010
+DEVILS 321401 221023 13 R 2  60  44  56 0 0  64  9     60  43  97  56  0 0.000
+WATFOR 321703 221023 12 R 3  44  40  87 0 0  56 12     46  42  92  80  0 0.000
+PAINTE 322503 221023 13 R 3  45  40  83 0 0 341 13     50  41  96  69  0 0.000
+KNIFE  322701 221023 12 R 3  56  42  60 0 0  57 13     56  44  92  60  0 0.000
+LONG L 322901 221023 12 R 3  57  43  61 0 0  76 17     57  41  93  48  0 0.000
+ARROWW 323536 221023 12 R 2  62  45  55 0 0  92 16     62  38  96  54  0 0.000
+TATANK 328501 221023 13 R 3  61  46  58 0 0  34  8     61  38  95  55  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:25:43 GMT
+

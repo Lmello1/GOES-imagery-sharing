@@ -1,0 +1,503 @@
+FOUS51 KCAR 231745
+PFMCAR
+
+Point Forecast Matrices
+National Weather Service Caribou ME
+144 PM EDT Sun Oct 23 2022
+
+MEZ001-240900-
+Northern Aroostook Airport-Frenchville ME
+47.28N  68.31W Elev. 988 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          59          51          63          54
+Temp          62 54 55 51 47 44 53 59 56 53 51 52 52 51 57 62 62 58 56 56 56 55
+Dewpt         45 46 45 44 44 44 46 47 48 50 50 51 51 51 54 56 57 57 56 56 56 55
+RH            54 74 69 77 89100 77 64 74 89 96 96 96100 90 81 84 96100100100100
+Wind dir       S  S  S SE SE  E  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S  S
+Wind spd       4  3  3  3  2  2  3  4  5  6  5  4  3  3  4  5  5  5  5  5  5  5
+Clouds        SC SC B1 B1 B2 B2 OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                      5          70          80          40          40
+QPF 12hr                      0        0.09        0.02        0.01        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                                C  L  L  L  L  L  C  C  C  C  C  C  C  C  S
+Obvis                                       PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      50    60      34    50      32    51      38    55
+Temp          65 59   57 52 57 45   39 35 49 39   35 34 49 43   40 39 MM MM
+Dewpt         56 56   55 50 44 35   31 29 29 30   31 31 35 36   36 36 MM MM
+PWind dir         S       S    NW      NW     N      NE     S      SW     W
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B2 B1 SC   FW FW FW SC   SC SC B1 B1   B1 B1 B1 MM
+PoP 12hr         20      40    20       5     5       5    10      20    20
+Rain           S  S    C  C  S                                   S  S  S   
+
+$$
+MEZ001-240900-
+Fort Kent ME
+47.25N  68.59W Elev. 530 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          60          51          64          54
+Temp          64 55 56 52 47 45 55 60 57 53 52 53 53 52 58 63 64 59 57 57 56 55
+Dewpt         46 47 46 45 44 45 47 49 50 51 51 52 52 52 55 58 57 57 57 57 56 55
+RH            52 74 69 77 89100 74 67 77 93 96 96 96100 90 84 78 93100100100100
+Wind dir       S  S  S SE SE SE SE SE  E  E SE SE SE  S  S  S  S  S  S  S  S  S
+Wind spd       4  3  3  2  2  2  3  4  4  4  3  3  2  2  3  4  4  3  4  4  4  4
+Clouds        SC SC B1 B1 B2 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                      5          70          70          40          30
+QPF 12hr                      0        0.12        0.02           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                                C  L  L  L  L  C  C  C  S  S  S  S  C  C   
+Obvis                                       PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      51    62      35    52      33    53      38    57
+Temp          66 60   57 52 58 46   39 36 50 40   36 35 51 44   41 40 MM MM
+Dewpt         58 57   56 50 45 37   32 29 31 32   32 32 36 37   37 37 MM MM
+PWind dir         S       S    NW      NW     N       E     S      SW     W
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B2 B1 SC   FW FW FW SC   SC SC B1 B1   B1 B1 B1 MM
+PoP 12hr         20      40    20       5     5       5    10      20    20
+Rain              S    C  C  S                                   S  S  S   
+
+$$
+MEZ002-240900-
+Caribou Municipal Arpt-Caribou ME
+46.86N  68.01W Elev. 626 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          59          51          64          55
+Temp          63 55 56 52 48 45 54 59 57 53 52 53 52 52 60 63 64 59 57 56 56 56
+Dewpt         45 46 45 44 43 45 47 50 50 51 51 52 52 52 56 58 58 58 57 56 56 56
+RH            52 72 66 74 83100 77 72 77 93 96 96100100 87 84 81 96100100100100
+Wind dir       S  S  S  S SE SE  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S
+Wind spd       4  3  3  2  2  2  3  5  5  4  4  3  2  2  4  6  5  5  5  5  5  5
+Clouds        SC B1 B1 B1 B2 B2 OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                      5          90          80          40          30
+QPF 12hr                      0        0.30        0.03        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                             C  L  D  D  D  D  L  C  C  C  S  S  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      52    63      35    52      31    53      38    57
+Temp          67 61   57 54 61 48   40 37 50 40   35 35 51 44   40 40 MM MM
+Dewpt         58 57   56 52 47 38   33 31 31 31   31 32 36 36   36 37 MM MM
+PWind dir         S       S    NW      NW     N      NE     S      SW     W
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   B1 B1 B1 MM
+PoP 12hr         30      40    30       5     5       5    10      20    20
+Rain           S  C    C  C  C                                   S  S  S   
+
+$$
+MEZ002-240900-
+Northern Maine Regional Arpt-Presque Isle ME
+46.68N  68.01W Elev. 534 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          58          52          64          55
+Temp          63 54 55 50 45 46 54 58 56 52 52 53 52 53 59 63 63 59 57 56 57 57
+Dewpt         45 46 45 44 44 45 48 51 51 51 52 52 52 53 56 58 58 58 57 56 57 57
+RH            52 74 69 80 96 96 80 77 83 96100 96100100 90 84 84 96100100100100
+Wind dir       S  S  S  S SE  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S  S  S
+Wind spd       4  3  3  3  2  2  4  5  5  4  4  3  3  3  4  5  6  5  5  5  5  5
+Wind gust                                                        16            
+Clouds        SC B1 B1 B2 B2 B2 OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     10          90          90          40          30
+QPF 12hr                      0        0.37        0.03        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                          S  C  L  D  D  D  D  L  C  C  C  C  C  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      52    62      35    52      32    52      38    57
+Temp          66 60   57 54 60 47   40 36 50 40   35 35 51 43   40 40 MM MM
+Dewpt         58 58   56 53 48 39   32 31 32 32   32 33 37 38   36 37 MM MM
+PWind dir         S       S    NW      NW     N      NE     S      SW     W
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC B1 B1 MM
+PoP 12hr         30      40    30       5     5       5    10      20    20
+Rain           S  C    C  C  S                                   S  S  S   
+
+$$
+MEZ006-240900-
+Houlton International Arpt-Houlton ME
+46.12N  67.79W Elev. 489 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          59          52          65          55
+Temp          60 51 55 50 45 48 56 59 57 53 53 53 53 55 60 64 64 59 58 56 57 57
+Dewpt         49 48 47 46 45 47 50 52 53 53 53 53 53 55 58 60 60 59 58 56 57 57
+RH            67 89 74 86100 96 80 78 86100100100100100 93 87 87100100100100100
+Wind dir       S  S  S SE SE NE  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S
+Wind spd       3  2  2  1  1  2  4  5  4  3  3  2  2  3  4  5  4  3  3  4  4  4
+Clouds        SC B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     10          90          80          50          30
+QPF 12hr                      0        0.48        0.08        0.02        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                          C  L  D  D  D  D  D  L  C  C  C  C  C  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      53    64      36    53      32    54      37    57
+Temp          65 60   57 55 63 50   40 38 52 40   35 36 52 43   40 41 MM MM
+Dewpt         61 60   57 54 52 43   35 32 34 34   32 34 39 40   38 38 MM MM
+PWind dir         S       S    NW       N     N      NE    SE       W    NW
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC B1 B1 MM
+PoP 12hr         40      50    30      10     5      10    20      20    20
+Rain           S  C    C  C  C                              S    S  S  S   
+
+$$
+MEZ001-240900-
+Clayton Lake Arfld-Clayton Lake ME
+46.61N  69.52W Elev. 1031 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          57          49          64          52
+Temp          62 51 55 51 46 45 53 57 55 50 50 50 50 50 58 64 62 56 54 53 53 54
+Dewpt         45 46 44 42 42 44 48 51 51 50 50 50 50 50 55 57 57 56 54 53 53 54
+RH            54 83 66 71 86 96 83 80 86100100100100100 90 78 84100100100100100
+Wind dir       S  S  S  S  S  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       3  3  3  3  3  2  4  5  4  4  3  2  2  2  3  4  4  4  5  5  5  5
+Clouds        SC SC B1 B2 B2 OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     20          90          80          40          30
+QPF 12hr                      0        0.20        0.02        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                          S  C  D  D  D  L  L  C  C  C  C  C  C  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      48    60      31    50      30    52      35    54
+Temp          65 57   53 50 58 44   35 33 49 37   34 33 50 41   38 38 MM MM
+Dewpt         57 56   52 48 44 38   30 29 30 32   30 31 36 38   35 35 MM MM
+PWind dir         S      SW    NW       N     N       E     S      SW     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B1 SC SC   FW FW FW SC   SC SC B1 B1   B1 B1 B1 MM
+PoP 12hr         30      40    20       5     5      10    20      20    20
+Rain              C    C  C  S                              S    S  S  S   
+
+$$
+MEZ010-240900-
+Greenville Municipal Arpt-Greenville ME
+45.46N  69.57W Elev. 1401 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          57          52          63          54
+Temp          59 51 55 51 48 49 55 57 57 54 53 53 52 53 58 62 62 57 55 55 56 56
+Dewpt         43 45 46 46 47 49 51 53 53 53 53 53 52 53 56 58 58 57 55 55 56 56
+RH            55 80 72 83 96100 86 86 86 96100100100100 93 87 87100100100100100
+Wind dir      SE SE  E  E  E  E  E  E  E SE SE SE SE  S  S  S  S  S  S  S  S  S
+Wind spd       2  2  3  1  3  4  5  5  4  3  3  2  2  2  3  4  4  4  4  4  4  4
+Clouds        SC B1 B2 OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          80          70          40          40
+QPF 12hr                   0.08        0.44        0.02        0.01        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 S  C  L  L  L  D  D  L  L  L  C  C  C  S  S  C  C  C  C  S
+Obvis                     PF             PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      52    63      36    53      35    52      38    56
+Temp          63 58   56 53 61 50   41 38 50 42   38 37 51 44   40 41 MM MM
+Dewpt         58 58   55 52 48 43   37 33 33 34   35 36 38 39   37 38 MM MM
+PWind dir        SE      SW    NW       N     N      NE    SE       W    NW
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 SC   SC FW FW SC   SC SC SC B1   B1 B1 B1 MM
+PoP 12hr         40      50    20      10     5      10    20      30    30
+Rain           S  C    C  C  S                           S  S    S  C  C   
+
+$$
+MEZ005-240900-
+Millinocket Municipal Arpt-Millinocket ME
+45.65N  68.71W Elev. 408 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          58          53          64          54
+Temp          58 51 55 52 48 49 56 58 57 55 55 55 53 54 60 63 64 60 58 57 57 57
+Dewpt         49 49 48 48 47 49 52 54 55 55 55 55 53 54 58 60 60 60 58 57 57 57
+RH            72 93 77 86 96100 86 86 93100100100100100 93 90 87100100100100100
+Wind dir       S  S  S NE NE NE NE  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S
+Wind spd       2  2  2  2  3  3  4  4  3  2  2  1  1  2  3  4  3  3  3  3  3  2
+Clouds        B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     30          90          80          40          30
+QPF 12hr                   0.03        0.47        0.05        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                       C  C  L  D  D  D  D  L  L  C  C  C  S  C  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      53    65      37    54      34    54      38    57
+Temp          65 61   58 54 63 50   42 38 52 42   37 37 53 45   41 41 MM MM
+Dewpt         61 60   58 53 52 45   37 34 35 37   35 36 41 43   39 39 MM MM
+PWind dir         S      SW    NW       N     N       N    SE       W    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 SC SC   FW FW FW FW   SC B1 SC SC   SC SC SC MM
+PoP 12hr         40      50    20      10     5      10    20      20    20
+Rain           S  C    C  C  S                              S    S  S  S   
+
+$$
+MEZ015-240900-
+Bangor International Arpt-Bangor ME
+44.80N  68.77W Elev. 192 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          60          55          65          56
+Temp          59 53 56 54 51 52 57 60 60 57 57 56 56 56 61 65 64 60 58 57 57 57
+Dewpt         51 50 51 51 51 52 55 57 57 57 57 56 56 56 59 61 60 59 58 57 57 57
+RH            75 89 83 90100100 93 90 90100100100100100 93 87 87 96100100100100
+Wind dir      SE SE  E NE NE NE  E  E  E  E SE SE SE  S  S  S  S  S  S  S SE SE
+Wind spd       2  2  2  4  4  5  6  6  4  3  2  2  2  3  4  4  4  3  2  2  2  2
+Clouds        B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                    100          90          80          40          30
+QPF 12hr                   0.15        0.50        0.05        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 C  L  D  D  D  D  D  D  D  L  C  C  C  S  S  C  C  C  C  C
+Obvis                  PF PF             PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      55    67      41    56      37    56      39    59
+Temp          65 61   59 55 65 55   47 41 54 45   41 40 54 47   43 42 MM MM
+Dewpt         63 61   59 55 55 48   41 37 39 39   38 39 44 44   42 41 MM MM
+PWind dir        SE      SW    NW       N     N      NE    NE      NW    NW
+Wind char        LT      LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 SC SC   SC SC FW FW   SC B1 B1 B1   B1 B1 B1 MM
+PoP 12hr         40      40    20      10     5      10    20      30    30
+Rain           C  C    C  C  S                           S  S    S  C  C   
+
+$$
+MEZ029-240900-
+Hancock County Arpt-Bar Harbor ME
+44.44N  68.35W Elev. 83 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          60          54          63          55
+Temp          58 53 55 53 51 54 59 60 60 56 56 55 54 56 61 63 62 58 57 56 57 57
+Dewpt         51 51 52 52 51 54 56 57 57 56 56 55 54 56 58 59 59 58 57 56 57 57
+RH            77 93 90 96100100 90 90 90100100100100100 90 87 90100100100100100
+Wind dir       E  E NE NE  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S SE SE  E
+Wind spd       1  2  4  6  8  9  8  6  5  4  3  3  2  3  3  4  4  3  3  3  3  2
+Wind gust                    19                                                
+Clouds        B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV OV OV
+PoP 12hr                    100          90          80          40          30
+QPF 12hr                   0.22        0.59        0.07        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 C  L  D  D  D  D  D  D  D  L  C  C  C  S  S  C  C  C  C  C
+Obvis                  PF PF             PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      55    66      42    56      39    56      42    59
+Temp          64 60   58 57 65 56   48 43 55 47   43 42 55 48   45 46 MM MM
+Dewpt         62 60   58 56 57 50   42 39 40 41   40 41 45 45   44 44 MM MM
+PWind dir        SE      NW    NW       N     N      NE    NE       N     N
+Wind char        LT      LT    LT      GN    GN      LT    LT      LT    LT
+Avg clouds    OV B2   B2 B2 B1 SC   SC SC FW FW   SC B1 B1 B1   B1 B1 B1 MM
+PoP 12hr         40      40    20      10     5      10    20      30    30
+Rain           C  C    C  C  S                              S    S  S  C   
+
+$$
+MEZ017-240900-
+Calais ME
+45.17N  67.27W Elev. 19 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          60          54          65          54
+Temp          58 51 54 51 48 53 58 60 58 56 55 54 54 57 62 65 63 59 57 55 56 57
+Dewpt         49 50 50 49 48 52 54 55 56 56 55 54 54 57 59 61 60 58 57 55 56 57
+RH            72 96 86 93100 96 86 84 93100100100100100 90 87 90 96100100100100
+Wind dir      SE NE NE  E  E  E  E  E  E SE SE SE SE SE  S  S  S  S  S  S  S SE
+Wind spd       1  1  1  3  2  4  5  6  5  4  3  2  2  2  3  3  3  2  2  2  2  1
+Clouds        B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV OV
+PoP 12hr                     60          80          90          40          30
+QPF 12hr                   0.05        0.47        0.12        0.01        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 S  C  C  L  L  D  D  D  D  L  L  C  C  C  S  S  C  C  C  S
+Obvis                                    PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      54    66      40    55      36    55      39    58
+Temp          64 60   58 57 65 53   45 42 54 44   39 40 54 46   43 43 MM MM
+Dewpt         61 60   58 57 56 48   39 37 38 39   37 38 43 44   42 43 MM MM
+PWind dir        SE       E    NW       N     N      NE     E       W    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   SC SC FW FW   SC B1 SC B1   B1 B1 B1 MM
+PoP 12hr         40      50    30      10     5      10    20      20    20
+Rain           S  C    C  C  C                              S    S  S  S   
+
+$$
+MEZ030-240900-
+Eastport Municipal Arpt-Eastport ME
+44.90N  66.99W Elev. 45 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          59          55          62          55
+Temp          57 53 54 51 49 54 57 59 58 56 56 56 55 57 59 62 60 57 56 55 56 57
+Dewpt         51 51 51 51 49 54 54 55 55 56 56 56 55 57 58 59 58 57 56 55 56 57
+RH            80 93 90100100100 90 87 90100100100100100 96 90 93100100100100100
+Wind dir      SE  E NE  E NE  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S SE SE
+Wind spd       1  2  4  6  5  9  9  9  8  5  4  3  3  3  4  4  3  2  2  3  2  1
+Clouds        B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 OV OV OV OV
+PoP 12hr                     90          80          90          50          30
+QPF 12hr                   0.06        0.47        0.15        0.02        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 S  C  L  D  L  D  D  D  D  L  L  C  C  C  S  C  C  C  C  C
+Obvis                     PF             PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      54    65      44    55      42    55      44    58
+Temp          62 59   58 58 63 56   49 47 54 48   45 46 54 49   47 49 MM MM
+Dewpt         60 59   58 58 57 50   43 40 40 41   40 42 43 45   45 45 MM MM
+PWind dir         E      NE    NW       N     N      NE    NE      NW    NW
+Wind char        LT      LT    GN      GN    GN      GN    LT      LT    LT
+Avg clouds    OV B2   OV B2 B1 SC   B1 SC FW FW   SC B1 B1 B1   B1 B1 B1 MM
+PoP 12hr         40      60    30      10    10      10    20      20    20
+Rain           C  C    C  C  C                              S    S  S  S   
+
+$$
+ANZ050-240900-
+Jonesport Buoy
+44.27N  67.31W Elev. 0 ft
+144 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          58          56          58          55
+Temp          55 55 55 54 53 55 56 57 57 57 56 56 56 57 57 57 57 57 56 56 57 57
+Dewpt         53 52 54 54 53 55 56 56 57 57 56 56 56 56 57 57 57 56 56 56 57 57
+RH            93 90 96100100100100 96100100100100100 96100100100 96100100100100
+Wind dir       E NE  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S  S  S SE SE  E
+Wind spd       4  8 10 13 14 16 13 13 12 12 12 11 10  9  9  9  9  8  8  6  8  8
+Clouds        B2 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 OV OV OV OV OV OV
+PoP 12hr                     90          80          70          40          30
+QPF 12hr                   0.26        0.32        0.07           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                     O  O  O  O  O  O   
+Rain                 C  D  L  D  L  C  C  L  L  L  C  C  C  S  S  S  S  C  C  C
+Obvis                  PF PF             PF PF PF PF PF          PF PF PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          58      55    58      46    52      47    52      49    54
+Temp          57 58   57 57 58 55   51 49 50 50   49 48 50 51   50 51 MM MM
+Dewpt         57 58   57 56 56 52   46 43 42 43   43 43 45 46   46 47 MM MM
+PWind dir         E       N    NW       N    NE      NE    NE       N     N
+Wind char        GN      GN    GN      BZ    BZ      BZ    GN      GN    GN
+Avg clouds    OV OV   OV B2 B1 B1   B1 SC SC SC   SC B1 B1 B1   B1 B1 B1 MM
+PoP 12hr         40      50    20      10    10      10    20      20    20
+Rain           C  C    C  C  S                              S    S  S  S   
+
+$$

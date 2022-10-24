@@ -1,0 +1,91 @@
+FPUS63 KOAX 232111
+SFTNE 
+NEZ001>094-241100-
+
+Tabular State Forecast for Nebraska
+National Weather Service Omaha/Valley NE
+411 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Central Nebraska...
+   Grand Island
+   Ptcldy   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    Ptcldy   
+   44/57    31/62    33/61    42/59    37/59    33/61    35/62    
+    20/10    00/00    00/00    20/30    30/10    10/00    00/00   
+
+   Lexington
+   Ptcldy   Sunny    Ptcldy   Mocldy   Sunny    Sunny    Ptcldy   
+   38/55    26/62    31/60    38/59    32/59    30/61    32/62    
+    10/00    00/00    00/00    20/30    30/10    10/00    00/00   
+
+   Ord
+   Ptcldy   Sunny    Ptcldy   Mocldy   Sunny    Ptcldy   Ptcldy   
+   39/55    26/61    29/59    38/57    31/58    29/60    32/61    
+    20/00    00/00    00/00    20/40    20/10    10/00    00/00   
+
+
+...Eastern Nebraska...
+   Lincoln
+   Mocldy   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    Sunny    
+   51/60    32/63    33/64    42/64    39/62    35/64    35/64    
+    40/20    00/00    00/00    10/30    30/20    10/10    00/00   
+
+   Norfolk
+   Ptcldy   Sunny    Ptcldy   Mocldy   Sunny    Sunny    Ptcldy   
+   45/58    31/62    31/62    41/59    36/61    33/62    35/63    
+    20/00    00/00    00/00    20/40    20/10    10/00    00/00   
+
+   Omaha
+   Mocldy   Sunny    Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   
+   54/60    36/59    36/60    44/60    42/59    38/61    38/60    
+    30/30    10/00    00/00    10/30    30/20    10/10    10/00   
+
+
+...Nebraska Panhandle...
+   Chadron
+   Windy    Ptcldy   Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   32/49    27/55    25/53    29/52    24/55    25/60    27/61    
+    30/20    00/00    00/10    20/20    00/00    00/00    00/00   
+
+   Scottsbluff
+   Ptcldy   Sunny    Mocldy   Ptcldy   Sunny    Ptcldy   Sunny    
+   32/52    31/58    28/55    30/51    25/55    25/61    27/61    
+    30/10    00/00    10/10    30/40    00/00    00/00    00/00   
+
+   Sidney
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   29/53    28/59    26/57    28/52    24/56    23/60    25/61    
+    40/00    00/00    00/10    20/20    10/00    00/00    00/00   
+
+
+...Western Nebraska...
+   McCook
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   38/58    28/66    33/65    38/63    33/62    29/65    31/67    
+    10/00    00/00    00/00    20/20    30/10    10/00    00/00   
+
+   North Platte
+   Sunny    Sunny    Mocldy   Mocldy   Sunny    Ptcldy   Ptcldy   
+   35/53    26/62    30/59    36/57    29/59    27/61    30/62    
+    20/00    00/00    00/00    30/20    20/10    00/00    00/00   
+
+   Valentine
+   Ptcldy   Sunny    Ptcldy   Mocldy   Sunny    Ptcldy   Ptcldy   
+   32/46    26/57    25/56    34/52    28/58    29/61    31/61    
+    50/20    00/00    00/10    30/30    10/00    00/00    00/00   
+
+
+$$
+

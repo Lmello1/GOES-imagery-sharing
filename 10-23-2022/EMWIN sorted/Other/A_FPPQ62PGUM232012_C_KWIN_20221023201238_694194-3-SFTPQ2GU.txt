@@ -1,0 +1,37 @@
+FPPQ62 PGUM 232012
+SFTPQ2
+PWZ001-FMZ037-023-240715-
+
+Tabular State Forecast for Western Micronesia
+National Weather Service Tiyan GU
+612 AM ChST Mon Oct 24 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...REPUBLIC OF PALAU...
+   Koror
+   Shwrs    Shwrs    Shwrs    Shwrs    Ptsunny  Ptcldy   Ptcldy   
+     /87    79/85    79/84    79/85    78/87    79/87    79/87    
+      /60    80/90    80/60    50/50    50/30    30/20    20/10   
+
+...FEDERATED STATES OF MICRONESIA...
+   Yap Airport
+   Tstrms   Tstrms   Shwrs    Mocldy   Ptcldy   Ptcldy   Ptsunny  
+     /85    79/83    79/86    79/84    79/87    78/87    79/87    
+      /100  100/100  100/90    50/40    30/20    20/20    20/30   
+
+   Chuuk Airport
+   Ptsunny  Mocldy   Shwrs    Ptcldy   Ptcldy   Ptsunny  Ptsunny  
+     /87    79/84    78/87    78/87    78/87    78/87    78/87    
+      /30    30/40    70/60    20/20    20/20    20/30    40/30   
+
+$$

@@ -1,0 +1,254 @@
+FOUS52 KRAH 231706
+PFMRAH
+
+Point Forecast Matrices
+National Weather Service Raleigh NC
+106 PM EDT Sun Oct 23 2022
+
+NCZ022-232100-
+PIEDMONT TRIAD AIRPORT-GUILFORD NC
+36.10N  79.94W Elev. 886 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72          46          75          48          76
+Temp                   68 70 58 54 51 49 48 64 72 73 61 56 53 51 50 65 73 74 64
+Dewpt                  42 40 42 44 46 46 46 51 49 48 49 48 48 47 48 54 54 54 55
+RH                     39 33 55 69 83 89 93 63 44 41 65 74 83 86 93 68 51 50 73
+Wind dir                N NE NE NE  N  N  N  N  N NE  E  E  N  N  N  S  S  S  S
+Wind spd                6  5  3  3  3  2  2  3  2  2  2  1  1  1  1  2  4  5  2
+Clouds                 CL CL CL SC SC SC SC FW FW CL FW SC SC SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    71      51    70      51    68      53    65
+Temp          58 54 69 61   54 51 68 59   54 51 65 59   55 54 64 59
+Dewpt         54 54 58 58   52 50 53 53   51 50 55 55   54 53 56 56
+PWind dir         S    SW       N    NE      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC FW SC   SC SC SC BK   BK BK BK BK
+PoP 12hr         10    20       5     0       5    10      20    30
+Rain shwrs              S                                S  S  S  C
+
+$$
+NCZ041-232100-
+RALEIGH DURHAM AIRPORT-WAKE NC
+35.88N  78.78W Elev. 441 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72          49          77          50          79
+Temp                   68 70 60 56 54 51 51 66 74 75 63 58 55 53 52 67 76 77 66
+Dewpt                  46 49 52 52 52 51 51 54 54 52 53 52 52 51 52 54 54 54 55
+RH                     45 47 75 86 93100100 65 50 45 70 80 90 93100 63 46 45 68
+Wind dir                N  N NE  N  N  N  N  N  N  N NE SE  S  S  N NE SE SE SE
+Wind spd                9  6  3  3  2  2  2  5  5  4  1  0  0  0  0  2  4  4  2
+Clouds                 SC SC SC SC SC SC SC SC FW FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    79      55    76      53    74      54    72
+Temp          60 56 75 67   60 56 73 65   58 55 70 63   58 56 69 63
+Dewpt         56 56 57 58   56 53 52 53   53 51 52 53   55 54 54 55
+PWind dir         S    SW      NW    NE      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC SC SC   SC SC SC BK   BK BK BK BK
+PoP 12hr          5    20       5     0       0    10      20    30
+Rain shwrs              S                                S  S  S  C
+
+$$
+NCZ011-232100-
+HALIFAX-NORTHAMPTON REGIONAL AIRPORT NC
+36.33N  77.64W Elev. 145 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          46          73          47          76
+Temp                   62 63 55 52 50 48 48 62 71 71 59 55 52 50 49 65 74 74 64
+Dewpt                  53 54 53 52 50 48 48 55 56 54 56 52 52 50 49 59 60 61 60
+RH                     72 72 93100100100100 78 59 55 90 90100100100 81 62 64 87
+Wind dir                N  N  N  N  N  N  N  N  N  N NE  S  S  E  N  N  E SE  E
+Wind spd               10  8  4  3  3  3  3  5  5  3  1  0  0  0  1  2  2  2  0
+Clouds                 OV BK BK SC SC SC SC SC FW FW FW SC SC SC SC SC SC SC SC
+PoP 12hr                     20           5           0           5           5
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                                                      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    75      52    71      51    70      52    69
+Temp          57 53 73 62   57 54 69 59   55 52 68 59   55 55 67 59
+Dewpt         56 53 61 61   56 53 58 57   53 51 58 59   55 55 60 59
+PWind dir         S    SW      NW     N      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC SC SC   SC SC SC BK   BK BK BK BK
+PoP 12hr          0    20       5     0       0    10      20    30
+Rain shwrs              S                                S  S  S  C
+
+$$
+NCZ027-232100-
+ROCKY MOUNT WILSON-NASH NC
+35.86N  77.89W Elev. 160 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          48          76          49          79
+Temp                   65 65 57 54 52 50 50 65 73 74 62 57 54 52 51 68 77 77 66
+Dewpt                  50 53 54 53 52 50 50 54 54 53 55 54 53 51 51 55 55 56 57
+RH                     58 65 90 96100100100 68 51 48 78 90 96 96100 63 47 48 73
+Wind dir                N  N  N  N  N  N  N  N  N  N NE NE NE  N  N  N NE  E  N
+Wind spd               10  9  4  3  4  3  3  6  5  5  1  1  1  1  1  3  3  3  0
+Clouds                 OV BK BK SC SC SC SC FW FW FW SC FW FW SC SC SC SC SC SC
+PoP 12hr                     20           0           0           0           5
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                                                      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    78      55    75      53    73      54    72
+Temp          59 55 75 65   60 57 73 63   58 55 70 62   57 56 69 61
+Dewpt         56 55 56 57   56 53 54 53   53 51 51 54   54 54 54 56
+PWind dir         S    SW      NW     N      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC SC SC   SC SC SC SC   BK BK BK BK
+PoP 12hr          0    20       5     0       0    10      20    20
+Rain shwrs              S                                S  S  S  S
+
+$$
+NCZ088-232100-
+FAYETTEVILLE-CUMBERLAND NC
+34.99N  78.88W Elev. 187 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          51          78          52          80
+Temp                   72 74 63 59 56 54 53 67 76 76 64 60 57 55 54 69 78 78 68
+Dewpt                  45 46 50 52 53 52 52 55 54 53 54 54 53 52 52 56 56 55 58
+RH                     38 37 62 78 90 93 96 65 46 45 70 81 86 90 93 63 47 45 70
+Wind dir                N  N  N  N  N  N  N  N  N  N  N NE NE  N  N NE  E SE SE
+Wind spd               10  8  4  4  3  4  4  6  5  5  2  2  1  1  2  4  4  4  2
+Clouds                 SC SC SC SC SC SC SC FW FW CL FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    80      57    78      57    77      57    74
+Temp          61 57 77 69   62 58 75 67   60 58 73 66   61 58 71 66
+Dewpt         57 57 59 61   59 55 56 57   55 55 56 57   57 56 58 58
+PWind dir         S    SW      NW    NE      NE    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    SC SC SC SC   SC SC SC SC   SC SC SC SC   BK BK BK BK
+PoP 12hr          0    20       5     0       0    10      10    20
+Rain shwrs              S                                      S  S
+
+$$
+NCZ075-232100-
+MOORE COUNTY AIRPORT-MOORE NC
+35.24N  79.39W Elev. 455 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          46          75          48          78
+Temp                   70 72 59 55 52 49 48 64 72 73 61 56 53 51 50 67 76 76 66
+Dewpt                  42 42 45 47 49 49 48 53 52 50 52 49 50 48 50 55 54 54 56
+RH                     36 34 60 74 89100100 67 49 44 72 77 89 89100 65 46 46 70
+Wind dir                N  N  N  N  N  N  N  N  N NE  N NE NE  N  N  E  S  S SE
+Wind spd                9  6  3  2  2  2  2  5  3  3  2  1  1  0  0  3  2  3  2
+Clouds                 SC FW FW SC SC SC SC FW FW CL FW CL FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    77      52    75      52    74      52    70
+Temp          59 55 74 65   58 55 72 63   57 54 71 63   57 55 68 61
+Dewpt         55 55 57 60   55 52 54 55   53 53 54 55   55 54 55 57
+PWind dir         S    SW      NW    NE      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC SC FW   SC SC SC SC   BK BK BK BK
+PoP 12hr          0    20       5     0       5    10      20    30
+Rain shwrs              S                                S  S  S  C
+
+$$
+NCZ073-232100-
+STANLY COUNTY AIRPORT-STANLY NC
+35.41N  80.15W Elev. 609 ft
+106 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      73          43          75          46          78
+Temp                   70 71 57 52 49 46 45 63 72 73 60 55 52 49 48 65 75 76 64
+Dewpt                  43 40 43 43 45 46 45 52 50 50 52 50 49 49 48 53 52 53 55
+RH                     38 32 59 71 86100100 67 46 44 75 83 89100100 65 45 45 73
+Wind dir                N  N NE  N  N  N  N  N  N NE SE  S  S  S  N  S  S  S  S
+Wind spd                5  5  3  2  2  2  1  3  3  2  0  0  0  0  0  2  3  4  1
+Clouds                 CL CL CL CL SC SC SC FW CL CL FW FW SC SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    75      50    73      49    71      51    69
+Temp          57 53 72 61   54 52 71 59   53 53 69 58   54 54 67 58
+Dewpt         53 53 57 58   52 50 52 53   50 50 53 54   52 52 53 54
+PWind dir         S    SW       N    NE      NE    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC SC   SC SC SC FW   SC SC SC SC   BK BK BK BK
+PoP 12hr          5    20       5     0       5    10      20    30
+Rain shwrs              S                                S  S  S  C
+
+$$

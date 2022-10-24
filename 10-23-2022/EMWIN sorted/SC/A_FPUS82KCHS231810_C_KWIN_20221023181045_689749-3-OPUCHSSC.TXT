@@ -1,0 +1,152 @@
+FPUS82 KCHS 231810
+OPUCHS
+
+TEST...KCHS/KSAV Gateway Observations...TEST
+National Weather Service Charleston SC
+200 PM EDT SUN OCT 23 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+SCZ050-WAZ558-NCZ071-TXZ119-213-PAZ071-DCZ001-FLZ074-172-MI076-
+NYZ176-178-MAZ016-IL014-TNZ027-NJZ106-GAZ044-MD014-231900-
+
+...Gateway Observations for Charleston International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Chas Airport   SUNNY     74  48  39 N14       30.14F                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  74;                                
+
+Seattle        CLOUDY    47  44  90 SW5       30.14R                  
+6HR MIN TEMP:  42; 6HR MAX TEMP:  48;                                
+
+Charlotte      MOSUNNY   72  43  35 VRB7      30.19F                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  72;                                
+
+Dallas DFW     PTSUNNY   82  62  50 S30G41    29.81F                  
+6HR MIN TEMP:  70; 6HR MAX TEMP:  82;                                
+
+Dallas Love    PTSUNNY   81  61  50 S20G49    29.83F                  
+6HR MIN TEMP:  71; 6HR MAX TEMP:  81;                                
+
+Philladelphia  CLOUDY    64  54  69 NE17G24   30.23F                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  64; 6HR PCP: TRACE;                
+
+Wash National  CLOUDY    66  53  63 N12       30.21F                  
+6HR MIN TEMP:  50; 6HR MAX TEMP:  66; 6HR PCP: TRACE;                
+
+Baltimore      CLOUDY    66  51  58 N8        30.21F                  
+6HR MIN TEMP:  50; 6HR MAX TEMP:  66;                                
+
+Miami          MOSUNNY   86  66  51 E13       30.04F                  
+6HR MIN TEMP:  71; 6HR MAX TEMP:  86;                                
+
+Detroit        PTSUNNY   72  50  45 S10       30.13F                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  73;                                
+
+Newark         LGT RAIN  62  49  62 NE9       30.26F                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  62; 6HR PCP:  0.01;                
+
+Laguardia      LGT RAIN  62  44  51 NE12      30.27R                  
+J F K          CLOUDY    59  51  75 N10       30.27R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  61; 6HR PCP:  0.01;                
+
+Boston Logan   NOT AVBL                                               
+Ft. Lauderdale MOSUNNY   83  67  58 E12       30.04F                  
+6HR MIN TEMP:  69; 6HR MAX TEMP:  84;                                
+
+Chicago O'Hare MOSUNNY   76  55  48 S21G30    29.87F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  76;                                
+
+Chicago Midway MOSUNNY   79  55  43 S21G31    29.88F                  
+6HR MIN TEMP:  64; 6HR MAX TEMP:  79;                                
+
+Houston Bush   PTSUNNY   84  59  42 S17G31    29.94F                  
+6HR MIN TEMP:  70; 6HR MAX TEMP:  85;                                
+
+Houston Hobby  PTSUNNY   86  55  34 S22G32    29.95F                  
+6HR MIN TEMP:  71; 6HR MAX TEMP:  87;                                
+
+Nashville      MOSUNNY   77  44  30 SW13G20   30.14F                  
+6HR MIN TEMP:  55; 6HR MAX TEMP:  77;                                
+
+Atlanta        MOSUNNY   73  39  29 CALM      30.21F                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  73;                                
+
+London Heathrw PTCLDY    54  52  94 SE7       29.44R                  
+
+$$
+ 
+GAZ044-118-TXZ119-213-NCZ071-DCZ001-MDZ014-506-PAZ021-071-NJZ106-
+NYZ176-178-MAZ106-OHZ011-021-055-MIZ076-KYZ091-ILZ014-INZ047-
+MNZ060-ONZ431-231900-
+
+...Gateway Observations for Savannah International...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  MOSUNNY   76  51  41 NW6       30.15F                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  77;                                
+
+Atlanta        MOSUNNY   73  39  29 CALM      30.21F                  
+6HR MIN TEMP:  48; 6HR MAX TEMP:  73;                                
+
+Charlotte      MOSUNNY   72  43  35 VRB7      30.19F                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  72;                                
+
+Dallas DFW     PTSUNNY   82  62  50 S30G41    29.81F                  
+6HR MIN TEMP:  70; 6HR MAX TEMP:  82;                                
+
+Houston Bush   PTSUNNY   84  59  42 S17G31    29.94F                  
+6HR MIN TEMP:  70; 6HR MAX TEMP:  85;                                
+
+Wash National  CLOUDY    66  53  63 N12       30.21F                  
+6HR MIN TEMP:  50; 6HR MAX TEMP:  66; 6HR PCP: TRACE;                
+
+Wash Dulles    CLOUDY    63  52  67 N10       30.22F                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  63;                                
+
+Baltimore      CLOUDY    66  51  58 N8        30.21F                  
+6HR MIN TEMP:  50; 6HR MAX TEMP:  66;                                
+
+Philadelphia   CLOUDY    64  54  69 NE17G24   30.23F                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  64; 6HR PCP: TRACE;                
+
+Newark         LGT RAIN  62  49  62 NE9       30.26F                  
+6HR MIN TEMP:  56; 6HR MAX TEMP:  62; 6HR PCP:  0.01;                
+
+Laguardia      LGT RAIN  62  44  51 NE12      30.27R                  
+J F K          CLOUDY    59  51  75 N10       30.27R                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  61; 6HR PCP:  0.01;                
+
+Boston         NOT AVBL                                               
+Pittsburg      MOSUNNY   68  38  33 VRB5      30.21F                  
+6HR MIN TEMP:  36; 6HR MAX TEMP:  70;                                
+
+Akron          MOSUNNY   73  44  35 SE6       30.19F                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  73;                                
+
+Cleveland      MOSUNNY   75  46  35 SE12      30.15F                  
+6HR MIN TEMP:  55; 6HR MAX TEMP:  76;                                
+
+Cincinnati     MOSUNNY   74  49  41 SW7       30.12F                  
+6HR MIN TEMP:  53; 6HR MAX TEMP:  76;                                
+
+Columbus       SUNNY     76  51  41 S7        30.15F                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  76;                                
+
+Detroit        PTSUNNY   72  50  45 S10       30.13F                  
+6HR MIN TEMP:  51; 6HR MAX TEMP:  73;                                
+
+Chicago O'Hare MOSUNNY   76  55  48 S21G30    29.87F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  76;                                
+
+Minneapolis    SUNNY     74  54  49 SE16G39   29.56F                  
+6HR MIN TEMP:  59; 6HR MAX TEMP:  74;                                
+
+Indianapolis   MOSUNNY   76  52  43 S18       30.03F                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  76;                                
+
+Toronto Canada MOSUNNY   64  43  45 SE9       30.22F                  
+
+$$
+  

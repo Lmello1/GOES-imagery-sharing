@@ -1,0 +1,17 @@
+SHUS61 KMWI 231831
+FWOILN
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:05 GMT
+ 
+Listing of Observations (Cincinnati, OH)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+CRITTE 150703 221023 12 R 2  77  47  35 0 0 187  5     79  55  72  35  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:05 GMT
+

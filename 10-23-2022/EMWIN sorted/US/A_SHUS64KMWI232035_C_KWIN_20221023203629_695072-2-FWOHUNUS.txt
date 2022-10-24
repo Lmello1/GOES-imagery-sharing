@@ -1,0 +1,20 @@
+SHUS64 KMWI 232035
+FWOHUN
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (Huntsville, AL)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+BROWNS 010402 221023 13 R 2  77  41  28 0 0 135  7     77  47  99  27  0 0.000
+BANKHE 010702 221023 13 R 2  77  44  32 0 0 251  4     77  50  88  32  0 0.000
+LIRI   010990 221023 13 R 3  75  38  27 0 0 138  2     75  40 100  27  0 0.000
+ARNOLD 408901 221023 13 R 3  78  43  29 0 0 258  1     78  48  88  29  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

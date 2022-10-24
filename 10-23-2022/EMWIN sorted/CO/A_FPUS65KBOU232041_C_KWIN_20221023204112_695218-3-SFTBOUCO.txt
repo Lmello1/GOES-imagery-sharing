@@ -1,0 +1,66 @@
+FPUS65 KBOU 232041
+SFTCO 
+COZ001>014-017>023-030>051-058>099-240000-
+
+Tabular State Forecast for Colorado
+National Weather Service Denver/Boulder CO
+240 PM MDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+...NORTHEAST COLORADO...
+   DENVER
+   Shwrs    Sunny    Ptcldy   Ptcldy   Snoshwr  Sunny    Ptcldy   
+     /67    30/52    34/61    36/59    34/47    29/57    30/61    
+      /50    60/10    00/00    10/10    30/50    20/00    00/00   
+
+   BURLINGTON
+   Windy    Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /77    34/54    26/63    32/62    33/56    28/57    27/61    
+      /00    10/00    00/00    00/00    10/20    20/10    00/00   
+
+...SOUTHEAST COLORADO...
+   COLORADO SPRINGS
+   Windy    Ptcldy   Sunny    Ptcldy   Snoshwr  Sunny    Sunny    
+     /62    27/46    27/60    30/57    31/47    26/55    28/58    
+      /30    30/00    00/00    10/10    10/50    20/00    00/00   
+
+   PUEBLO
+   Windy    Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /72    34/52    29/66    33/65    34/56    30/59    29/63    
+      /10    00/00    00/00    00/00    10/40    30/10    00/00   
+
+   ALAMOSA
+   Shwrs    Ptcldy   Sunny    Ptcldy   Snoshwr  Sunny    Ptcldy   
+     /52    18/44    14/55    20/56    24/49    18/51    16/54    
+      /50    10/10    00/00    00/10    20/60    30/00    00/00   
+
+...WESTERN COLORADO...
+   CRAIG
+   Snoshwr  Ptcldy   Mocldy   Mocldy   Mocldy   Sunny    Ptcldy   
+     /38    18/39    16/44    22/46    20/39    9/43     12/47    
+      /90    50/20    10/20    20/40    80/30    00/00    00/00   
+
+   GRAND JUNCTION
+   Tstrms   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    Sunny    
+     /46    30/48    29/53    36/56    34/48    26/52    30/55    
+      /90    60/10    00/00    10/20    60/30    00/00    00/00   
+
+   DURANGO
+   Tstrms   Sunny    Sunny    Ptcldy   Snoshwr  Sunny    Sunny    
+     /42    21/46    21/55    26/52    29/45    21/52    25/55    
+      /90    30/10    00/00    00/20    50/60    10/00    00/00   
+
+
+$$
+

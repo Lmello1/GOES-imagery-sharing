@@ -1,0 +1,34 @@
+FPMY60 PGUM 231745
+SFTGUM
+GUZ001-MPZ003-240845-
+
+Tabular State Forecast for Guam
+National Weather Service Tiyan GU
+345 AM ChST Mon Oct 24 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...GUAM...
+   Tiyan
+   Ptsunny  Ptsunny  Mocldy   Ptsunny  Shwrs    Shwrs    Ptsunny  
+     /87    77/88    78/87    77/87    77/86    76/86    78/87    
+      /30    20/20    20/40    40/40    40/50    50/50    50/30   
+
+...NORTHERN MARIANA ISLANDS...
+   Saipan Airport
+   Ptsunny  Ptsunny  Mocldy   Ptsunny  Shwrs    Shwrs    Ptsunny  
+     /88    78/88    78/88    78/87    78/86    78/86    78/86    
+      /30    20/20    20/40    40/40    40/50    50/50    50/30   
+
+
+$$

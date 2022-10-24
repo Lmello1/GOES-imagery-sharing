@@ -1,0 +1,163 @@
+ASUS65 KCYS 231823
+RTPCYS
+Regional Temperature and Precipitation Table...Updated
+National Weather Service Cheyenne WY
+1223 PM MDT Sun Oct 23 2022
+
+Values represent highs yesterday, morning lows,
+and precipitation over the last 24 hours, ending at Noon
+
+.BR CYS 1023 M DH01/TAIRZX/DH18/TAIRZP/PPDRZZ
+
+
+:         Southeast Wyoming Airport Locations
+:
+:  M indicates missing data
+:
+:                                Max   Min
+:ID    Location           Elev   Temp  Temp  Pcpn
+:
+CYS  : Cheyenne ASOS      6140:   72 /  49 / 0.00
+DWX  : Dixon AWOS         6520:    M /   M / 
+DGW  : Douglas ASOS       4930:   68 /  38 /    T
+LAR  : Laramie ASOS       7270:   65 /  33 /    T
+82V  : Pine Bluffs AWOS   5150:   73 /  37 / 
+RWL  : Rawlins ASOS       6745:   62 /  30 / 0.24
+SAA  : Saratoga AWOS      7010:   63 /  32 / 
+TOR  : Torrington ASOS    4205:    M /   M /    M
+EAN  : Wheatland AWOS     4776:   77 /  47 / 
+:
+:         Nebraska Panhandle Airport Locations
+:
+:  M indicates missing data
+:
+:                                Max   Min           
+:ID    Location           Elev   Temp  Temp  Pcpn 
+:
+AIA  : Alliance ASOS      3930:   82 /  27 / 0.00
+CDR  : Chadron ASOS       3295:   81 /  34 / 0.00
+IBM  : Kimball AWOS       4925:   75 /  39 / 0.00
+BFF  : Scottsbluff ASOS   3960:   83 /  40 / 0.00
+SNY  : Sidney ASOS        4305:   79 /  38 / 0.00
+:
+.END
+:
+:         Southeast Wyoming Cooperative Observations
+:
+:  Values are for the previous 24 hours.  In some weather situations,
+:  reported low temperatures may reflect conditions from the 
+:  previous day.  
+:
+:  M indicates missing data
+:  
+.BR CYS 1023 M DH15/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                               Obs     Max  Min          Snow Snow
+:ID    Location           Elev  Time    Temp Temp   Pcpn  Fall Depth
+:
+CYSW4: Cheyenne NWS       6140: DH0500 /  70/  48/  0.00/  0.0/    0
+RLSW4: Rawlins 1N         6905: DH0800 /  58/  30/  0.32/  1.6/    2
+DDEW4: Torrington 29N     4860: DH0700 /  75/  46/  0.00/  0.0/    0
+:
+:         Nebraska Panhandle Cooperative Observations
+:
+:  Values are for the previous 24 hours.  In some weather situations,
+:  reported low temperatures may reflect conditions from the 
+:  previous day.
+: 
+:  M indicates missing data
+: 
+:                               Obs     Max  Min          Snow Snow
+:ID       Location        Elev  Time    Temp Temp   Pcpn  Fall Depth
+:
+BSSN1: Bushnell 15S       5170: DH0600 /  72/  30/  0.00/  0.0/    0
+HSBN1: Harrisburg 12WNW   4550: DH0700 /  78/  38/  0.00/    M/    M
+HRNN1: Harrison           4850: DH0847 /  73/  40/  0.00/    M/    M
+LGPN1: Lodgepole 8N       3940: DH0700 /  79/  34/  0.00/  0.0/    0
+:
+.END
+: 
+:           CoCoRaHS Network Observers
+:
+:  Values are for the previous 24 hours.
+:
+:  M indicates missing data
+:
+.BR CYS 1023 M DH07/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:
+:                                  Obs            Snow  Snow
+:ID    Location              Elev  Time     Pcpn  Fall  Depth 
+:
+:..........CoCoRaHS Network Southeast Wyoming..........
+:
+:.....................Albany County....................
+:
+:
+:.....................Carbon County....................
+: 
+:
+:.....................Converse County....................
+:
+:
+:.....................Goshen County....................
+:
+:
+:.....................Laramie County....................
+:
+:
+:.....................Niobrara County....................
+:
+:.....................Platte County....................
+:
+:
+.END
+:
+:            CoCoRaHS/NeRAIN Network Observers
+:
+:  Values are for the previous 24 hours.
+:
+:  M indicates missing data
+:
+.BR CYS 1023 M DH07/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:
+:                                  Obs            Snow  Snow
+:ID    Location              Elev  Time     Pcpn  Fall  Depth 
+:
+:......CoCoRaHS/NeRAIN Network Nebraska Panhandle............
+:
+:.....................Banner County..........................
+:
+:
+:.....................Box Butte County.......................
+:
+:
+:.....................Cheyenne County........................
+: 
+:
+:.....................Dawes County............................
+:
+:
+:.....................Kimball County...........................
+:
+:
+:.....................Morrill County...........................
+:
+:
+:.....................Scotts Bluff County......................
+:
+:
+:.....................Sioux County.............................
+:
+:
+.END
+
+
+All values provided in this product are preliminary, pending final 
+certification by the National Centers for Environmental Information.
+
+
+$$
+
+Brothers

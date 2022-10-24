@@ -1,0 +1,141 @@
+FPUS61 KILN 231634
+SFTILN
+OHZ001>089-232200-
+
+Tabular State Forecast for Ohio
+National Weather Service Wilmington OH
+1234 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+
+...1 Northwest...
+   Defiance
+   Ptcldy   Ptcldy   Mocldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /78    53/78    54/74    52/60    38/56    41/59    44/60    
+      /00    00/00    00/40    80/80    20/00    00/20    30/30   
+
+   Findlay     
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /80    52/78    53/75    54/61    40/56    42/61    45/60    
+      /00    00/00    00/30    80/80    30/10    00/10    20/20   
+
+   Lima    
+   Ptcldy   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /76    54/76    54/74    52/60    39/56    42/61    45/60    
+      /00    00/00    00/40    90/80    20/00    10/20    30/30   
+
+   Toledo   
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /79    54/79    54/73    54/60    42/54    44/58    46/57    
+      /00    00/00    00/30    80/80    30/00    10/10    20/20   
+
+
+...2 North Central...
+   Mansfield
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /74    52/75    51/73    53/60    42/55    42/61    45/60    
+      /00    00/00    00/20    80/80    30/10    10/10    20/20   
+
+   Sandusky     
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /78    55/77    53/72    53/62    44/55    44/59    45/58    
+      /00    00/00    00/20    80/80    50/10    10/10    20/20   
+
+
+...3 Northeast...
+   Akron-Canton
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /75    49/74    49/72    53/61    44/58    44/63    47/62    
+      /00    00/00    00/10    70/70    40/10    10/10    20/20   
+
+   Cleveland     
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Mocldy   
+     /76    54/76    53/75    54/61    45/55    44/61    47/59    
+      /00    00/00    00/10    70/70    50/10    10/10    20/20   
+
+   Youngstown   
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /74    42/73    47/73    53/63    44/57    43/62    46/61    
+      /00    00/00    00/00    50/60    40/10    10/10    20/20   
+
+
+...4 Miami Valley...
+   Bellefontaine
+   Ptcldy   Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   
+     /76    53/77    55/73    53/57    38/55    40/60    43/60    
+      /00    00/00    00/30    80/80    10/00    00/10    20/30   
+
+   Dayton     
+   Ptcldy   Ptcldy   Mocldy   Rain     Sunny    Ptcldy   Ptcldy   
+     /78    53/78    56/76    53/59    39/60    42/64    45/64    
+      /00    00/00    00/40    90/60    00/00    00/10    20/30   
+
+
+...5 Central...
+   Columbus
+   Sunny    Sunny    Ptcldy   Rain     Sunny    Ptcldy   Ptcldy   
+     /78    49/78    53/76    54/61    42/59    43/64    46/63    
+      /00    00/00    00/10    80/80    10/00    00/10    20/30   
+
+
+...6 East Central...
+   New Philadelphia
+   Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /75    42/74    47/73    53/61    43/58    41/62    44/62    
+      /00    00/00    00/00    60/60    50/10    00/10    10/10   
+
+   Zanesville     
+   Sunny    Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /75    44/75    49/74    53/60    42/59    41/64    44/63    
+      /00    00/00    00/10    80/80    40/10    00/10    10/10   
+
+
+...7 Southwest...
+   Wilmington
+   Sunny    Sunny    Ptcldy   Rain     Sunny    Ptcldy   Ptcldy   
+     /78    50/77    53/75    51/58    38/59    41/64    45/63    
+      /00    00/00    00/30    80/50    00/00    00/10    20/30   
+
+   Cincinnati     
+   Sunny    Ptcldy   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   
+     /78    52/78    55/76    52/58    41/60    42/64    46/64    
+      /00    00/00    00/50    80/40    00/00    00/10    20/30   
+
+
+...8 South Central...
+   Portsmouth
+   Sunny    Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   
+     /79    46/79    50/76    52/61    43/62    41/68    46/66    
+      /00    00/00    00/10    80/50    00/00    00/10    20/30   
+
+
+...9 Southeast...
+   Athens
+   Sunny    Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   
+     /73    43/75    49/75    52/61    44/61    41/66    45/65    
+      /00    00/00    00/10    70/70    00/00    00/10    10/10   
+
+   Jackson     
+   Sunny    Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   
+     /75    44/77    49/76    52/62    43/63    41/68    45/66    
+      /00    00/00    00/10    80/70    00/00    00/10    10/20   
+
+   Marietta     
+   Sunny    Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Ptcldy   
+     /72    42/74    49/74    52/63    45/61    42/66    45/65    
+      /00    00/00    00/10    70/60    10/00    00/10    10/10   
+
+
+$$
+

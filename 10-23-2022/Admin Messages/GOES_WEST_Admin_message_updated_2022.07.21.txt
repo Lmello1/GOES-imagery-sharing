@@ -1,0 +1,31 @@
+The GOES-17 HRIT/EMWIN West broadcast utilizes virtual channels for the transmission of
+several simultaneous data streams. The table below identifies the current
+virtual channels assignments. 
+
+    HRIT/EMWIN
+Virtual Channel ID     Group          Product Name
+------------------    -------    -------------------------------
+        0              Imagery     Admin Text Messages
+        1             *Imagery     Mesoscale 0.5 – 2km (ch. 2, 7 and 13)
+        2             *Imagery     Band 2 - Visual                                                                
+        7             *Imagery     Band 7 - Shortwave Infrared
+        8             *Imagery     Band 8 – Mid-Level Tropospheric Water Vapor
+        9             *Imagery     Band 9 – Upper-level Tropospheric Water Vapor
+       13             *Imagery     Band 13 – Clean Longwave Infrared
+       14             *Imagery     Band 14 – Infrared Longwave 
+       15             *Imagery     Band 15 – Dirty Longwave Infrared  
+       16             *Imagery     Band 13 – GOES-16 4km Clean Longwave Infrared     
+       20              EMWIN       High Priority
+       21              EMWIN       Graphics
+       22              EMWIN       Low Priority
+       24              Imagery     NHC Graphics Products
+       25             *Imagery     Other GOES-17 Level II Products
+       30              DCS         DCS Admin
+       32              DCS         DCS Data                                                                               
+       60              Imagery     Himawari-8 4km Infrared, Water Vapor and Visual
+
+
+*NOTE* - Data Quality Flags are not made available for any of the GOES Imagery products.
+
+For additional broadcast information or questions please visit https://www.noaasis.noaa.gov/ or contact the
+HRIT/EMWIN Broadcast Manager at hrit.manager@noaa.gov.

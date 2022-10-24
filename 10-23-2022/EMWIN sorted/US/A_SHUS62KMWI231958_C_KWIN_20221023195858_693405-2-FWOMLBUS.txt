@@ -1,0 +1,30 @@
+SHUS62 KMWI 231958
+FWOMLB
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 19:58:43 GMT
+ 
+Listing of Observations (Melbourne, FL)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+LAKE W 083703 221023 13 R 2  83  58  44 0 0 328  4     83  53 100  44  0 0.000
+PAISLE 084001 221023 12 O 2  82  58  44 0 0   7  4     82  57  95  44  0 0.000
+LAKE F 084002 221023 13 R 2  85  56  38 0 0 352  1     85  55  95  38  0 0.000
+MERRIT 084402 221023 12 R 2  80  62  56 0 0 353  7     81  64  95  54  0 0.000
+BREVAR 089901 221023 13 O 2  80  62  54 0 0 360 11     80  64 100  46  0 0.000
+ORANGE 089904 221023 13 O 1  78  60  54 0 0 346  6     80  57  97  54  0 0.000
+SEMINO 089906 221023 13 O 1  78  60  54 0 0 346  6     80  57  97  54  0 0.000
+VOLUSI 089907 221023 13 O 1  77  62  60 0 0 349  4     77  56  91  60  0 0.000
+LAKE   089925 221023 13 O 1  77  59  54 0 0  26  6     78  54  96  53  0 0.000
+INDIAN 089963 221023 13 O 1  82  66  58 0 0 360 12     82  64 100  57  0 0.000
+MARTIN 089964 221023 13 O 1  82  68  63 0 0  41  5     83  63 100  52  0 0.000
+OKEECH 089965 221023 13 O 1  80  66  63 0 0  49  4     82  61  98  49  0 0.000
+OSCEOL 089966 221023 13 O 1  81  67  63 0 0  12  4     81  62  98  59  0 0.000
+ST. LU 089967 221023 13 O 1  82  68  63 0 0  41  5     83  63 100  52  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 19:58:43 GMT
+

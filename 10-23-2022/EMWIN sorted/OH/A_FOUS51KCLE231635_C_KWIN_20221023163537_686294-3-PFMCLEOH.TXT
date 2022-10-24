@@ -1,0 +1,369 @@
+FOUS51 KCLE 231635
+PFMCLE
+
+Point Forecast Matrices
+National Weather Service CLEVELAND, OHIO
+1235 PM EDT Sun Oct 23 2022
+
+PAZ001-240900-
+ERIE-ERIE PA 
+42.08N  80.18W Elev. 733 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          73          55          73          56
+Temp          71 66 62 59 57 55 67 73 71 62 58 57 56 56 66 72 72 64 60 59 57 56
+Dewpt         49 47 46 45 43 44 50 52 51 51 50 50 50 51 47 48 49 49 49 49 49 49
+RH            46 50 56 60 59 66 54 48 49 67 75 77 80 83 50 42 44 58 67 69 75 77
+Wind dir       E SE SE  S  S  S  S  E  E SE SE  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       5  6  6 10  9  8  5  3  3  6  6  8 10 10 10 10  6  8 10 12 12 10
+Clouds        CL FW FW CL CL CL CL FW FW FW SC B1 SC FW B2 B1 B1 B2 B2 B2 B2 B2
+PoP 12hr                      0           0           5           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      47    55      44    59      47    59      46    58
+Temp          63 55   49 47 55 49   46 45 58 52   48 48 59 51   48 47 58 51
+Dewpt         52 48   46 43 42 41   40 39 43 43   42 42 46 44   43 42 45 44
+PWind dir        SW      NW     N       E     E      SE     E      SE     E
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    B2 B2   B2 B1 B1 SC   SC B1 B2 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         70      30    10       5    10      10    20      20    20
+Rain shwrs     L  L    C  S                              S  S    S  S  S  S
+
+$$
+OHZ033-240900-
+YOUNGSTOWN/WARREN-TRUMBULL OH 
+41.25N  80.67W Elev. 1196 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          72          49          75          53
+Temp          73 61 55 51 48 45 60 71 71 60 56 53 51 50 64 74 74 63 58 56 55 53
+Dewpt         42 42 42 41 39 40 45 46 44 46 46 46 47 47 47 46 47 48 48 49 49 50
+RH            33 49 61 68 71 82 58 41 38 60 69 77 86 89 54 37 38 58 69 77 80 89
+Wind dir      SE SE SE SE SE SE SE  S SE SE SE SE SE SE  S  S  S SE SE SE SE  S
+Wind spd       5  5  5  5  5  4  4  4  4  5  4  5  5  6  9 10  9  6  8  9  9  9
+Clouds        FW FW CL CL CL SC SC FW FW SC SC FW FW SC B2 B1 B1 B2 B2 B2 B2 OV
+PoP 12hr                      0           0           0           5          50
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      44    59      42    63      44    63      44    61
+Temp          65 54   48 45 58 50   45 43 61 53   47 45 63 53   46 45 60 53
+Dewpt         51 48   45 43 41 40   39 40 42 43   43 43 44 44   42 42 44 44
+PWind dir        SW      NW     N      NE     E       E     E       E    SE
+Wind char        GN      LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    B2 B2   B2 B1 B1 SC   SC B1 B2 B1   B2 B2 B1 B1   B1 B2 B1 B1
+PoP 12hr         60      30    10       5    10      20    20      20    20
+Rain shwrs     L  C    C                              S  S  S    S  S  S  S
+
+$$
+OHZ032-240900-
+AKRON/CANTON-SUMMIT OH 
+40.92N  81.44W Elev. 1228 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          75          48          71          53
+Temp          74 62 56 53 51 49 64 74 73 60 55 53 51 49 62 71 70 62 58 57 55 54
+Dewpt         43 43 42 40 38 39 44 44 43 44 43 41 42 43 49 49 49 50 49 50 51 51
+RH            33 50 59 61 61 68 48 34 34 55 64 64 71 80 62 46 47 65 72 77 86 90
+Wind dir      SE SE SE SE SE SE  S  S  S SE SE SE SE SE  S  S  S SE SE SE  S  S
+Wind spd       6  5  4  6  5  5  5  5  5  6  5  5  5  6  6  9  8  8  8  8  8  8
+Wind gust                                                  19                  
+Clouds        FW CL CL CL CL FW FW FW FW SC SC FW SC SC B1 B1 B2 B2 OV B2 B2 OV
+PoP 12hr                      0           0           0           5          70
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      45    58      44    63      47    62      45    60
+Temp          61 53   47 45 56 49   45 44 61 54   50 47 61 53   47 46 59 53
+Dewpt         52 48   44 43 42 41   41 42 46 46   45 46 48 46   45 44 47 47
+PWind dir        SW      NW     N      NE     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 SC SC   SC B1 B2 B1   B2 B2 B1 B1   B1 B1 B1 B2
+PoP 12hr         60      20     5       5    10      20    20      20    20
+Rain shwrs     L  C    S                              S  S  S    S  S  S  S
+
+$$
+OHZ031-240900-
+WOOSTER-WAYNE OH 
+40.87N  81.89W Elev. 1136 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          75          47          72          52
+Temp          72 59 53 50 47 46 64 74 73 60 55 52 48 48 63 71 71 61 57 56 54 52
+Dewpt         45 45 42 39 37 39 45 46 45 45 43 41 40 40 49 49 49 51 51 50 51 52
+RH            38 60 66 66 68 76 50 37 37 58 64 66 74 74 60 46 46 70 80 80 90100
+Wind dir      SE SE SE SE SE  S  S  S  S SE SE SE  S SE  S  S  S SE  S  S  S  S
+Wind spd       8  5  4  5  5  5  6  8  6  6  5  5  5  6  9  9  9  8  6  8  8  8
+Clouds        FW CL CL CL CL CL FW FW FW B1 FW SC SC SC B2 B1 B2 B2 OV B2 OV OV
+PoP 12hr                      0           0           0          10          80
+QPF 12hr                      0           0           0           0        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      42    56      41    61      44    60      43    58
+Temp          60 51   45 43 55 47   43 42 60 51   47 45 60 51   45 43 57 50
+Dewpt         52 48   44 42 43 42   41 41 46 46   45 45 48 46   45 43 47 47
+PWind dir        SW      NW     N      NE     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B1 B1 SC SC   SC B1 B2 B1   B2 B2 B1 B1   B1 B1 B1 B2
+PoP 12hr         50      10     5       5    10      20    20      20    20
+Rain shwrs     C  C                                   S  S  S    S  S  S  S
+
+$$
+OHZ011-240900-
+CLEVELAND-CUYAHOGA OH 
+41.41N  81.85W Elev. 791 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          77          53          76          54
+Temp          75 66 62 59 57 55 68 76 75 66 61 58 55 54 66 75 75 66 61 59 56 54
+Dewpt         45 47 45 42 41 42 46 46 45 47 45 43 43 43 49 50 49 50 50 50 51 51
+RH            34 50 54 53 55 61 45 34 34 50 56 57 64 66 54 41 40 56 67 72 83 90
+Wind dir      SE SE SE SE  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       8  6  5  8  6  6  6  6  6  6  6  8  8  9  8  8  8  6  6  8  8  6
+Wind gust                                                  18                  
+Clouds        FW FW CL CL CL CL FW FW SC SC SC SC SC B1 B2 B2 B2 OV B2 B2 B2 OV
+PoP 12hr                      0           0           0          10          70
+QPF 12hr                      0           0           0           0        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      45    56      44    61      47    60      46    59
+Temp          61 54   48 46 55 50   45 45 60 53   48 47 59 53   48 46 58 53
+Dewpt         52 47   44 43 43 42   42 42 47 46   46 45 48 47   45 44 47 47
+PWind dir        SW      NW     N       E     E       E    NE       E     E
+Wind char        GN      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B1 B1 SC   SC B2 B2 B1   B1 B2 B1 B1   B1 B1 B1 B2
+PoP 12hr         60      20     5       5    10      20    20      20    20
+Rain shwrs     L  C    S  S                           S  S  S    S  S  S  S
+
+$$
+OHZ029-240900-
+MANSFIELD-RICHLAND OH 
+40.82N  82.52W Elev. 1297 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          75          51          73          53
+Temp          73 63 59 56 54 53 67 74 73 63 59 56 54 52 65 72 72 62 60 59 55 53
+Dewpt         47 47 45 42 40 41 46 46 45 47 45 42 41 41 48 48 48 51 51 52 52 52
+RH            40 56 60 59 59 64 47 37 37 56 60 59 61 66 54 42 42 67 72 78 90 96
+Wind dir      SE SE SE SE  S  S  S  S  S SE  S  S  S  S  S  S  S SE  S  S  S  S
+Wind spd       9  6  5  6  6  6  8  9  9  8  6  8  8  8  6  8  8  6  6  8  8  6
+Clouds        FW CL CL CL CL CL FW FW SC SC SC SC SC SC B1 B1 B2 OV B2 B2 B2 OV
+PoP 12hr                      0           0           0          20          80
+QPF 12hr                      0           0           0           0        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      42    55      42    61      45    60      44    57
+Temp          59 52   44 42 53 47   44 43 59 50   48 45 59 50   47 44 56 49
+Dewpt         50 47   43 42 41 42   41 42 45 47   46 45 47 47   45 44 47 47
+PWind dir         W      NW    NE      NE     E      NE    NE       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B1 B1 B1 SC   SC B1 B2 B1   B2 B2 B1 B1   B1 B1 B1 B2
+PoP 12hr         50      10     5       5    10      20    20      20    20
+Rain shwrs     C  C                                S  S  S  S    S  S  S  S
+
+$$
+OHZ036-240900-
+MARION-MARION OH 
+40.62N  83.06W Elev. 993 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          76          50          75          53
+Temp          74 64 59 57 54 53 66 75 75 64 59 56 54 51 65 74 74 64 60 58 55 53
+Dewpt         46 48 46 43 41 42 46 44 42 46 45 43 42 42 48 48 47 49 51 51 52 51
+RH            37 56 62 59 61 66 48 33 31 52 60 62 64 71 54 40 38 58 72 77 90 93
+Wind dir       S SE SE SE SE SE  S  S  S SE SE  S  S  S  S  S  S SE  S  S  S  S
+Wind spd      10  8  6  6  6  6  9 11 10  8  8  8  9  9 12 13 13  9  9 10 10 10
+Clouds        FW CL CL CL CL CL FW FW SC SC SC SC FW FW B1 B1 B2 OV B2 OV OV B2
+PoP 12hr                      0           0           0          20          80
+QPF 12hr                      0           0           0           0        0.27
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  L  L  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      42    58      42    62      44    62      44    60
+Temp          62 53   45 42 55 48   44 43 60 51   46 45 60 52   47 45 58 50
+Dewpt         49 45   41 40 39 39   40 40 43 44   43 43 44 44   43 42 44 44
+PWind dir         W       N    NE       E     E      NE    NE       E    SE
+Wind char        GN      GN    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B1   B1 B1 SC SC   SC B1 B1 B1   B2 B2 B1 SC   B1 B1 B2 B2
+PoP 12hr         40      10     5       5    10      20    20      20    20
+Rain shwrs     C  C                                S  S  S  S    S  S  S  S
+
+$$
+OHZ003-240900-
+TOLEDO-LUCAS OH 
+41.59N  83.81W Elev. 684 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          79          53          76          54
+Temp          79 67 61 58 55 52 67 77 77 67 61 59 56 54 67 75 75 67 63 59 57 54
+Dewpt         46 48 48 46 45 44 46 43 41 43 44 43 43 42 49 50 50 54 53 53 53 52
+RH            31 50 62 64 69 74 47 30 28 42 53 55 62 64 52 41 41 63 70 80 86 93
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW
+Wind spd      11  8  6  6  6  6  9 13 11  8  6  6  8  8 10 12 10  6  5  6  5  5
+Clouds        FW CL CL CL FW FW FW FW B1 SC B1 SC SC FW B1 B2 OV OV OV OV B2 B2
+PoP 12hr                      0           0           5          30          80
+QPF 12hr                      0           0           0           0        0.61
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  L  L  D  D  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      42    57      42    61      45    61      45    60
+Temp          62 53   46 42 55 48   45 43 59 52   48 46 60 52   48 46 59 51
+Dewpt         50 45   40 38 39 40   40 40 43 44   43 42 43 44   44 42 44 45
+PWind dir         W       N    NE      NE    NE      NE    NE      NE     E
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    GN
+Avg clouds    B2 B1   SC SC SC SC   B1 B2 B2 B1   B2 B1 SC SC   B1 B1 B1 B2
+PoP 12hr         60      10     5       5    10      20    20      20    20
+Rain shwrs     L  C                                S  S  S  S    S  S  S  S
+
+$$
+OHZ009-240900-
+SANDUSKY-ERIE OH 
+41.43N  82.65W Elev. 580 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      56          77          54          72          53
+Temp          77 68 63 60 58 57 69 76 75 66 61 59 56 54 65 71 71 64 61 58 56 53
+Dewpt         48 50 48 45 43 43 47 46 46 49 48 45 44 43 49 51 50 51 50 50 51 51
+RH            36 52 58 58 57 59 45 34 36 54 62 60 64 66 56 49 47 63 67 75 83 93
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       9  8  6  8  8  8  8 10  9  8  8  8  8  9  6  9  8  6  6  8  6  6
+Clouds        FW CL CL CL FW FW FW FW SC SC SC SC SC FW B2 B1 B2 OV B2 OV OV OV
+PoP 12hr                      0           0           0          20          80
+QPF 12hr                      0           0           0           0        0.27
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      45    55      44    58      46    57      46    57
+Temp          61 53   47 45 54 50   46 45 57 52   49 46 57 52   49 46 56 51
+Dewpt         52 46   42 42 44 43   42 42 47 47   45 45 48 48   45 44 48 47
+PWind dir         W       N    NE       E    NE       E    NE       E     E
+Wind char        GN      GN    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B1 B1 B1 SC   SC B2 B2 B1   B2 B2 B1 SC   B1 B1 B2 B2
+PoP 12hr         50      10     5       5    10      20    20      20    20
+Rain shwrs     C  C                                S  S  S  S    S  S  S  S
+
+$$
+OHZ017-240900-
+FINDLAY-HANCOCK OH 
+41.01N  83.67W Elev. 813 ft
+1235 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          78          53          76          54
+Temp          79 67 62 59 56 54 68 77 77 66 61 60 56 54 67 75 75 66 62 59 57 54
+Dewpt         46 48 47 45 43 43 45 43 41 43 44 43 43 42 49 49 50 51 52 53 53 52
+RH            31 50 58 60 62 66 43 30 28 43 53 53 62 64 52 40 41 58 70 80 86 93
+Wind dir       S SE SE  S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW
+Wind spd      12  8  6  8  8  8 10 12 11  9  8  8  9  9 13 14 13  9  8  9  9 10
+Clouds        FW CL CL CL FW FW FW FW B2 B1 SC SC FW SC B1 B2 B2 OV B2 OV B2 B2
+PoP 12hr                      0           0           0          30          80
+QPF 12hr                      0           0           0           0        0.52
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  L  L  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      41    58      42    62      44    61      44    60
+Temp          62 53   45 41 56 49   44 43 60 53   47 45 60 52   47 45 60 51
+Dewpt         50 45   41 39 40 39   40 40 43 44   43 43 44 44   44 42 45 44
+PWind dir         W       N    NE      NE     E      NE    NE       E     E
+Wind char        GN      GN    GN      LT    LT      LT    GN      LT    GN
+Avg clouds    B2 B1   SC SC SC SC   SC B2 B1 B1   B2 B1 SC SC   B1 B1 B1 B2
+PoP 12hr         40      10     5       5    10      20    20      20    20
+Rain shwrs     C  C                                S  S  S  S    S  S  S  S
+
+$$

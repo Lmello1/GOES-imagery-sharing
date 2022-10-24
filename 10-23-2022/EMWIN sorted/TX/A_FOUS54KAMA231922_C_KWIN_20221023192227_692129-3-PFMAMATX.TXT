@@ -1,0 +1,422 @@
+FOUS54 KAMA 231922
+PFMAMA
+
+Point Forecast Matrices
+National Weather Service Amarillo TX
+222 PM CDT Sun Oct 23 2022
+
+TXZ012-232200-
+Amarillo-Potter TX
+35.23N 101.70W Elev. 3585 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          50          54          35          64
+Temp                      83 74 68 63 63 56 48 47 45 42 41 39 39 37 44 56 61 57
+Dewpt                     46 44 44 40 40 42 42 42 41 38 39 37 35 34 35 32 27 30
+RH                        27 34 42 43 43 59 80 83 86 86 92 92 85 89 70 40 27 35
+Wind dir                  SW SW SW  W NW NW  N  N  N  N  N  W  W  W  W  W  W  S
+Wind spd                  31 25 20 13 11 11 14 14 17 17 13 12 11 11 11 10  8  5
+Wind gust                 43 35                                                
+Clouds                    SC B1 B1 SC OV OV OV OV OV B2 B1 FW CL CL CL CL CL CL
+PoP 12hr                      5          40          80          40           0
+QPF 12hr                      0        0.01        0.28        0.03           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  L  L  D  D  C  C                     
+Obvis                     BD                                                   
+Wind chill                                        38 34 33 32 31 29 38         
+Min chill                                            34    32    29    31      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    69      44    70      41    59      37    63
+Temp          46 42 62 60   51 45 64 60   48 43 53 52   44 39 56 56
+Dewpt         31 30 32 34   36 35 37 38   41 38 37 35   37 35 37 36
+PWind dir         S     S       S    SW      NW     N       N    SW
+Wind char        GN    BZ      BZ    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW FW SC B1   SC B1 SC SC   SC FW FW FW
+PoP 12hr          0     0       0     5      40    20       5     0
+Rain shwrs                                 C  C  S  S              
+
+$$
+
+TXZ008-232200-
+Borger-Hutchinson TX
+35.71N 101.40W Elev. 2762 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          52          56          37          68
+Temp                      86 78 70 66 65 59 49 49 48 47 45 43 41 40 48 60 66 61
+Dewpt                     45 44 43 40 36 38 41 39 37 36 36 35 33 33 34 29 25 28
+RH                        24 30 38 38 34 45 74 68 65 65 70 73 73 76 58 31 21 28
+Wind dir                  SW SW SW  W  W NW  N  N  N  N NW  W  W  W  W  W  W  S
+Wind spd                  28 21 19 11  8  9 13 14 16 14  9 10  8  6  9  9  8  5
+Wind gust                 40 32                                                
+Clouds                    SC SC B1 B1 OV OV B2 B2 B2 B2 B1 SC CL CL CL CL CL CL
+PoP 12hr                      5          30          80          30           0
+QPF 12hr                      0           0        0.19           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  L  L  L  D  C  C                     
+Obvis                     BD                                                   
+Wind                       Y                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    71      46    73      43    62      38    66
+Temp          48 43 64 63   54 47 66 63   50 45 56 56   46 40 59 60
+Dewpt         30 30 31 34   36 36 36 37   40 38 37 36   36 35 36 36
+PWind dir         S     S       S    SW       N     N       N    SW
+Wind char        LT    BZ      BZ    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW FW SC SC   B1 B1 SC SC   SC FW FW FW
+PoP 12hr          0     0       0     5      40    30      10     0
+Rain shwrs                                 C  C  C  S              
+
+$$
+
+TXZ010-232200-
+Canadian-Hemphill TX
+35.90N 100.40W Elev. 2394 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          52          58          36          67
+Temp                      87 80 74 68 68 61 49 50 50 48 45 44 43 39 47 61 66 61
+Dewpt                     52 53 50 46 40 38 43 42 41 40 38 36 34 31 32 29 26 28
+RH                        30 39 43 45 36 42 80 74 71 74 76 73 70 73 56 29 22 28
+Wind dir                   S  S SW SW  W NW  N  N NE NW  N NW  W  W  W NW NW SW
+Wind spd                  28 25 20 12  6 10 10 14 13 13 10 10 10  6 11 11  9  4
+Wind gust                 40 35 32                                             
+Clouds                    FW B1 B1 B1 OV OV OV B2 B2 B2 B2 B1 FW CL CL CL CL CL
+PoP 12hr                      5          30          80          40           0
+QPF 12hr                      0           0        0.21           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  L  D  L  L  C  C                     
+Obvis                     BD                                                   
+Wind chill                                                 38 37               
+Min chill                                                  37    33    34      
+Wind                       Y                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    68      44    70      41    61      38    65
+Temp          46 41 64 61   51 47 65 62   50 45 55 55   45 40 59 58
+Dewpt         30 31 33 37   38 38 41 44   45 41 42 41   39 37 39 39
+PWind dir        SW     S       S     S      NE     N       N     W
+Wind char        LT    BZ      BZ    BZ      GN    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW SC SC SC   B1 B1 B1 SC   SC SC SC FW
+PoP 12hr          0     0       0     5      50    30      10     0
+Rain shwrs                                 C  C  C  S              
+Tstms                                      S                       
+
+$$
+
+TXZ019-232200-
+Clarendon-Donley TX
+34.92N 100.93W Elev. 2836 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          55          60          39          66
+Temp                      86 78 72 70 69 63 53 54 50 47 47 46 44 43 48 60 64 60
+Dewpt                     48 48 49 48 45 47 46 45 44 44 44 41 40 37 36 32 30 34
+RH                        27 35 44 45 42 56 77 71 80 89 89 83 86 79 63 35 28 37
+Wind dir                  SW  S SW SW  W NW  N  N  N  N  N NW  W NW NW  W  W  S
+Wind spd                  24 20 18 12 10 13 12 14 16 18 16 13 13 12 12 10  6  3
+Clouds                    B2 B1 SC B1 OV OV OV B2 B2 OV B2 B1 FW CL CL CL CL CL
+PoP 12hr                      5          50          80          60           0
+QPF 12hr                      0        0.03        0.28        0.07           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  D  L  D  D  L  L                     
+Tstms                                           S  S  S                        
+Wind chill                                                    38 36            
+Min chill                                            39    38    35    37      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    69      44    72      44    61      40    64
+Temp          50 45 62 61   53 47 62 63   53 48 55 55   48 43 56 57
+Dewpt         35 33 34 38   41 41 41 45   48 44 42 41   42 40 39 40
+PWind dir         S    SE      SE     S      NE     N       N     W
+Wind char        LT    GN      GN    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW FW SC SC   SC B1 SC SC   SC FW FW FW
+PoP 12hr          0     0       0     5      50    30      10     0
+Rain shwrs                                 C  C  C  S              
+Tstms                                      S                       
+
+$$
+
+TXZ006-232200-
+Dalhart-Hartley TX
+36.03N 102.55W Elev. 3913 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          47          52          28          64
+Temp                      81 73 62 55 57 53 51 48 46 45 38 35 32 29 43 58 63 56
+Dewpt                     40 35 36 35 30 29 33 34 34 30 32 31 29 26 27 21 20 24
+RH                        23 25 38 47 35 39 50 58 63 55 79 85 88 88 53 23 19 29
+Wind dir                  SW SW  W  W  W NW NE NE NE  N  W  W  W  W  W  W SW  S
+Wind spd                  39 26 18 13  8  9 14 18 18 13  8 11  9  8  8  8  8  8
+Wind gust                 60 39                                                
+Clouds                    CL SC B1 B2 OV OV OV OV B2 B1 SC FW CL CL CL CL CL CL
+PoP 12hr                      5          20          60          10           0
+QPF 12hr                      0           0        0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  C  C  L  L                           
+Obvis                     BD                                                   
+Wind chill                                        39 39 32 27 23 22            
+Min chill                                            38    26    19    24      
+High Wind                  W                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    68      38    67      35    57      31    62
+Temp          41 34 60 62   47 41 62 56   42 37 53 52   38 33 56 55
+Dewpt         25 25 29 30   30 30 31 34   34 31 32 31   29 28 31 32
+PWind dir         S     S      SW     W       N     N      NW    SW
+Wind char        LT    BZ      GN    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL FW FW   FW SC SC SC   B1 SC SC SC   FW FW FW FW
+PoP 12hr          0     0       0    10      40    20       5     0
+Rain shwrs                                 C  C  S                 
+
+$$
+
+TXZ007-232200-
+Dumas-Moore TX
+35.86N 102.01W Elev. 3705 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          47          52          32          63
+Temp                      83 73 66 60 61 55 45 46 43 43 40 38 36 34 43 56 61 56
+Dewpt                     42 38 38 38 33 33 37 36 34 32 33 31 31 30 29 24 22 25
+RH                        24 28 36 44 35 43 73 68 70 65 76 76 82 85 57 29 22 30
+Wind dir                  SW SW  W  W  W NW NE  N  N  N  W  W  W  W  W  W  W  S
+Wind spd                  35 26 20 12  9 10 13 16 17 13 10 12 12 10 10  8  6  5
+Wind gust                 54 36                                                
+Clouds                    CL FW B2 B2 OV OV OV OV B2 B2 SC FW CL CL CL CL CL CL
+PoP 12hr                      5          20          70          20           0
+QPF 12hr                      0           0        0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  L  L  L  L  S  S                     
+Obvis                     BD                                                   
+Wind chill                                  39 39 35 37 34 30 27 26 37         
+Min chill                                      39    35    30    25    28      
+Wind                       Y                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    68      41    68      38    56      34    61
+Temp          44 38 61 62   50 44 62 58   45 40 50 51   41 36 54 55
+Dewpt         27 28 29 31   32 32 32 35   36 35 33 32   33 32 33 33
+PWind dir         S     S       S    SW       N     N       N    SW
+Wind char        LT    BZ      BZ    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL CL FW   FW FW SC SC   B1 SC SC SC   FW FW FW FW
+PoP 12hr          0     0       0    10      40    20       5     0
+Rain shwrs                                 C  C  S  S              
+
+$$
+
+OKZ002-232200-
+Guymon-Texas OK
+36.69N 101.51W Elev. 3100 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          47          57          32          67
+Temp                      86 77 67 59 58 53 51 53 53 50 43 40 36 34 46 61 65 59
+Dewpt                     42 38 37 33 26 28 32 29 26 24 26 25 24 23 23 20 18 21
+RH                        21 24 33 37 29 38 48 39 35 36 51 55 61 64 40 20 16 23
+Wind dir                  SW SW  W  W NW  N  N NE  N  N  W  W  W  W  W  W  W SE
+Wind spd                  40 28 21 13 10 11 14 19 18 13  9  9  9  8 10  9  8  8
+Wind gust                 60 40                                                
+Clouds                    FW SC B2 OV OV OV OV B2 OV B2 B1 FW CL CL CL CL CL CL
+PoP 12hr                      5          20          40          10           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  C  C  C  C                           
+Obvis                     BD                                                   
+Wind chill                                                 33 30 27            
+Min chill                                                  32    26    30      
+High Wind                  W                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    70      42    70      37    60      33    64
+Temp          42 36 65 62   50 44 64 59   45 40 54 53   40 35 59 56
+Dewpt         24 25 27 30   33 32 32 33   38 34 32 31   32 30 33 32
+PWind dir         S     S       S    SW       N     N      NW    SW
+Wind char        LT    BZ      BZ    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL FW FW   FW SC SC SC   B1 SC SC SC   FW FW FW FW
+PoP 12hr          0     0       0    10      40    20      10     0
+Rain shwrs                                 C  C  S  S              
+
+$$
+
+TXZ016-232200-
+Hereford-Deaf Smith TX
+34.86N 102.33W Elev. 3785 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          49          54          33          65
+Temp                      81 73 65 61 60 55 48 48 46 42 40 38 36 34 42 57 62 57
+Dewpt                     44 43 42 40 40 41 43 41 41 39 39 37 35 32 34 30 27 30
+RH                        27 34 43 46 47 59 83 77 83 89 96 96 96 92 73 35 26 35
+Wind dir                  SW SW SW  W  W NW  N NW NW  N NW  W  W  W  W  W  W  S
+Wind spd                  29 24 19 11 10  9 12 13 14 19 11  9 10  8  9  8  8  8
+Wind gust                 41                                                   
+Clouds                    SC B1 B2 B1 B2 B2 B2 OV OV B2 B1 FW CL CL CL CL CL CL
+PoP 12hr                      5          40          80          30           0
+QPF 12hr                      0        0.01        0.33        0.06           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  D  L  L  D  C  C                     
+Obvis                     BD                                                   
+Wind chill                                           34 33 31 28 27            
+Min chill                                            33    31    26    29      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    70      42    71      39    59      36    64
+Temp          44 39 64 62   50 44 65 61   47 42 54 53   43 38 57 57
+Dewpt         30 28 30 33   34 34 35 36   39 36 36 35   36 35 35 34
+PWind dir         S     S       S    SW       N     N       N     W
+Wind char        LT    BZ      GN    GN      BZ    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW FW SC SC   B1 B1 SC SC   FW FW SC FW
+PoP 12hr          0     0       0     5      40    20       5     0
+Rain shwrs                                 C  C  S                 
+
+$$
+
+TXZ014-232200-
+Pampa-Gray TX
+35.61N 101.00W Elev. 3245 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          51          56          37          66
+Temp                      85 76 70 66 66 59 48 49 46 46 43 43 40 39 47 59 64 59
+Dewpt                     47 45 45 41 39 40 43 41 40 38 39 36 35 35 35 31 27 29
+RH                        27 33 41 40 37 49 83 74 79 73 86 76 82 85 63 34 24 32
+Wind dir                  SW SW SW  W NW NW  N  N  N  N  N  W  W  W  W  W  W SW
+Wind spd                  32 25 21 13 10 12 14 13 14 16 13 13 11 10 11 10  8  4
+Wind gust                 44 35                                                
+Clouds                    SC B1 B1 B1 OV OV OV B2 B2 OV B2 B1 FW CL CL CL CL CL
+PoP 12hr                      5          30          80          40           0
+QPF 12hr                      0        0.01        0.22        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  S  C  L  L  D  D  C  C                     
+Obvis                     BD                                                   
+Wind chill                                           39 37 36 34 32            
+Min chill                                            39    36    32    34      
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    68      45    70      42    59      38    64
+Temp          47 43 62 60   51 47 64 61   49 45 54 54   45 40 57 57
+Dewpt         30 31 32 35   38 38 39 41   43 40 40 38   38 37 38 38
+PWind dir         S     S       S     S       N     N       N     W
+Wind char        LT    BZ      BZ    BZ      BZ    BZ      GN    GN
+Avg clouds    CL CL CL CL   FW FW SC SC   B1 B1 SC SC   SC SC FW FW
+PoP 12hr          0     0       0     5      50    30      10     0
+Rain shwrs                                 C  C  C  S              
+
+$$
+
+TXZ004-232200-
+Perryton-Ochiltree TX
+36.41N 100.75W Elev. 2918 ft
+222 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      90          50          55          33          66
+Temp                      86 78 70 63 64 56 53 52 51 47 42 40 38 35 46 60 66 58
+Dewpt                     44 45 43 38 30 30 36 34 30 29 28 28 26 24 26 21 19 21
+RH                        23 31 38 39 28 37 52 50 44 49 57 62 62 64 45 22 16 23
+Wind dir                  SW  S SW  W NW  N  N  N NE  N NW  W  W  W  W  W NW SW
+Wind spd                  36 29 20 13 10 14 14 17 17 14 10 10  9  9 12 12 10  5
+Wind gust                 55 41                                                
+Clouds                    FW SC OV B2 OV OV OV B2 B2 B2 B2 SC FW CL CL CL CL CL
+PoP 12hr                      5          20          70          20           0
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  L  L  C  C  S  S                     
+Obvis                     BD                                                   
+Wind chill                                              36 34 31 27            
+Min chill                                                  33    26    29      
+Wind                       Y                                                   
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    68      43    70      38    59      34    63
+Temp          44 39 65 60   49 45 64 60   47 41 55 52   41 36 58 55
+Dewpt         25 26 28 31   35 35 35 36   40 36 36 34   34 32 34 34
+PWind dir         S     S       S     S       N     N       N    SW
+Wind char        LT    BZ      BZ    BZ      BZ    BZ      GN    GN
+Avg clouds    CL CL CL FW   FW SC SC B1   B1 B1 SC SC   SC FW FW FW
+PoP 12hr          0     0       0    10      50    30      10     0
+Rain shwrs                                 C  C  C  S              
+
+$$
+

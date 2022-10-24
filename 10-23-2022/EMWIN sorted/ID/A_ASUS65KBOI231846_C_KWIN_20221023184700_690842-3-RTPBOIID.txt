@@ -1,0 +1,59 @@
+ASUS65 KBOI 231846
+RTPBOI
+
+Max/Min Temperature and Precipitation Table for Southwest Idaho and 
+Southeast Oregon
+National Weather Service Boise ID
+1220 PM MDT Sun Oct 23 2022
+
+.BR BOI 1023 MS DH00/TX/DH11/TAIRZP/PPD
+:
+:...Full-time stations in Mountain Timezone...
+:
+:                                   MIN
+:                             MAX   TEMP
+:                            TEMP   SO FAR     24 HR  
+:ID    STATION        ELEV   YDAY   THIS AM    PCPN 
+BOI  : Boise          2868 :   53  /   34   /  0.00
+EUL  : Caldwell       2427 :    M  /    M   /     M
+JER  : Jerome Airport 4048 :   58  /   30   /  0.00
+MYL  : McCall         5020 :   44  /   26   /  0.03
+MUO  : Mtn Home AFB   2995 :   52  /   33   /  0.00
+ONO  : Ontario OR     2193 :   58  /   36   /  0.00
+REO  : Rome OR        4050 :   57  /   35   /  0.01
+TWF  : Twin Falls     4188 :   61  /   32   /  0.06
+.END
+
+
+.BR BOI 1023 PS DH00/TX/DH10/TAIRZP/PPD/SD
+:
+:...Full-time stations in Pacific Timezone...
+:
+:                                   MIN
+:                             MAX   TEMP
+:                            TEMP   SO FAR     24 HR  
+:ID    STATION        ELEV   YDAY   THIS AM    PCPN 
+BKE  : Baker City OR  3369 :   48  /   26   /  0.01
+BNO  : Burns OR       4170 :   48  /   20   /  0.02
+.END
+
+
+.BR BOI 1023 M DH07/TAIRZX/TAIRZN/PPDRZZ/SDIRZZ
+:
+:...Cooperative weather observation sites in Mountain Timezone...
+:
+:                                      24HR  24HR         24HR 
+:                               OBS    MAX   MIN   24HR   SNOW  SNOW
+:ID        LOCATION             TIME   TEMP  TEMP  PCPN   FALL  DEPTH
+MHSI1: Murphy Hot Sprg 5160 : DH0700 /  46 /  30 / 0.15 /  0.5 /   0
+OWYO3: Owyhee Dam OR   2400 : DH0700 /  61 /  40 / 0.03 /  0.0 /   0
+YPNI1: Yellowpine      5050 : DH1000 /  41 /  26 / 0.02 /    T /    
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision.  Final and certified climate data
+can be accessed at www.ncdc.noaa.gov.
+
+$$

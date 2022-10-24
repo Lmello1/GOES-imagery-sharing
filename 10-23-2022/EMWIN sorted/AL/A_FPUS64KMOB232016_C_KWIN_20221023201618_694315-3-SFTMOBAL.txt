@@ -1,0 +1,53 @@
+FPUS64 KMOB 232016
+SFTMOB
+ALZ051>060-ALZ261>266-FLZ201>206-MSZ067-075-076-078-079-241100-
+
+Tabular State Forecast for SW AL-SE MS-and NW FL Panhandle
+National Weather Service Mobile AL
+311 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+Mobile
+   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    
+   59/82    66/82    52/75    49/76    52/78    58/74    56/73    
+    00/20    10/70    20/00    00/00    00/30    40/40    20/10   
+
+Pensacola
+   Sunny    Tstrms   Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   61/80    69/80    58/75    53/76    57/77    63/75    60/74    
+    00/00    00/50    30/00    00/00    00/20    30/40    30/20   
+
+Destin
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   62/80    69/78    61/75    57/75    61/77    65/75    63/73    
+    00/00    00/40    40/00    00/00    00/10    30/40    30/20   
+
+Evergreen
+   Sunny    Tstrms   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   48/83    60/80    51/72    46/76    50/79    57/73    54/73    
+    00/00    00/50    30/00    00/00    00/10    30/40    30/20   
+
+Waynesboro
+   Ptcldy   Tstrms   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   51/80    62/79    48/69    44/72    47/74    54/70    52/69    
+    00/10    20/80    10/00    00/00    00/30    40/40    20/10   
+
+Camden
+   Sunny    Tstrms   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   
+   48/80    59/80    49/69    44/73    48/77    56/71    54/70    
+    00/00    00/60    30/00    00/00    00/20    30/40    20/20   
+
+
+$$
+

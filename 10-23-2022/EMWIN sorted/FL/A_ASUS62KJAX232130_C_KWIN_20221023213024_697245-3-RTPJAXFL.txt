@@ -1,0 +1,76 @@
+ASUS62 KJAX 232130
+RTPJAX
+
+
+Max/Min Temp And Precip Table For NE Florida/SE Georgia
+National Weather Service Jacksonville FL
+530 PM EDT Sun Oct 23 2022
+
+.BR JAX 1023 E DH17/TAIRZS/TAIRZI/PPDRZZ
+:
+:            * Airport Observations *
+:Values represent lows over the last 18 hours...
+:highs over the last 12 hours and precipitation
+:over the last 24 hours 
+:
+:
+:               Northeast Florida                
+:................................................
+:                               MAX   MIN        
+:ID        LOCATION             TEMP  TEMP   PCPN
+:................................................
+JAX  : JACKSONVILLE INTL      :  79 /  50 /  0.00
+CRG  : CRAIG MUNICIPAL        :  79 /  53 /  0.00
+NRB  : MAYPORT NAVAL STATION  :   M /   M /  0.00
+NIP  : JACKSONVILLE NAS       :  80 /  58 /  0.00
+SGJ  : ST AUGUSTINE AIRPORT   :  76 /  57 /  0.00
+GNV  : GAINESVILLE REGIONAL   :  82 /  49 /  0.00
+OCF* : OCALA INTL             :  83 /  53 
+:
+:
+:               Southeast Georgia
+:................................................
+:                               MAX   MIN        
+:ID        LOCATION             TEMP  TEMP   PCPN
+:................................................
+AMG  : ALMA - BACON COUNTY    :  80 /  44 /  0.00
+SSI  : MALCOLM MCKINNON       :  77 /  55 /  0.00
+BQK* : BRUNSWICK GOLDEN ISLES :  77 /  47 
+JES* : JESUP - WAYNE COUNTY   :  70 /  41 
+AYS* : WAYCROSS - WARE COUNTY :  79 /  46 
+DQH* : DOUGLAS MUNICIPAL      :  78 /  44 
+HOE* : HOMERVILLE             :  80 /  40 
+:
+.END
+
+The temperatures given represent the highest and lowest
+ temperatures that were reported on the METAR observations
+ and may not represent the actual high or low for that site.
+ Please see the 830 PM RTP for the actual afternoon high
+ temperature.
+
+*These sites do not measure precipitation. 
+ 
+ 
+.BR JAX 1023 E DH18/TAIRZX/TAIRZN/PPDRZZ
+:
+:         * Cooperative weather observation sites *
+:     (Values represent 24 HR period ending at OBS time)
+:
+:
+:                   Northeast Florida COOP                    
+:............................................................
+:                                   OBS    MAX   MIN
+: ID             LOCATION           TIME   TEMP  TEMP   PCPN
+:............................................................
+JCKF1 : COOP STATION JAX Beach   : DH1700/  77 /  57 /  0.00
+:
+.END
+
+ All data above are preliminary and have not undergone final
+ quality control by the National Climatic Data Center /NCDC/.
+ Therefore...these data are subject to revision. Final and
+ certified climate data can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

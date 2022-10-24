@@ -1,0 +1,73 @@
+FPUS63 KFGF 232013
+SFTND 
+NDZ001>054-241100-
+
+Tabular State Forecast for North Dakota
+National Weather Service Grand Forks ND
+313 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+Bismarck
+   Sleet    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   35/38    26/49    25/49    32/49    29/55    32/55    33/55    
+    80/90    00/00    00/10    30/20    00/00    00/00    00/00   
+
+Bottineau
+   Tstrms   Mocldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   34/37    24/38    23/42    26/44    27/49    29/51    31/51    
+   100/90    00/10    00/00    10/10    00/00    00/00    00/00   
+
+Devils Lake
+   Tstrms   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   49/60    29/43    27/43    31/46    32/51    35/54    35/52    
+    80/90    10/00    00/00    20/30    00/00    00/00    00/00   
+
+Dickinson
+   Rnsnow   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   27/36    25/46    24/49    28/47    28/54    30/55    31/55    
+    80/80    00/00    00/10    20/10    00/00    00/00    00/00   
+
+Fargo
+   Mocldy   Sunny    Sunny    Mocldy   Sunny    Sunny    Ptcldy   
+   50/55    31/52    28/48    35/49    33/55    34/56    36/56    
+    70/40    10/00    00/00    30/40    10/00    00/00    00/00   
+
+Grand Forks
+   Tstrms   Ptcldy   Ptcldy   Mocldy   Sunny    Ptcldy   Ptcldy   
+   53/58    29/49    26/46    29/50    32/56    33/57    35/56    
+    60/80    20/00    00/00    20/40    10/00    00/00    00/00   
+
+Hettinger
+   Snow     Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   26/38    24/49    22/49    27/49    24/56    26/56    27/57    
+    80/70    00/00    00/10    30/10    00/00    00/00    00/00   
+
+Jamestown
+   Rain     Sunny    Sunny    Mocldy   Sunny    Ptcldy   Ptcldy   
+   43/48    27/49    25/48    33/48    31/53    33/55    34/55    
+    50/70    10/00    00/00    30/30    10/00    00/00    00/00   
+
+Minot
+   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   32/35    24/41    24/45    27/47    30/52    31/54    33/55    
+    90/90    00/10    00/00    10/10    00/00    00/00    00/00   
+
+Williston
+   Snow     Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   28/34    23/39    22/42    26/42    29/48    30/51    32/51    
+   100/90    00/10    00/00    10/00    00/00    00/00    00/00   
+
+
+$$
+

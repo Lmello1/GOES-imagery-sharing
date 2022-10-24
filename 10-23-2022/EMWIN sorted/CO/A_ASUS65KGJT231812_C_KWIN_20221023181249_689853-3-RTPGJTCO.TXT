@@ -1,0 +1,121 @@
+ASUS65 KGJT 231812
+RTPGJT
+
+Max/Min temperature and precipitation table for
+Western Colorado and Eastern Utah...Updated
+National Weather Service Grand Junction CO
+1210 PM MDT Sun Oct 23 2022
+
+ 
+Aviation Sites
+ 
+High temperature yesterday
+Low temperature past 18 hours ending at 12 pm MDT
+Precipitation and snowfall past 24 hours ending at 12 pm MDT
+ 
+.BR GJT 1023 M DH01/TAIRZX/DH11/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:                                      Max   Min          Snow  Snow
+:ID    Location               Elev    Temp  Temp   Pcpn   Fall  Dpth
+ASE  : Aspen                  7820:     62 /  32 / 0.62 /      /    
+CEZ  : Cortez                 5918:     71 /  39 / 0.06 /      /    
+CAG  : Craig                  6193:     68 /  33 / 0.46 /      /    
+DRO  : Durango                6684:     65 /  37 / 0.24 /      /    
+GJT  : Grand Junction         4858:     73 /  40 / 0.31 /  0.0 /   0
+EEO  : Meeker                 6421:     64 /  31 / 0.83 /      /    
+MTJ  : Montrose               5759:     69 /  34 / 0.41 /      /    
+RIL  : Rifle                  5548:     72 /  35 / 0.81 /      /    
+CNY  : Canyonlands Airport    4557:     71 /  33 / 0.81 /      /    
+VEL  : Vernal                 5278:     67 /  33 / 0.53 /      /    
+:
+AJZ  : Delta Airport          5193:     73 /  40 /      /      /    
+EGE  : Eagle                  6548:     65 /  36 /      /      /    
+GUC  : Gunnison               7680:     64 /  34 /      /      /    
+HDN  : Hayden                 6606:     67 /  31 /      /      /    
+AIB  : Nucla                  5940:      M /   M /      /      /    
+PSO  : Pagosa Springs         7664:     61 /  38 /      /      /    
+4V0  : Rangely                5278:     68 /  32 /      /      /    
+SBS  : Steamboat Springs      6878:     65 /  31 /      /      /    
+TEX  : Telluride              9070:     55 /  32 /      /      /    
+BDG  : Blanding Airport       5868:     68 /  38 /      /      /    
+.END
+
+
+Official Cooperative Stations
+ 
+High temperature, low temperature, precipitation and 
+snowfall past 24 hours until 12 PM MDT
+ 
+Western Colorado COOP Sites
+ 
+.BR GJT 1023 M DH08/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                              Obs     Max   Min          Snow  Snow
+:ID    Location          Elev  Time   Temp  Temp   Pcpn   Fall  Dpth
+BKCC2: Black Canyon NP   8151: DH0800/  62 /  29 / 0.10 /  0.1 /   1
+CDGC2: Cedaredge 1E      6689: DH0700/  65 /  37 / 0.39 /  0.0 /   0
+CTZC2: Cortez            6153: DH0800/  70 /  38 / 0.04 /    M /   M
+CBUC2: Crested Butte     8860: DH0900/  57 /  32 / 0.06 /  0.0 /   0
+GDPC2: Glade Park 17W    6385: DH0800/  68 /  32 / 1.03 /  0.7 /   1
+IGCC2: Ignacio 8E        6621: DH0700/  65 /  31 / 0.00 /  0.0 /   0
+MSXC2: Mesa 5SSE         7720: DH0600/  60 /  32 / 1.05 /  3.5 /   4
+MVPC2: Mesa Verde NP     7115: DH0700/  64 /  36 / 0.02 /  0.0 /   0
+NTDC2: Northdale         6681: DH0630/  64 /  38 / 0.44 /  0.0 /   0
+PARC2: Paradox 2N        5440: DH0600/  69 /  41 / 0.76 /  0.0 /   0
+RGWC2: Ridgway           7049: DH0700/  69 /  26 / 0.14 /  0.0 /   0
+RIEC2: Rifle 3ENE        5436: DH0700/  70 /  27 / 0.51 /  0.0 /   0
+SBTC2: Steamboat Springs 6870: DH0730/  65 /  30 / 0.29 /  0.5 /   M
+.END
+
+
+Eastern Utah COOP Sites
+ 
+.BR GJT 1023 M DH08/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:                              Obs     Max   Min          Snow  Snow
+:ID    Location          Elev  Time   Temp  Temp   Pcpn   Fall  Dpth
+CNYU1: Canyonlands-Neck  5930: DH0745/  71 /  31 / 0.50 /  1.2 /   1
+CSEU1: Castle Valley 1SE 4905: DH0830/  72 /  37 / 1.10 /    M /   M
+MTOU1: Monticello #2     7086: DH0700/  60 /  35 / 0.38 /    M /   M
+.END
+ 
+&& 
+
+
+Unofficial Stations
+ 
+                               Obs     Max   Min          Snow  Snow
+ ID    Location          Elev  Time   Temp  Temp   Pcpn   Fall  Dpth
+GTHC2: Gothic            9469: DH0700/  51 /  32 / 0.40 /  2.5 /   2
+HCHC2: Hotchkiss 5WNW    5763: DH0700/  69 /  40 / 0.50 /  0.0 /   0
+
+
+&& 
+
+
+Climate Reference Network Sites
+ 
+High temperature yesterday
+Low temperature past 18 hours ending at 12 pm MDT
+Precipitation and snowfall past 24 hours ending at 12 pm MDT
+ 
+Western Colorado CRN Sites
+ 
+.BR GJT 1023 M DH01/TAIRZX/DH11/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:                                      Max   Min          Snow  Snow
+:ID    Location                       Temp  Temp   Pcpn   Fall  Dpth
+CEZC2: Cortez 8SE                 :     60 /  30 / 0.24 /      /    
+KRGC2: Craig 30N                  :     65 /  30 / 0.00 /      /    
+DNOC2: Dinosaur 2E                :     65 /  31 / 1.04 /      /    
+ESLC2: Eagle 13SSE                :     58 /  30 / 0.49 /      /    
+GJXC2: Grand Junction 9W          :     68 /  35 / 0.38 /      /    
+MKRC2: Meeker 15W                 :     67 /  32 / 1.00 /      /    
+IFLC2: Rifle 23NW                 :     60 /  29 / 0.76 /      /    
+.END
+ 
+&& 
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision.  Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+ 
+
+$$

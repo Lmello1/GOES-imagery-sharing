@@ -1,0 +1,201 @@
+FPUS64 KEPZ 232012
+SFTEPZ
+STZ000-241200-
+
+Tabular State Forecast for New Mexico
+National Weather Service El Paso Tx/Santa Teresa NM
+212 PM MDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...FAR WEST TEXAS...
+   El Paso
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   53/64    40/68    44/75    49/74    44/67    43/71    46/73    
+    40/50    00/00    00/00    00/00    10/00    00/00    00/00   
+
+   West El Paso Metro
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   50/62    39/66    45/73    49/73    42/65    43/69    45/71    
+    30/60    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Fabens
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   50/64    37/67    41/75    46/75    41/66    40/70    43/73    
+    30/40    00/00    00/00    00/00    10/00    00/00    00/00   
+
+   Fort Hancock
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   50/64    37/68    43/76    46/76    41/66    40/70    43/73    
+    40/30    00/00    00/00    00/00    10/00    00/00    00/00   
+
+   Sierra Blanca
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   48/59    35/62    41/70    45/70    39/61    38/64    41/67    
+    40/20    00/00    00/00    00/00    10/00    00/00    00/00   
+
+   Dell City
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   49/61    33/67    36/73    42/73    38/66    37/68    39/72    
+    40/30    00/00    00/00    00/00    10/00    00/00    00/00   
+
+   Loma Linda
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   44/54    34/60    41/66    44/66    37/59    38/62    42/64    
+    40/50    00/00    00/00    00/00    10/00    00/00    00/00   
+
+...SOUTHCENTRAL NEW MEXICO...
+   Las Cruces
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   46/59    33/65    38/71    42/69    38/64    37/67    41/70    
+    40/40    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Santa Teresa
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   47/60    35/65    41/71    45/71    38/64    38/67    41/69    
+    30/60    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   White Sands HQ
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   47/59    37/64    43/70    46/69    39/63    40/66    44/69    
+    60/50    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Jornada Range
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   45/57    35/62    41/69    44/67    37/61    38/64    42/68    
+    50/50    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Hatch
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   45/59    33/65    38/71    44/68    36/64    37/66    40/70    
+    50/30    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Truth or Consequences
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   43/57    34/63    38/69    42/66    37/61    38/65    40/68    
+    70/30    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Winston
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   34/48    30/61    34/64    38/58    31/56    33/60    35/62    
+    80/20    00/00    00/00    00/30    10/00    00/00    00/00   
+
+   Hillsboro
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   39/56    32/64    37/69    41/63    34/61    35/64    38/67    
+    70/20    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Spaceport
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   43/56    32/63    38/69    41/66    36/61    36/64    39/67    
+    60/40    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Alamogordo
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   41/57    33/63    39/69    44/68    36/64    38/65    40/67    
+    60/70    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Orogrande
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   45/58    34/62    39/69    44/70    36/62    38/65    41/68    
+    50/60    00/00    00/00    00/10    10/00    00/00    00/00   
+
+   Cloudcroft
+   Snoshwr  Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   
+   25/34    21/45    28/48    33/44    23/43    25/46    29/48    
+    60/80    00/00    00/00    00/20    20/00    00/00    00/00   
+
+   Mayhill
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   35/46    28/60    34/61    39/57    29/53    30/57    35/60    
+    60/80    00/00    00/00    00/10    20/00    00/00    00/00   
+
+   Mescalero
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   31/44    26/55    32/59    37/55    27/53    29/56    33/58    
+    70/90    00/00    00/00    00/20    20/10    00/00    00/00   
+
+   Timberon
+   Shwrs    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   32/43    25/55    31/58    35/55    26/52    28/55    33/57    
+    60/70    00/00    00/00    00/10    20/00    00/00    00/00   
+
+...SOUTHWEST NEW MEXICO...
+   Deming
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   46/59    31/66    36/72    41/69    36/64    37/67    40/70    
+    60/30    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Columbus
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   47/60    35/65    40/72    45/70    39/63    39/66    42/69    
+    40/40    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Lordsburg
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   44/57    34/64    39/69    42/65    35/63    38/65    40/67    
+    80/20    00/00    00/00    00/20    00/00    00/00    00/00   
+
+   Animas
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   44/59    34/67    38/72    44/68    35/64    36/68    39/70    
+    70/30    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Hachita
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   43/59    33/65    38/72    44/67    35/63    36/66    39/69    
+    60/40    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Antelope Wells
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   44/60    34/68    39/72    44/68    36/64    37/68    40/70    
+    40/40    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Cloverdale
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   41/55    34/64    41/67    42/62    36/60    38/64    40/66    
+    60/40    00/00    00/00    00/10    00/00    00/00    00/00   
+
+   Silver City
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   36/51    32/60    38/62    41/57    33/59    36/60    38/62    
+    80/20    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Hurley
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   40/57    31/65    37/69    41/64    33/63    36/65    39/67    
+    80/20    00/00    00/00    00/20    00/00    00/00    00/00   
+
+   Faywood
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   40/55    33/62    39/67    42/62    35/60    38/62    40/65    
+    70/20    00/00    00/00    00/20    10/00    00/00    00/00   
+
+   Lake Roberts
+   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   31/48    26/61    32/62    36/55    27/59    29/60    32/62    
+    80/20    00/00    00/00    00/30    10/00    00/00    00/00   
+
+   Cliff
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   36/59    27/67    33/69    36/65    28/66    31/68    33/70    
+    80/10    00/00    00/00    00/30    10/00    00/00    00/00   
+
+   Mule Creek
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   35/53    30/60    36/62    38/57    30/59    33/62    36/63    
+    80/10    00/00    00/00    00/30    10/00    00/00    00/00   
+
+
+$$
+

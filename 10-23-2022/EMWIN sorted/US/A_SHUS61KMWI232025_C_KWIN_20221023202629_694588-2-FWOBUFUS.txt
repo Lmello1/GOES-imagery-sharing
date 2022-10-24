@@ -1,0 +1,28 @@
+SHUS61 KMWI 232025
+FWOBUF
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:25:41 GMT
+ 
+Listing of Forecasted Observations (Buffalo, NY)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD1 PD2
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- ---  --  --
+Stations not in a Zone:
+LOWVIL 300491 221024 13 F 1  70  51  52 1 1 135  2  0  70  45 100  39   0   0
+LOWVIL 300491 221025 13 F 1  71  55  58 1 1 180  7  0  71  49 100  51   0   0
+LOWVIL 300491 221026 13 F 2  68  56  66 1 1 158  9  0  72  55 100  56   0   0
+LOWVIL 300491 221027 13 F 2  57  46  68 1 1 293  6  0  68  50  96  65   0   0
+LOWVIL 300491 221028 13 F 2  56  39  53 1 1  23  6  0  57  39  92  53   0   0
+LOWVIL 300491 221029 13 F 2  57  42  58 1 1 135  5  0  57  40  91  53   0   0
+IROQUO 301101 221024 13 F 1  71  51  50 1 1 135  3  0  71  43 100  42   0   0
+IROQUO 301101 221025 13 F 1  72  54  55 1 1 180  6  0  72  50  95  50   0   0
+IROQUO 301101 221026 13 F 2  69  55  62 1 1 203  7  0  73  55  91  54   0   0
+IROQUO 301101 221027 13 F 2  55  44  68 1 1 315  6  0  69  49  89  62   0   0
+IROQUO 301101 221028 13 F 2  55  42  63 1 1  68  7  0  55  40  94  63   0   0
+IROQUO 301101 221029 13 F 2  59  45  61 1 1 113  5  0  59  42 100  61   0   0
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:25:41 GMT
+

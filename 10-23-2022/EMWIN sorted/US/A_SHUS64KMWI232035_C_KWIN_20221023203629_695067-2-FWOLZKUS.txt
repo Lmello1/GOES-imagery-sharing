@@ -1,0 +1,26 @@
+SHUS64 KMWI 232035
+FWOLZK
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:34 GMT
+ 
+Listing of Observations (Little Rock, AR)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+EVENIN 031502 221023 13 O 3  77  59  54 0 0 191  5     78  65  76  41  0 0.000
+DEVILS 032001 221023 13 O 3  69  61  77 0 0 152 12     72  61  93  53  0 0.000
+BOONEV 033001 221023 13 O 3  79  60  53 0 0 171  5     83  70  68  38  0 0.000
+GUY    033202 221023 13 O 3  77  59  54 0 0 194  7     79  64  77  40  0 0.000
+ODEN   034702 221023 13 O 2  80  60  51 0 0 193  8     80  68  77  45  0 0.000
+JESSIE 034802 221023 13 O 2  79  62  56 0 0 173 12     80  67  80  45  0 0.000
+SHERID 035102 221023 13 O 2  82  59  45 0 0 181  4     82  65  82  39  0 0.000
+NWS Office:  LZK/Zone: 834
+KIAMIC 346303 221023 12 O 3  72  60  67 0 0 194 17     75  62  95  50  0 0.000
+Count:     1  Zone Average:  72  60  67         17  0  75  62  95  50  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:34 GMT
+

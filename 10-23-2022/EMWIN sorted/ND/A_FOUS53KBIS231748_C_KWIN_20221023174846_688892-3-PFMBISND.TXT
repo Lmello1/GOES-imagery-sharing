@@ -1,0 +1,395 @@
+FOUS53 KBIS 231748
+PFMBIS
+
+Point Forecast Matrices
+National Weather Service Bismarck ND
+1248 PM CDT Sun Oct 23 2022
+
+NDZ015-232200-
+Bismarck/Mandan-Burleigh/Morton ND
+46.79N 100.78W Elev. 1643 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          35          38          27          48
+Temp                   56 64 60 55 50 45 39 34 35 36 36 32 29 28 28 35 45 46 42
+Dewpt                  39 45 51 54 50 44 38 34 32 32 31 30 28 27 27 32 34 34 33
+RH                     53 50 72 96100 96 96100 89 85 82 92 96 96 96 89 65 63 70
+Wind dir                E  E NE  N NW NW NW NW NW NW NW  W  W SW SW  W  W NW NW
+Wind spd               18 16 11 13 19 21 25 27 29 25 18 10  5  4  5 10 17 18 10
+Wind gust                             33 39 42 44 39 32                27      
+Clouds                 B2 OV OV B2 OV OV OV OV OV OV B2 SC FW SC SC SC SC SC FW
+PoP 12hr                     20          80          90           0           5
+QPF 12hr                      0        0.38        0.20           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                                         D  S  S                           
+Rain shwrs                    C  C  L  D  D                                    
+Sleet                                        D                                 
+Tstms                         C  S  C  C  S                                    
+Wind chill                            37 28 21 22 24 26 24 23    22 27 38 39 36
+Min chill                                28    21    23    23    22    23    36
+Wind                                Y  Y  Y  Y  Y                              
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          25    49      31    49      29    54      33    55
+Temp          30 27 43 45   36 33 45 43   33 30 48 47   36 34 49 48
+Dewpt         29 26 32 32   32 30 36 33   30 27 33 32   30 28 33 31
+PWind dir         W     S      SE    SW      SW    SW       S    SW
+Wind char        LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    FW FW SC SC   B2 B2 B1 SC   SC SC FW FW   FW SC B1 B1
+PoP 12hr          0    10      40    20       0     0       0     0
+Rain                         C  C  S                               
+
+$$
+NDZ033-232200-
+Dickinson-Stark ND
+46.80N 102.81W Elev. 2591 ft
+1148 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          28          37          27          45
+Temp                   46 49 46 40 37 34 31 30 32 35 33 28 28 31 33 36 41 43 37
+Dewpt                  39 41 41 40 36 33 29 28 29 29 28 26 26 27 29 31 33 32 30
+RH                     76 74 83100 96 96 92 92 88 78 82 92 92 85 85 82 73 65 75
+Wind dir               NE  N  N NW NW NW NW NW NW NW  W  W  W  W  W  W  W  W  W
+Wind spd               17 16 16 20 25 28 31 31 32 26 17 10  9 11 14 17 19 18 10
+Wind gust                       31    43 44 48 48 41 32                        
+Clouds                 OV OV OV OV OV OV OV OV OV B2 FW FW SC SC SC SC FW FW FW
+PoP 12hr                     30          80          80           0           5
+QPF 12hr                   0.03        0.63        0.13           0           0
+Snow 12hr                 00-00           1           1                        
+Rain                          C  D  D  D                                       
+Sleet                                  D                                       
+Snow                                      D  D                                 
+Obvis                                       BS                                 
+Wind chill             39    39 30 25 21 16 15 17 22 22 19 19 22 23 26 32 35 30
+Min chill              37    39    25    16    13    20    19    20    24    30
+Winter Weath                        Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            24    47      27    47      28    53      31    55
+Temp          29   28 42 40 31   30 43 39 32   31 47 44 36   34 49 46
+Dewpt         27   25 30 30 28   27 31 30 27   25 29 29 27   25 30 29
+PWind dir           W     S      SE     W      SW    SW      SW    SW
+Wind char          GN    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    FW   SC SC B1 B2   B1 B1 SC SC   FW FW FW SC   B1 B1 SC
+PoP 12hr            5    10      30    10       0     0       0     0
+Rain                         C                                       
+Snow                              S                                  
+
+$$
+NDZ044-232200-
+Hettinger-Adams ND
+45.99N 102.63W Elev. 2703 ft
+1148 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          26          38          24          47
+Temp                   49 53 49 40 36 32 28 30 34 37 34 27 26 28 31 38 45 46 40
+Dewpt                  37 40 41 40 35 31 27 28 27 28 27 27 26 27 28 33 31 30 30
+RH                     63 61 74100 96 96 96 92 75 70 75100100 96 88 82 58 53 67
+Wind dir                N  N NW NW NW NW NW NW NW NW  W  W  W  W  W  W  W  W  W
+Wind spd               13 13 17 21 27 31 32 33 33 27 17  8  5  9 11 17 21 20 10
+Wind gust                       32 39 44 47 50 49 43 33          21 27 32      
+Clouds                 B2 OV OV OV OV OV OV OV OV B1 FW FW SC SC SC FW FW FW FW
+PoP 12hr                     30          80          70           0           0
+QPF 12hr                   0.03        0.34        0.09           0           0
+Snow 12hr                 00-00           1           1                        
+Rain                          C  L  D  D                                       
+Snow                                   D  L  L                                 
+Obvis                                       BS                                 
+Wind chill                      30 23 17 12 14 20 25 23 19 19 19 22 29 37 38 33
+Min chill                          23    12    10    23    18    18    24    33
+Winter Weath                        Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            21    50      24    48      23    54      26    57
+Temp          28   25 45 44 32   28 43 40 29   28 50 45 33   30 51 46
+Dewpt         28   24 29 30 31   28 31 30 26   24 27 27 26   23 26 27
+PWind dir           W     S       E    NW       W    SW      SW    SW
+Wind char          LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    FW   SC B1 B1 B2   B2 B1 SC SC   FW FW FW SC   B1 B1 SC
+PoP 12hr            0    10      30    10       0     0       0     0
+Rain                         C    S                                  
+
+$$
+NDZ011-232200-
+Minot-Ward ND
+48.28N 101.27W Elev. 1715 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      54          33          35          24          42
+Temp                   48 52 49 44 42 40 35 34 33 33 32 28 27 26 28 32 38 39 35
+Dewpt                  40 40 43 44 42 39 35 34 31 29 29 28 26 25 26 30 31 30 29
+RH                     74 63 80100100 96100100 92 85 88100 96 96 92 92 76 70 78
+Wind dir               NE NE  N  N  N NW NW NW NW NW NW  W  W  W SW  W  W NW NW
+Wind spd               20 19 18 20 21 23 26 27 26 24 20 11  8  5  5 10 13 16 10
+Wind gust                    31    32 34 39 42 41 40 34 21             24 26   
+Clouds                 OV OV OV OV OV OV OV OV OV OV B2 B1 SC B1 B1 B1 B2 B1 B1
+PoP 12hr                     20          90          90           5          10
+QPF 12hr                      0        0.77        0.27           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                                         D     S                           
+Rain shwrs                    C  L  D  D  D                                    
+Sleet                                        D                                 
+Snow                                            C  C                           
+Tstms                         C  C  C  C  S                                    
+Wind chill                      36 33 30 22 21 20 20 20 18 19 19 22 24 30 30 27
+Min chill              38          33    22    19    20    17    19    22    27
+Wind                                Y  Y  Y  Y  Y                              
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          23    44      27    46      29    51      31    53
+Temp          27 27 39 40   30 29 42 40   32 31 46 43   35 34 48 45
+Dewpt         26 26 31 31   30 28 34 32   30 27 33 32   30 28 33 31
+PWind dir         W     S      SE    SW      SW    SW      SW    SW
+Wind char        LT    LT      LT    GN      GN    BZ      GN    GN
+Avg clouds    SC SC B1 B1   B1 B1 B1 SC   SC SC FW FW   SC SC B1 SC
+PoP 12hr          0    10      20    10       0     0       0     0
+Rain                         S                                     
+Snow                            S                                  
+
+$$
+NDZ037-232200-
+Jamestown-Stutsman ND
+46.93N  98.68W Elev. 1499 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          44          47          27          50
+Temp                   62 68 64 59 56 53 48 44 41 39 36 33 33 31 30 36 47 48 42
+Dewpt                  47 52 54 54 53 51 45 40 35 32 31 29 28 27 27 29 31 32 31
+RH                     58 57 70 83 90 93 89 86 79 76 82 85 82 85 88 75 53 54 65
+Wind dir                E  E  E  E SE SW SW  W  W  W  W  W  W  W  W  W  W  W NW
+Wind spd               17 18 14 16 14 18 23 26 26 24 19 13 10  8  5  9 14 18 11
+Wind gust                    26          33 39 40 35 32       18               
+Clouds                 SC B2 OV B2 B2 B2 OV OV OV OV OV B1 B1 SC SC SC SC SC SC
+PoP 12hr                     10          40          60           5           5
+QPF 12hr                      0        0.09        0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                         L  C  C                           
+Rain shwrs                    S  S  C  C  L                                    
+Tstms                         S  S  C  C  S                                    
+Wind chill                                  34 30 28 25 23 25 24 24 29       36
+Min chill                                      30    25    23    23    25    36
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          25    50      31    50      31    54      33    57
+Temp          31 28 44 44   34 35 47 43   34 33 50 45   36 35 52 48
+Dewpt         27 26 29 30   30 30 35 35   32 30 33 32   30 30 34 33
+PWind dir         W     S      SE     S      SW    SW      SW    SW
+Wind char        LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    SC SC SC SC   B2 B2 B2 B1   B1 SC SC FW   FW SC SC SC
+PoP 12hr          0    10      40    30       5     0       0     0
+Rain                         C  C  C  S                            
+
+$$
+NDZ001-232200-
+Williston-Williams ND
+48.17N 103.59W Elev. 1981 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          28          36          24          40
+Temp                   43 44 43 39 36 33 32 30 32 35 31 29 28 30 30 32 36 39 35
+Dewpt                  39 38 38 38 35 31 29 29 29 29 28 26 26 27 28 30 31 30 30
+RH                     86 79 82 96 96 92 88 96 88 78 88 88 92 88 92 92 82 70 82
+Wind dir               NE NE  N  N  N NW NW NW NW NW  W  W SW SW  W  W  W  W  W
+Wind spd               20 21 20 23 26 29 28 27 28 24 12  5  5  8 10 13 17 14  9
+Wind gust                    32 33 37 42 44 43 41 36 23                        
+Clouds                 OV OV OV OV OV OV OV OV OV B1 SC SC B1 B1 B1 B1 B1 SC SC
+PoP 12hr                     40         100          70          10           5
+QPF 12hr                   0.03        0.82        0.12           0           0
+Snow 12hr                 00-00           1           1                        
+Rain                          L  D  D  S                                       
+Sleet                                  S                                       
+Snow                                   D  L  L                                 
+Obvis                                    BS BS BS                              
+Wind chill             34 36 34 28 24 19 18 15 18 23 21 23 22 22 21 22 26 31 28
+Min chill              33    34    24    18    14    21    22    21    20    27
+Winter Weath                        Y  Y  Y  Y                                 
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          23    42      25    44      28    49      30    52
+Temp          29 26 37 38   31 28 39 39   33 31 44 43   36 32 45 45
+Dewpt         26 24 30 30   28 26 31 30   28 27 31 31   29 28 32 31
+PWind dir        SW     S      SE    SW      SW    SW      SW    SW
+Wind char        LT    GN      LT    GN      GN    GN      LT    GN
+Avg clouds    SC SC B1 B1   B1 B1 B1 SC   SC SC SC FW   SC B1 B1 SC
+PoP 12hr          5     5      20     5       0     0       0     0
+Rain                         S                                     
+
+$$
+NDZ021-232200-
+Garrison-McLean ND
+47.62N 101.39W Elev. 1936 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      56          32          37          25          43
+Temp                   51 54 51 46 44 40 36 34 34 35 34 29 28 28 29 34 40 42 37
+Dewpt                  40 41 43 44 43 40 35 32 30 29 30 28 27 26 27 30 32 32 30
+RH                     66 61 74 93 96100 96 92 85 78 85 96 96 92 92 85 73 67 75
+Wind dir               NE NE NE  N  N NW NW NW NW NW NW  W  W SW SW  W  W  W NW
+Wind spd               16 17 19 23 23 24 27 27 27 25 19 10  5  5  5 10 17 17 10
+Wind gust              33 32 31 33 33 35 41 42 42 40 33                        
+Clouds                 OV OV OV OV OV OV OV OV OV OV B2 SC SC SC B1 SC B1 SC SC
+PoP 12hr                     20          90          90           5           5
+QPF 12hr                      0        0.62        0.22           0           0
+Snow 12hr                 00-00       00-00           1                        
+Rain                                         S     S                           
+Rain shwrs                    C  L  D  D  D                                    
+Sleet                                        D                                 
+Snow                                         D  S  S                           
+Tstms                         C  S  C  C  S                                    
+Wind chill                      38 35 30 23 21 21 23 23 20 22 22 23 26 31 34 30
+Min chill                          35    23    19    21    20    22    23    30
+Wind                                Y  Y  Y  Y  Y                              
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          24    46      29    48      29    53      31    54
+Temp          29 27 40 42   33 32 44 42   34 32 47 45   36 35 49 46
+Dewpt         27 26 32 31   31 29 34 32   30 29 33 32   31 29 33 31
+PWind dir         W     S      SE    SW      SW    SW      SW    SW
+Wind char        LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    SC SC B1 SC   B1 B2 B1 SC   SC SC FW FW   SC SC B1 SC
+PoP 12hr          5    10      30    10       0     0       0     0
+Rain                         S  C                                  
+
+$$
+NDZ043-232200-
+Bowman-Bowman ND
+46.18N 103.40W Elev. 2959 ft
+1148 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          25          37          24          45
+Temp                   47 48 44 37 33 29 27 29 32 35 34 27 28 30 32 36 42 44 38
+Dewpt                  37 39 41 37 33 29 26 28 27 27 28 27 26 27 30 32 31 30 30
+RH                     68 71 89100100100 96 96 81 72 78100 92 88 92 85 65 57 73
+Wind dir                N  N NW NW NW NW NW NW NW NW  W  W  W  W  W  W  W  W  W
+Wind spd               11 14 19 23 28 33 33 34 34 29 17  9 10 12 16 18 21 20 11
+Wind gust                       33 41 46 48 51 48 43 29          26            
+Clouds                 OV OV OV OV OV OV OV OV OV SC FW FW SC SC SC FW FW FW FW
+PoP 12hr                     40          80          60           0           0
+QPF 12hr                   0.11        0.47        0.10           0           0
+Snow 12hr                 00-00           2           1                        
+Rain                       S  L  D  S                                          
+Snow                                D  D  L  L                                 
+Obvis                                 BS BS BS BS                              
+Wind chill                   36 26 19 13 10 13 17 22 23 18 19 20 21 26 33 36 31
+Min chill              39    36    19    10     9    20    18    19    22    31
+Winter Weath                        Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            22    49      24    47      25    53      28    55
+Temp          28   26 44 42 30   27 43 39 29   28 47 44 34   31 49 45
+Dewpt         28   24 29 30 30   27 30 28 26   24 27 28 27   24 28 28
+PWind dir           W     S       E    NW      SW    SW      SW     W
+Wind char          GN    GN      LT    GN      GN    BZ      GN    GN
+Avg clouds    FW   SC B1 B1 B2   B2 B1 SC SC   FW FW FW SC   B1 B1 SC
+PoP 12hr            0    10      20     5       0     0       0     0
+Rain                         S                                       
+Snow                              S                                  
+
+$$
+NDZ045-232200-
+Selfridge-Sioux ND
+46.04N 100.92W Elev. 2185 ft
+1248 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          31          36          27          48
+Temp                   54 61 57 50 45 40 34 32 34 35 34 30 29 28 30 37 45 47 41
+Dewpt                  43 48 48 47 44 38 34 31 28 28 28 27 26 25 26 29 30 29 29
+RH                     66 62 72 89 96 92100 96 78 75 78 88 88 88 85 72 55 49 62
+Wind dir                E  E NW  W NW  W  W  W NW NW NW  W  W SW SW  W  W NW NW
+Wind spd               14 13 14 21 25 27 31 31 32 27 21 16 13 11 13 18 21 21 13
+Wind gust              25 24          39 41 43 44 41 34                32      
+Clouds                 B2 OV OV B2 OV OV OV OV OV OV B1 FW FW FW SC SC SC FW FW
+PoP 12hr                     20          80          80           0           0
+QPF 12hr                      0        0.21        0.08           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain                                      D     S  S                           
+Rain shwrs                    S     L  D                                       
+Snow                                         D  S                              
+Tstms                         S     S  S                                       
+Wind chill                         36 29 20 17 20 22 22 19 18 18 19 27 37 39 33
+Min chill                          36    20    17    20    18    18    22    33
+Wind                                Y  Y  Y  Y  Y                              
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          26    48      32    47      29    53      33    54
+Temp          31 27 44 43   37 34 44 41   33 31 48 45   36 34 49 46
+Dewpt         28 25 28 30   31 30 32 29   28 25 28 27   27 25 28 26
+PWind dir         W     S      SE    SW      SW    SW       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW SC SC B1   B2 B2 B2 SC   SC SC FW FW   FW SC B1 B1
+PoP 12hr          0    10      40    10       0     0       0     0
+Rain                         C  C                                  
+
+$$

@@ -1,0 +1,129 @@
+ASUS41 KGYX 231810
+RWRGYX
+WEATHER ROUNDUP FOR MAINE AND NEW HAMPSHIRE
+NATIONAL WEATHER SERVICE GRAY ME
+200 PM EDT SUN OCT 23 2022
+
+MEZ002-005-006-010-012-015-018-020-021-024-026-027-029-231900-
+MAINE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND       CLOUDY    59  49  69 E6        30.36F                  
+6HR MIN TEMP:  42; 6HR MAX TEMP:  61;                                
+
+SANFORD        CLOUDY    63  46  54 SE3       30.36S                  
+BAR HARBOR     MOSUNNY   62  52  69 SE5       30.37F                  
+WISCASSET      PTSUNNY   64  51  62 VRB3      30.37F                  
+6HR MIN TEMP:  45; 6HR MAX TEMP:  65;                                
+
+ROCKLAND       PTSUNNY   60  54  80 E3        30.37F                  
+FRYEBURG       CLOUDY    62  42  47 CALM      30.36F                  
+6HR MIN TEMP:  34; 6HR MAX TEMP:  63;                                
+
+LEWISTONAUBURN PTSUNNY   62  46  55 CALM      30.36F                  
+AUGUSTA        PTSUNNY   64  47  53 E3        30.36F                  
+6HR MIN TEMP:  44; 6HR MAX TEMP:  64;                                
+
+WATERVILLE     PTSUNNY   60  47  61 CALM      30.34F                  
+BANGOR         CLOUDY    64  50  60 CALM      30.36F                  
+6HR MIN TEMP:  46; 6HR MAX TEMP:  64;                                
+
+GREENVILLE       N/A     68  41  37 S5        30.34F                  
+6HR MIN TEMP:  49; 6HR MAX TEMP:  68;                                
+
+MILLINOCKET    MOSUNNY   67  49  52 CALM      30.36F                  
+6HR MIN TEMP:  38; 6HR MAX TEMP:  67;                                
+
+HOULTON        SUNNY     69  48  47 SW3       30.33F                  
+6HR MIN TEMP:  40; 6HR MAX TEMP:  69;                                
+
+PRESQUE ISLE   SUNNY     70  44  39 S6        30.33F                  
+6HR MIN TEMP:  37; 6HR MAX TEMP:  71;                                
+
+FRENCHVILLE    SUNNY     65  43  44 SE5       30.31F                  
+6HR MIN TEMP:  43; 6HR MAX TEMP:  65;                                
+
+CARIBOU        SUNNY     68  43  40 S7        30.32F                  
+6HR MIN TEMP:  42; 6HR MAX TEMP:  68;                                
+
+$$
+
+NHZ002-005-008-009-011-012-014-231900-
+NEW HAMPSHIRE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTSMOUTH     CLOUDY    61  48  61 E3        30.34F                  
+ROCHESTER      CLOUDY    63  47  55 CALM      30.34F                  
+6HR MIN TEMP:  43; 6HR MAX TEMP:  64;                                
+
+NASHUA         CLOUDY    58  47  66 CALM      30.35F                  
+MANCHESTER     CLOUDY    61  44  53 NW3       30.33F                  
+6HR MIN TEMP:  41; 6HR MAX TEMP:  61;                                
+
+CONCORD        CLOUDY    58  44  60 W3        30.34F                  
+6HR MIN TEMP:  37; 6HR MAX TEMP:  58;                                
+
+LACONIA        CLOUDY    59  45  59 CALM      30.35F                  
+BERLIN         PTSUNNY   67  40  37 CALM      30.34F                  
+6HR MIN TEMP:  30; 6HR MAX TEMP:  67;                                
+
+WHITEFIELD     CLOUDY    64  45  49 CALM      30.34S                  
+6HR MIN TEMP:  30; 6HR MAX TEMP:  65;                                
+
+JAFFREY        CLOUDY    59  43  55 CALM      30.34F                  
+6HR MIN TEMP:  38; 6HR MAX TEMP:  59;                                
+
+KEENE          CLOUDY    55  45  68 CALM      30.34F                  
+LEBANON        CLOUDY    60  43  53 CALM      30.33F                  
+6HR MIN TEMP:  38; 6HR MAX TEMP:  60;                                
+
+MT WASHINGTON  PTSUNNY   52  14  22 SE14        N/A                   
+6HR MIN TEMP:  46; 6HR MAX TEMP:  52;                                
+
+$$
+
+VTZ005-007-008-231900-
+VERMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST JOHNSBURY     N/A     64  43  46 MISG      30.31F                  
+MONTPELIER     CLOUDY    66  43  43 CALM      30.37F                  
+BURLINGTON     PTSUNNY   67  42  40 CALM      30.30F                  
+$$
+
+MAZ007-012-024-CTZ003-RIZ002-NYZ038-NYZ072-231900-
+SOUTHERN NEW ENGLAND AND NY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WORCESTER      CLOUDY    57  43  59 NE7       30.33F                  
+NANTUCKET      LGT RAIN  60  57  89 NE13      30.26F                  
+PROVIDENCE     LGT RAIN  59  51  75 N10       30.31F                  
+HARTFORD       CLOUDY    57  44  62 N7        30.31F                  
+ALBANY         CLOUDY    61  43  51 CALM      30.31F                  
+NEW YORK CITY  LGT RAIN  62  44  51 NE12      30.27R                  
+$$
+
+ANZ081-ANZ082-ANZ150-NHZ014-MEZ023>029-231900-
+COASTAL MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+MOUNT DESERT ROC 1800   56      50/  4/  4 1027.8F
+MATINICUS ROCK   1700   56      80/  4/  5 1028.5F
+ISLE OF SHOALS   1700   54      30/  9/ 10 1027.4F
+JEFFREYS LEDGE   1756      56                N/A     3/12
+CASHES LEDGE BUO 1750   56 56   60/  6/  8 1027.3F   3/ 9
+GEORGES BANK BUO 1750      60              1024.8F   4/11
+$$
+
+.............KEY..............
+   WCI - WIND CHILL
+   TC  - TEMPERATURE IN CELSIUS
+   VSB - VISIBILITY IN MILES
+   HX  - HEAT INDEX
+   FAIR- INDICATES FEW OR NO CLOUDS BELOW 12,000 FT, WITH NO 
+         SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+  

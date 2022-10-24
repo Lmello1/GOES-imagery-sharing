@@ -1,0 +1,93 @@
+SRHW40 PHFO 232100
+RRMHFO
+STATE OF HAWAII DAILY COOPERATIVE OBSERVATIONS
+NATIONAL WEATHER SERVICE HONOLULU, HI
+1100 AM HST Sun Oct 23 2022
+
+
+Data include rainfall ending around 8 AM HST of the date
+of observation and, if available, the previous day's
+high and overnight low.
+M = Missing         T = Trace rainfall
+
+
+Note, these are uncertified reports.  For certified weather 
+data requests, contact the National Climatic Data Center.
+Preliminary quality control has been performed but errors may
+still be present.  
+
+---------------------------------------------------------------------
+Island of Kauai
+                         10/23          10/22          10/21
+Station Name          Hi Lo   Rain   Hi Lo   Rain    Hi Lo   Rain
+Brydeswood Stn         M  M      M    M  M      M     M  M      M
+Eleele                 M  M      M    M  M      M     M  M      M
+Koloa                            M              M               M
+Kilauea                M  M           M  M            M  M  
+Mahaulepu              M  M      M    M  M      M    84 72   0.00
+Makaweli               M  M      M    M  M      M    86 69   0.00
+Puhi                             M              M            0.27
+Princeville Ranch      M  M      M    M  M      M     M  M      M
+Wahiawa                M  M      M    M  M      M     M  M      M
+Waimea                 M  M      M    M  M      M     M  M      M
+West Lawai             M  M      M    M  M      M     M  M      M
+---------------------------------------------------------------------
+Island of Oahu
+                         10/23          10/22          10/21
+Station Name          Hi Lo   Rain   Hi Lo   Rain    Hi Lo   Rain
+Aiea Heights                  0.05           0.05            0.11
+Campbell Ind Park                M              M               M
+Camp Erdman                      M              M               M
+Honolulu Fire Stn                M           0.03            0.23
+Kaena Pt Trkg Stn                M              M               M
+Kii-Kahuku             M  M      M    M  M      M     M  M      M
+Kaneohe                M  M      M    M  M      M     M  M      M
+Kualoa Ranch                     M              M              T 
+Kualoa Rch-Hakipuu               M              M              T 
+Kualoa Ranch-HQ        M  M      M    M  M      M    80 73   0.03
+Makaha Country Club    M  M      M    M  M      M     M  M      M
+Manoa Arboretum        M  M      M    M  M      M     M  M      M
+PTWC                   M  M      M    M  M      M     M  M      M
+Poamoho Exp Farm       M  M      M    M  M      M     M  M      M
+Univ of Hawaii                0.03           0.15            0.00
+Waialae-Kahala                   M              M            0.00
+Waimea Valley          M  M      M    M  M      M     M  M      M
+Waikiki Zoo            M  M      M    M  M      M     M  M      M
+Waimanalo Exp Farm     M  M      M    M  M      M     M  M      M
+---------------------------------------------------------------------
+Island of Molokai
+                         10/23          10/22          10/21
+Station Name          Hi Lo   Rain   Hi Lo   Rain    Hi Lo   Rain
+Kalaupapa              M  M      M    M  M      M     M  M      M
+Kaunakakai                       M              M               M
+Molokai Airport       87 72   0.01   87 73   0.00    81 68   0.03
+---------------------------------------------------------------------
+Island of Maui
+                         10/23          10/22          10/21
+Station Name          Hi Lo   Rain   Hi Lo   Rain    Hi Lo   Rain
+Haleakala R.S.         M  M      M    M  M      M     M  M      M
+Kapalua-W. Maui AP     M  M      M    M  M      M     M  M      M
+Kailua                 M  M      M    M  M      M     M  M      M
+Kula Branch Stn        M  M      M    M  M      M     M  M      M
+Makena Golf Course     M  M      M    M  M      M     M  M      M
+Oheo                   M  M      M    M  M      M     M  M      M
+---------------------------------------------------------------------
+Island of Hawaii
+                         10/23          10/22          10/21
+Station Name          Hi Lo   Rain   Hi Lo   Rain    Hi Lo   Rain
+Hawaii V.N.P.          M  M      M    M  M      M     M  M      M
+Hawi                   M  M      M    M  M      M     M  M      M
+Kapua                            M              M               M
+Ke-ahole Point         M  M      M    M  M      M     M  M      M
+Kealakekua             M  M      M    M  M      M     M  M      M
+Lalamilo Field Ofc     M  M      M    M  M      M     M  M      M
+Mauna Loa Slope Obs    M  M      M    M  M      M    53 37   0.02
+Naalehu                          M           0.56            0.00
+Opihihale 2            M  M      M    M  M      M     M  M      M
+Pahala Mauka           M  M      M    M  M      M     M  M      M
+Papaikou                         M              M               M
+Puna Mac Orchd                   M              M               M
+Sea Mountain           M  M      M    M  M      M     M  M      M
+South Kona 2           M  M      M    M  M      M     M  M      M
+Hilo Airport          85 70   0.06   85 72   0.92    88 70   0.00
+

@@ -1,0 +1,377 @@
+FOUS51 KLWX 231735
+PFMLWX
+
+Point Forecast Matrices
+National Weather Service Baltimore MD/Washington DC
+135 PM EDT Sun Oct 23 2022
+
+VAZ054-232100-
+Reagan National Airport-Arlington VA
+38.86N  77.03W Elev. 66 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          53          73          56          74
+Temp                   63 64 60 58 57 56 56 63 70 70 64 61 58 57 57 65 72 71 66
+Dewpt                  53 52 53 54 53 52 52 55 56 57 55 56 56 55 55 58 58 58 59
+RH                     70 65 78 86 86 86 86 75 61 63 73 84 93 93 93 78 61 63 78
+Wind dir                N  N  N  N NW NW NW NW NW NW NE  W  N  N  N  N  S SE SE
+Wind spd                6  5  5  5  5  5  4  5  5  3  2  2  2  2  2  2  4  5  4
+Clouds                 OV OV OV OV B2 B2 B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          50          10          20          20
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O                                       
+Rain shwrs              C  L  C  C  S  S              S  S  S  S  S  S        S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    74      57    70      53    67      54    65
+Temp          62 60 73 66   61 57 68 64   56 53 64 61   57 54 63 60
+Dewpt         60 59 57 56   54 52 50 49   50 48 50 51   51 49 51 50
+PWind dir         S     S      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         20    20      10     5       5    10      30    40
+Rain shwrs     S  S  S  S                                C  C  C  C
+
+$$
+MDZ013-232100-
+Baltimore/Washington Airport-Anne Arundel MD
+39.19N  76.67W Elev. 154 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          51          72          53          73
+Temp                   63 64 59 57 54 54 54 65 69 69 63 58 56 55 56 66 71 70 65
+Dewpt                  53 52 53 54 53 52 52 54 55 56 56 56 56 55 55 57 57 58 59
+RH                     70 65 80 90 96 93 93 68 61 63 78 93100100 96 73 61 66 81
+Wind dir               NE  N  N  N NW NW NW NW NW  N NW  N  N  N  N  E SE SE SE
+Wind spd                5  6  5  4  4  4  4  5  4  4  2  2  1  1  1  2  3  5  2
+Clouds                 OV OV OV OV OV B2 B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          60          20          20          20
+QPF 12hr                   0.01        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O  O  O                                 
+Rain shwrs              C  L  L  C  C  C  S  S        S  S  S  S  S  S        S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    74      54    70      51    67      50    65
+Temp          61 58 71 66   59 55 68 62   55 52 66 58   53 52 63 59
+Dewpt         60 58 56 57   54 51 49 49   48 47 48 50   49 49 48 49
+PWind dir        SE     S      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 OV B1 B1   SC SC SC SC   SC SC B1 B2   B2 B2 B1 B2
+PoP 12hr         20    20      20     5       5    10      30    40
+Rain shwrs     S  S  S  S    S  S                        C  C  C  C
+
+$$
+MDZ011-232100-
+Baltimore Inner Harbor-Baltimore City MD
+39.28N  76.61W Elev. 20 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          55          72          57          73
+Temp                   64 66 62 60 58 57 56 65 70 70 65 62 60 59 58 66 72 71 67
+Dewpt                  52 51 53 53 53 52 52 54 56 57 56 56 56 55 55 57 58 58 60
+RH                     65 58 72 78 83 83 86 68 61 63 73 81 87 87 90 73 61 63 78
+Wind dir               NE  N  N  N NW NW NW NW NW  N  N  N  N  N  N  E SE SE SE
+Wind spd                5  5  3  2  2  2  2  4  3  3  0  1  0  0  1  2  3  4  1
+Wind gust                             12                                       
+Clouds                 OV OV OV OV OV B2 B1 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          60          20          20          20
+QPF 12hr                   0.01        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O  O  O                                 
+Rain shwrs              C  L  L  L  C  C  S  S        S  S  S  S  S  S        S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    74      57    70      54    67      54    65
+Temp          64 60 73 66   61 57 68 64   57 54 65 61   57 54 63 61
+Dewpt         60 58 57 57   54 50 49 49   48 47 48 50   48 47 48 49
+PWind dir        SE     S      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 OV B1 B1   SC SC SC SC   SC SC B1 B2   B2 B2 B1 B2
+PoP 12hr         20    20      20     5       5    10      30    40
+Rain shwrs     S  S  S  S    S  S                        C  C  C  C
+
+$$
+WVZ052-232100-
+Martinsburg Airport-Berkeley WV
+39.41N  77.98W Elev. 558 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          44          72          46          72
+Temp                   63 65 58 52 49 49 48 60 68 69 59 53 50 48 47 60 69 70 61
+Dewpt                  48 47 49 50 49 48 47 52 53 52 51 51 49 48 47 52 54 54 55
+RH                     58 52 72 93100 96 96 75 59 55 75 93 96100100 75 59 57 81
+Wind dir               NE  N  N NW NW NW  W NW  N  N SW  W  W  W  W  S SE SE SE
+Wind spd                4  4  2  2  2  2  2  2  4  4  2  1  1  1  1  2  5  6  4
+Clouds                 B2 B2 B2 B2 B2 B1 B1 SC SC SC B1 B1 B1 B2 B2 B1 B1 B1 B1
+PoP 12hr                      5           5           0          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    70      49    65      45    63      46    61
+Temp          56 53 69 60   54 50 62 57   50 45 60 57   49 47 59 55
+Dewpt         55 53 55 53   50 48 47 46   44 44 47 47   46 46 48 48
+PWind dir        SE     S      NW    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2 B1 SC   SC SC SC SC   SC B1 B1 B2   B2 B2 B2 B2
+PoP 12hr         20    30      10     5       5    10      30    40
+Rain shwrs     S  S  C  C                                C  C  C  C
+
+$$
+VAZ506-232100-
+Washington Dulles Airport-Loudoun VA
+38.96N  77.45W Elev. 321 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          47          73          49          74
+Temp                   62 65 59 54 51 51 51 63 71 70 62 56 53 51 52 65 72 71 64
+Dewpt                  51 49 51 51 51 50 50 53 54 55 53 53 53 51 51 54 55 56 57
+RH                     67 56 75 90100 96 96 70 55 59 72 90100100 96 68 55 59 78
+Wind dir                N  N  N  N NW NW NW NW NW NW NW NW  N NW  N  N  S SE SE
+Wind spd                6  5  5  3  3  3  3  6  5  4  3  2  1  1  2  4  6  5  5
+Clouds                 OV OV OV B2 B2 B1 B1 B1 SC SC B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     30          40           5          20          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O                                       
+Rain shwrs              S  C  C  S  S  S              S  S  S  S              S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    74      52    69      49    66      49    65
+Temp          59 55 71 66   57 53 68 59   52 50 65 58   52 50 62 59
+Dewpt         58 55 55 55   52 50 49 48   47 46 48 49   48 48 48 49
+PWind dir         S    SW      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         20    20      10     5       5    10      30    40
+Rain shwrs     S  S  S  S                                C  C  C  C
+
+$$
+VAZ037-232100-
+Charlottesville Airport-Albemarle VA
+38.14N  78.45W Elev. 640 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          47          75          49          75
+Temp                   64 65 58 54 52 52 51 65 73 73 63 57 54 52 51 65 73 72 64
+Dewpt                  48 49 51 52 50 50 49 52 53 53 52 53 51 50 48 53 54 54 56
+RH                     56 56 77 93 93 93 93 63 49 49 67 86 90 93 89 65 51 53 75
+Wind dir               NE NE  N NW NW  W  W  W SE  E NE NW NW NW NW  S  S SE  S
+Wind spd                6  5  2  1  2  2  2  3  3  3  2  1  2  1  1  3  5  5  2
+Clouds                 B2 B2 B2 B2 B2 SC SC FW FW FW SC SC B1 B1 B1 B1 B1 B1 B2
+PoP 12hr                      5           0           0          10           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    74      52    70      49    68      51    65
+Temp          58 55 73 64   57 53 69 60   54 50 65 61   54 52 64 58
+Dewpt         56 55 55 55   52 50 49 50   48 47 49 50   50 49 50 51
+PWind dir         S    SW      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         10    20       5     0       5    10      30    40
+Rain shwrs           S  S                                C  C  C  C
+
+$$
+MDZ003-232100-
+Hagerstown Airport-Washington MD
+39.71N  77.73W Elev. 705 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          48          72          51          72
+Temp                   63 66 60 55 53 52 51 61 69 70 63 59 56 53 52 62 69 70 64
+Dewpt                  48 46 49 49 49 48 48 51 52 52 50 51 51 50 49 53 53 54 55
+RH                     58 48 67 80 86 86 89 70 55 53 62 75 83 89 89 72 57 57 73
+Wind dir               NE NE NE  N  N  N  N NW NW  N  E NE  N  N  N  S  S SE SE
+Wind spd                4  5  5  2  3  3  2  3  4  3  3  2  2  2  2  3  5  6  5
+Clouds                 B2 OV OV B2 B2 B1 B1 SC SC SC B1 B1 B1 B2 B2 B1 B1 B1 B1
+PoP 12hr                     10          20           5          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O                                             
+Rain shwrs                    S  S                                            S
+Obvis                                    PF PF                                 
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    70      52    65      48    63      49    61
+Temp          60 56 67 64   57 52 63 59   52 48 60 58   53 49 59 57
+Dewpt         56 55 54 53   51 48 47 45   44 43 46 45   46 45 46 46
+PWind dir        SE     S      NW     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         20    30      10     5       5    10      30    40
+Rain shwrs     S  S  C  C                                C  C  C  C
+
+$$
+MDZ017-232100-
+Patuxent River NAS MD
+38.29N  76.41W Elev. 39 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          55          71          55          73
+Temp                   61 64 59 58 58 57 58 64 68 67 61 60 58 57 58 68 71 70 63
+Dewpt                  56 54 55 54 54 53 54 55 56 56 56 56 56 55 56 58 59 59 60
+RH                     84 70 87 86 86 86 86 73 65 68 84 87 93 93 93 70 66 68 90
+Wind dir                N  N  N  N  N NW NW  N  N  N  N  W  N  N  N  N SE SE SE
+Wind spd               11 11 10 10  9  6  6  8  8  5  2  2  2  2  2  2  4  5  3
+Wind gust                             17 17                                    
+Clouds                 OV OV OV OV OV B2 B2 B2 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          50          10          20          20
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O                                       
+Rain shwrs              L  L  C  C  C  C              S  S  S  S  S  S        S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    74      57    71      54    68      53    68
+Temp          61 60 73 64   60 59 70 62   58 55 68 60   56 56 68 60
+Dewpt         60 58 59 58   56 53 52 53   51 51 53 53   52 51 53 52
+PWind dir         S     S       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 SC SC   B1 SC SC FW   FW SC B1 B1   B2 B2 B2 B2
+PoP 12hr         20    20      10     5       5    10      20    30
+Rain shwrs     S  S  S  S                                S  S  C  C
+
+$$
+WVZ502-232100-
+Petersburg WV
+38.99N  79.15W Elev. 963 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          41          74          45          75
+Temp                   62 68 58 50 46 43 41 58 70 71 59 52 49 46 45 61 72 71 61
+Dewpt                  43 44 46 46 45 43 41 48 49 50 48 48 46 45 45 51 51 52 53
+RH                     50 42 64 86 96100100 69 47 47 67 86 89 96100 70 48 51 75
+Wind dir               NE NE  N SW SW SW SW  S  E  E SW  S SW SW SW  S SE SE  S
+Wind spd                4  5  2  2  2  2  2  2  4  4  2  2  2  2  2  3  6  8  5
+Clouds                 SC SC FW SC SC SC SC FW FW FW FW SC SC SC SC SC SC B1 B1
+PoP 12hr                      0           5           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                    PF PF                                 
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    70      46    64      43    66      45    62
+Temp          54 51 69 59   51 47 61 57   48 44 65 56   49 46 60 56
+Dewpt         52 51 54 53   49 46 47 46   45 43 48 50   47 46 50 49
+PWind dir         S    SW      NW     N       N     E      SE     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 B1   B1 B1 SC SC   SC SC B1 B2   B2 B2 B1 B1
+PoP 12hr         30    40      10     5       5    10      30    40
+Rain shwrs        C  C  C                                C  C  C  C
+
+$$
+MDZ014-232100-
+Annapolis MD
+38.99N  76.49W Elev. 7 ft
+135 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          54          69          57          69
+Temp                   62 62 59 58 56 56 56 62 66 66 63 60 58 58 58 64 67 68 64
+Dewpt                  54 53 55 54 53 53 53 55 57 57 57 58 57 57 57 59 60 59 61
+RH                     75 72 87 86 90 90 90 78 73 73 81 93 96 96 96 84 78 73 90
+Wind dir                N  N  N  N  N NW NW NW NW  N  N NW  N  N  N NE SE SE SE
+Wind spd               10  8  5  5  3  4  4  5  5  4  1  1  1  1  1  2  5  4  2
+Wind gust                          13 14 14                                    
+Clouds                 OV OV OV OV OV B2 B2 B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     60          60          20          20          20
+QPF 12hr                   0.01        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                          O  O  O  O  O                                 
+Rain shwrs              C  L  L  L  C  C  S  S        S  S  S  S  S  S        S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    70      57    68      54    64      54    63
+Temp          62 61 68 65   60 57 66 62   57 55 64 59   57 54 61 60
+Dewpt         61 59 59 59   56 53 52 52   50 50 51 52   51 51 51 52
+PWind dir        SE     S       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   SC SC SC SC   SC SC B1 B2   B2 B2 B1 B2
+PoP 12hr         20    20      10    10       5    10      30    40
+Rain shwrs     S  S  S  S                                C  C  C  C
+
+$$

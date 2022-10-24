@@ -1,0 +1,61 @@
+FPUS64 KLCH 232044
+SFTLCH
+LAZ027>033-041>045-52>055-073>074-TXZ180-201-215>216-259>262-241100-
+
+Tabular State Forecast for Southwest Louisiana and Southeast Texas
+National Weather Service Lake Charles LA
+344 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Louisiana...
+   Alexandria
+   Ptcldy   Sunny    Sunny    Sunny    Shwrs    Ptcldy   Sunny    
+   63/83    63/75    46/75    44/77    50/74    55/72    51/73    
+    00/10    80/40    00/00    00/00    30/60    40/20    00/00   
+
+   Lake Charles
+   Ptcldy   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   69/83    65/75    50/75    49/77    57/75    56/71    54/73    
+    10/30    80/30    00/00    00/10    30/70    40/10    00/00   
+
+   Lafayette
+   Ptcldy   Shwrs    Sunny    Sunny    Shwrs    Sunny    Sunny    
+   65/83    70/78    50/75    49/77    56/76    58/72    55/73    
+    00/20    60/60    00/00    00/00    20/60    40/20    00/00   
+
+   New Iberia
+   Ptcldy   Tstrms   Sunny    Sunny    Shwrs    Sunny    Sunny    
+   66/83    70/80    51/76    49/77    56/77    59/73    55/73    
+    00/10    50/60    00/00    00/00    20/60    40/20    00/00   
+
+
+...Texas...
+   Beaumont
+   Ptcldy   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   70/83    62/73    49/76    49/77    59/75    55/70    53/73    
+    10/30    90/20    00/00    00/10    40/70    30/10    00/00   
+
+   Port Arthur
+   Ptcldy   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   71/83    64/75    52/76    54/76    62/76    57/71    56/73    
+    10/30    90/20    00/00    00/10    40/70    30/10    00/00   
+
+   Orange
+   Ptcldy   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   70/83    63/75    49/76    49/77    58/75    55/71    53/73    
+    10/30    90/20    00/00    00/10    40/70    30/10    00/00   
+
+
+$$

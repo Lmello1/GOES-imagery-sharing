@@ -1,0 +1,147 @@
+ASUS43 KIND 231759
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+200 PM EDT SUN OCT 23 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-231900-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ SUNNY     75  55  50 S16G32    29.92F                  
+KNOX *+        SUNNY     77  54  44 S18G26    29.97F                  
+MONTICELLO +   SUNNY     76  52  43 S18G28    29.98F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  76;                                
+
+RENSSELAER +   SUNNY     77  54  44 S20G29    29.97F                  
+
+$$
+
+LMZ046-743>745-231900-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BURNS HARBOR     1730   74     160/  9/ 18 1014.2F
+MICHIGAN CITY    1730   74                 1012.8F
+5NW MICH CITY    1730   68                   N/A     2
+
+$$
+
+INZ004-005-014>016-021>024-231900-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        SUNNY     75  56  51 S18G26    30.01F                  
+GOSHEN         SUNNY     76  54  46 S22G33    30.01F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  76;                                
+
+PERU/GRISSOM   SUNNY     76  54  45 S18       30.01F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  76;                                
+
+SOUTH BEND     SUNNY     76  55  48 S21G29    29.98F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  77;                                
+
+
+$$
+
+INZ006>009-017-018-025>027-231900-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      SUNNY     73  52  46 S18G25    30.06F                  
+FORT WAYNE     MOSUNNY   76  51  41 S15G26    30.07F                  
+6HR MIN TEMP:  54; 6HR MAX TEMP:  76;                                
+
+KENDALLVILLE + FAIR      74  55  52 S17       30.07F                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-231900-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  SUNNY     74  45  34 S23       30.00F                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  75;                                
+
+LAFAYETTE      SUNNY     78  53  41 S9G30     29.96F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  78;                                
+
+TERRE HAUTE    SUNNY     79  54  41 S16G31    29.98F                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  79;                                
+
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-231900-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBUS       MOSUNNY   75  48  38 S18G28    30.09F                  
+GREENWOOD *+   MOSUNNY   77  55  46 S14G23    30.06F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  77;                                
+
+INDIANAPOLIS   MOSUNNY   76  52  43 S18       30.03F                  
+6HR MIN TEMP:  57; 6HR MAX TEMP:  76;                                
+
+-EAGLE CREEK   SUNNY     76  53  44 S15G26    30.03F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  76;                                
+
+KOKOMO +       SUNNY     76  54  46 S21G29    30.04F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  76;                                
+
+MT COMFORT *+    N/A    N/A N/A N/A MISG        N/A                   
+SHELBYVILLE    SUNNY     78  52  40 S20G26    30.06F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  78;                                
+
+
+$$
+
+INZ033-034-041-042-049-050-058-059-231900-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         SUNNY     77  49  37 S16G26    30.07F                  
+6HR MIN TEMP:  60; 6HR MAX TEMP:  77;                                
+
+RICHMOND +     FAIR      72  54  53 S10G24    30.12F                  
+
+$$
+
+INZ060-061-067>069-081>083-085>088-231900-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     SUNNY     79  49  34 S22G30    30.03F                  
+6HR MIN TEMP:  63; 6HR MAX TEMP:  79;                                
+
+HUNTINGBURG +  SUNNY     77  52  41 S15G26    30.05F                  
+6HR MIN TEMP:  62; 6HR MAX TEMP:  77;                                
+
+
+$$
+
+INZ062-063-066-070>080-084-089>092-231900-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE +   SUNNY     73  50  43 S8G22     30.10F                  
+BLOOMINGTON    SUNNY     76  52  43 SE15G25   30.04F                  
+6HR MIN TEMP:  58; 6HR MAX TEMP:  78;                                
+
+FRENCH LICK *+ SUNNY     73  46  38 SW10G16   30.06F                  
+
+$$
+
+  

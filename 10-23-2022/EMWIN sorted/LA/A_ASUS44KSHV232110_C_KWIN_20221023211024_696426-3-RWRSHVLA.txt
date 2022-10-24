@@ -1,0 +1,65 @@
+ASUS44 KSHV 232110
+RWRSHV
+
+THE FOUR STATE AREA WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SHREVEPORT LA
+400 PM CDT SUN OCT 23 2022
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+!LAZ001-LAZ014-TXZ097-232200
+SHREVEPORT...MONROE...TEXARKANA RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHREVEPORT     MOSUNNY   86  59  39 S18G30    29.88F                  
+MONROE         MOSUNNY   82  58  43 S12G23    29.96F                  
+NATCHITOCHES   MOSUNNY   86  60  41 S15       29.92F                  
+TEXARKANA      PTSUNNY   84  57  39 S18G26    29.86F                  
+ATLANTA        FAIR      85  57  39 S13G21    29.84F                  
+$$
+
+!LAZ001-LAZ014-TXZ097-232200
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOWNTOWN SHV   SUNNY     84  58  40 S14G30    29.89F                  
+BOSSIER CITY   MOSUNNY   85  56  36 S20       29.87F                  
+RUSTON         MOSUNNY   82  56  40 S15G21    29.98S                  
+LITTLE ROCK    MOSUNNY   84  58  40 S13G20    29.89F                  
+EL DORADO      PTSUNNY   81  58  45 S14G22    29.92F                  
+JACKSON        SUNNY     82  50  32 S9        30.02F                  
+NEW ORLEANS    MOSUNNY   79  58  48 SE12G18   30.04F                  
+HOUSTON        PTSUNNY   85  61  44 S18G33    29.87F                  
+LUFKIN         PTSUNNY   85  61  44 S15G25    29.88F                  
+TYLER          PTSUNNY   85  58  39 S22G38    29.83F                  
+DAL FT WORTH   MOSUNNY   86  60  41 S30G44    29.72F                  
+$$
+
+
+!TXZ136-TXZ165-232200
+TYLER...LUFKIN RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TYLER          PTSUNNY   85  58  39 S22G38    29.83F                  
+GILMER         PTCLDY    83  54  36 S10G24    29.85F                  
+LONGVIEW       MOSUNNY   85  55  35 S21G26    29.85F                  
+LUFKIN         PTSUNNY   85  61  44 S15G25    29.88F                  
+$$
+
+!TXZ136-TXZ165-232200
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NACOGDOCHES    MOSUNNY   85  58  39 S15G25    29.88F                  
+BEAUMONT       CLOUDY    82  68  62 SE14G24   29.93S                  
+HOUSTON        PTSUNNY   85  61  44 S18G33    29.87F                  
+COLLEGE STN    PTSUNNY   87  61  41 SE21G31   29.83F                  
+AUSTIN         PTSUNNY   86  64  47 S21G35    29.77F                  
+DAL FT WORTH   MOSUNNY   86  60  41 S30G44    29.72F                  
+TEXARKANA      PTSUNNY   84  57  39 S18G26    29.86F                  
+SHREVEPORT     MOSUNNY   86  59  39 S18G30    29.88F                  
+FORT POLK      PTSUNNY   80  62  53 SE18G24   29.93F                  
+LAKE CHARLES   PTSUNNY   80  64  58 SE22G33   29.97S                  
+$$
+  

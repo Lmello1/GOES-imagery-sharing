@@ -1,0 +1,609 @@
+FOUS51 KBUF 231732
+AFMBUF
+
+Area Forecast Matrices
+National Weather Service Buffalo NY
+132 PM EDT Sun Oct 23 2022
+
+NYZ001-232100-
+Niagara-
+Including the city of Niagara Falls
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                63 70 73          47    62 69 71          49    69 73 75
+Temp                   67 65 55 52 49 47 47 60 66 64 56 55 52 50 49 64 72 72 64
+Dewpt                  47 51 49 45 43 44 44 51 52 53 51 48 47 46 47 49 52 52 52
+RH                     49 60 80 77 80 89 89 72 61 67 83 77 83 86 93 58 49 49 65
+Wind dir               NE NE  E  S  S  S  S SE NE NE  E SE  S  S  S  S  S SE SE
+Wind spd                4  5  4  4  4  4  3  1  4  5  6  4  3  3  3  4  8  6  5
+Wind gust                 17                                              19   
+Clouds                 SC SC SC SC FW FW FW FW FW FW FW FW SC SC SC SC B1 SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    70      44    54      40    57      41    58
+Temp          57 54 69 58   50 45 53 47   43 42 56 47   43 43 57 48
+Dewpt         51 52 55 53   48 41 40 39   38 39 41 41   40 41 46 45
+PWind dir         S     S       W     N      NE     E       E     E
+Wind char        LT    GN      GN    GN      LT    GN      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 SC SC   SC SC B1 B1   B2 B2 B1 SC
+PoP 12hr          0    60      30     5       0     0      10    10
+Rain shwrs           C  L    C                                     
+
+$$
+NYZ010-232100-
+Northern Erie-
+Including the city of Buffalo
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72    46 48 52          71          50          74
+Temp                   70 68 58 53 50 48 48 61 68 68 59 56 54 51 50 65 73 73 65
+Dewpt                  44 52 49 44 44 44 44 50 52 54 52 47 46 46 47 49 51 52 52
+RH                     39 57 72 71 80 86 86 67 57 61 78 72 74 83 89 56 46 48 63
+Wind dir               NE NE SE  S  S  S SE SE  E NE  E SE  S  S SE  S  S  S SE
+Wind spd                3  4  4  5  4  4  3  1  4  4  4  4  4  4  3  6  8  6  6
+Clouds                 SC SC SC SC FW CL CL CL CL FW FW FW SC SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    69      45    55      40    57      43    59
+Temp          59 56 68 58   50 45 54 47   42 41 56 48   44 44 58 49
+Dewpt         51 52 54 53   48 41 40 39   38 38 40 41   40 40 45 45
+PWind dir         S     S       W     N      NE     E      SE    SE
+Wind char        GN    GN      GN    GN      LT    GN      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    60      30     5       0     0      10    10
+Rain shwrs           C  L    C                                     
+
+$$
+NYZ002-232100-
+Orleans-
+Including the city of Medina
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                63 71 72          48    63 69 71          49    69 73 75
+Temp                   68 65 56 52 49 48 48 61 66 64 56 55 52 50 49 64 72 72 64
+Dewpt                  45 51 49 44 44 44 45 52 52 53 52 48 47 47 47 50 51 53 53
+RH                     43 60 77 74 83 86 89 72 61 67 86 77 83 89 93 60 48 51 67
+Wind dir               NE  E  E  S  S  S  S  E NE NE  E SE SE  S  S  S  S SE SE
+Wind spd                5  5  5  5  4  4  3  1  5  5  5  4  4  4  4  5  6  8  6
+Wind gust                 16                                                   
+Clouds                 SC SC B1 B1 SC FW FW FW FW FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    70      45    55      41    56      42    58
+Temp          57 54 69 59   50 45 53 47   43 43 55 47   44 44 57 48
+Dewpt         51 52 55 53   49 43 41 39   39 39 42 41   41 41 46 46
+PWind dir         S     S       W    NW      NE     E      SE     E
+Wind char        LT    GN      GN    GN      LT    GN      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 SC
+PoP 12hr          0    60      30    10       0     0      10    10
+Rain shwrs           S  L    C                                     
+
+$$
+NYZ011-232100-
+Genesee-
+Including the city of Batavia
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72          48          71          50          75
+Temp                   69 67 57 52 49 48 48 62 68 67 57 55 53 51 50 65 74 74 65
+Dewpt                  42 50 46 43 44 44 44 51 52 54 52 47 46 46 47 50 51 52 52
+RH                     37 54 67 71 83 86 86 67 57 63 83 74 77 83 89 58 44 46 63
+Wind dir                E  E SE  S  S  S  S  E  E NE  E SE  S  S  S  S  S  S  S
+Wind spd                4  4  5  5  5  4  3  3  5  4  5  4  5  4  4  6  9  8  6
+Clouds                 SC SC B1 B1 SC FW FW CL CL CL FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    70      44    54      39    56      42    58
+Temp          58 55 69 58   50 45 53 45   42 40 55 46   43 43 57 48
+Dewpt         52 53 54 53   49 43 41 39   38 38 41 41   40 41 46 45
+PWind dir         S     S       W    NW      NE     E      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    60      30    10       0     0      10    10
+Rain shwrs           S  L    C                                     
+
+$$
+NYZ085-232100-
+Southern Erie-
+Including the cities of Orchard Park and Springville
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                66 70 72          48          70          51    68 72 75
+Temp                   68 66 56 52 49 48 48 60 67 66 57 56 54 51 51 64 71 71 64
+Dewpt                  44 50 45 43 45 44 44 50 52 53 51 46 46 46 47 48 50 51 51
+RH                     42 56 66 71 86 86 86 69 59 63 80 69 74 83 86 56 47 49 63
+Wind dir                E  E SE  S  S SE SE SE  E NE SE SE SE  S  S  S  S  S SE
+Wind spd                2  3  5  6  6  5  4  3  3  2  4  5  6  6  6  9  9  8  9
+Clouds                 SC SC SC SC FW CL CL CL CL FW FW FW FW SC SC SC B1 SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    67      44    53      38    56      42    58
+Temp          58 55 66 57   49 44 52 45   41 39 56 47   44 44 57 48
+Dewpt         51 51 53 53   48 42 40 39   38 37 40 40   41 40 45 44
+PWind dir         S     S       W     N      NE     E      SE     S
+Wind char        GN    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    60      40    10       0     0      10    10
+Rain shwrs           C  L    C  S                                  
+
+$$
+NYZ012-232100-
+Wyoming-
+Including the city of Warsaw
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                66 69 74          47          69          49    68 71 76
+Temp                   67 65 54 51 49 47 47 60 67 66 56 55 53 50 49 63 71 71 63
+Dewpt                  41 46 43 42 44 44 44 50 51 53 51 45 45 46 47 48 49 49 50
+RH                     39 50 66 71 83 89 89 69 56 63 83 69 74 86 93 58 46 46 62
+Wind dir                E SE  S  S  S  S  S SE  E  E SE  S  S  S  S  S  S  S  S
+Wind spd                3  4  5  6  6  5  3  4  4  4  4  5  6  6  6  9 11 10  9
+Clouds                 SC SC B1 B1 SC FW CL CL CL FW FW FW FW SC SC FW SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    67      43    52      37    55      40    57
+Temp          57 55 66 56   48 43 52 43   40 38 54 45   43 43 57 47
+Dewpt         51 52 53 52   48 42 40 38   37 37 39 39   40 40 44 43
+PWind dir         S     S       W     N      NE     E      SE     S
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC SC B1 B1   B1 B2 B1 B1
+PoP 12hr          0    60      30     5       0     0      10    10
+Rain shwrs           S  L    C                                     
+
+$$
+NYZ019-232100-
+Chautauqua-
+Including the city of Jamestown
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                65 68 71    43 46 53          69    47 49 55    68 71 74
+Temp                   66 65 55 50 48 47 46 59 66 65 57 55 53 50 49 63 70 70 63
+Dewpt                  43 48 43 42 44 44 44 49 51 51 49 45 45 46 46 47 48 49 50
+RH                     43 54 64 74 86 89 93 69 58 60 75 69 74 86 89 56 45 47 62
+Wind dir               SE SE SE  S  S  S SE SE SE  E SE SE  S  S  S  S  S  S SE
+Wind spd                3  4  6  6  8  6  5  4  3  3  3  5  6  8  9 10 10  9 10
+Wind gust                                                     20 21            
+Clouds                 FW FW FW FW FW CL CL CL CL FW FW FW SC SC SC SC B1 SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    65      42    53      39    57      41    58
+Temp          56 54 65 55   48 43 52 45   41 39 56 48   43 43 57 48
+Dewpt         50 50 52 51   47 40 39 39   37 36 40 41   40 40 44 44
+PWind dir         S     S       W     N      NE     E      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          5    60      40    10       0     0      10    10
+Rain shwrs           C  L    C  S                                  
+
+$$
+NYZ020-232100-
+Cattaraugus-
+Including the city of Olean
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                65 68 72    42 44 48    67 69 73    45 47 51    68 71 75
+Temp                   66 64 53 48 46 45 44 58 66 66 56 53 51 48 47 62 70 70 62
+Dewpt                  38 43 41 42 44 43 43 49 50 50 50 44 45 45 46 46 47 48 50
+RH                     36 46 64 80 93 93 96 72 56 56 80 71 80 89 96 56 44 45 65
+Wind dir               SE SE SE  S  S SE SE SE  E  E SE SE  S  S  S  S  S  S SE
+Wind spd                3  4  5  4  4  3  2  3  3  2  3  4  5  5  5  8  9  9  9
+Wind gust                                                        16            
+Clouds                 SC SC SC SC FW FW FW CL CL CL FW FW FW SC SC FW SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    65      41    53      36    56      39    57
+Temp          56 53 64 55   47 42 52 43   38 36 55 46   41 41 56 47
+Dewpt         51 51 51 51   47 40 38 37   36 35 38 39   40 40 42 42
+PWind dir         S     S       W     N      NE     E      SE     S
+Wind char        GN    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 B2   B2 B2 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    60      40    10       0     0      10    10
+Rain shwrs           C  L    C  S                                  
+
+$$
+NYZ021-232100-
+Allegany-
+Including the city of Wellsville
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                64 68 72          45          70          47    68 71 75
+Temp                   65 63 53 49 47 46 45 59 67 66 56 53 51 48 47 62 70 70 62
+Dewpt                  36 40 41 43 44 43 43 49 50 51 50 45 45 45 46 48 48 48 49
+RH                     34 43 64 80 89 89 93 69 54 58 80 74 80 89 96 60 45 45 62
+Wind dir               SE SE SE  S  S SE SE  E  E  E SE SE  S  S  S  S  S  S  S
+Wind spd                4  5  5  4  3  3  2  3  4  3  4  4  4  4  5  8 10 10  9
+Clouds                 SC B1 B1 B1 B1 SC FW FW CL FW FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    66      43    53      36    55      39    57
+Temp          56 53 66 56   48 43 52 43   39 36 55 45   42 40 56 47
+Dewpt         51 51 51 51   47 41 38 36   36 35 38 38   39 39 42 41
+PWind dir         S     S       W     N      NE     E      SE     S
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B2 B1 SC   SC SC B1 B1   B1 B2 B1 B2
+PoP 12hr          5    60      30     5       0     0      10    10
+Rain shwrs           S  L    C                                     
+
+$$
+NYZ013-232100-
+Livingston-
+Including the city of Geneseo
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                64 71 74          48          71          49    69 74 76
+Temp                   69 67 56 52 50 49 48 62 69 68 58 55 53 50 49 65 73 73 65
+Dewpt                  38 42 43 44 45 45 45 51 52 53 52 47 46 46 47 50 50 50 51
+RH                     32 40 62 74 83 86 89 67 55 59 80 74 77 86 93 58 44 44 60
+Wind dir               SE SE SE  S  S  S  S  E NE NE SE  S  S  S  S  S  S  S  S
+Wind spd                3  5  6  5  4  3  2  3  3  4  4  4  5  5  5  9 11 10 10
+Clouds                 B1 B1 B1 B1 B1 SC FW CL FW CL FW CL FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    70      45    56      39    58      41    60
+Temp          59 56 69 59   51 46 55 46   42 39 57 47   44 43 59 49
+Dewpt         52 53 53 53   49 42 41 39   38 37 40 40   40 40 45 44
+PWind dir         S     S       W    NW      NE     E      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC SC B1 B1   B1 B2 B1 B1
+PoP 12hr          0    50      30    10       0     0      10    10
+Rain shwrs              C    C                                     
+
+$$
+NYZ014-232100-
+Ontario-
+Including the city of Canandaigua
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                64 69 72          49    65 70 73          50    67 73 76
+Temp                   68 65 56 53 52 51 50 62 67 66 57 56 53 51 50 65 72 72 65
+Dewpt                  38 44 45 45 46 46 47 52 53 54 53 48 47 48 49 51 52 52 52
+RH                     33 46 66 74 80 83 89 70 61 65 86 74 80 89 96 60 49 49 63
+Wind dir               SE SE SE  S  S SE SE  E NE  E  E SE  S  S  S  S  S  S  S
+Wind spd                6  6  6  4  3  3  2  3  3  4  3  4  4  4  4  8 11 11  9
+Clouds                 B1 B1 B1 B1 B2 B1 SC FW FW CL FW CL FW FW SC SC SC SC SC
+PoP 12hr                      0           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    70      47    55      40    57      42    59
+Temp          59 56 70 60   52 47 55 47   44 41 56 47   45 44 58 49
+Dewpt         53 54 55 54   49 44 41 40   38 38 40 40   40 41 45 44
+PWind dir         S     S       W    NW       N    NE      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B1   B2 B2 B1 SC   SC SC B1 B1   B1 B2 B1 B1
+PoP 12hr          5    40      30    10       0     0      10    10
+Rain shwrs              C    C                                     
+
+$$
+NYZ003-232100-
+Monroe-
+Including the city of Rochester
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                65 71 73          48    63 70 72          49    70 74 76
+Temp                   68 67 57 53 50 49 48 61 67 65 57 55 52 50 49 65 73 73 65
+Dewpt                  43 49 47 45 45 46 46 52 53 54 53 49 48 47 48 51 52 53 53
+RH                     40 52 69 74 83 89 93 72 61 68 86 80 86 89 96 60 48 49 65
+Wind dir                E  E SE  S  S  S SE  E NE NE  E SE  S  S SE  S  S SE  S
+Wind spd                5  5  6  5  4  3  2  2  4  5  4  3  4  4  4  6  8  9  8
+Clouds                 B1 B1 B1 B1 B1 SC FW FW CL CL FW FW FW SC SC SC SC SC SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    71      46    55      41    57      42    59
+Temp          58 55 70 60   51 46 55 48   44 42 56 48   44 44 58 49
+Dewpt         53 54 55 54   50 44 42 40   39 39 42 41   41 42 46 46
+PWind dir         S     S       W    NW      NE     E      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B1 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    50      30    10       0     0      10    10
+Rain shwrs              C    C                                     
+
+$$
+NYZ004-232100-
+Wayne-
+Including the city of Newark
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                65 69 71          48    64 69 71          49    68 73 74
+Temp                   67 65 57 52 51 50 49 60 66 65 57 55 52 50 49 64 72 72 65
+Dewpt                  39 48 47 46 47 47 48 52 54 55 54 50 49 49 49 53 54 54 54
+RH                     36 54 69 80 86 89 96 75 65 70 90 83 89 96100 67 53 53 68
+Wind dir               SE SE SE SE SE SE SE  E NE NE  E SE SE SE SE  S  S SE  S
+Wind spd                6  6  5  4  4  4  3  3  3  5  3  3  3  4  4  8 10 11  9
+Clouds                 B1 B1 B1 B1 B1 B1 SC FW FW FW SC FW FW FW SC SC SC SC SC
+PoP 12hr                      0           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    72      47    57      42    57      42    59
+Temp          59 56 71 61   53 48 56 49   45 42 56 49   45 44 58 50
+Dewpt         54 55 57 55   51 45 43 41   40 39 41 41   41 41 46 46
+PWind dir         S     S       W    NW      NE    NE      SE    SE
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B1   B2 B2 B1 SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          0    40      30    10       0     0      10    10
+Rain shwrs              C    C  S                                  
+
+$$
+NYZ005-232100-
+Northern Cayuga-
+Including the city of Fair Haven
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          49    65 69 71          50          73
+Temp                   67 65 56 53 52 51 50 60 66 65 57 55 53 51 50 64 72 72 65
+Dewpt                  39 49 48 46 46 47 48 53 55 55 55 51 50 50 50 54 55 55 55
+RH                     36 56 74 77 80 86 93 78 68 70 93 86 89 96100 70 55 55 70
+Wind dir               SE SE SE  E SE  E  E  E NE  E  E SE SE SE SE SE  S  S SE
+Wind spd                5  5  5  4  3  4  3  5  3  5  3  3  3  3  4  6 10 10  8
+Clouds                 B1 B1 B1 B1 B2 B2 SC SC FW FW SC FW FW FW SC SC SC SC SC
+PoP 12hr                      0          10           5           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    72      48    57      41    57      42    59
+Temp          60 57 71 61   53 49 56 49   45 41 57 49   45 44 58 50
+Dewpt         55 56 57 56   52 45 43 41   39 38 40 41   40 40 45 45
+PWind dir        SE     S       W    NW       N    NE       E    SE
+Wind char        LT    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B1   B2 B2 B1 SC   SC SC B1 B1   B2 B2 B1 B1
+PoP 12hr          5    40      30    10       0     0      10    10
+Rain shwrs              C    C  S                                  
+
+$$
+NYZ006-232100-
+Oswego-
+Including the city of Oswego
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                63 66 69          49    64 67 70          49    68 71 74
+Temp                   65 63 55 52 52 50 50 60 65 64 57 54 52 50 49 63 70 71 64
+Dewpt                  40 48 46 44 44 46 47 52 54 55 54 51 51 50 49 54 55 55 55
+RH                     40 58 72 74 74 86 89 75 68 73 90 90 96100100 72 59 57 73
+Wind dir               SE SE SE SE SE SE  E SE  E  E  E SE SE SE SE SE SE SE SE
+Wind spd                4  5  5  5  5  5  3  4  2  3  3  5  5  4  5  6  9 10  9
+Clouds                 B1 B1 B1 B1 B2 B2 B1 SC SC FW SC FW FW SC SC SC SC SC SC
+PoP 12hr                      0          20          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S                                       
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    71      47    56      40    57      41    57
+Temp          58 56 70 60   52 47 55 49   44 41 56 48   44 43 57 49
+Dewpt         55 55 57 57   51 45 43 41   38 36 39 40   38 38 43 44
+PWind dir        SE    SE      SW    NW      NE    NE       E    SE
+Wind char        GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B1   B2 B2 B1 SC   SC SC B1 B1   B2 B2 B1 B1
+PoP 12hr          5    30      40    10       0     0      10    10
+Rain shwrs              C    C  S                                  
+
+$$
+NYZ007-232100-
+Jefferson-
+Including the city of Watertown
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 68 71    47 49 55    62 67 68    48 49 55    65 71 74
+Temp                   67 64 55 52 52 51 51 61 66 65 57 54 52 50 49 63 70 71 64
+Dewpt                  42 48 47 43 43 44 46 50 52 53 52 51 51 50 49 53 54 54 55
+RH                     40 56 74 71 71 77 83 67 61 65 83 90 96100100 70 57 55 73
+Wind dir               NE NE  E SE SE SE SE  E NE NE  E SE SE SE SE  S  S  S SE
+Wind spd                2  2  3  4  4  3  2  2  3  3  2  4  3  3  4  6  9  9  9
+Wind gust                                                                    19
+Clouds                 B1 B1 B1 B1 B2 B2 B1 SC FW FW SC FW FW FW SC SC SC SC SC
+PoP 12hr                      0          10          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    71      46    55      37    56      39    57
+Temp          59 57 70 59   50 47 54 46   41 38 56 46   42 42 57 48
+Dewpt         55 55 56 56   50 44 40 39   36 35 36 37   37 37 41 42
+PWind dir         S     S      SW    NW      NE    NE       E     S
+Wind char        GN    GN      GN    GN      GN    LT      LT    LT
+Avg clouds    SC B1 B1 B1   B2 B2 B1 SC   SC SC SC B1   B1 B1 B1 B1
+PoP 12hr          5    20      40    10       0     0      10    10
+Rain shwrs              S    C  S                                  
+
+$$
+NYZ008-232100-
+Lewis-
+Including the city of Lowville
+132 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                62 66 70          47          66          48    67 70 73
+Temp                   65 61 52 50 49 49 49 59 64 63 55 53 51 49 48 62 69 70 63
+Dewpt                  39 43 43 41 41 43 46 52 53 53 54 50 50 49 48 53 54 53 55
+RH                     38 51 71 71 74 80 89 78 67 70 96 89 96100100 72 59 55 75
+Wind dir               SE  S SE SE SE SE  E  E  E SE  S SE SE SE SE  S  S SE SE
+Wind spd                3  3  4  4  4  3  2  2  2  1  2  4  5  4  5  6  9 10 10
+Clouds                 B1 B1 B2 B2 B2 B2 B1 B1 SC SC SC FW FW SC SC SC SC SC SC
+PoP 12hr                      0          20          20           5           0
+QPF 12hr                      0        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  S                                    
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    69      44    54      36    55      37    55
+Temp          57 55 68 58   49 45 53 44   39 37 55 44   40 39 54 45
+Dewpt         55 54 55 55   49 44 40 38   35 34 36 36   35 34 39 40
+PWind dir        SE    SE      SW    NW       N    NE      SE     S
+Wind char        GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC B1 B1 B2   B2 B2 B1 SC   SC SC SC B1   B1 B1 B1 SC
+PoP 12hr         10    20      40    20       0     0      10    10
+Rain shwrs              S    C  S  S                               
+
+$$

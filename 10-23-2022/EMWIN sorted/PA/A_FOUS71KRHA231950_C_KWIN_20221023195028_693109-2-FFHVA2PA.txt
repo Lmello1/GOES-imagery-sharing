@@ -1,0 +1,74 @@
+FOUS71 KRHA 231950
+FFHVA2
+HEADWATER STATEMENT FOR THE POTOMAC AND JAMES BASINS                    
+MIDDLE ATLANTIC RIVER FORECAST CENTER                                   
+NATIONAL WEATHER SERVICE STATE COLLEGE PA                               
+332 PM EDT SUN OCT 23 2022
+                                                                        
+APPROXIMATE 1/3/6/12-HR BASIN AVERAGED RAINFALL (INCHES)                
+REQUIRED TO CAUSE MINOR, MODERATE, AND MAJOR FLOODING AT                
+THE INDICATED HEADWATER LOCATIONS.                                      
+                                                                        
+.B RHA 221023 Z DH18/DC2210231932/DUE/PPHCF/PPTCF/PPQCF/PPKCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  12HR  HEADWATER NAME
+:======= ====  ====  ====  ====  ====================
+:                                                                       
+: NWS STERLING SERVICE AREA...                                          
+:  POTOMAC BASIN...                                                     
+:  North Branch Potomac River...                                        
+KITM2     2.5/  3.5/  4.1/  5.2 :Kitzmiller (9ft)   
+:KITM2md  4.2/  5.7/  6.9/  8.0  Kitzmiller (11)    
+:KITM2mj  6.2/  7.0/  7.4/  8.0  Kitzmiller (13)    
+:  Georges Creek...                                                     
+WSTM2     3.0/  3.3/  3.6/  4.0 :Westernport (8ft)  
+:WSTM2md  4.9/  5.2/  5.8/  6.4  Westernport (10)   
+:WSTM2mj  6.5/  7.0/  7.4/  8.0  Westernport (12)   
+:  South Branch Potomac River...                                        
+FKLW2     3.0/  3.5/  3.6/  3.9 :Franklin (7ft)     
+:FKLW2md  3.4/  4.2/  4.5/  5.0  Franklin (9)       
+:FKLW2mj  4.0/  5.1/  5.4/  6.0  Franklin (11)      
+:  South River...                                                       
+WAYV2     4.1/  4.4/  5.4/  5.8 :Waynesboro (9.5ft) 
+:WAYV2md  4.7/  5.1/  6.4/  7.0  Waynesboro (11)    
+:WAYV2mj  5.7/  6.2/  7.4/  8.0  Waynesboro (13)    
+:  North Fork Shenandoah River...                                       
+COOV2     6.0/  6.6/  7.4/  7.6 :Cootes Store (15ft)
+:COOV2md  6.5/  7.0/  7.4/  8.0  Cootes Store (18)  
+:COOV2mj  6.5/  7.0/  7.4/  8.0  Cootes Store (21)  
+:  Antietam Creek...                                                    
+SACM2     4.9/  5.0/  5.1/  5.3 :Sharpsburg (8ft)   
+:SACM2md  5.6/  5.6/  5.8/  6.1  Sharpsburg (10)    
+:SACM2mj  6.5/  6.6/  6.7/  7.1  Sharpsburg (12)    
+:  Seneca Creek...                                                      
+DAWM2     2.6/  2.7/  2.9/  3.1 :Dawsonville (7.5ft)
+:DAWM2md  4.6/  5.0/  5.2/  5.8  Dawsonville (11)   
+:DAWM2mj  6.5/  7.0/  7.4/  8.0  Dawsonville (16)   
+:                                                                       
+: NWS BLACKSBURG SERVICE AREA...                                        
+:  Maury River...                                                       
+BVSV2     6.3/  6.9/  7.4/  7.8 :Buena Vista (17ft) 
+:BVSV2cs  5.1/  5.5/  5.9/  6.2  Buena Vista (13)   
+:BVSV2md  6.5/  7.0/  7.4/  8.0  Buena Vista (19)   
+:BVSV2mj  6.5/  7.0/  7.4/  8.0  Buena Vista (21)   
+.END                                                                    
+:
+:===============================================================
+:          EXPERIMENTAL NON-FCST POINT RAW MODEL OUTPUT
+:      NO MANUAL QC OR ADJUSTMENTS APPLIED...USE WITH CAUTION
+:===============================================================
+:                                                                       
+: NWS STERLING SERVICE AREA...                                          
+:  Rock Creek at Sherrill Drive., Washington DC
+.B RHA 221023 Z DH18/DC2210231932/DUE/PPHCF/PPTCF/PPQCF/PPKCF
+:GageID   1hr   3hr   6hr   12hr  rainfall for indicated stages
+RCKD2     1.9/  2.0/  2.1/  2.6 :Washington, DC (7ft)
+:RCKD2md  2.5/  2.7/  3.0/  3.7  Washington, DC (10)
+:RCKD2mj  3.3/  3.6/  3.9/  4.8  Washington, DC (12)
+.END
+: Model-simulated 3-hourly stage forecasts including QPF...
+.E RCKD2 20221023 DC2210231950/DH21/HGIFX/DIH3/
+.E1 1.8/1.8/1.8/1.8/1.8/1.8/1.8/1.8
+:chps
+$$
+NNNN

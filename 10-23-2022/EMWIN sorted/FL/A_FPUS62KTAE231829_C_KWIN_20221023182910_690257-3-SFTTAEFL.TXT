@@ -1,0 +1,159 @@
+FPUS62 KTAE 231829
+SFTTAE
+STZ000-241000-
+
+Tabular State Forecast for Florida
+National Weather Service Tallahassee FL
+228 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Florida...
+   Tallahassee
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   52/83    55/82    64/81    53/82    56/83    61/80    60/79    
+    00/00    00/00    20/20    10/00    00/10    20/30    30/20   
+
+   Panama City NW
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   57/80    62/81    64/78    56/78    58/80    63/78    62/77    
+    00/10    00/20    40/20    00/00    00/10    30/30    30/20   
+
+   De Funiak Springs
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   50/81    57/81    57/76    49/78    52/80    58/75    57/75    
+    00/00    00/30    40/10    00/00    00/10    30/40    40/20   
+
+   Marianna
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   50/83    55/84    61/79    50/80    54/83    59/78    58/77    
+    00/00    00/10    30/20    00/00    00/10    20/30    30/20   
+
+   Apalachicola
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   61/77    65/78    67/78    57/76    60/78    64/76    64/75    
+    00/00    00/10    30/30    10/00    00/10    20/30    30/20   
+
+   Alligator Point
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   63/75    65/76    69/77    60/75    63/76    66/75    66/74    
+    00/00    00/00    30/30    10/00    00/10    20/30    30/20   
+
+   Monticello
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   52/82    54/83    63/81    54/82    56/84    61/81    60/80    
+    00/00    00/00    20/20    10/00    00/10    10/20    20/20   
+
+   Madison
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Sunny    
+   51/82    52/84    62/82    54/81    56/84    60/81    60/80    
+    00/00    00/00    10/10    10/00    00/10    10/20    20/20   
+
+   Perry
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Sunny    
+   51/82    53/81    62/81    54/80    56/82    60/80    59/78    
+    00/00    00/00    10/10    10/00    00/10    10/20    20/20   
+
+   Cross City
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Sunny    
+   53/84    55/84    63/83    56/83    58/84    61/83    61/82    
+    00/00    00/00    10/20    10/00    00/10    10/20    20/20   
+
+
+...Southeast Alabama...
+   Dothan
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   49/81    53/82    57/75    49/77    52/80    58/75    57/75    
+    00/00    00/20    40/10    00/00    00/10    20/30    30/20   
+
+   Abbeville
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   47/79    51/81    55/74    47/76    51/79    57/73    56/73    
+    00/00    00/10    40/20    00/00    00/10    20/30    30/20   
+
+   Ozark
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   48/82    54/82    55/74    48/77    52/80    58/75    57/75    
+    00/00    00/20    40/10    00/00    00/10    20/30    30/20   
+
+   Elba
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   48/82    55/82    54/74    47/78    51/80    58/75    56/75    
+    00/00    00/30    40/10    00/00    00/10    30/40    40/20   
+
+   Geneva
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   Sunny    
+   47/82    54/82    55/75    47/77    50/80    57/75    56/75    
+    00/00    00/30    40/10    00/00    00/10    30/30    30/20   
+
+
+...Southwest and South-Central Georgia...
+   Albany
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   49/81    52/83    61/77    51/78    55/81    59/77    58/75    
+    00/00    00/00    30/20    00/00    00/10    20/30    30/20   
+
+   Cuthbert
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   47/79    50/81    56/74    47/76    51/78    56/73    55/73    
+    00/00    00/10    40/20    00/00    00/10    20/30    30/20   
+
+   Colquitt
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   48/82    52/84    60/78    49/79    53/82    58/78    58/76    
+    00/00    00/10    30/20    00/00    00/10    20/30    30/20   
+
+   Bainbridge
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   50/83    54/84    62/79    50/80    54/83    59/79    58/78    
+    00/00    00/00    30/20    10/00    00/10    20/30    30/20   
+
+   Camilla
+   Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   Ptcldy   
+   50/82    52/83    61/79    51/80    54/82    59/78    58/77    
+    00/00    00/00    20/20    10/00    00/10    20/30    30/20   
+
+   Ashburn
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   49/79    52/81    61/78    51/78    55/80    58/76    58/75    
+    00/00    00/00    20/20    10/00    00/10    10/30    30/20   
+
+   Moultrie
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   50/79    52/81    62/78    52/78    56/81    59/78    58/76    
+    00/00    00/00    20/20    10/00    00/10    10/30    30/20   
+
+   Thomasville
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   51/81    53/82    62/79    53/80    56/82    60/78    59/78    
+    00/00    00/00    20/20    10/00    00/10    10/30    30/20   
+
+   Fitzgerald
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   49/79    51/81    61/79    51/79    55/80    58/77    58/77    
+    00/00    00/00    20/20    10/00    00/10    10/30    30/20   
+
+   Nashville
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   50/81    51/83    62/81    53/80    56/82    60/79    59/79    
+    00/00    00/00    10/10    10/00    00/10    10/20    20/20   
+
+   Valdosta
+   Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+   51/82    52/84    62/82    54/82    56/84    61/81    60/80    
+    00/00    00/00    10/10    10/00    00/10    10/20    20/20   
+
+
+$$
+

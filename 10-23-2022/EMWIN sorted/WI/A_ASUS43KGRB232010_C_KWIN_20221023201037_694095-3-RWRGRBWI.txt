@@ -1,0 +1,84 @@
+ASUS43 KGRB 232010
+RWRGRB
+
+NORTH-CENTRAL AND NORTHEAST WISCONSIN REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE GREEN BAY WI
+300 PM CDT SUN OCT 23 2022
+
+WIZ005-009-010>012-018-019-232100-
+NORTH CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRONWOOD       SUNNY     73  55  53 SE17G24   29.71F                  
+MANITOWISH WTR MOSUNNY   71  54  53 SE18G28   29.74F                  
+ARBOR VITAE    MOSUNNY   70  53  55 S16G22    29.76F                  
+EAGLE RIVER    MOSUNNY   69  51  52 S15G23    29.79S                  
+LAND O LAKES   PTSUNNY   72  51  48 S13G22    29.81S                  
+RHINELANDER    SUNNY     70  52  52 S17G28    29.78F                  
+PHILLIPS       MOSUNNY   72  55  54 SE21G26   29.70F                  
+ANTIGO         SUNNY     70  55  58 SE20      29.80F                  
+TOMAHAWK       MOSUNNY   73  54  51 CALM      29.75F                  
+MERRILL        MOSUNNY   73  55  53 SE16      29.74F                  
+$$
+
+WIZ013-073-232100-
+NORTHEAST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRON MOUNTAIN  SUNNY     69  54  58 SE17G29   29.84F                  
+MARINETTE      SUNNY     64  53  67 S10G16    29.88F                  
+OCONTO         SUNNY     67  54  63 SE14      29.85F                  
+$$
+
+WIZ017-030-035>037-045-232100-
+CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEDFORD        SUNNY     72  55  54 SE16G28   29.72F                  
+WAUSAU         SUNNY     74  54  49 E14G25    29.73F                  
+MOSINEE        MOSUNNY   72  54  53 SE17G25   29.76F                  
+MARSHFIELD     SUNNY     73  55  53 S18G31    29.71F                  
+WISC RAPIDS    SUNNY     74  54  49 SE17G35   29.74F                  
+STEVENS POINT  MOSUNNY   75  50  40 SE16G23   29.75F                  
+WAUPACA        SUNNY     75  54  46 SE16      29.77F                  
+SHAWANO        SUNNY     73  57  56 SE13G23   29.80F                  
+CLINTONVILLE   SUNNY     72  56  56 SE14      29.80F                  
+WAUTOMA        MOSUNNY   75  56  51 SE18      29.75F                  
+$$
+
+WIZ038-039-048-051-232100-
+FOX VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NWS GREEN BAY  SUNNY     71  54  54 SE18G28   29.84F                  
+APPLETON       SUNNY     70  54  56 SE15      29.79F                  
+OSHKOSH        SUNNY     71  55  56 SE20G29   29.79F                  
+FOND DU LAC    SUNNY     73  53  49 SE15G25   29.79F                  
+$$
+
+WIZ022-050-052-232100-
+EAST CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EPHRAIM        FAIR      63  51  66 S18G26    29.89S                  
+WASHINGTON ISL CLOUDY    62  53  73 S13G22    29.90F                  
+STURGEON BAY   SUNNY     64  53  67 S24       29.87F                  
+MANITOWOC      PTSUNNY   61  53  75 SE20G26   29.87F                  
+SHEBOYGAN      SUNNY     67  55  65 S13G24    29.86F                  
+$$
+
+LMZ563-521-522-541>543-232100-
+LAKESHORE
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+SHEBOYGAN LKSHOR 2000   56     150/ 16/ 17 1011.1F
+KEWAUNEE LKSHORE 1924          170/  8/  9 1011.5
+NORTHPORT PIER   1900          120/ 12/ 19 1013.9
+N MID LAKE BUOY  1950   53 49  110/  4/  6 1013.5F         3/ 6
+CHAMBERS ISLAND  1930   63     120/  8/ 15   N/A
+GREEN BAY WEST   1924          140/  9/ 14 1009.0
+MENOMINEE LKSHOR 1930      49  150/ 14/ 17 1010.6
+$$
+  

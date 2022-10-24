@@ -1,0 +1,28 @@
+SHUS61 KMWI 231916
+FWOGYX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 19:16:26 GMT
+ 
+Listing of Observations (Portland, ME)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+HATCHE 170132 221023 13 R 2  67  47  50 0 0 129  3     67  41  94  48  0 0.000
+DAMARI 170151 221023 13 R 2  65  60  84 0 0 321  1     65  39  96  50  0 0.000
+CUPSUP 170171 221023 13 R 2  66  48  53 0 0 127  0     66  30  96  37  0 0.000
+MASSAB 170311 221023 13 R 3  64  46  52 0 0  95  0     67  40  97  38  0 0.000
+RACHEL 171603 221023 12 R 3  58  55  92 0 0 146  2     66  42 100  45  0 0.000
+TURNER 172501 221023 12 R 2  73  38  28 0 0 188  3     73  34  98  28  0 0.000
+MONADN 270051 221023 13 R 3  58  39  51 0 0  82  1     67  48  64  30  0 0.000
+LANCAS 270071 221023 13 R 3  67  41  39 0 0 250  1     68  30  97  30  0 0.000
+WARREN 270091 221023 13 R 3  64  43  48 0 0 176  2     72  32 100  27  0 0.000
+GREAT  270105 221023 13 R 3   0  -9  64 0 0 322  0      6  -1  78  46  0 0.000
+BEAR B 270131 221023 13 R 3  61  49  65 0 0   4  0     72  33  97  32  0 0.000
+WHITE  270301 221023 13 R 3  64  43  47 0 0   5  1     70  35  98  28  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 19:16:26 GMT
+

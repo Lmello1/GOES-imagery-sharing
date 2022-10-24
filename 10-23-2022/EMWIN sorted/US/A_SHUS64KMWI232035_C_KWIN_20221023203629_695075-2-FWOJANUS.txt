@@ -1,0 +1,29 @@
+SHUS64 KMWI 232035
+FWOJAN
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (Jackson, MS)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+DELTA  223301 221023 13 R 2  84  56  39 0 0 194  9     84  60  81  35  0 0.000
+HOLMES 223501 221023 13 R 2  82  59  46 0 0 166  6     82  61  79  40  0 0.000
+TOMBIG 223701 221023 13 R 2  79  49  35 0 0 234  5     80  55  97  35  0 0.000
+NESHOB 224601 221023 13 R 1  80  48  33 0 0  74 10     80  53  99  33  0 0.000
+BIENVI 225101 221023 13 R 1  82  48  31 0 0 162  1     82  50  99  31  0 0.000
+LAUDER 225301 221023 13 R 2  79  48  34 0 0 286  6     79  43 100  34  0 0.000
+COPIAH 225502 221023 13 R 2  78  59  53 0 0  25  9     79  57  93  41  0 0.000
+BUDE   226102 221023 13 R 2  82  59  46 0 0 122  8     83  59  91  35  0 0.000
+COVING 226502 221023 13 R 2  81  49  33 0 0 244  4     81  50 100  33  0 0.000
+MARION 227202 221023 13 R 2  84  54  36 0 0 210  2     84  53 100  36  0 0.000
+RAGLAN 227401 221023 12 R 1  79  54  43 0 0 158  6     80  50 100  40  0 0.000
+BLACK  227802 221023 13 R 0  81  57  44 0 0 171  0     81  52 100  44  0 0.000
+HANCOC 228002 221023 13 R 2  80  57  47 0 0 269  3     80  54 100  46  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

@@ -1,0 +1,125 @@
+ASUS42 KCHS 231910
+RWRCHS
+
+Regional Weather Roundup
+National Weather Service Charleston SC
+300 PM EDT SUN OCT 23 2022
+
+NOTE: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+Not all stations are quality controlled. Use data with caution,
+especially dewpoint observations.
+
+SCZ027-030-031-034>040-042>050-232000-
+...Southeast South Carolina...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+N Charleston   SUNNY     75  51  43 N12       30.13F                  
+Waterfront Prk   N/A     73  50  44 N10       29.97F                  
+Mount Pleasant FAIR      75  50  41 NW13      30.12S                  
+Johns Island   FAIR      75  52  43 N9        30.13S                  
+Pinopolis        N/A     70  55  60 VRB2        N/A                   
+Moncks Corner  FAIR      72  50  46 N3        30.14S                  
+Summerville    FAIR      75  52  43 N10       30.13F                  
+Beaufort MCAS  SUNNY     78  51  38 N10       30.13F                  
+Beaufort Arpt  FAIR      73  52  46 N10       30.13F                  
+Hilton Head Is SUNNY     75  54  46 NE8G15    30.14F                  
+Walterboro     CLEAR     75  50  41 N7        30.14F                  
+Allendale      FAIR      75  48  38 N7        30.13F                  
+
+...Southern Midlands and Pee Dee...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Georgetown     FAIR      73  45  35 N7        30.13S                  
+Kingstree      FAIR      73  39  29 N8        30.14F                  
+Orangeburg     SUNNY     75  50  41 NW7       30.15F                  
+Barnwell       FAIR      75  50  41 NW8       30.15F                  
+Aiken          FAIR      74  49  40 NW5       30.16F                  
+Manning        FAIR      73  45  35 N6        30.14F                  
+Columbia       MOSUNNY   75  48  38 VRB3      30.14F                  
+Sumter         SUNNY     75  45  34 N6        30.12F                  
+Florence       SUNNY     75  44  33 VRB7      30.14F                  
+Myrtle Beach   SUNNY     74  44  34 NW12G21   30.11F                  
+N Myrtle Beach MOSUNNY   72  40  31 NW12      30.10F                  
+
+$$
+ 
+GAZ063-065-086>088-099>101-113>116-118-119-134>141-150-232000-
+...Southeast Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Savannah Arpt  MOSUNNY   76  51  41 CALM      30.13F                  
+Hunter AAF     MOSUNNY   77  55  46 CALM      30.10F                  
+Fort Stewart   SUNNY     78  53  42 E7        30.10F                  
+Statesboro     SUNNY     76  48  38 NE3       30.13F                  
+Sylvania       CLEAR     77  51  39 N7        30.15S                  
+Claxton        FAIR      78  51  39 CALM      30.13F                  
+Millen         FAIR      76  48  37 CALM      30.16S                  
+Metter         FAIR      77  50  39 N3        30.14F                  
+Reidsville     FAIR      77  53  42 NE3       30.13F                  
+
+...CSRA, Central and far Southeast Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Thomson        SUNNY     75  48  38 NE5       30.15F                  
+Augusta-Bush   NOT AVBL                                               
+Augusta-Daniel SUNNY     76  46  34 VRB6      30.15F                  
+Swainsboro     FAIR      77  50  38 E7        30.16F                  
+Vidalia        SUNNY     79  50  36 E5        30.14F                  
+Eastman        FAIR      75  48  38 W3        30.14F                  
+Hazlehurst     FAIR      77  51  40 N3        30.12F                  
+Alma           SUNNY     80  51  36 VRB3      30.12F                  
+Waycross       SUNNY     79  53  40 CALM      30.12F                  
+Jesup          FAIR      70  43  37 CALM      30.15F                  
+Baxley         FAIR     N/A N/A N/A N7        30.12F                  
+Brunswick      SUNNY     76  55  47 E14       30.14S                  
+Saint Simons   SUNNY     75  59  57 NE12      30.13F                  
+
+$$
+
+SCZ027-028-034-036>038-045-046-048>050-GAZ119-141-232000-
+...Lake and Supplemental Coastal Observations...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+Winyah Bay       1745   71     340/  7     1020.0
+Lake Murray      1820   69     210/  2/  9   N/A
+Chrlstn Harbor   1824      70  320/  7/ 14 1018.9
+ACE Basin NERRS  1745   75     350/  3     1022.0
+Fort Pulaski     1824      70  110/  8/  9 1020.9
+Sapelo Island    1800   75      60/ 10     1021.0
+
+$$
+
+ANZ835-935-AMZ111-154-330-350-352-354-370-450-454-472-232000-
+...C-MAN and Buoy Observations...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+Buoy 41004       1850   69 77  360/ 14/ 17 1020.2S   6/10   3/ 80/10
+Buoy 41008       1850   70 72   50/ 14/ 16 1020.0F   4/ 8   3/ 90/ 8
+Folly Beach CMAN 1800   72     360/  8/ 11 1020.8F
+Chas Pilot Buoy  1808   69 73   10/  8/ 12 1020.7F
+Chas Pilot Wave  NOT AVBL
+Capers Nearshore NOT AVBL
+Capers NS Wave   NOT AVBL
+Fripp Nearshore  NOT AVBL
+
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER/DIR
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S/D)
+5E St. Marys GA  1830   71 72                N/A     4/10   2/ 80/10
+Frying Pan Buoy  1850   67 75  330/ 12/ 16 1018.8F   5/ 8   5/ 90/ 8
+Buoy 41025       1850      78  360/ 27/ 33 1014.5F
+Cape Lookout NC  1800   61     330/ 14/ 16 1018.4R
+Buoy 41002       1850   76 78  350/ 12/ 19 1013.8F   6/ 8   7/ 20/ 8
+Buoy 41010       1850   77 82   20/  8/ 12 1017.8F
+St Augustine FL  1900   72 73  360/ 14/ 15 1019.6F
+
+
+$$
+  

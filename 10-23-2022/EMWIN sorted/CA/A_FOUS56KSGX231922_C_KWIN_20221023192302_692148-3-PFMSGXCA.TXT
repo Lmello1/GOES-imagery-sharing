@@ -1,0 +1,584 @@
+FOUS56 KSGX 231922
+PFMSGX
+
+Point Forecast Matrices
+National Weather Service San Diego CA
+1222 PM PDT Sun Oct 23 2022
+
+CAZ552-241200-
+John Wayne Airport-Orange CA
+33.68N 117.87W Elev. 52 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          78          57          75          56
+Temp          71 69 63 60 57 57 60 74 77 75 66 62 59 57 60 72 75 71 62 59 57 56
+Dewpt         52 53 53 53 51 44 39 29 31 38 46 48 47 38 39 43 48 52 54 55 54 52
+RH            51 57 70 78 80 62 46 19 18 26 48 60 64 49 46 35 38 51 75 87 90 86
+Wind dir      SW  W SW SE NE NE NE NE  N  W NW  W  S  S  S  S SW SW SW  S SE SE
+Wind spd       8 10  3  4  8 24 24 18  3 13  8  2  1  2  3  5  8  6  4  4  8  5
+Wind gust                    36 36 29                                          
+Clouds        FW FW FW FW FW CL CL CL CL CL CL CL CL FW FW FW FW FW FW B2 B2 OV
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          71      56    72      55    74      56    74      57    73
+Temp          69 68 60   56 69 70 60   55 71 71 60   56 71 71 60   57 70 70
+Dewpt         55 57 56   53 50 49 50   45 46 49 50   48 48 51 51   50 51 52
+PWind dir         S       S     S      SE    SW      SW     W      SW     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV FW SC   OV OV FW FW   B2 B1 FW SC   SC B1 SC SC   B1 B1 SC
+PoP 12hr          0       5     0       0     0       0     0       0     5
+
+$$
+CAZ554-241200-
+Fullerton-Orange CA
+33.87N 117.98W Elev. 95 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          79          54          76          56
+Temp          71 70 63 60 57 56 58 72 78 77 65 60 56 55 56 71 75 73 64 61 58 57
+Dewpt         48 49 50 51 48 40 37 29 28 30 41 43 41 33 35 37 42 47 51 53 53 51
+RH            44 47 62 72 72 55 45 20 16 18 41 53 57 43 45 29 31 40 63 75 83 80
+Wind dir      SW  W SW SE  E NE  E  N  W  W  W SE  E  E SE  S SW SW SW  S SE SE
+Wind spd       5 10  4  6  4  6 13  3  6 12  8  2  4  4  4  3  6  8  4  4  5  5
+Clouds        FW FW FW FW FW CL CL CL CL CL CL FW FW FW FW FW FW CL CL B1 B1 B2
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          72      54    74      55    76      56    76      56    75
+Temp          68 70 59   54 68 73 61   55 70 74 60   56 70 74 60   56 69 73
+Dewpt         54 56 54   51 49 45 47   42 42 44 47   45 43 46 49   48 49 49
+PWind dir         S       S     S       E     S      SW    SW      SW     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 FW FW   OV OV FW CL   B2 SC FW FW   SC SC SC FW   SC B1 SC
+PoP 12hr          0       5     0       0     0       0     0       0     5
+
+$$
+CAZ048-241200-
+Ontario-San Bernardino CA
+34.05N 117.58W Elev. 942 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          75          51          75          52
+Temp          67 68 62 59 57 56 56 66 73 74 63 56 53 52 53 66 74 73 63 58 55 53
+Dewpt         47 45 46 39 28 29 30 24 24 24 30 32 30 26 29 31 30 39 43 45 45 45
+RH            49 43 56 47 33 35 37 20 16 15 29 40 41 36 39 27 20 29 48 62 69 74
+Wind dir      SW  W  W NE NE  N NE  W  W  W  W  N  E  E NE SE  W SW  W  N NE  E
+Wind spd       3 10  6  8 18 17 17  3  3  6  4  2  3  3  4  2  5 11  6  2  4  3
+Wind gust                 29 27                                                
+Clouds        FW FW FW FW FW CL CL CL CL CL CL CL CL FW FW FW FW CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          71      50    72      51    74      51    75      52    74
+Temp          63 69 55   50 62 71 56   51 64 73 57   51 65 73 57   52 64 72
+Dewpt         49 54 54   50 43 36 36   31 32 34 40   40 40 40 42   42 45 44
+PWind dir        SE       N     E       N     W       W    SW       W    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW   FW FW FW CL   FW FW FW FW   SC FW SC FW   SC SC SC
+PoP 12hr          0       5     0       0     0       0     0       0     5
+
+$$
+CAZ048-241200-
+Riverside-Riverside CA
+33.95N 117.45W Elev. 817 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          77          49          78          51
+Temp          68 69 62 59 56 55 57 67 75 76 64 57 53 50 51 67 77 76 63 58 54 51
+Dewpt         45 44 46 44 33 32 30 22 18 19 27 30 30 27 30 29 29 35 41 43 44 44
+RH            43 40 56 57 42 41 35 18 11 12 24 35 41 41 44 24 17 22 44 57 69 77
+Wind dir       W  W  W NE  N NE  N  N  N  N  W  E SE  E  E SW  W  W  W  E  E  E
+Wind spd       5 11  8  4 18 20 24 24 14 12  6  1  3  3  3  1  6 10  6  4  3  3
+Wind gust                 28 33 35 37                                          
+Clouds        FW FW FW FW FW CL CL CL CL CL CL CL CL FW FW FW FW CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Wind                    Y  Y  Y  Y  Y                                          
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          73      51    74      50    77      51    78      52    75
+Temp          63 71 57   51 63 72 56   50 66 75 57   51 67 75 58   52 64 72
+Dewpt         47 50 53   50 42 34 37   33 32 33 39   40 38 37 42   43 43 44
+PWind dir         S       S     E       S    SE       W    SW      NW     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW SC   SC SC FW CL   FW FW FW FW   SC FW SC FW   SC SC SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ048-241200-
+March Air Force Base-Riverside CA
+33.90N 117.25W Elev. 1539 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          74          45          76          49
+Temp          66 67 60 55 52 50 52 65 72 73 61 53 48 46 48 67 76 73 62 56 52 50
+Dewpt         43 40 43 45 38 30 29 19 16 16 19 24 27 23 28 26 25 32 36 39 41 42
+RH            43 37 53 69 59 46 41 17 12 11 19 32 44 40 46 21 15 22 38 53 66 74
+Wind dir       W  W  W SE  N  N  N  E NE  E  W  N  E  E  E  S  W  W NW SE SE  E
+Wind spd       5 10  9  3  5 13 12  8  6  9 10  4  3  3  5  2  6 10  5  4  5  3
+Clouds        FW FW FW CL CL CL CL CL CL CL CL CL CL FW FW CL CL CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          72      49    72      47    75      48    76      50    75
+Temp          64 70 55   50 63 71 54   47 67 73 55   48 67 74 56   50 67 73
+Dewpt         44 46 51   48 43 32 33   30 30 29 35   36 36 34 39   41 41 41
+PWind dir        SE      SW    SE       E    SE      NE    NW      NW     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW SC   SC SC FW CL   FW FW FW FW   SC FW SC FW   SC SC FW
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Camp Pendleton-San Diego CA
+33.31N 117.35W Elev. 79 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          78          47          75          51
+Temp          70 68 62 56 53 51 53 74 77 75 62 54 51 48 50 72 74 70 60 55 53 51
+Dewpt         51 52 54 53 50 45 39 29 34 39 45 43 40 30 34 35 42 49 53 51 49 48
+RH            51 57 75 90 89 80 59 19 21 27 54 66 66 49 54 26 32 47 78 86 86 89
+Wind dir      SW SW SW NE NE NE NE NE  W  W NW NE NE NE NE SW  W  W SW  S SE SE
+Wind spd       9  9  3  4  8 14 14  8  9 16 14  4  4  5  4  3 10  9  4  3  4  4
+Clouds        SC FW FW FW FW FW FW CL CL CL CL FW FW FW FW CL CL CL CL FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          71      53    72      50    75      51    74      51    73
+Temp          68 67 57   54 68 70 55   51 71 71 55   52 71 70 55   51 70 69
+Dewpt         52 56 54   52 50 49 47   41 40 47 47   43 45 50 49   46 49 52
+PWind dir         S      SW     S       W     S       W     W       W    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW SC   B2 B2 FW FW   SC SC FW FW   SC SC SC SC   B1 B1 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Carlsbad-San Diego CA
+33.13N 117.28W Elev. 328 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          76          55          72          56
+Temp          68 66 62 59 57 55 56 72 75 72 64 60 57 56 57 70 72 68 62 58 57 56
+Dewpt         53 53 54 53 52 47 42 31 35 43 48 46 41 32 36 38 44 52 54 52 51 50
+RH            59 63 75 80 83 74 59 22 23 35 56 60 55 40 45 31 37 57 75 80 80 80
+Wind dir      SW SW  W  E NE NE NE  N  W  W NW  N NE NE SE SW  W  W SW  S  S  S
+Wind spd       9  8  2  2  3  9 10  3  9 10  6  3  6  2  2  4  8  8  3  5  6  5
+Clouds        SC FW FW FW FW FW FW FW FW FW FW FW FW FW FW CL CL FW FW FW FW SC
+PoP 12hr                      5           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          68      56    69      54    71      55    70      56    69
+Temp          66 65 59   57 65 67 58   54 68 68 58   55 68 67 59   56 67 67
+Dewpt         55 58 56   55 53 52 49   44 44 51 48   46 48 53 51   50 52 54
+PWind dir         S      SW     S      NW    SW       W     W       W     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW SC   OV OV SC FW   SC B1 FW SC   SC B1 SC SC   B1 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Oceanside-San Diego CA
+33.22N 117.35W Elev. 30 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          77          50          73          54
+Temp          70 68 62 56 53 51 54 74 76 74 64 56 52 51 53 71 72 68 61 56 54 54
+Dewpt         53 53 55 54 52 46 41 32 41 45 50 47 43 33 36 38 46 53 54 53 51 50
+RH            55 59 78 93 96 83 61 21 28 35 60 72 71 50 52 30 39 59 78 90 90 86
+Wind dir      SW SW  W NE NE NE NE NE  W  W NW  N NE NE  E  W  W  W SW  S  S  S
+Wind spd       8  6  2  1  4 12 13  6  9 13 13  6  5  5  3  3  9  8  3  4  5  4
+Clouds        SC FW FW FW FW FW FW CL CL FW FW FW FW FW FW CL CL FW FW SC SC B1
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          70      55    72      52    73      53    73      53    71
+Temp          68 67 58   55 69 70 57   53 70 70 57   53 70 70 56   53 69 68
+Dewpt         54 57 55   53 51 52 50   44 43 50 49   45 47 53 51   49 51 54
+PWind dir         S      SW     S       W    SW       W     W       W    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC SC   OV OV SC FW   SC B2 FW SC   SC B1 SC SC   B1 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Miramar-San Diego CA
+32.87N 117.14W Elev. 482 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          76          51          75          54
+Temp          67 65 59 56 54 52 56 72 75 72 61 56 53 51 56 72 75 69 59 56 55 54
+Dewpt         50 50 52 52 50 45 40 31 34 39 45 44 40 30 32 31 39 47 52 51 50 49
+RH            54 58 78 86 86 77 55 22 22 30 56 64 61 44 40 22 27 45 78 83 83 83
+Wind dir      SW SW  W NE NE NE SE NW  W NW  N  N  N  E  E  W  W  W  W  S  S  S
+Wind spd       8  6  2  2  2  4  2  2  9 12  9  6  3  3  2  4  9  8  3  3  4  4
+Clouds        SC FW FW FW FW FW FW FW FW CL CL FW FW FW FW CL CL FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          70      54    71      51    74      53    73      54    72
+Temp          67 66 56   54 67 68 54   51 70 70 56   53 70 68 56   54 70 68
+Dewpt         51 54 54   53 49 49 48   42 40 46 47   45 43 50 51   49 48 52
+PWind dir         S       W     S      NW    SW      NW    NW      NW     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW SC   OV OV SC FW   SC B2 FW SC   SC B2 SC SC   B2 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Montgomery Field-San Diego CA
+32.81N 117.14W Elev. 407 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          76          53          75          56
+Temp          67 65 60 59 56 54 56 72 75 73 64 60 55 54 55 72 74 69 62 60 57 57
+Dewpt         51 51 52 52 51 46 41 32 35 39 45 44 41 31 32 33 40 48 52 52 51 50
+RH            56 60 75 78 83 74 57 23 23 29 50 55 59 41 41 24 29 47 70 75 80 77
+Wind dir      SW SW  W NE NE NE SE NW  W NW  N  N  N  E  E  W  W  W NW  S  S  S
+Wind spd       8  6  2  2  2  3  2  2  9 12  9  8  3  3  2  4  9  8  3  2  3  3
+Clouds        SC FW FW FW FW FW FW FW FW CL CL FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          70      56    71      54    74      55    73      56    72
+Temp          67 66 59   57 68 69 59   54 70 70 59   55 70 69 59   57 70 69
+Dewpt         52 55 55   53 49 49 49   44 40 47 48   46 43 50 51   49 48 52
+PWind dir         S       W     S      NW    SW       W    NW      NW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC   OV OV SC FW   SC B2 FW SC   SC OV SC SC   B2 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     5
+
+$$
+CAZ043-241200-
+San Diego Lindbergh Field-San Diego CA
+32.73N 117.18W Elev. 30 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          73          58          71          59
+Temp          67 66 63 61 59 58 59 71 73 72 67 63 60 58 60 70 71 68 64 62 60 59
+Dewpt         54 54 54 55 54 50 46 42 47 50 51 50 46 39 38 40 50 55 56 56 55 54
+RH            63 65 72 81 83 75 62 35 40 46 56 62 60 49 44 33 47 63 75 81 84 83
+Wind dir      SW SW NW NE  E NE  E  W  W NW  N  N  N  E NE  W  W  W NW SW  S  S
+Wind spd       6  5  2  2  2  3  1  4  9 13  9  8  5  3  2  3  9  8  3  3  3  3
+Clouds        SC FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW B1 B1 B2
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          68      59    68      57    70      58    69      58    68
+Temp          67 66 62   59 67 67 61   57 69 68 61   58 68 67 61   58 67 67
+Dewpt         56 58 57   56 54 54 52   48 47 53 52   50 49 55 54   52 53 56
+PWind dir         S       W     S      NW     S      NW    NW      NW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC B1   OV OV SC FW   B1 OV SC SC   B1 B2 B1 SC   B2 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     5
+
+$$
+CAZ043-241200-
+Imperial Beach-San Diego CA
+32.56N 117.11W Elev. 26 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          74          53          72          55
+Temp          68 66 62 58 56 55 58 72 73 72 64 58 55 53 56 70 71 69 61 58 55 55
+Dewpt         53 54 54 54 53 49 44 42 48 50 50 47 42 35 37 38 48 53 54 54 52 51
+RH            59 65 75 86 90 80 59 34 41 46 60 67 61 50 49 31 44 57 78 86 90 86
+Wind dir      SW SW SW  E  E NE  E  N NW NW  N  N  N SE  E NW  W  W NW SW  S SW
+Wind spd       8  6  1  1  2  4  5  5 10 12  8  6  5  3  3  3  9  8  4  3  3  3
+Clouds        SC FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW SC SC B1
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                  PF PF PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          68      57    69      54    71      55    70      56    70
+Temp          67 65 60   57 67 67 58   54 70 68 58   55 69 66 59   56 68 66
+Dewpt         54 57 56   53 52 52 50   44 44 52 50   46 48 54 53   50 51 55
+PWind dir        SW       W    SW       W     S       W    NW      NW     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1   B2 B2 SC SC   B1 OV SC SC   B1 OV B1 B1   B2 B2 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ043-241200-
+Brown Field-San Diego CA
+32.58N 116.98W Elev. 525 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          74          52          73          54
+Temp          65 63 58 57 54 52 55 71 73 71 62 58 55 53 55 71 72 68 61 58 56 54
+Dewpt         51 52 53 52 52 46 36 28 37 40 44 40 36 25 30 30 40 48 53 52 49 47
+RH            60 67 83 83 93 80 49 20 27 32 52 51 49 33 38 22 31 49 75 80 77 77
+Wind dir      SW  W  W NE  E  E  E NE  W NW  N  N  E  E  E NW  W  W  W SW  S  S
+Wind spd       8  6  2  2  1  3  9  9 10 11  6  4  1  2  2  5 10  9  4  3  3  3
+Clouds        SC FW FW FW FW FW FW FW FW CL CL FW FW FW FW CL CL FW FW FW FW SC
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Obvis                                                                        PF
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          67      56    68      54    71      54    70      55    69
+Temp          65 64 59   57 65 65 58   54 69 67 58   54 68 66 57   55 67 65
+Dewpt         53 56 56   54 50 50 48   39 36 48 47   43 43 51 51   49 49 53
+PWind dir        SW       W     S      NW     S       W    NW      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC B1   B2 B2 SC FW   FW B1 SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ050-241200-
+Ramona-San Diego CA
+33.04N 116.92W Elev. 1394 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          74          44          75          47
+Temp          66 63 55 50 48 46 50 67 73 70 55 49 46 44 49 69 75 69 56 51 48 47
+Dewpt         49 49 50 49 42 35 31 23 21 24 33 28 29 23 28 28 31 38 44 43 42 42
+RH            54 60 83 96 80 65 48 19 14 18 43 44 51 43 44 21 20 32 64 74 80 83
+Wind dir      SW  W  W NE NE  E NE  E  E  E  N  E  E  E  E  W  W  W SW SE SE SE
+Wind spd       6  8  3  2  4 10  8 16 13  9  6  4  6  6  4  5  9  9  3  3  4  3
+Wind gust                          26                                          
+Clouds        SC FW FW FW FW FW FW CL CL CL CL CL CL FW FW CL CL CL CL FW FW FW
+PoP 12hr                      5           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          71      48    71      47    75      47    75      49    74
+Temp          65 66 53   48 63 68 52   47 69 70 51   47 70 70 53   49 69 69
+Dewpt         48 53 53   48 47 43 39   30 32 39 39   38 39 44 44   42 44 47
+PWind dir         S      SW     S       W     S       W     W      NW     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW SC   B1 B2 FW CL   FW FW FW FW   SC SC SC SC   SC B1 FW
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ058-241200-
+Campo-San Diego CA
+32.63N 116.47W Elev. 2631 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      42          66          40          73          43
+Temp          61 59 50 45 44 44 46 62 65 64 51 44 40 40 45 69 72 68 55 47 44 43
+Dewpt         44 46 46 44 33 25 25 20 19 17 18 19 17 14 18 17 23 31 36 36 34 34
+RH            53 62 86 96 65 47 43 20 17 16 27 36 39 34 33 13 16 25 49 65 68 70
+Wind dir      SW  W  W  E NE NE NE NE NE NE NE NE NE NE NE NE  W  W  W  S SE SE
+Wind spd      11 10  3  4 14 18 20 24 19 17  9 10 11  8  6  5 10 11  4  2  4  3
+Wind gust                    28 31 37 31                                       
+Clouds        SC FW FW CL CL CL CL CL CL CL CL CL CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      42    67      44    70      44    73      45    71
+Temp          66 64 48   42 63 66 48   44 67 67 48   44 70 70 48   45 69 68
+Dewpt         41 50 48   42 37 34 28   22 25 30 31   29 30 37 37   35 35 41
+PWind dir         S       W     S      NE     E       N    SE       W    SW
+Wind char        LT      GN    LT      GN    GN      LT    LT      LT    LT
+Avg clouds    FW FW SC   SC SC FW CL   FW FW CL FW   FW FW SC SC   SC SC FW
+PoP 12hr          0       5     5       0     0       0     0       0     5
+
+$$
+CAZ061-241200-
+Palm Springs-Riverside CA
+33.84N 116.50W Elev. 479 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          79          55          82          59
+Temp          78 78 73 68 63 60 59 71 77 78 69 63 58 57 57 73 81 81 72 67 63 60
+Dewpt         39 36 31 26 25 25 24 21 18 14 15 17 19 18 20 20 20 23 31 33 35 36
+RH            25 22 21 20 23 26 26 15 11  9 12 17 22 21 23 13 10 12 22 28 35 41
+Wind dir      NW NW  N NW NW NW NW  E  S  S  N NW NW NW NW SE SE SE SE  N  N NW
+Wind spd       8 10 10  8 11 12 12  3  3  4  2  3  3  2  1  4  5  6  4  3  2  3
+Clouds        CL FW FW FW FW CL CL CL CL CL CL CL CL FW FW CL CL CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          82      58    80      56    82      58    83      61    84
+Temp          75 80 68   60 73 79 65   57 74 81 66   59 76 82 69   62 77 82
+Dewpt         39 41 47   43 33 26 25   26 26 24 29   30 31 30 35   36 36 36
+PWind dir         E       W     N      NW    SW       W    NE       W    NW
+Wind char        LT      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL FW   FW FW CL CL   FW FW CL FW   FW FW FW FW   SC SC FW
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$
+CAZ061-241200-
+Thermal-Riverside CA
+33.64N 116.17W Elev. 112 ft
+1222 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          79          47          80          56
+Temp          78 78 66 63 59 54 57 72 78 77 61 55 50 47 51 71 79 78 67 63 60 56
+Dewpt         40 34 32 32 27 27 28 25 22 18 25 24 22 22 24 24 25 27 33 35 37 39
+RH            26 20 28 31 29 35 33 17 12 11 25 30 33 37 34 17 14 15 28 35 42 53
+Wind dir      NW  N  N  W NW NW NW  W  W SW  S NW NW  N SE SE SE SE SE  N  N NE
+Wind spd      10 10  8 13 13 13 13  4  4  3  2  3  3  2  2  4  8  6  3  2  3  2
+Clouds        CL FW FW FW FW CL CL CL CL CL CL CL CL FW FW CL CL CL CL FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          82      56    79      54    79      55    82      58    83
+Temp          75 80 64   56 73 77 61   54 72 77 60   55 75 80 64   58 76 81
+Dewpt         42 43 52   48 37 29 31   30 30 29 35   34 34 34 39   39 39 39
+PWind dir         E      NW     N       N     E      NE     W       N    NW
+Wind char        LT      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL FW   FW FW CL CL   FW FW CL FW   FW FW FW FW   SC SC FW
+PoP 12hr          0       5     0       0     0       0     0       0     0
+
+$$

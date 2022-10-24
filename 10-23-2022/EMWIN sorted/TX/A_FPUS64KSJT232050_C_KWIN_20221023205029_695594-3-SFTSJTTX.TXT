@@ -1,0 +1,152 @@
+FPUS64 KSJT 232050
+SFTSJT
+STZ000-241200-
+
+Tabular State Forecast for Texas
+National Weather Service San Angelo TX
+350 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Big Country...
+   Abilene
+   Tstrms   Sunny    Sunny    Sunny    Shwrs    Sunny    Sunny    
+   63/77    46/71    45/76    52/79    54/68    46/68    46/73    
+    70/90    30/00    00/00    00/10    50/50    10/00    00/00   
+
+   Sweetwater
+   Tstrms   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   64/78    45/71    46/76    54/80    53/66    47/68    47/73    
+    70/70    20/00    00/00    00/10    40/40    10/00    00/00   
+
+   Albany
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   65/76    47/72    45/76    51/79    54/68    46/68    45/73    
+    70/90    50/10    00/00    00/10    50/50    20/00    00/00   
+
+   Haskell
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   63/76    45/71    43/76    51/78    52/66    45/67    44/71    
+    80/90    50/10    00/00    00/10    50/50    20/00    00/00   
+
+   Roby
+   Tstrms   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   64/78    45/72    45/77    54/80    52/67    46/68    46/74    
+    70/70    30/00    00/00    00/10    40/40    10/00    00/00   
+
+   Baird
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   64/76    46/71    44/74    51/77    53/66    46/66    45/71    
+    70/90    40/00    00/00    00/10    50/50    10/00    00/00   
+
+   Anson
+   Tstrms   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    
+   64/78    46/71    45/76    54/80    54/68    46/68    46/73    
+    70/80    30/10    00/00    00/10    40/40    10/00    00/00   
+
+   Throckmorton
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   63/75    46/71    43/76    50/79    53/67    46/68    44/72    
+    70/90    60/10    00/00    00/10    50/50    20/00    00/00   
+
+
+...Concho Valley...
+   San Angelo
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   64/81    45/74    43/79    52/80    53/71    46/70    45/75    
+    70/70    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Ballinger
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   66/80    47/73    44/78    51/80    54/69    47/69    46/74    
+    70/80    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Sterling City
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   62/79    42/73    43/79    51/81    50/71    43/70    43/75    
+    70/70    10/00    00/00    00/00    30/30    10/00    00/00   
+
+   Robert Lee
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   64/81    45/74    44/79    51/81    52/70    46/70    45/75    
+    70/70    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Eden
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   65/79    45/71    43/77    50/79    54/69    45/68    45/73    
+    60/80    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Mertzon
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   63/79    44/73    43/76    51/78    51/69    44/69    44/74    
+    70/70    10/00    00/00    00/10    30/30    10/00    00/00   
+
+
+...Heartland...
+   Brownwood
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   66/75    48/73    42/77    49/79    54/71    47/70    45/74    
+    60/90    50/00    00/00    00/10    50/50    10/00    00/00   
+
+   Coleman
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   66/77    47/72    44/76    49/79    54/70    46/69    46/73    
+    60/90    20/00    00/00    00/10    50/50    10/00    00/00   
+
+   San Saba
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   67/77    49/73    44/76    49/79    56/72    48/70    46/74    
+    40/90    50/00    00/00    00/10    50/50    10/00    00/00   
+
+   Brady
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   66/78    48/71    44/76    50/78    56/70    47/68    46/73    
+    50/80    20/00    00/00    00/10    50/50    10/00    00/00   
+
+
+...Edwards Plateau...
+   Ozona
+   Tstrms   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+   64/80    45/72    45/74    51/76    52/70    45/70    45/73    
+    60/60    10/00    00/00    00/00    30/30    10/00    00/00   
+
+   Eldorado
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   64/79    45/71    44/75    51/76    52/69    45/68    45/73    
+    60/60    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Sonora
+   Tstrms   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+   65/81    46/73    45/76    51/77    53/71    46/70    45/74    
+    50/50    10/00    00/00    00/10    30/30    10/00    00/00   
+
+
+...Northwest Hill Country...
+   Junction
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   66/79    47/76    43/79    50/80    54/74    46/73    44/76    
+    50/70    10/00    00/00    00/10    40/40    10/00    00/00   
+
+   Mason
+   Tstrms   Sunny    Sunny    Sunny    Tstrms   Sunny    Sunny    
+   67/78    49/73    43/78    51/80    56/73    48/71    46/75    
+    50/80    30/00    00/00    00/10    50/50    10/00    00/00   
+
+   Menard
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   65/79    45/73    43/79    49/80    54/71    45/70    44/75    
+    60/80    10/00    00/00    00/10    40/40    10/00    00/00   
+
+
+$$

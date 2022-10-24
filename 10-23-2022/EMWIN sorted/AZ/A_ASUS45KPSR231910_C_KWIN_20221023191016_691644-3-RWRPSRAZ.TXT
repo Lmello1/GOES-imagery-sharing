@@ -1,0 +1,137 @@
+ASUS45 KPSR 231910
+RWRAZ 
+
+ARIZONA HOURLY REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE PHOENIX AZ
+1200 PM MST SUN OCT 23 2022
+
+NOTE: FAIR INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+AZZ001>003-036-232000-
+NORTHWEST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BULLHEAD CITY  MOSUNNY   70  30  23 N18       29.80S                  
+KINGMAN        MOSUNNY   60  28  29 N10G21    29.86S                  
+$$
+
+AZZ004>008-015-016-018-232000-
+NORTH CENTRAL ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND CANYON   PTSUNNY   42  25  50 W8G23     29.83R                  
+WILLIAMS       MOSUNNY   45  25  45 W15G23    29.86S                  
+PRESCOTT       PTSUNNY   49  34  56 N10       29.84F                  
+FLAGSTAFF      CLOUDY    40  31  70 SW14G23   29.84S WCI  32          
+PAYSON         PTSUNNY   54  41  62 SW13G18   29.85F                  
+PAGE           PTSUNNY   51  24  34 W13G22    29.76S                  
+$$
+
+AZZ009>014-017-232000-
+NORTHEAST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WINSLOW        LGT RAIN  53  36  52 N10       29.80F                  
+WINDOW ROCK    CLOUDY    43  33  68 W16G24    29.79R                  
+SHOW LOW       PTSUNNY   52  41  66 SW32G41   29.84F                  
+$$
+
+AZZ540-542>544-546-548-232000-
+GREATER PHOENIX AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PHOENIX        PTSUNNY   73  46  38 W12       29.76F                  
+BUCKEYE        MOSUNNY   73  45  35 W8G15     29.78F                  
+GLENDALE       PTSUNNY   73  48  40 SW13      29.76                   
+LUKE AFB       MOSUNNY   74  46  37 SW10G18   29.76F                  
+DEER VALLEY    MOSUNNY   70  47  43 W14       29.77F                  
+SCOTTSDALE     MOSUNNY   72  47  40 W10       29.79S                  
+MESA-FALCON    MOSUNNY   72  48  42 W15G21    29.77F                  
+MESA-GATEWAY   MOSUNNY   72  48  43 W16       29.79F                  
+CHANDLER       SUNNY     73  46  38 SW10      29.78F                  
+$$
+
+AZZ539-553-232000-
+SOUTHWEST MARICOPA COUNTY AND PINAL COUNTY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CASA GRANDE    MOSUNNY   73  47  39 W21G28    29.79F                  
+GILA BEND      PTSUNNY   74  46  36 W12       29.77F                  
+$$
+
+AZZ503-504-507>509-232000-
+SOUTHEAST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TUCSON         PTSUNNY   75  47  36 W12G23    29.81F                  
+DAVIS-MONTHAN  MOSUNNY   74  44  34 W13G18    29.79F                  
+RYAN FIELD     SUNNY     72  46  40 W6G12     29.80F                  
+NOGALES        CLOUDY    68  46  45 SW9G21    29.87F                  
+SIERRA VISTA   CLOUDY    67  39  35 W14G21    29.90F                  
+SAFFORD        MOSUNNY   74  44  34 W17G28    29.73F                  
+$$
+
+AZZ532-232000-
+SOUTHWEST ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YUMA           SUNNY     77  47  34 NW9       29.77F                  
+$$
+
+CAZ041-043-047-048-061-525>527-560>570-232000-
+SOUTHERN CALIFORNIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOWNTOWN L.A.  SUNNY     69  47  45 CALM      29.86S                  
+L.A. AIRPORT   MOSUNNY   72  48  42 VRB5      29.86S                  
+SAN DIEGO      PTSUNNY   67  47  48 S9        29.89S                  
+BURBANK        SUNNY     72  32  23 W10       29.85S                  
+ONTARIO        MOSUNNY   65  50  58 S6        29.86F                  
+RIVERSIDE      MOSUNNY   67  46  47 CALM      29.86S                  
+PALM SPRINGS   SUNNY     76  40  27 NW10G20   29.81S                  
+EL CENTRO NAS  SUNNY     78  39  24 CALM      29.79F                  
+BLYTHE         SUNNY     76  37  24 N14G24    29.78F                  
+NEEDLES        SUNNY     72  33  24 NE10G21   29.80S                  
+$$
+
+NVZ020-UTZ003-232000-
+SOUTHERN NEVADA-UTAH
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAS VEGAS      MOSUNNY   63  13  14 N20G31    29.86S                  
+SALT LAKE CITY PTSUNNY   41  32  70 N16G25    29.80R                  
+$$
+
+NMZ009-TXZ055-232000-
+NEW MEXICO-WEST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBUQUERQUE    PTSUNNY   67  30  25 SW25G38   29.69F                  
+EL PASO        PTSUNNY   81  46  29 SW28G39   29.76F                  
+$$
+
+
+........................KEY........................
+SKY/WX - SKY CONDITION/WEATHER
+TMP    - TEMPERATURE IN FAHRENHEIT
+DP     - DEW POINT IN FAHRENHEIT
+RH     - RELATIVE HUMIDITY IN PERCENT
+WIND   - DIRECTION AND SPEED IN MILES PER HOUR (MPH)
+VRB    - VARIABLE WIND DIRECTION
+PRES   - MEAN SEA LEVEL PRESSURE IN INCHES OF MERCURY
+         F - FALLING PRESSURE   R - RISING PRESSURE
+         S - STEADY PRESSURE
+VSB    - VISIBILITY IN MILES
+HX     - HEAT INDEX IN FAHRENHEIT
+WCI    - WIND CHILL INDEX IN FAHRENHEIT
+TC     - TEMPERATURE IN CELSIUS WHICH IS ALSO KNOWN AS
+         TEMPERATURE IN CENTIGRADE
+AFB    - AIR FORCE BASE
+         LUKE AFB IS LUKE AIR FORCE BASE
+         DAVIS-MONTHAN IS DAVIS-MONTHAN AIR FORCE BASE
+NAS    - NAVAL AIR STATION
+         EL CENTRO NAS IS EL CENTRO NAVAL AIR STATION
+N/A    - NOT AVAILABLE
+
+  

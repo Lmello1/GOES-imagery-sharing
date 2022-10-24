@@ -1,0 +1,87 @@
+SRUS43 KLSX 231840
+RVAMIS
+NEC131-IAC071-MOC047-MOC095-MOZ073-MOZ139-MOZ189-MOZ510-ILC163-
+TNC157-TNC167-ARC035-MSC033-MSC143-MSC021-MSC063-MSC149-LA065-
+LA107-242239-
+
+
+Hydrologic Summary
+National Weather Service St Louis MO
+139 PM CDT Sun Oct 23 2022
+
+...River forecasts with zero forecast precipitation...
+
+
+The following river forecasts do not take future precipitation into
+account and are not official. For the official forecasts...please
+refer to www.weather.gov/ahps.
+
+These forecasts do not account for changes in reservoir or lock and
+dam operations which occurred after this forecast was created.
+
+
+Station          FS  6 am  24hr  ...Forecast month and day /MMDD/...
+                      Stg   Chg  1024 1025 1026 1027 1028 1029 1030
+                                 1031 1101 1102 1103 1104 1105 1106
+
+
+The Missouri River at...
+
+Nebraska City    18  9.06 -0.05   9.1  9.1  9.1  9.0  9.0  9.1  9.1
+                                  9.1  9.1  9.0  9.0  9.0  9.0  9.0
+
+
+Kansas City      32  8.30  0.11   8.3  8.3  8.3  8.4  8.4  8.3  8.3
+                                  8.3  8.4  8.4  8.3  8.3  8.3  8.3
+
+
+Waverly          20  9.93 -0.09  10.0 10.1 10.1 10.1 10.1 10.1 10.1
+                                 10.0 10.1 10.1 10.1 10.1 10.0 10.0
+
+
+Hermann          21  3.42 -0.03   3.5  3.4  3.4  3.4  3.5  3.6  3.5
+                                  3.5  3.5  3.5  3.4  3.4  3.5  3.5
+
+
+
+The Mississippi River at...
+
+St. Louis        30 -2.90  0.00  -2.9 -2.9 -2.9 -2.9 -2.9 -3.0 -3.0
+                                 -3.0 -3.0 -2.9 -2.9 -2.9 -2.9 -2.9
+
+
+Cape Girardeau   32  6.25 -0.24   5.9  5.8  5.8  5.9  5.9  5.9  5.9
+                                  6.0  6.0  6.0  6.0  6.0  5.9  5.9
+
+
+
+The Ohio River at...
+
+Cairo            40  7.55  0.06   8.0  7.8  7.6  7.4  7.2  7.0  6.9
+                                  6.7  6.6  6.5  6.4  6.3  6.2  6.1
+
+
+
+The Mississippi River at...
+
+Memphis          34 -10.55  0.24  -10.1 -9.9 -9.8 -9.8 -9.9 -10.0 
+-10.2
+                                 -10.4 -10.5 -10.7 -10.8 -10.9 -11.0 
+-11.0
+
+
+Vicksburg        43  0.15 -0.24   0.2  0.4  0.5  0.6  0.8  0.9  0.9
+                                  0.8  0.7  0.6  0.5  0.4  0.4  0.3
+
+
+Baton Rouge      35  4.20 -0.01   4.1  4.1  4.0  4.0  4.1  4.1  4.1
+                                  4.1  4.1  4.1  4.1  4.0  3.8  3.7
+
+FS - Flood Stage
+7 am Stg - Observed stage at 7 a.m. CDT 
+24hr Chg - Change in stage over last 24 hours /7 a.m.- 7 a.m./
+
+END
+
+$$
+

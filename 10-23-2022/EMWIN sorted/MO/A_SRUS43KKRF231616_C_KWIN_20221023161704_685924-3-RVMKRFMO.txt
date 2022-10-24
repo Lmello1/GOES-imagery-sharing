@@ -1,0 +1,51 @@
+SRUS43 KKRF 231616
+RVMKRF
+ 
+ 
+:USACE - Kansas City District Reservoir Data
+NWS Missouri Basin River Forecast Center Pleasant Hill MO
+1616Z Sun 10 23 2022
+
+
+.B KRF 20221023 C DH06/HP/QID/QTD/PPD
+:
+:LID    Reservoir          Pool Elev    Inflow      Outflow    Precip
+:                          Feet MSL     KCFS        KCFS       IN.
+
+BNYC2 : Bonny           : -9999.00  / -9999.000  /    0.002  /   -9999.00 
+TTNN1 : Trenton         : -9999.00  / -9999.000  /    0.001  /   -9999.00 
+ENDN1 : Enders          : -9999.00  / -9999.000  /    0.003  /   -9999.00 
+MCCN1 : Hugh Butler     : -9999.00  / -9999.000  /    0.002  /   -9999.00 
+CABN1 : Harry Strunk    : -9999.00  / -9999.000  /    0.001  /   -9999.00 
+REPN1 : Harlan County   :  1938.80  /   0.005  /    0.000  /    0.00 
+LOVK1 : Lovewell        :  1575.87  / -9999.000  /    0.000  /   -9999.00 
+MLFK1 : Milford         :  1143.83  /   0.005  /    0.150  /    0.00 
+ELSK1 : Cedar Bluff     : -9999.00  / -9999.000  /    0.000  /   -9999.00 
+KANK1 : Kanopolis       :  1463.57  /   0.030  /    0.009  /    0.00 
+WLSK1 : Wilson          :  1514.55  /   0.005  /    0.005  /    0.00 
+STCK1 : Webster         :  1882.96  /   0.017  /    0.000  /   -9999.00 
+GLNK1 : Waconda         :  1450.52  /   0.043  /    0.126  /   -9999.00 
+MTTK1 : Tuttle Creek    :  1072.91  /   0.005  /    0.500  /    0.00 
+PRRK1 : Perry           :   891.09  /   0.010  /    0.300  /    0.00 
+CLIK1 : Clinton         :   874.74  /   0.160  /    0.007  /    0.00 
+SLKM7 : Smithville      :   861.81  /   0.001  /    0.008  /    0.00 
+LNZM7 : Longview        :   889.73  /   0.002  /    0.008  /    0.00 
+BSZM7 : Blue Springs    :   801.13  /   0.002  /    0.000  /    0.00 
+RADI4 : Rathbun         :   903.40  /   0.005  /    0.013  /    0.00 
+LBRM7 : Long Branch     :   787.87  /   0.000  /    0.007  /    0.00 
+MLVK1 : Melvern         :  1034.22  /   0.005  /    0.030  /    0.00 
+PLKK1 : Pomona          :   972.90  /   0.005  /    0.025  /    0.00 
+HILK1 : Hillsdale       :   916.16  /   0.005  /    0.008  /    0.00 
+STXM7 : Stockton        : DH00/   860.05  /   0.050  /    0.040  /    0.00 
+PTXM7 : Pomme De Terre  :   838.19  /   0.015  /    0.050  /    0.00 
+TKZM7 : Harry S Truman  : DH00/   704.62  /   0.300  /    0.000  /    0.00 
+LKSM7 : Bagnell         : DH00/    656.63  /   0.417  /    1.200  /    0.00 
+.END
+ 
+ 
+:END OF MESSAGE
+ 
+
+$$
+
+

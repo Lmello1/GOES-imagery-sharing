@@ -1,0 +1,203 @@
+SRUS41 KRHA 231715
+RRMRHA
+ 
+OBSERVED MEAN AREAL PRECIPITATION
+MIDDLE ATLANTIC RIVER FORECAST CENTER
+NATIONAL WEATHER SERVICE STATE COLLEGE PA
+115 PM EDT Sun Oct 23 2022
+
+OBSERVED MEAN AREAL PCPN. FOR THE 24-HR PERIOD ENDING 1200 UTC 10/23/22
+
+        ---- 6-HOUR PERIOD ENDING ----
+        22/18Z  23/00Z  23/06Z  23/12Z   TOTAL
+
+.BR RHA 221023 DH12/DC2210231715/DRH-18/PPQPM/DRH-12/PPQPM/DRH-06
+.BR1 PPQPM/DH12/PPQPM/PPDPM
+
+: Binghamton (BGM)...
+WALN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR.DEL.-WALTON
+CNNN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CANNONSVILLE DAM
+HLEN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR.DEL.-HALE EDDY
+DWNN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DOWNSVILLE DAM
+HVDN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : E.BR. DEL R-HARVARD
+CKFN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BEAVER KILL-COOKS FL
+FSHN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : E.BR.DEL.-FISHS EDDY
+CCRN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE-CALLICOON
+BRYN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE-BARRYVILLE 
+HWYP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LACKAWAXEN R-HAWLEY
+MTMP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE-PORT JERVIS
+NVXN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : NEVERSINK RES.
+BRGN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : NEVERSINK-BRIDGEVILL
+MTGN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE R.-MONTAGUE
+ESIN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : OULEOUT CK-E. SIDNEY
+UNDN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT UNADILLA
+RCKN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : UNADILLA R-ROCKDALE
+BAIN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT BAINBRIDGE
+WSRN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ. R AT WINDSOR
+CKLN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ. R AT CONKLIN
+CRTN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TIOUGHNIOGA-CORTLAND
+CINN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : OTSELIC-CINCINNATUS
+SHBN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CHENANGO R-SHERBURNE
+GNEN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CHENANGO R AT GREENE
+CNON6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CHEN. R-CHENANGO FKS
+VSTN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ. R AT VESTAL
+WVYN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ. R AT WAVERLY
+LDYN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TIOGA R AT LINDLEY
+WCRN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CANISTEO-W.CAMERON
+CMPN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : COHOCTON R-CAMPBELL
+CRNN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CHEMUNG R AT CORNING
+CMGN6     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CHEMUNG R AT CHEMUNG
+TOWP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT TOWANDA
+MONP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TOWANDA CK-MONROETON
+MHPP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT MESHOPPEN
+TNKP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TUNKHANNOCK CK-TUNK.
+OFRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LACKAWANNA-OLD FORGE
+WBRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ. R-WILKES BARRE
+: Brookhaven (OKX)...
+MAWN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAMAPO R. AT MAHWAH
+LODN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SADDLE R. AT LODI
+: Mount Holly (PHI)...
+WHTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : F. E. WALTER DAM
+PRRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BELTZVILLE DAM 
+LHTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LEHIGH R.-LEHIGHTON
+WNTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LEHIGH R.-WALNUTPORT
+ALNP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JORDAN CK-ALLENTOWN
+BETP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LEHIGH R.-BETHLEHEM
+SHOP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BUSH KILL-SHOEMAKER
+TKSN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE R-TOCKS IS.
+MNSP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BRODHEAD CK-MINISINK
+BVDN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE R-BELVIDERE
+RGLN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE-RIEGELSVLLE
+TREN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : DELAWARE R-TRENTON
+BREP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SCHUYLKILL R.-BERNE
+BMRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BLUE MARSH DAM
+RDRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SCHUYLKILL R-READING
+PTNP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SCHUYLKILL-POTTSTOWN
+GRAP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PERKIOMEN-GRATERFORD
+PADP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SCHUYLKILL R.-PHILA.
+CDFP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BRANDYWINE-CHADDS FD
+LNGP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : NESHAMINY-LANGHORNE
+MILN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PASSAIC R.-MILLINGTN
+CAMN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PASSAIC R.-CHATHAM
+BOTN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : ROCKAWAY-BOONTON ABV
+BONN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : ROCKAWAY-BOONTON BLW
+PINN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PASSAIC-PINE BROOK
+MCPN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PEQUANNOCK-MACOPIN D
+WNQN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : WANAQUE R AT WANAQUE
+PPTN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAMAPO R-POMPTON LKS
+PPPN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POMPTON-POMPTON PLNS
+LTFN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PASSAIC R-LIT. FALLS
+STTN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.BR.RARITAN-STANTON 
+RRTN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.BR.RARITAN-RARITAN
+MNVN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RARITAN R-MANVILLE
+BKWN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : MILLSTONE-BLACKWELLS 
+BDKN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RARITAN-BOUND BROOK
+TACN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : ASSUNPINK CK-TRENTON
+PEBN4     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RANCOCAS-PEMBERTON
+: State College (CTP)...
+LWVP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : COWAN-LAWRENCEVILLE
+MFDP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TIOGA R AT MANSFIELD 
+TGRP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TIOGA-HAMMOND DAM
+TGJP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TIOGA R AT TIOGA JCT
+SPKP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LITTLE JUN-SPRUCE CK
+WIBP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : FRNK.BR.JUN-WMSBURG
+HUJP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JUN R. AT HUNTINGDON
+MPLP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JUN R-MAPLETON DEPOT
+LWSP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JUN R AT LEWISTOWN
+PORP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : TUSCARORA-PT ROYAL
+NPTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JUN R. AT NEWPORT     
+RTBP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAYSTOWN DAM        
+SXTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAYSTN.BR.JUN-SAXTON
+SLYP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : AUGHWICK-SHIRLEYSBG
+HGSP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CONODOGUINET-HOGESTN
+HARP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT HARRISBURG
+CPHP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : YLW BRCHS-CAMP HILL
+HTVP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SWATARA - HARPER TVN
+HERP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SWATARA - HERSHEY
+LNCP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CONESTOGA-LANCASTER
+MRTP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R AT MARIETTA
+PNCP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PENNS CK AT PENNS CK
+BMBP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R. AT BLOOMSBURG
+SBYP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SUSQ R. AT SUNBURY
+SMDP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SHERMAN-SHERMANSDALE
+CRVP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CURWENSVILLE DAM
+DMLP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CLEARFLD CK-DIMELING
+KARP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR. SUSQ-KARTHAUS
+SNNP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SINNEMAHONING C-SINN
+SFFP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : STEVENSON DAM
+WESP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BUSH DAM
+ROVP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR. SUSQ.-RENOVO
+LHVP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR. SUSQ-LOCK HAVEN
+MSBP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BALD EG-MILESBURG
+BCHP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SAYRES DAM
+BECP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : BALD EG-BEECH CK STA
+CEDP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : PINE CK AT CEDAR RUN
+JRSP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR.SUQ-JERSEY SHORE
+LYCP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LYCOMING CK - IPT
+WILP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR.SUQ-WILLIAMSPORT
+LOYP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : LOYALSOCKVILLE
+LWBP1     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : W.BR.SUSQ-LEWISBURG
+: Sterling (LWX)...
+RENV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAP. R. AT REMINGTON
+CLPV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAPIDAN R.-CULPEPER   
+FDBV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RAP.R-FREDERICKSBURG
+WAYV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SOUTH R.-WAYNESBORO
+LYWV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.FK.SHEN.-LYNNWOOD
+SFSV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.FK.SHEN-LURAY
+FROV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.FK.SHEN-FRNT ROYAL
+COOV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.FK.SHEN-COOTES STR
+STGV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.FK.SHEN-STRASBURG
+MILW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SHEN. R AT MILLVILLE
+KITM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.BR.POT-KITZMILLER
+BNMW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : J RANDOLPH DAM
+SRVM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SAVAGE RIVER DAM
+LUKM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.BR.POTOMAC R-LUKE
+CWCM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : WILLS CK-CUMBERLAND
+CBEM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : N.BR.POT.-CUMBERLAND
+FKLW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.BR.POT-FRANKLIN
+PETW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.BR.POT-PETERSBURG
+MOFW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SFSB POT-MOOREFIELD
+SPRW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : S.BR.POT-SPRINGFIELD
+PAWW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POTOMAC R AT PAW PAW
+GCPW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CACAPON-GREAT CACAPON
+HNKM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POTOMAC R AT HANCOCK
+FAVM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CONOCOCHEAGUE-FAIRVW
+MBGW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : OPEQUON CK-MARTINSBG
+SHEW2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POT R.-SHEPHERDSTOWN
+SACM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : ANTIETAM CK-SHARPSBG
+PORM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POTOMAC-PT OF ROCKS
+FDKM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : MONOCACY R-FREDERICK
+LEEV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : GOOSE CK NR LEESBURG
+DAWM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : SENECA C-DAWSONVILLE
+BRKM2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : POT R AT LITTLE FALLS
+: Blacksburg (RNK)...
+JCKV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : GATHRIGHT DAM
+CVGV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JACKSON R-COVINGTON
+COWV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : CLIFTON R-COWPASTURE
+LIRV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R AT LICK RUN
+BNNV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R. AT BUCHANAN
+BVSV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : MAURY R-BUENA VISTA
+HRKV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R-HOLCOMB RCK
+BECV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R. AT BENT CK.
+SVEV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R.-SCOTTSVILLE
+: Wakefield (AKQ)...
+PYAV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : RIVANNA R AT PALMYRA
+CARV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R-CARTERSVILLE
+RMDV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : JAMES R. AT RICHMOND
+FRMV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : APPOMATTOX-FARMVILLE
+MTXV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : APPOMATTOX R-MATTOAX
+MTCV2     0.00 /  0.00 /  0.00 /  0.00 /  0.00 : APPOMATTOX R-MATOACA
+: NY County Precipitaion for NERFC...
+BROOMENY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Broome Co.
+CHEMNGNY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Chemung Co.
+CHENGONY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Chenango Co.
+CRTLNDNY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Cortland Co.
+DELWRENY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Delaware Co.
+OTSEGONY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Otsego Co.
+STUBENNY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Steuben Co.
+SULIVNNY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Sullivan Co.
+TIOGANY  0.00 /  0.00 /  0.00 /  0.00 /  0.00 : Tioga Co.
+.END
+$$
+NNNN
+ 

@@ -1,0 +1,54 @@
+ASUS63 KILX 232134
+RTPILX
+Max/Min Temperature and Precipitation Table for Central Illinois
+National Weather Service Lincoln IL
+434 PM CDT Sun Oct 23 2022
+
+Values represent highs/lows and precipitation since midnight.
+
+.BR ILX 1023 C DH16/TAIRZX/TAIRZN/DVH16/PPV
+:
+:Official Climate Sites
+:                                 Max   Min
+:ID    Location                   Temp  Temp  Pcpn
+ILX  : Lincoln NWS              :  77 /  58 /   T
+PIA  : Peoria Airport           :  78 /  62 / 0.00
+SPI  : Springfield Airport      :  77 /  62 /   T 
+:
+:Unofficial Supplemental Sites
+:
+CMI  : Champaign Airport        :  79 /  57 / 0.00
+DEC  : Decatur Airport          :  77 /  63 / 0.00
+LWV  : Lawrenceville Airport    :  82 /  62 / 0.00
+MTO  : Mattoon Airport          :  78 /  63 / 0.00
+BMI  : Bloomington Airport      :  75 /  59 / 0.00
+:
+:AWOS Locations
+:
+:The following sites are owned by the Illinois Department of
+:Transportation and are not under NWS quality control.
+:
+:                                 Max   Min        
+:ID    Location                   Temp  Temp
+GBG  : Galesburg Airport        :  75 /  59 /
+C75  : Lacon Airport            :  77 /  60 /
+IJX  : Jacksonville Airport     :  75 /  62 /
+TAZ  : Taylorville Airport      :  76 /  61 /
+TIP  : Rantoul Airport          :  77 /  58 /
+DNV  : Danville Airport         :  79 /  63 /
+1H2  : Effingham Airport        :  77 /  61 /
+PRG  : Paris Airport            :  78 /  60 /
+RSV  : Crawford County Airport  :  79 /  62 /
+FOA  : Flora Airport            :  79 /  61 /
+OLY  : Olney Noble Airport      :  79 /  64 /
+AJG  : Mt Carmel Airport        :  81 /  64 /
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified
+climate data can be accessed at www.ncei.noaa.gov.
+
+$$
+

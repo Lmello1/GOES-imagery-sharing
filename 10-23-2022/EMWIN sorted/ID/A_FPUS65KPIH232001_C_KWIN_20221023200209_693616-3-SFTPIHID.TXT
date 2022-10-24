@@ -1,0 +1,186 @@
+FPUS65 KPIH 232001
+SFTPIH
+IDZ051>75-241200-
+
+Tabular State Forecast for Southeast Idaho
+National Weather Service Pocatello ID
+201 PM MDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...CENTRAL IDAHO MOUNTAINS...
+   Arco
+   Sunny    Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/46    23/46    21/42    15/41    15/43    19/47    21/47    
+    10/00    20/00    20/60    20/00    00/00    00/10    10/20   
+
+   Carey
+   Ptcldy   Ptcldy   Snow     Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/45    27/46    26/41    19/42    21/46    25/50    27/48    
+    10/10    50/00    40/70    20/00    00/00    00/10    20/30   
+
+   Challis
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   17/49    24/47    22/42    15/45    18/51    22/53    25/50    
+    00/20    40/00    30/60    10/00    00/00    00/10    20/30   
+
+   Hailey
+   Sunny    Ptcldy   Snow     Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/44    26/44    25/41    18/42    21/46    25/49    28/47    
+    00/20    50/00    40/70    10/00    00/00    00/10    20/30   
+
+   Mackay
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/44    23/42    21/37    14/39    16/42    20/46    23/45    
+    10/10    30/00    30/60    20/00    00/00    00/10    20/20   
+
+   Stanley
+   Snow     Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   0/41     11/41    5/38     -2/41    1/48     6/49     10/45    
+    00/50    70/10    50/80    20/00    00/10    10/20    40/40   
+
+   Sun Valley/Ketchum
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   13/44    20/43    17/38    10/40    14/44    18/47    21/45    
+    00/30    60/10    40/70    20/00    00/00    10/10    30/30   
+
+...SNAKE RIVER VALLEY...
+   American Falls
+   Ptcldy   Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   26/45    35/44    33/39    26/39    24/43    27/47    30/47    
+    30/00    60/10    30/70    30/00    00/00    00/00    10/20   
+
+   Blackfoot
+   Ptcldy   Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   22/45    32/47    27/41    20/40    18/44    20/48    25/47    
+    30/00    60/10    30/70    40/00    00/00    00/10    10/20   
+
+   Burley
+   Sunny    Ptcldy   Rnsnow   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   25/50    33/47    28/42    23/44    20/48    22/52    27/51    
+    10/00    50/10    30/60    10/00    00/00    00/00    10/20   
+
+   Dubois
+   Sunny    Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   19/41    26/45    24/39    18/37    18/40    20/43    23/43    
+    20/00    50/10    20/70    40/00    00/00    00/10    10/30   
+
+   Idaho Falls
+   Ptcldy   Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   22/45    31/47    28/43    21/41    18/44    20/49    25/49    
+    30/00    50/20    20/70    40/00    00/00    00/10    10/20   
+
+   INEEL
+   Sunny    Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/45    26/47    21/42    14/41    13/42    16/46    19/46    
+    10/00    20/00    20/60    20/00    00/00    00/00    10/20   
+
+   Mud Lake
+   Sunny    Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   20/44    26/47    23/41    17/39    16/41    17/44    21/44    
+    10/00    30/10    20/70    30/00    00/00    00/10    10/20   
+
+   Pocatello
+   Sunny    Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   25/47    35/47    33/44    25/43    23/48    27/52    30/52    
+    30/00    60/20    30/70    30/00    00/00    00/10    10/20   
+
+   Rigby
+   Ptcldy   Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   22/43    31/46    28/40    20/39    18/42    21/46    25/45    
+    30/00    50/20    30/80    40/10    00/00    00/10    10/30   
+
+   Rexburg
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   18/43    29/45    23/40    17/38    15/42    17/45    22/44    
+    30/10    60/30    30/80    50/10    00/00    00/10    10/30   
+
+   Rupert
+   Sunny    Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   25/50    33/48    28/43    23/44    20/48    23/52    27/51    
+    10/00    50/10    30/60    10/00    00/00    00/00    10/20   
+
+   Shoshone
+   Ptcldy   Ptcldy   Rnsnow   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   23/49    32/48    28/44    20/44    23/48    25/52    28/50    
+    00/10    50/10    30/60    10/00    00/00    00/10    20/20   
+
+   St. Anthony
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   17/42    28/45    22/40    15/38    13/42    16/45    20/44    
+    30/10    60/30    30/80    50/10    00/00    00/10    10/30   
+
+...SOUTHEAST IDAHO MOUNTAINS...
+   Ashton
+   Ptcldy   Mocldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   17/40    27/43    21/39    15/36    13/41    17/44    21/43    
+    30/10    70/30    30/80    50/10    00/00    00/10    10/30   
+
+   Downey
+   Sunny    Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/45    27/45    23/41    15/41    12/46    17/50    20/49    
+    30/00    80/40    30/80    40/00    00/00    00/10    10/20   
+
+   Driggs
+   Ptcldy   Snow     Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   14/38    25/38    18/37    14/36    13/42    17/45    20/44    
+    50/10    80/60    30/80    60/10    00/00    00/10    10/30   
+
+   Island Park
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   11/35    21/38    16/36    10/34    10/39    13/42    16/40    
+    30/10    70/30    30/70    50/10    00/00    00/10    10/30   
+
+   Lava Hot Springs
+   Sunny    Mocldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   21/40    30/40    28/36    20/35    18/41    22/44    27/44    
+    40/00    80/40    30/80    50/10    00/00    00/10    10/30   
+
+   Malad
+   Sunny    Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   20/45    30/46    28/42    20/41    16/45    21/49    24/49    
+    30/00    70/20    30/80    40/00    00/00    00/00    10/20   
+
+   Malta
+   Sunny    Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/50    27/48    23/44    15/44    14/49    18/53    22/53    
+    10/00    60/10    30/70    20/00    00/00    00/00    10/20   
+
+   Montpelier
+   Sunny    Snow     Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/40    22/41    15/41    13/39    8/45     14/48    17/48    
+    40/00    80/50    30/80    50/10    00/00    00/10    10/20   
+
+   Oakley
+   Sunny    Mocldy   Rnsnow   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   26/49    35/47    33/41    25/42    26/48    29/52    33/51    
+    10/00    60/10    30/70    20/00    00/00    00/00    10/20   
+
+   Preston
+   Sunny    Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   20/43    30/44    28/41    20/40    18/45    24/49    27/49    
+    30/00    70/30    30/80    50/00    00/00    00/10    10/20   
+
+   Soda Springs
+   Sunny    Mocldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/39    26/40    20/39    16/36    11/43    17/46    20/46    
+    50/00    80/30    30/90    50/10    00/00    00/10    10/30   
+
+   Swan Valley
+   Sunny    Snow     Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/42    27/42    20/40    16/39    13/46    18/48    22/47    
+    40/00    80/50    30/80    60/10    00/00    00/10    10/30   
+
+
+$$
+

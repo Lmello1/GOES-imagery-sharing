@@ -1,0 +1,477 @@
+FOUS56 KSTO 232045
+PFMSTO
+
+Point Forecast Matrices
+National Weather Service Sacramento CA
+145 PM PDT Sun Oct 23 2022
+
+CAZ015-241200-
+Redding-Shasta CA
+40.56N 122.35W Elev. 502 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      41          76          45          69          37
+Temp          67 67 59 52 47 46 44 63 73 74 64 57 52 48 46 60 66 69 59 50 45 40
+Dewpt         29 25 30 30 31 31 30 29 34 42 43 43 43 43 40 42 43 42 44 42 41 39
+RH            24 20 33 43 53 55 57 27 24 32 46 59 71 83 79 51 43 37 57 74 86 96
+Wind dir       N  N  N  N NW  N  N  N  S SW SE  S  E  N  N  N  S  S SW  W NW NW
+Wind spd      11 10  6  5  4  3  3  3  2  4  3  2  2  1  1  3  3  4  2  2  2  1
+Clouds        CL CL CL CL FW FW SC FW FW B1 B1 B1 B2 B2 B2 B2 B1 SC SC B1 B1 SC
+PoP 12hr                      0          10          20          20          30
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S              S  S  S  S  C  C  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          67      39    72      36    70      38    68      42    66
+Temp          57 67 49   41 60 72 49   39 57 69 50   41 57 67 51   45 57 66
+Dewpt         40 35 35   34 34 31 33   32 32 33 37   36 38 40 44   43 46 44
+PWind dir        NW       N     N      NE     N       E     N      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW SC   FW SC FW FW   SC SC SC SC   B1 B1 B1 B1   B2 B2 B1
+PoP 12hr         20       0     0       5    10      30    40      40    30
+Rain shwrs     S                                 S    C  C  C  C    C  C  C
+
+$$
+CAZ015-241200-
+Red Bluff-Tehama CA
+40.17N 122.24W Elev. 349 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          76          51          70          46
+Temp          67 69 62 54 49 48 47 62 73 74 65 59 57 54 51 62 67 70 61 54 51 48
+Dewpt         24 23 28 27 27 27 27 25 29 35 37 39 41 39 40 41 40 40 43 42 39 38
+RH            19 17 27 35 42 44 45 24 19 24 35 47 55 57 66 46 37 33 51 64 63 68
+Wind dir       N  N  N  N NW  N  N  N  E  S SE  S  N  N  N  N  S  S  W  N  N  N
+Wind spd      18 16 10  9  8  6  6  6  4  6  4  3  4  4  4  5  5  5  4  5  5  5
+Clouds        CL CL CL CL FW FW SC FW FW B1 B2 B1 B1 B2 B2 B1 B1 SC SC B1 B1 SC
+PoP 12hr                      0           5           5          20          30
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  S  S  C  C   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      46    74      45    72      46    70      49    68
+Temp          59 68 53   48 62 73 52   47 60 71 53   49 59 69 54   51 59 67
+Dewpt         38 34 35   33 33 29 34   33 33 34 37   36 38 41 45   44 45 45
+PWind dir         N       N     N      NE     N      SE     N      NW    SE
+Wind char        LT      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW FW   FW FW FW FW   SC SC SC SC   SC B1 B1 B1   B1 B2 B1
+PoP 12hr         10       0     0       5    10      30    40      40    30
+Rain shwrs                                            C  C  C  C    C  C  C
+
+$$
+CAZ017-241200-
+Sacramento Exec-Sacramento CA
+38.51N 121.49W Elev. 21 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          74          49          73          46
+Temp          69 69 61 58 54 50 47 61 70 74 64 57 54 51 50 63 70 72 63 56 52 48
+Dewpt         29 27 28 29 29 29 30 29 29 28 36 37 39 40 41 46 47 47 51 48 46 44
+RH            22 21 28 33 38 44 51 29 22 18 35 47 57 66 71 54 44 41 65 74 80 86
+Wind dir      NW NW  N  N  N  N  N NW  W  S  S SE SE SE  S SW  W SW SW SW SW  W
+Wind spd      20 19 13 10  8  6  4  4  4  5  4  3  3  2  2  5  6  8  5  4  3  3
+Clouds        CL CL CL CL CL CL CL CL CL FW FW SC SC SC B1 B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          70      46    72      44    71      46    70      50    69
+Temp          60 70 54   48 60 71 53   45 60 71 54   48 60 70 56   52 59 69
+Dewpt         44 37 39   36 37 35 41   39 42 38 43   43 45 45 49   49 50 48
+PWind dir        NW      NW     N       S    NW      SW     W      SW     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW   FW FW FW FW   FW SC SC FW   FW SC SC B1   B1 B1 SC
+PoP 12hr         10       0     0       0     5      10    30      30    30
+Rain shwrs                                               S  C  C    C  C  S
+
+$$
+CAZ019-241200-
+Stockton-San Joaquin CA
+37.89N 121.22W Elev. 27 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          72          49          71          49
+Temp          69 69 61 56 50 46 45 59 69 72 65 57 54 51 50 63 69 71 65 57 54 51
+Dewpt         33 31 31 28 28 28 29 29 31 30 34 35 36 36 39 46 52 52 52 50 49 47
+RH            26 24 32 34 42 49 53 32 24 21 31 43 50 56 66 54 55 51 63 77 83 86
+Wind dir      NW NW NW NW  W  W  W NW NW NW SW SW SE SE SE  W  W  W  W  W  W  W
+Wind spd      17 14 11  8  6  4  3  3  2  2  2  2  2  3  2  4  5  5  5  4  4  4
+Clouds        CL CL CL CL CL CL CL CL CL FW FW FW SC SC SC B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      46    69      45    72      47    69      50    69
+Temp          59 68 56   48 59 69 53   45 59 71 55   48 60 69 56   52 59 68
+Dewpt         47 41 42   39 38 37 40   39 42 42 43   42 46 47 49   49 51 51
+PWind dir        NW      NW    NW       W     N      NW    NW      NW     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW SC FW   FW FW FW FW   FW SC SC FW   FW SC SC B1   B1 B1 SC
+PoP 12hr         10       0     0       0     0      10    20      30    20
+Rain shwrs                                               S  S  C    C  S  S
+
+$$
+CAZ069-241200-
+Blue Canyon-Placer CA
+39.27N 120.71W Elev. 5280 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          59          46          52          41
+Temp          49 49 40 41 42 44 44 55 59 55 47 48 49 48 46 50 52 49 44 45 45 44
+Dewpt         15 16 17 17 14 12 11 15 20 24 25 27 30 30 29 31 32 36 38 36 35 33
+RH            25 26 39 37 31 27 26 20 22 30 42 44 48 49 51 48 46 61 79 70 68 65
+Wind dir      NE NE NE NE  E  E NE  W  W SW  E SE SE  S  E SW SW SW SW  S  S SW
+Wind spd      10 11 12 11 10  6  3  2  5  3  2  1  1  0  1  3  5  5  2  2  2  1
+Clouds        CL CL CL CL CL FW FW CL FW SC B1 B1 B1 B1 B2 B2 B2 B1 SC SC SC B1
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.59
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S  S
+Wind chill          33 34 36                                                   
+Min chill              33    34                                                
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          47      39    55      43    54      44    55      45    52
+Temp          44 47 41   42 49 51 44   45 51 51 45   47 52 51 47   48 49 49
+Dewpt         33 32 24   23 25 27 25   22 27 29 25   24 28 33 30   33 35 37
+PWind dir        SW      NE     E       E    SE      SE     S      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC FW   FW FW FW FW   FW SC SC SC   SC SC SC B1   B1 B1 SC
+PoP 12hr         20       0     0       0     0      10    20      30    20
+Rain shwrs     S                                            S  C    S  S  S
+
+$$
+CAZ016-241200-
+Marysville CA
+39.15N 121.58W Elev. 62 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          73          46          70          44
+Temp          68 69 58 52 51 48 46 62 71 72 60 55 53 49 47 63 68 70 60 52 50 46
+Dewpt         30 30 30 28 28 28 29 28 28 28 31 33 34 34 36 42 46 47 51 49 47 44
+RH            24 23 34 39 41 46 51 27 20 19 33 43 48 56 65 46 45 44 72 89 89 93
+Wind dir      NW NW  N  N  N  N NE  S  S SE SE SE SE  E  E SW SW SW SE SE SE  N
+Wind spd      19 17 11  8  9  6  3  2  4  5  5  5  4  2  2  4  5  5  3  4  4  2
+Clouds        CL CL CL CL CL CL FW CL CL FW SC SC SC SC B1 B1 B1 SC SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          68      41    72      41    71      43    69      46    68
+Temp          60 68 49   44 61 71 48   42 60 70 48   44 59 68 50   48 59 67
+Dewpt         43 39 38   35 35 35 40   36 39 39 41   40 42 46 47   47 50 50
+PWind dir         N       N    NW      SE     N      SE     S      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW FW   FW FW FW FW   FW SC SC SC   SC SC B1 B1   B1 B1 SC
+PoP 12hr         10       0     0       0     5      10    30      30    30
+Rain shwrs                                               C  C  C    C  C  S
+
+$$
+CAZ019-241200-
+Modesto CA
+37.66N 120.99W Elev. 95 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          71          47          71          49
+Temp          68 69 61 57 53 47 46 60 69 71 63 57 52 49 48 62 70 71 65 58 53 51
+Dewpt         34 32 32 30 30 29 31 31 32 31 34 33 33 34 38 41 48 52 53 50 49 48
+RH            28 25 33 35 41 49 55 33 25 23 34 40 48 56 68 46 45 51 65 75 86 89
+Wind dir      NW NW NW NW NW NW  N  N NW  N  E  E  E  E  E  W NW NW NW NW NW NW
+Wind spd      18 16 11  9  4  3  3  2  2  2  2  2  2  2  2  4  5  6  5  3  2  2
+Clouds        CL CL CL CL CL CL CL CL CL FW FW FW SC SC SC SC B1 B1 SC SC SC FW
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          67      46    68      45    71      47    70      50    68
+Temp          60 67 55   48 59 68 54   47 60 71 55   48 61 69 56   51 59 67
+Dewpt         48 45 43   40 39 38 41   40 41 41 43   42 45 47 48   47 50 52
+PWind dir        NW      NW    NW       N     N      NW    NW      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC FW   FW FW FW CL   FW SC SC FW   SC SC SC SC   B1 B1 SC
+PoP 12hr         10       0     0       0     0       5    20      30    20
+Rain shwrs                                                  S  S    C  S  S
+
+$$
+CAZ017-241200-
+Sacramento Intl-Sacramento CA
+38.70N 121.60W Elev. 26 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          73          47          71          45
+Temp          69 69 60 54 51 49 47 61 71 72 61 57 54 51 48 62 69 71 62 54 51 47
+Dewpt         32 32 30 28 27 28 29 30 29 30 32 36 38 39 39 46 48 49 52 48 47 44
+RH            25 25 32 36 39 44 49 31 21 21 33 45 54 63 71 56 47 46 70 80 86 89
+Wind dir      NW NW  N NW NW  N  N  N  W  S  S SE SE SE SE SW SW SW SW SW SW  W
+Wind spd      20 19 13 11 11  8  4  3  2  5  5  5  5  3  2  4  4  5  5  5  5  3
+Clouds        CL CL CL CL CL CL CL CL CL FW FW SC SC SC B1 B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      45    72      42    71      44    69      48    70
+Temp          59 68 53   47 60 71 52   45 58 70 51   46 59 68 53   50 59 69
+Dewpt         45 40 39   35 37 37 41   39 41 41 42   41 46 47 48   48 52 52
+PWind dir        NW      NW     N       S     N       S    NW       S     S
+Wind char        LT      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW FW   FW FW FW FW   FW SC SC FW   FW SC B1 B1   B1 B1 SC
+PoP 12hr         10       0     0       0     5      10    30      30    30
+Rain shwrs                                               S  C  C    C  C  S
+
+$$
+CAZ018-241200-
+Travis AFB CA
+38.27N 122.03W Elev. 62 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          75          51          72          47
+Temp          68 70 62 58 55 51 47 61 71 75 65 58 56 53 51 62 69 71 64 56 53 50
+Dewpt         30 28 27 26 25 24 27 29 30 34 41 46 49 49 48 51 52 53 51 47 46 44
+RH            24 21 26 29 31 34 45 29 22 22 41 64 77 86 89 67 55 53 63 72 77 80
+Wind dir       N  N NW  N NW NW  S SW SW SW SW SW SW SW  W  W  W SW  W  W  W  W
+Wind spd      18 16 11 12 12  9  6  6  5  8  5  5  6  5  4  8  9 10  8  9 10  8
+Clouds        CL CL CL CL CL CL CL CL CL CL CL FW SC SC B1 B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          70      48    72      43    69      47    69      50    69
+Temp          60 70 56   50 61 71 53   45 57 69 52   48 59 68 56   53 58 68
+Dewpt         43 42 41   36 37 37 41   39 41 41 43   43 47 49 50   50 52 52
+PWind dir        NW      NW     N       W    NW      SW     W       W    SW
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW   FW FW FW FW   FW SC SC FW   FW SC B1 B1   B1 B1 SC
+PoP 12hr          5       0     0       0     5      10    30      30    30
+Rain shwrs                                               S  C  C    C  C  S
+
+$$
+CAZ016-241200-
+Oroville CA
+39.49N 121.62W Elev. 187 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          73          49          70          46
+Temp          67 69 61 53 50 47 46 61 70 73 66 59 56 52 50 62 67 69 62 56 52 48
+Dewpt         30 29 31 28 28 28 27 27 29 30 35 33 36 36 38 40 42 44 49 46 45 44
+RH            25 22 32 38 42 47 47 27 22 20 32 37 47 54 63 44 40 40 62 69 77 86
+Wind dir      NW NW  N  N  N  N  N  W SW  S  E  E  E NE NE SW SW  S  E  E NE  N
+Wind spd      16 13  6  6  6  6  3  4  5  4  3  3  2  2  2  3  5  5  3  3  2  2
+Clouds        CL CL CL CL CL FW FW CL FW B2 SC SC B1 B1 B1 B1 B1 SC SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          67      43    71      44    70      46    68      48    67
+Temp          58 67 54   46 59 70 54   46 58 69 54   48 59 67 55   51 58 66
+Dewpt         43 39 36   34 36 36 37   37 38 39 39   40 41 45 45   46 49 51
+PWind dir        NW       N    NW       E    SE       E    SE       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW FW   FW FW FW FW   SC SC SC SC   SC B1 B1 B1   B1 B1 SC
+PoP 12hr         10       0     0       0     5      20    30      40    30
+Rain shwrs                                            S  C  C  C    C  C  S
+
+$$
+CAZ017-241200-
+Mather CA
+38.55N 121.30W Elev. 95 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          73          47          72          44
+Temp          69 69 61 55 51 47 46 62 71 72 61 55 52 50 48 63 69 72 62 55 51 47
+Dewpt         30 30 29 26 26 26 27 29 31 29 30 32 33 34 36 46 50 49 51 48 46 44
+RH            23 23 29 32 37 43 47 28 23 20 31 41 48 54 63 54 51 44 67 77 83 89
+Wind dir      NW NW  N  N  N  N  E  S SW  S SE SE SE SE SE SW SW SW SW  S  S  S
+Wind spd      18 18 13 10  6  5  4  3  3  4  4  5  5  4  3  4  5  5  4  5  5  4
+Clouds        CL CL CL CL CL CL CL CL CL FW SC SC SC SC B1 B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      43    71      42    71      43    70      48    69
+Temp          59 69 52   44 60 71 51   43 60 71 52   46 60 69 53   49 59 69
+Dewpt         46 40 38   34 39 37 40   36 41 40 41   41 44 46 47   46 50 51
+PWind dir        NW       N    NW      SE     S       S     S       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW FW   FW FW FW FW   FW SC SC FW   SC SC SC B1   B1 B1 SC
+PoP 12hr         10       0     0       0     5      10    20      30    20
+Rain shwrs                                               S  S  C    C  S  S
+
+$$
+CAZ018-241200-
+Vacaville CA
+38.38N 121.96W Elev. 112 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          76          52          73          50
+Temp          68 69 62 61 57 55 50 62 72 76 67 62 59 55 53 63 70 73 66 61 57 53
+Dewpt         30 26 23 22 21 21 22 26 28 32 36 40 44 44 42 46 49 49 47 42 41 38
+RH            24 20 22 22 24 26 33 25 19 20 32 44 57 66 66 54 47 43 50 49 55 57
+Wind dir       N  N  N  N  N  N  N  N NE SW SW  W  W  W NW NW  W SW  W  W  W  W
+Wind spd      18 16 11 12 10  8  4  5  3  5  3  2  2  1  1  4  5  6  4  3  3  2
+Clouds        CL CL CL CL CL CL CL CL CL FW FW SC SC SC B1 B1 B1 SC SC SC SC FW
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      51    71      47    71      49    70      52    70
+Temp          62 69 61   54 62 71 58   49 60 71 57   52 62 70 60   56 61 70
+Dewpt         42 36 34   30 33 33 34   34 37 39 38   39 45 47 45   45 50 49
+PWind dir        NW      NW     N       W    NW      SW     W      SW    SW
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW   FW FW FW FW   FW SC SC FW   FW SC B1 B1   B1 B1 SC
+PoP 12hr          5       0     0       0     5      10    30      40    30
+Rain shwrs                                               S  C  C    C  C  S
+
+$$
+CAZ067-241200-
+Auburn CA
+38.95N 121.08W Elev. 1532 ft
+145 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          68          52          67          48
+Temp          66 64 52 52 50 48 51 63 68 67 54 56 54 53 56 65 67 65 53 54 51 49
+Dewpt         25 24 22 20 22 20 20 22 25 26 28 29 31 31 33 35 39 42 43 43 41 39
+RH            21 22 31 28 33 33 29 21 20 21 36 35 41 43 42 33 36 43 69 66 68 68
+Wind dir      NW NW  N NE NE  E  E  S SW  S SE  E  E  E  E SW SW SW SE  E  E  E
+Wind spd      16 13  8  8  9  6  6  4  6  3  2  5  5  5  4  4  6  5  2  5  5  4
+Clouds        CL CL CL CL CL CL CL CL FW FW SC SC SC SC B1 B2 B2 SC SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          63      46    67      49    68      49    67      51    65
+Temp          60 61 51   47 63 65 52   49 65 66 52   51 64 64 54   53 63 62
+Dewpt         41 36 34   30 32 33 33   31 33 34 35   32 36 39 41   39 44 45
+PWind dir         N       N    NW       E    SE       E     S       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC FW   FW FW FW FW   FW SC SC SC   SC SC SC B1   B1 B1 SC
+PoP 12hr         20       0     0       0     5      10    20      30    30
+Rain shwrs     S                                         S  S  C    C  C  S
+
+$$

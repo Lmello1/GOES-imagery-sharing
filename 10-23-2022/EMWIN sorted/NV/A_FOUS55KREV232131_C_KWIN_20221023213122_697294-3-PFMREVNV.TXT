@@ -1,0 +1,653 @@
+FOUS55 KREV 232131
+PFMREV
+
+Point Forecast Matrices
+National Weather Service RENO NV
+231 PM PDT Sun Oct 23 2022
+
+NVZ001-241200-
+YERINGTON-LYON NV
+38.99N 119.16W Elev. 4380 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      23          62          32          62          30
+Temp             48 38 32 28 25 27 47 58 62 52 43 39 37 38 55 61 60 50 42 39 35
+Dewpt            16 16 16 16 16 16 15 13 17 20 23 29 32 34 36 35 33 34 33 33 31
+RH               27 40 51 60 68 63 27 17 17 28 45 67 82 85 49 38 36 54 70 79 85
+Wind dir          N NW SW SW SW  S  E NE  N SW SW SW SW SW  W NW  W  W SW SW SW
+Wind spd          9  4  3  4  3  2  2  4  4  3  4  4  4  2  3  9 12  6  5  5  5
+Wind gust                                                        20            
+Clouds           CL FW FW FW FW FW CL FW FW SC B1 B1 B1 B2 B1 B2 B1 SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S        S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      24    53      25    60      28    62      32    62
+Temp          51 53 35   25 43 52 33   26 48 59 40   29 52 62 43   33 54 61
+Dewpt         31 24 21   20 23 17 19   17 20 18 21   19 22 21 25   22 28 28
+PWind dir         W       N     N      SE    SE      NW    SE       W    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   SC SC FW FW   FW SC SC SC   SC B1 SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       0     5      20    20
+Rain           S  S                                            S          S
+
+$$
+NVZ001-241200-
+HAWTHORNE-MINERAL NV
+38.56N 118.63W Elev. 4330 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      30          62          41          64          38
+Temp             48 42 39 36 34 34 47 59 62 56 50 47 45 44 56 64 62 56 50 48 44
+Dewpt            15 15 16 15 16 14 14 11 14 17 21 24 28 29 32 33 32 33 32 32 31
+RH               26 33 39 42 47 43 26 15 15 21 31 40 51 55 40 31 32 42 50 54 60
+Wind dir          N  W  W SW  S  S NE  N  W  S  S SW SW  S  N  N NW NW SW SW SW
+Wind spd         12  6  5  4  3  2  3  5  2  4  4  4  3  2  4  8 11  6  5  5  4
+Clouds           CL CL FW FW FW FW CL FW FW SC SC B1 B1 B1 SC B1 B2 B1 SC SC SC
+PoP 12hr                      0           0           0           5          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                          S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          57      32    55      34    63      37    65      40    64
+Temp          51 55 43   33 44 54 42   35 49 62 47   37 53 64 49   43 54 64
+Dewpt         29 24 22   20 23 15 16   15 16 14 15   15 19 19 21   21 23 23
+PWind dir         W      NW     N      SE    SE       S    SE      SE     W
+Wind char        LT      GN    LT      LT    LT      LT    LT      GN    LT
+Avg clouds    SC SC SC   SC SC FW FW   FW SC SC SC   SC SC SC SC   SC B1 SC
+PoP 12hr         20       5     0       0     0       0     5      10    10
+Rain           S  S                                                        
+
+$$
+CAZ072-241200-
+TRUCKEE-NEVADA CA
+39.32N 120.13W Elev. 5899 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      11          60          19          53          15
+Temp             43 30 22 17 15 12 40 57 57 39 31 27 24 22 41 53 49 36 27 24 21
+Dewpt            14 16 15 12 12  9 17 24 24 24 26 27 24 22 32 31 29 30 26 24 21
+RH               30 55 74 80 88 87 39 28 28 54 81100100100 70 43 46 79 96100100
+Wind dir          N  E SE  S  S  S NW NW  W  S  S SW SW SW SW  W  W SW SW SW  W
+Wind spd          9  5  2  2  2  0  2  5  8  3  3  3  2  2  5 12 11  8  3  3  4
+Wind gust                                                     20               
+Clouds           CL FW FW FW FW FW CL FW FW SC B1 B1 B2 B2 B2 B1 SC SC B1 B1 B2
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0        0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+Snow                                                                    S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          48       9    51      11    56      13    57      15    54
+Temp          33 47 22   13 31 50 22   12 41 52 27   17 42 53 29   19 38 51
+Dewpt         24 25 18   13 21 21 16   11 24 22 20   15 25 25 23   18 27 29
+PWind dir         W      NE     E      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC SC   FW SC FW FW   FW B1 SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    20      30    20
+Rain           S  S                                         S  C    S  S  S
+Snow           S  S                                                 S  S   
+
+$$
+CAZ072-241200-
+SOUTH LAKE TAHOE AIRPORT-EL DORADO CA
+38.90N 119.99W Elev. 6263 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      18          61          28          56          25
+Temp             41 33 28 24 21 23 50 58 58 44 37 33 30 32 50 55 52 42 34 31 29
+Dewpt            14 17 16 15 11  9 17 24 26 28 31 31 29 30 34 35 32 34 31 30 28
+RH               33 51 60 68 65 54 27 27 29 53 79 92 96 92 54 47 46 73 89 96 96
+Wind dir         NE NE  S  S  S  S  N NW SW  S  S SW SW SW SW  W  W SW SW SW SW
+Wind spd          6  6  3  4  3  2  4  5  4  4  5  4  4  5  9 11 11  6  5  6  6
+Clouds           CL FW FW FW FW FW CL FW FW SC SC B1 B1 B2 B1 B1 B1 SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.25
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S   
+Snow                                                                 S  S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          52      15    55      21    59      24    59      26    55
+Temp          44 50 29   19 42 51 31   21 51 54 35   27 52 57 38   29 48 52
+Dewpt         27 29 24   19 26 24 22   16 27 25 24   19 27 28 29   24 31 31
+PWind dir         W      NE     E      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC SC   FW FW FW FW   FW SC SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    10      20    20
+Rain              S                                            S    S  S  S
+Snow           S                                                    S  S   
+
+$$
+CAZ072-241200-
+MARKLEEVILLE-ALPINE CA
+38.76N 119.81W Elev. 5501 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      23          63          33          57          28
+Temp             43 33 27 25 25 26 52 60 60 46 40 37 36 34 53 57 54 42 34 33 31
+Dewpt            15 18 16 14  9  5 10 19 24 26 31 32 33 31 32 31 31 32 30 29 27
+RH               32 53 63 62 50 40 18 20 25 45 70 82 89 89 44 37 41 67 85 85 85
+Wind dir         NE NE NW  W  W  N  N  N  W  S  S SW SW SW SW  W SW SW SW SW SW
+Wind spd          6  4  2  2  1  1  4  6  3  4  4  3  3  3  6 12 11  8  5  4  5
+Wind gust                                                     20       13 16 16
+Clouds           CL FW FW FW FW CL CL FW FW SC B1 B1 B1 B1 B1 B1 B1 SC SC SC SC
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.11
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+Snow                                                                          S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          50      22    53      27    58      28    58      31    57
+Temp          45 49 29   24 42 52 31   28 51 55 36   30 52 56 38   34 51 55
+Dewpt         21 24 22   19 19 20 19   17 18 20 21   16 20 23 24   22 26 29
+PWind dir         W      NE     E      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC   SC FW FW FW   FW SC SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    10      20    20
+Rain           S  S                                            S    S  S  S
+Snow           S  S                                                 S  S   
+
+$$
+CAZ072-241200-
+LAKE TAHOE AT 8000 FEET-PLACER CA
+39.24N 120.25W Elev. 8000 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      30          51          38          42          33
+Temp             32 30 32 30 32 34 46 50 46 40 41 39 39 38 39 41 37 36 37 37 36
+Dewpt            13 14 14 12 12 12 17 23 22 22 26 28 29 28 28 30 29 30 27 28 26
+RH               45 51 47 46 43 39 31 34 38 48 55 64 67 67 64 65 72 79 67 70 67
+Wind dir         NE  E  E  E NE NE  N  W  W  W  W  W SW SW SW SW SW SW SW SW SW
+Wind spd         21 29 26 23 18 14 10  9 14 14 14 14 14 13 16 17 17 17 13 16 17
+Wind gust        35 47 41 35 29 24       24 23 24 24       25 27 27 26         
+Clouds           CL CL CL FW FW FW CL FW SC B1 B1 B2 B1 B2 B2 B1 B1 SC B1 B1 B1
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.63
+Snow 12hr                 00-00       00-00       00-00                        
+Snow                                                              S  S  S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          36      29    41      33    44      35    44      37    42
+Temp          32 35 31   29 33 36 33   33 39 40 38   36 41 41 40   38 39 39
+Dewpt         23 25 16   17 20 19 16   15 19 22 19   17 23 25 24   20 27 29
+PWind dir         W      NE     E      SE     S      SW    SW      SW    SW
+Wind char        GN      GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    B1 SC SC   FW FW FW FW   FW SC SC SC   SC SC SC B1   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    20      30    20
+Snow           S  S                                         S  C    S  S  S
+
+$$
+NVZ003-241200-
+RENO-WASHOE NV
+39.49N 119.75W Elev. 4404 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      28          66          41          63          38
+Temp             50 44 39 34 31 31 47 63 66 59 51 46 44 42 53 62 61 55 49 45 43
+Dewpt            17 19 19 20 19 19 19 22 26 30 32 36 37 36 38 36 34 36 35 36 36
+RH               27 36 44 56 61 61 32 21 22 33 48 68 76 79 57 38 36 49 58 70 76
+Wind dir         NE  N NW  W  S  S  S NE SW NW NW  W  W SW  W  W  W  W SW SW  W
+Wind spd          9  3  2  2  3  2  1  3  2  6  5  3  3  2  5 11 13  9  5  4  4
+Clouds           CL FW FW FW FW FW FW FW SC SC B1 B1 B2 B2 B2 B2 B1 SC SC SC B1
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          57      30    57      31    64      34    65      37    62
+Temp          47 56 40   32 41 56 39   32 47 62 46   37 50 64 49   40 50 61
+Dewpt         29 27 23   25 25 21 21   23 25 24 26   25 27 27 30   29 31 30
+PWind dir         W       N    SE      SE     S      SW    SW       W    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   FW SC FW FW   FW B1 SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       0     0       0     0       5    10      20    20
+Rain           S                                               S    S  S  S
+
+$$
+NVZ003-241200-
+CARSON CITY-CARSON CITY NV
+39.12N 119.77W Elev. 4651 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      20          65          32          62          29
+Temp             47 40 33 27 24 23 46 62 64 56 47 41 37 35 53 61 59 51 44 39 35
+Dewpt            16 17 16 17 16 15 14 18 24 28 32 33 34 33 36 34 34 34 33 31 31
+RH               28 39 49 65 71 71 27 18 22 34 56 73 89 92 52 36 39 52 65 73 85
+Wind dir         NE NE  S  S  S SW SE NE NE  S  S SW SW SW SW  W  W  W SW SW SW
+Wind spd          8  3  2  2  2  2  2  5  5  4  4  3  3  2  5 14 13  6  4  4  4
+Wind gust                                                     23 21            
+Clouds           FW FW FW FW FW FW CL FW FW SC SC B1 B2 B2 B2 B2 B1 SC SC SC B1
+PoP 12hr                      0           0           0          10          20
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      21    54      23    62      27    63      30    61
+Temp          46 53 35   24 41 53 34   24 49 59 42   30 53 61 44   34 52 59
+Dewpt         27 25 20   19 22 19 17   17 25 21 24   20 26 25 27   25 29 30
+PWind dir         W       N     E      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   FW FW FW FW   FW SC SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    10      20    20
+Rain           S  S                                            S    S  S  S
+Snow                                                                   S   
+
+$$
+NVZ003-241200-
+VIRGINIA CITY-STOREY NV
+39.31N 119.65W Elev. 6340 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      31          57          42          52          39
+Temp             40 36 35 34 33 34 44 53 57 51 49 47 45 43 47 51 50 46 45 45 44
+Dewpt            16 16 14 14 12 12 13 20 25 26 31 31 31 30 34 35 33 33 31 29 27
+RH               37 43 41 43 41 39 28 27 29 37 50 53 58 60 60 54 52 60 58 53 51
+Wind dir         NE NE  W SW SW  S  S  E NE  W  W  W  W  W SW  W  W  W SW SW  W
+Wind spd          9  6  2  4  4  3  5  5  1  5  6  5  5  2  6 14 16 10  8  8  6
+Wind gust                                                     24 25            
+Clouds           CL FW FW FW FW FW FW FW FW SC B1 B1 B2 B2 B2 B2 B1 SC SC SC B1
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+Snow                                                                          S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          45      33    44      36    52      40    53      43    52
+Temp          41 44 37   35 35 43 38   38 42 51 44   42 46 53 47   45 47 51
+Dewpt         25 25 18   16 19 18 16   14 20 21 20   18 22 24 24   21 27 30
+PWind dir         W       N     E      SE     S       W    SW       W    SW
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   FW SC FW FW   FW B1 SC SC   SC SC SC SC   B1 B1 SC
+PoP 12hr         20       5     0       0     0       5    10      20    20
+Rain           S  S                                            S    S  S  S
+Snow           S  S                                                 S  S   
+
+$$
+NVZ004-241200-
+FALLON-CHURCHILL NV
+39.44N 118.73W Elev. 3934 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      25          60          36          61          33
+Temp             49 39 34 29 27 31 47 56 60 50 42 40 40 42 55 59 60 52 43 41 38
+Dewpt            14 19 20 19 18 19 18 15 14 21 19 24 26 28 32 33 34 41 37 39 35
+RH               24 44 56 66 68 61 31 19 16 31 39 52 57 57 41 37 37 66 79 92 89
+Wind dir          N  N  W SW  S  S  S  S SE  S  S  S  S  S NW NW NW SW SW SW SW
+Wind spd         11  6  2  2  3  3  4  4  4  4  4  3  3  2  5  6  9  6  4  4  5
+Clouds           FW FW FW FW FW FW FW FW SC SC B1 B2 B2 B2 B1 B2 B1 B1 SC SC B1
+PoP 12hr                      0           0           5          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  C
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      25    53      26    59      28    62      33    61
+Temp          51 53 36   26 43 52 33   26 47 58 38   28 51 62 41   34 52 60
+Dewpt         32 21 25   22 23 18 23   19 19 18 24   18 21 21 29   24 25 26
+PWind dir         W       N    NE       E     S      SE    SW      NW    SW
+Wind char        LT      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   SC SC FW FW   FW SC SC SC   SC SC SC SC   SC B1 SC
+PoP 12hr         30       5     0       0     0       0     5      20    10
+Rain           C  S                                            S    S      
+
+$$
+NVZ004-241200-
+LOVELOCK-PERSHING NV
+40.07N 118.57W Elev. 3904 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      19          59          34          61          24
+Temp             50 40 32 26 23 24 42 54 58 50 43 39 38 39 51 58 60 50 39 35 31
+Dewpt            16 17 15 15 13 13 16 16 17 19 17 20 24 26 31 33 36 37 31 30 26
+RH               25 39 49 62 65 62 34 22 20 29 35 46 57 59 46 39 41 61 73 82 81
+Wind dir          N  N  N  N  N  S  S  S  S NW  N SW NW NE  N SW  W SW SW SW  W
+Wind spd         12  5  3  2  1  3  6  8  5  2  2  2  2  4  5  8  8  6  4  3  4
+Clouds           FW FW CL FW FW FW FW FW SC B2 B2 B2 OV OV B2 B2 B1 B1 SC SC B1
+PoP 12hr                      0           0          10          20          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  S  S  S  S  S  C
+Snow                                                                          C
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          55      19    54      20    59      24    63      25    61
+Temp          45 54 32   20 40 53 30   21 44 58 36   25 49 62 38   26 48 60
+Dewpt         26 22 19   13 21 18 15   10 18 18 18   11 20 24 22   16 25 29
+PWind dir         W       N    NE      NE    SE      NE     S      NW    SW
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 SC   FW SC FW FW   FW SC SC SC   SC B1 SC SC   SC B1 SC
+PoP 12hr         30       5     0       0     0       5     5      20    10
+Rain           C  S                                            S    S      
+Snow           C                                                    S      
+
+$$
+CAZ070-241200-
+CEDARVILLE-MODOC CA
+41.53N 120.17W Elev. 4670 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      23          56          35          54          30
+Temp             46 35 32 29 26 28 44 54 54 46 45 43 39 39 45 52 53 45 39 38 35
+Dewpt            17 18 17 16 16 17 19 32 36 37 38 37 37 35 35 32 30 31 28 29 29
+RH               31 49 53 58 65 63 36 43 50 71 76 79 92 85 68 46 41 58 64 70 78
+Wind dir          N NW SW  S SW  S SW  W  S  S NW  W  W  W SW  W  W  W  W  W  W
+Wind spd          9  5  3  3  3  3  3  8  6  6  8  5  3  1  5 10 11  8  8  6  6
+Wind gust                                                                 14   
+Clouds           FW FW FW FW SC B1 B1 B2 B2 B2 OV OV OV OV B2 B1 SC B1 B1 B2 OV
+PoP 12hr                      0          20          40          10          40
+QPF 12hr                      0           0        0.10           0        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              C  C  C  C  C
+Rain shwrs                             S  C  C  C  C                           
+Snow                                                                       C  C
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          46      21    52      25    57      27    57      30    54
+Temp          40 46 33   21 37 51 33   26 44 56 38   30 46 57 41   33 45 53
+Dewpt         29 26 23   17 23 21 19   15 22 24 22   18 24 29 28   25 30 32
+PWind dir         W       N    SE      SE     S      SW     S      SW    SW
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B1 B1   SC SC SC FW   SC B1 SC SC   SC B1 SC B1   B1 B2 B1
+PoP 12hr         40       5     0       0     5      10    30      30    30
+Rain           C  S                                      S  C  C    S  S  C
+Snow           C  S                                      S             S   
+
+$$
+NVZ005-241200-
+GERLACH-WASHOE NV
+40.61N 119.36W Elev. 3950 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      25          61          39          60          34
+Temp             51 42 36 32 29 28 48 57 59 52 48 46 44 42 53 59 57 49 44 42 39
+Dewpt            19 18 18 18 16 17 20 21 24 26 32 36 37 35 38 39 36 32 30 30 29
+RH               28 37 47 56 58 63 33 24 26 36 54 68 76 76 57 47 45 52 57 62 67
+Wind dir          N  N NE NW SW SW SW SW  W SW SW SW SW SW  W SW  W SW  W  W  W
+Wind spd          9  6  4  2  4  6 11 10  6  5  6  5  5  4 10 11 11  8  9  6  8
+Clouds           FW FW FW FW FW FW FW SC B1 B2 B2 OV OV OV B2 B2 SC SC B1 B1 B1
+PoP 12hr                      0           5          20          10          20
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S  S
+Rain shwrs                                      S  S                           
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          54      25    54      26    59      29    60      33    60
+Temp          49 53 36   28 45 53 36   27 48 58 41   32 50 60 43   36 53 60
+Dewpt         29 25 23   22 26 20 20   17 21 21 22   19 24 27 28   26 33 33
+PWind dir         W       N    NE       E    SE       E    SW      SW    SW
+Wind char        GN      GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC SC   FW SC FW FW   SC B1 SC SC   SC B1 SC SC   B1 B2 SC
+PoP 12hr         20       5     0       0     0       5    10      20    20
+Rain           S                                               S    S  S  S
+Snow           S                                                           
+
+$$
+CAZ071-241200-
+SUSANVILLE-LASSEN CA
+40.42N 120.64W Elev. 4184 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      21          63          33          59          28
+Temp             50 38 31 26 23 26 46 60 63 53 44 41 37 38 49 57 58 49 39 36 32
+Dewpt            18 19 19 17 17 17 19 26 30 39 38 36 35 33 36 34 33 34 32 30 28
+RH               28 46 61 68 77 68 34 27 29 59 79 82 92 82 61 42 39 56 76 79 85
+Wind dir         NE NE SE NW  W SW SE  S  W  W  W  W  W  W SW SW  W  W  W  W  W
+Wind spd          9  5  1  2  2  1  3  4  6  6  6  4  3  2  5 10 11  8  5  5  5
+Clouds           CL FW CL CL FW FW FW SC B1 B1 B1 B2 B2 OV B2 B2 SC SC B1 B1 B1
+PoP 12hr                      0           5          20          10          30
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  C  C  S
+Rain shwrs                                      S  S                           
+Snow                                                                          S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          52      21    54      23    60      24    59      29    57
+Temp          44 51 32   21 42 53 32   23 44 58 36   26 46 59 39   32 48 56
+Dewpt         29 23 25   19 25 21 20   16 23 24 24   19 25 29 30   26 34 33
+PWind dir         W       N     E       E     S      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 SC SC   FW SC FW FW   SC B1 SC SC   SC SC SC B1   B1 B1 B1
+PoP 12hr         20       0     0       0     0      10    20      30    20
+Rain           S                                            S  C    S  S  S
+Snow           S                                                       S   
+
+$$
+CAZ071-241200-
+PORTOLA-PLUMAS CA
+39.80N 120.41W Elev. 4850 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      20          65          28          57          26
+Temp             48 37 29 24 21 20 45 61 61 48 39 34 31 29 46 54 55 45 34 32 30
+Dewpt            18 19 18 18 16 14 18 29 30 30 31 30 30 28 35 35 36 37 32 32 30
+RH               30 48 63 77 81 77 33 29 31 49 73 85 96 96 65 48 49 73 92100100
+Wind dir         NE NE NE NE NE NE  S  W  W  W  W  W  W SW SW SW  W SW SW SW  W
+Wind spd          8  6  4  4  2  2  1  5  8  4  3  3  2  2  6 10  9  6  4  5  5
+Clouds           CL FW CL CL FW FW FW FW SC B1 B1 B2 B2 B2 B2 B2 B1 SC B1 B1 B2
+PoP 12hr                      0           0           5          10          30
+QPF 12hr                      0           0           0           0        0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  C  C  S
+Snow                                                                       C  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          51      17    56      17    59      20    59      24    57
+Temp          41 50 28   19 38 55 28   19 42 57 32   22 44 58 35   26 43 56
+Dewpt         33 26 22   19 25 23 18   16 24 26 24   18 28 32 29   24 34 36
+PWind dir         W      NE     E       E     S       S     S      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 SC SC   FW FW FW FW   FW SC SC SC   SC SC SC B1   B1 B1 SC
+PoP 12hr         20       0     0       0     0      10    20      30    20
+Rain           S                                            S  C    S  S  S
+Snow           S                                                    S  S   
+
+$$
+CAZ073-241200-
+BRIDGEPORT-MONO CA
+38.26N 119.23W Elev. 6470 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                       4          60          16          57          13
+Temp             41 30 19 12  8 11 38 57 58 44 34 25 23 21 45 56 52 40 30 25 20
+Dewpt            16 15 12  7  0 -1  9 17 24 22 23 23 23 21 30 29 32 28 26 24 20
+RH               36 53 74 80 69 57 29 21 27 41 64 92100100 55 35 46 62 85 96100
+Wind dir          N  E  E  S  S SW  N  N NE  S  S  W  W  W  W  W  W SW SW SW SW
+Wind spd         11  3  1  1  1  1  3  6  5  4  4  4  4  4  4 13 12  8  5  5  6
+Wind gust                                                     21 20            
+Clouds           CL CL CL FW FW FW CL FW FW FW SC B1 SC B1 SC B1 B1 SC SC SC SC
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  S  S  S   
+Snow                                                                    S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          49       4    52      10    58      13    58      13    57
+Temp          37 48 21    6 31 51 24   11 43 54 29   14 46 54 30   17 41 54
+Dewpt         18 24 15    6 18 19 11    5 21 20 15    6 23 23 17   10 24 29
+PWind dir         W       N     E      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC   SC SC FW FW   FW SC SC SC   SC SC SC SC   SC B1 SC
+PoP 12hr         20       5     0       0     0       0     5      20    20
+Rain                                                           S    S     S
+Snow           S  S                                            S    S      
+
+$$
+CAZ073-241200-
+MAMMOTH LAKES-MONO CA
+37.64N 118.96W Elev. 7452 ft
+231 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      20          58          31          54          28
+Temp             39 30 25 25 26 32 49 57 55 43 39 36 35 36 51 53 49 40 37 35 32
+Dewpt            12 13 10  5 -1  1  7 16 20 19 19 21 23 25 27 26 27 26 24 25 23
+RH               32 49 52 42 30 26 18 20 25 38 44 54 61 64 39 35 42 57 59 66 69
+Wind dir          N SW  W SW  S  S  N  N  W SW SW SW SW SW SW  W SW SW SW SW SW
+Wind spd          8  5  2  2  2  1  4  4  2  3  4  4  3  3  8 13 12 10  5  5  5
+Wind gust                                                     21             13
+Clouds           CL FW CL CL FW FW CL CL CL FW FW FW SC SC SC B1 B1 SC SC SC SC
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Snow                                                                    S  S  S
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          46      21    50      26    53      28    55      30    53
+Temp          42 42 28   21 40 45 32   27 47 48 36   29 50 52 37   33 47 50
+Dewpt         17 21 18   12 16 15 13   11 15 16 15   10 17 20 17   15 22 24
+PWind dir        SW      NW    NE      SE    SW      SW    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC SC SC   SC FW FW CL   FW SC SC SC   FW SC SC SC   SC SC SC
+PoP 12hr         20       5     0       0     0       0     5      10    10
+Snow           S  S                                                        
+
+$$
+
+http://weather.gov/reno

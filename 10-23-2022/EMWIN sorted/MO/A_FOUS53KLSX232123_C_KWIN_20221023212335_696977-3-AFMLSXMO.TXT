@@ -1,0 +1,440 @@
+FOUS53 KLSX 232123
+AFMLSX
+
+Area Forecast Matrices
+National Weather Service Saint Louis MO
+423 PM CDT Sun Oct 23 2022
+
+ILZ100>102-MOZ061-063>065-241000-
+Madison IL-Saint Clair-Monroe IL-Saint Charles MO-Saint Louis MO-
+Saint Louis City MO-Jefferson MO-
+Including the cities of Alton, Edwardsville, Belleville, Cahokia, 
+Saint Charles, and Saint Louis
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      64          77          56          64          42
+Temp             73 69 69 66 65 70 75 76 72 69 65 61 58 61 60 58 53 47 46 44 42
+Dewpt            59 57 56 55 56 58 59 59 57 55 58 60 57 60 59 54 50 47 44 41 39
+RH               62 66 63 68 73 66 58 56 59 61 78 97 96 97 96 86 89100 93 89 89
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S  E NE NW NW NW NW NW NW
+Wind spd         13 13 12 10 10 13 14 14 11 11  9  6  4  5  8 10 10 11 10  9  8
+Wind gust        31 32 33 27 25 29 29 27 26 27 27 24 17 20 23 26 31 28 29 27 25
+Clouds           FW B1 B2 B1 B1 SC B2 B2 B2 B2 OV OV OV OV OV B2 B2 B2 B1 FW FW
+PoP 12hr                      5          10         100          90          50
+QPF 12hr                      0           0   0.34-0.65   1.16-2.08   0.15-0.35
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  S  L  D  D  D  D  D  D  C  C         
+Tstms                                                    S  S  S  S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      38    61      41    62      44    62      45    61
+Temp          58 52   42 39 57 53   45 41 59 55   47 45 59 55   49 46 58 55
+Dewpt         41 41   41 38 42 42   41 40 47 47   46 43 47 47   46 45 50 49
+PWind dir        NW      NE     E       E    NE      NE    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   CL FW SC SC   B1 B1 B1 B1   SC SC SC SC   SC B1 B1 SC
+PoP 12hr          0       0     0      10    20      30    30      20    10
+Rain shwrs                                    S    C  C  C  C    S  S      
+
+$$
+
+MOZ042-049-050-241000-
+Audrain MO-Osage MO-Callaway MO-
+Including the cities of Mexico and Fulton
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      66          73          48          54          38
+Temp             76 71 70 68 67 69 72 71 68 61 58 54 49 52 51 51 48 44 42 40 38
+Dewpt            59 59 58 58 58 60 62 62 62 60 58 54 49 51 49 46 44 42 39 37 35
+RH               56 66 66 70 73 73 71 73 81 97100100100 96 93 83 86 93 89 89 89
+Wind dir          S  S  S  S  S  S  S  S  S  S SW NW  N  N  N NW NW NW NW NW NW
+Wind spd         18 18 17 14 13 13 12 12 11  8  6  5  6 10 12 13 10  9  8  6  5
+Wind gust        36 39 36 32 28 27 26 26 26 26 20 18 18 20 26 29 27 25 24 21 17
+Clouds           SC B1 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B2 SC FW CL CL
+PoP 12hr                     20          80         100          70          20
+QPF 12hr                      0   0.04-0.60   0.30-0.75   0.20-1.23   0.01-0.29
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs       IS                 C  L  D  D  D  D  L  L  C  C  S  S         
+Tstms            IS                                         S                  
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      37    59      39    59      41    59      42    59
+Temp          58 52   41 38 56 52   43 40 56 53   45 42 57 53   45 43 57 52
+Dewpt         39 40   39 37 42 42   41 39 45 46   44 42 47 47   45 43 49 48
+PWind dir         N       E    SE       E     E      NE    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW SC SC B1   B1 B1 B1 B1   SC SC SC SC   SC SC B1 SC
+PoP 12hr          0       0     0      20    20      30    20      20     5
+Rain shwrs                              S  S  S    C  C  S  S    S         
+
+$$
+
+MOZ041-047-048-241000-
+Boone MO-Moniteau MO-Cole MO-
+Including the cities of Columbia and Jefferson City
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      67          73          48          54          38
+Temp             79 74 72 69 68 70 71 69 66 60 57 52 49 51 51 51 49 45 43 40 39
+Dewpt            59 59 58 58 58 61 63 63 63 60 56 52 49 50 47 44 43 42 39 36 35
+RH               50 59 61 68 70 73 76 81 90100 96100100 96 86 77 80 89 86 85 85
+Wind dir          S  S  S  S  S  S  S  S  S SW NW NW  N  N  N NW NW NW NW NW NW
+Wind spd         19 19 18 16 14 13 12 12 10  6  5  6  6 10 12 12  9  8  6  5  4
+Wind gust        36 39 36 32 28 27 26 26 24 24 17 17 18 20 25 28 24 20 19 18 16
+Clouds           SC B1 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B1 FW CL CL CL
+PoP 12hr                     10          90         100          60          10
+QPF 12hr                      0   0.09-0.93   0.50-0.71   0.14-0.86   0.00-0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs       IS                 L  D  D  D  D  D  L  L  C  C  S  S         
+Tstms            IS                    S  S                                    
+Heat index       80                                                            
+Max heat         86                                                            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      39    61      40    59      42    60      42    59
+Temp          58 53   42 39 57 54   45 41 56 54   46 43 57 54   46 43 57 54
+Dewpt         39 41   39 38 41 42   42 40 45 46   45 42 46 47   45 43 49 48
+PWind dir         N       E    SE       E     E      NE    NE      NE    NE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW SC SC B1   B1 B1 B1 B1   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0     0      20    20      30    20      10     5
+Rain shwrs                              S  S  S    C  S  S  S              
+
+$$
+
+ILZ095>097-MOZ018-019-026-027-034>036-241000-
+Adams IL-Brown IL-Pike IL-Knox MO-Lewis MO-Shelby MO-Marion MO-
+Monroe MO-Ralls MO-Pike MO-
+Including the cities of Quincy, Mount Sterling, Pittsfield, 
+Hannibal, and Bowling Green
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      67          74          49          54          39
+Temp             76 71 70 69 68 70 72 71 67 62 58 54 50 52 51 51 49 45 44 42 40
+Dewpt            59 59 58 58 58 60 61 62 62 59 57 53 49 50 47 45 44 42 40 37 35
+RH               56 66 66 68 70 71 68 73 84 90 96 96 96 93 86 80 83 89 86 82 82
+Wind dir          S  S  S  S  S  S  S  S  S  S SW NW  N  N  N  N NW NW NW NW NW
+Wind spd         17 17 16 14 13 14 14 12 11  9  8  6  6  9 12 13 10 10  9  8  6
+Wind gust        36 39 36 32 28 27 27 26 28 27 24 18 18 20 23 28 29 28 26 27 20
+Clouds           B1 SC OV B2 B2 B2 OV OV OV OV OV OV OV B2 B2 B2 B2 B1 SC FW FW
+PoP 12hr                     20          80         100          60          30
+QPF 12hr                      0   0.02-0.73   0.26-0.81   0.03-1.08   0.00-0.31
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs       IS IS              C  D  D  D  D  D  L  L  C  C  C  C         
+Tstms            IS IS                 S  S                                    
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      38    57      40    58      41    59      42    58
+Temp          57 51   42 39 55 51   44 40 55 52   45 42 56 52   45 43 55 52
+Dewpt         39 40   38 37 41 42   41 39 44 45   43 41 45 46   44 42 47 47
+PWind dir        NW       E    SE       E     E      NE    NE      NE    NE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    CL FW   SC SC SC B1   B2 B2 B1 B1   B1 SC SC SC   B1 B1 B1 B1
+PoP 12hr          0       0     0      10    20      20    20      20    10
+Rain shwrs                              S  S  S    S  S  S  S    S         
+
+$$
+
+ILZ069-070-074-241000-
+Clinton IL-Marion IL-Washington IL-
+Including the cities of Centralia and Salem
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          79          60          66          43
+Temp             72 68 67 65 63 69 76 77 72 68 67 63 61 63 63 63 58 52 49 47 45
+Dewpt            57 55 53 52 52 55 57 56 54 52 54 58 58 62 61 59 57 52 48 45 42
+RH               59 63 61 63 67 61 52 48 53 57 63 84 90 97 93 87 96100 96 93 89
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S SE SE  S  W  W NW NW NW
+Wind spd         13 13 13 12 12 14 17 16 11 12 12 10  8  9 10 11  9 10 12 10 10
+Wind gust        26 27 27 24 24 31 29 26 25 27 27 25 24 24 24 24 24 25 27 27 27
+Clouds           FW SC B1 B1 SC SC B1 B1 B2 B2 B2 OV OV OV OV B2 B2 B2 B2 B1 SC
+PoP 12hr                      5          10          80          90          50
+QPF 12hr                      0           0   0.08-0.39   0.88-1.41   0.09-0.28
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                   C  C  L  D  D  D  D  C  C  S  S   
+Tstms                                                 S  S  S     S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      38    61      41    63      45    63      45    62
+Temp          57 52   43 39 57 52   45 43 60 55   48 46 60 56   50 47 59 55
+Dewpt         42 42   41 39 41 42   42 41 47 48   47 45 47 48   48 46 50 51
+PWind dir        NW      NE     E       E    NE      NE    NE      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   CL FW SC SC   SC B1 B1 SC   SC B1 SC SC   B1 B1 B1 SC
+PoP 12hr          0       0     0       5    20      30    30      20    10
+Rain shwrs                                    S    S  C  C  C    S  S  S   
+
+$$
+
+MOZ074-084-085-099-241000-
+Saint Francois MO-Iron MO-Madison MO-Reynolds MO-
+Including the city of Farmington
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      61          75          56          64          40
+Temp             71 67 66 64 62 68 73 74 70 67 63 60 57 61 61 58 50 46 44 43 41
+Dewpt            57 56 55 55 56 59 59 58 56 56 59 60 57 61 59 54 48 45 43 40 37
+RH               61 68 68 73 81 73 62 57 61 68 87100100100 93 86 93 96 96 89 85
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S SE SE  S  W NW NW NW NW NW
+Wind spd         13 13 13 11 11 12 13 13 10 10  8  6  3  5  8  9 10  9  8  6  5
+Wind gust        34 34 35 28 26 29 28 27 26 27 27 24 18 24 27 26 29 28 26 25 20
+Clouds           B1 B2 B2 B2 B1 B2 B2 B2 B2 B2 OV OV OV OV B2 B2 B2 B1 SC FW FW
+PoP 12hr                      5          10         100          90          20
+QPF 12hr                      0           0   0.38-0.97   0.86-1.80   0.05-0.20
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  L  D  D  D  D  L  L  S  S         
+Tstms                                              S  S  C  C  S  S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      37    62      40    63      44    62      44    62
+Temp          59 52   42 39 59 52   44 41 60 54   48 45 59 54   49 46 59 54
+Dewpt         38 39   40 38 41 41   41 41 47 47   47 45 49 49   48 46 50 49
+PWind dir         N      NE     E       E    NE      NE    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   CL FW FW SC   SC B1 B1 B1   B1 B1 SC SC   SC B1 B1 SC
+PoP 12hr          0       0     0      10    20      40    30      20     5
+Rain shwrs                                 S  S    C  C  C  C    S         
+
+$$
+
+MOZ051-052-060-241000-
+Montgomery MO-Lincoln MO-Warren MO-
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      65          74          49          57          38
+Temp             75 70 69 67 66 69 72 72 70 64 61 56 51 55 53 52 48 45 43 42 39
+Dewpt            60 59 58 58 58 61 62 62 61 60 60 56 51 55 52 49 47 44 42 39 36
+RH               60 68 68 73 75 76 71 71 73 87 97100100100 96 89 96 96 96 89 89
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  W  N  N  N NW NW NW NW NW NW
+Wind spd         14 14 13 11 10 12 13 12 11  9  6  4  4  6 11 11 10  9  9  6  5
+Wind gust        33 34 35 28 26 25 26 26 27 27 23 16 18 19 25 28 31 28 26 21 19
+Clouds           SC B1 B2 B2 B2 B1 OV B2 OV OV OV OV OV OV OV B2 B2 B1 SC FW CL
+PoP 12hr                     20          60         100          80          30
+QPF 12hr                      0   0.01-0.11   0.34-0.66   0.76-1.59   0.10-0.32
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs       IS                 S  C  C  D  D  D  D  D  L  L  C  C         
+Tstms            IS                                      S  S                  
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      37    59      38    59      41    59      42    59
+Temp          57 51   41 38 55 51   43 40 56 53   45 42 56 53   46 43 56 53
+Dewpt         41 41   40 38 43 43   42 39 47 47   44 42 48 47   45 43 50 49
+PWind dir        NW       E    SE       E     E      NE    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW SC SC B1   B1 B1 B1 B1   SC SC SC SC   SC B1 B1 B1
+PoP 12hr          0       0     0      10    20      30    30      20    10
+Rain shwrs                                 S  S    C  C  C  C    S         
+
+$$
+
+ILZ058-059-098-099-241000-
+Greene IL-Macoupin IL-Calhoun IL-Jersey IL-
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      65          76          55          61          41
+Temp             73 69 69 67 65 69 75 75 72 68 65 60 56 59 57 56 52 48 46 45 42
+Dewpt            58 58 56 55 55 58 58 59 59 55 57 59 56 58 55 51 49 47 44 41 39
+RH               59 68 63 65 70 68 55 58 64 63 75 96100 96 93 83 89 96 93 86 89
+Wind dir          S  S  S  S SE  S  S  S  S  S  S  S SW  N  N  N NW NW NW NW NW
+Wind spd         17 17 14 12 13 16 17 14 13 12 10  6  5  5  9 12 11 12 12 10  9
+Wind gust        34 33 32 27 26 29 27 27 27 29 29 24 16 17 23 27 29 28 29 28 24
+Clouds           SC SC B2 B1 B1 SC B2 B2 B2 OV OV OV OV OV OV B2 B2 B2 B1 SC FW
+PoP 12hr                     20          20         100          90          50
+QPF 12hr                      0        0.01   0.35-0.58   0.82-1.94   0.16-0.50
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs       IS                    C  C  L  D  D  D  D  D  D  C  C         
+Tstms            IS                                         S     S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          60      38    58      40    60      43    60      45    60
+Temp          57 51   42 39 56 52   45 41 57 54   47 44 58 55   48 45 57 54
+Dewpt         40 41   40 37 41 42   41 39 45 46   44 42 45 46   45 44 48 49
+PWind dir        NW      NE     E       E    NE      NE    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   FW FW SC B1   B1 B1 B1 B1   SC SC SC SC   B1 B1 B1 B1
+PoP 12hr          0       0     0      10    20      20    30      20    10
+Rain shwrs                                    S    S  S  C  C    S  S      
+
+$$
+
+ILZ060-064-065-241000-
+Montgomery IL-Bond IL-Fayette IL-
+Including the cities of Litchfield and Vandalia
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          77          58          64          43
+Temp             72 68 66 65 63 68 75 76 71 68 66 62 59 61 61 61 57 52 48 46 44
+Dewpt            57 56 54 53 53 56 58 57 56 53 54 57 58 61 60 58 56 52 48 45 42
+RH               59 65 65 65 70 65 55 52 59 59 65 84 96100 97 90 96100100 96 93
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S SE SE  E NW NW NW NW NW
+Wind spd         14 14 13 12 12 14 18 17 12 12 11  9  6  8  9 10  6 10 12 11 10
+Wind gust        33 31 32 28 27 29 28 27 27 29 28 24 23 20 23 23 24 26 29 29 27
+Clouds           SC SC B2 B1 SC SC B1 B2 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B1 SC
+PoP 12hr                     10          10          80          90          50
+QPF 12hr                      0           0   0.10-0.40   0.90-1.75   0.11-0.37
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                   C  C  L  D  D  D  D  C  C  S  S   
+Tstms                                                    S  S     S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          59      38    59      41    61      44    61      45    60
+Temp          56 51   42 39 56 51   44 42 58 54   47 45 58 55   49 46 57 54
+Dewpt         42 43   41 39 41 43   42 40 46 48   46 44 46 48   47 46 50 51
+PWind dir        NW      NE     E       E     E      NE    NE      NE     E
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   FW FW SC SC   B1 B1 B1 B1   SC SC SC SC   B1 B1 B1 B1
+PoP 12hr          0       0     0       5    10      20    30      20    10
+Rain shwrs                                    S    S  S  S  C    S  S  S  S
+
+$$
+
+ILZ079-MOZ075-241000-
+Randolph IL-Sainte Genevieve MO-
+Including the cities of Chester and Sparta
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      63          78          58          66          42
+Temp             73 69 67 65 63 68 75 76 72 69 67 63 59 62 62 61 54 48 46 45 43
+Dewpt            58 56 55 54 54 57 59 57 54 53 56 60 59 62 61 57 52 47 44 42 39
+RH               59 63 65 68 72 68 58 52 53 57 68 90100100 97 87 93 96 93 89 86
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S  S SE  S SW  W NW NW NW NW
+Wind spd         14 14 14 11 12 14 16 16 11 12 11  9  5  6 10 10 10 11 11 10  8
+Wind gust        32 33 34 29 26 29 29 27 26 27 27 26 19 24 25 23 28 26 26 26 21
+Clouds           SC B1 B2 B1 SC SC B2 B2 B2 B2 OV OV OV OV B2 B2 B2 B2 B1 SC FW
+PoP 12hr                      5          10          90          90          40
+QPF 12hr                      0           0   0.28-0.46   0.98-1.63   0.11-0.24
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                   C  L  D  D  D  D  D  C  C         
+Tstms                                                 S  S  C  S  S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      38    62      40    63      45    63      45    62
+Temp          58 52   43 39 58 53   45 41 59 56   48 46 59 56   49 47 59 56
+Dewpt         40 40   41 38 42 41   41 40 47 47   47 45 48 48   48 46 51 50
+PWind dir        NW      NE     E       E    NE      NE    NE      NE    NE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL   CL FW FW SC   SC B1 B1 SC   SC B1 SC SC   SC B1 B1 SC
+PoP 12hr          0       0     0       5    20      30    30      20    10
+Rain shwrs                                    S    C  C  C  C    S  S      
+
+$$
+
+MOZ059-062-072-073-241000-
+Gasconade MO-Franklin MO-Crawford MO-Washington MO-
+Including the cities of Washington, Union, and Sullivan
+423 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      64          75          52          60          39
+Temp             73 69 68 66 64 69 73 73 70 66 61 58 54 57 56 53 49 45 43 41 39
+Dewpt            58 57 56 57 57 60 60 60 59 58 60 58 54 57 54 50 47 44 42 39 36
+RH               59 66 65 73 78 73 64 64 68 75 97100100100 93 89 93 96 96 92 89
+Wind dir          S  S  S  S  S  S  S  S  S  S  S  S NW  N  N NW NW NW NW NW NW
+Wind spd         14 16 14 12 11 12 13 12 10  9  6  4  3  4  9 10  9  8  8  5  4
+Wind gust        35 39 36 32 26 29 28 26 26 27 27 21 16 18 24 26 29 25 26 25 20
+Clouds           SC B1 B2 B2 B1 B2 OV B2 B2 OV OV OV OV OV OV B2 B2 B1 SC FW FW
+PoP 12hr                      5          30         100          80          30
+QPF 12hr                      0   0.00-0.06   0.48-1.01   0.92-1.95   0.12-0.36
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  C  C  D  D  D  D  D  L  L  C  C         
+Tstms                                                 S  S  S  S  S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      37    61      39    61      42    60      43    60
+Temp          58 52   41 38 58 52   43 40 58 54   46 43 57 54   47 45 57 54
+Dewpt         39 40   40 37 42 42   41 39 46 46   45 43 47 47   46 44 50 49
+PWind dir        NW       E    SE       E    NE      NE    NE      NE     N
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   CL FW SC SC   B1 B1 B1 B1   SC SC SC SC   SC B1 B1 SC
+PoP 12hr          0       0     0      10    20      30    30      20     5
+Rain shwrs                              S  S  S    C  C  C  C    S         
+
+$$
+

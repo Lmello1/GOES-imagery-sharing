@@ -1,0 +1,328 @@
+FOUS51 KCTP 231719
+PFMCTP
+
+Point Forecast Matrices
+National Weather Service State College PA
+119 PM EDT Sun Oct 23 2022
+
+PAZ005-232100-
+Bradford-McKean PA
+41.80N  78.64W Elev. 2143 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          40          69          45          70
+Temp                   66 64 53 47 44 42 42 58 67 67 55 50 48 47 48 60 67 67 58
+Dewpt                  36 39 38 39 38 37 38 43 41 42 42 42 41 41 42 46 46 47 48
+RH                     33 40 57 74 79 82 86 57 39 40 61 74 77 79 80 60 47 49 69
+Wind dir               SE SE SE SE  S SE  S  W  W  S  S SE SE SE  S  S  S  S SE
+Wind spd                4  4  2  2  1  1  1  2  3  2  1  2  2  2  3  5  8  6  4
+Wind gust                                                                    16
+Clouds                 SC SC SC FW FW CL FW FW CL FW FW FW SC B1 SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    65      43    55      37    57      40    58
+Temp          55 55 64 54   48 45 53 46   40 38 55 47   43 43 56 49
+Dewpt         48 50 48 48   43 39 38 36   33 33 37 37   37 38 40 40
+PWind dir         S     S       W     N      NE     E      SE    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B1   B2 B2 B1 SC   SC B1 B1 B1   B1 B2 B2 B2
+PoP 12hr         20    60      20     5       5     5       5    10
+Rain shwrs        S  L  C    S  S                                  
+
+$$
+PAZ024-232100-
+Johnstown-Cambria PA
+40.32N  78.83W Elev. 2284 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          67          47          68
+Temp                   62 60 51 47 45 43 41 56 65 64 54 50 49 48 48 58 66 64 56
+Dewpt                  37 38 38 42 42 41 40 44 43 44 42 43 43 43 43 47 48 48 48
+RH                     39 44 61 83 89 93 96 64 45 48 64 77 80 83 83 67 52 56 74
+Wind dir               SE SE SE  S  S SW SW  W NW  W SE SE SE SE SE SE SE SE SE
+Wind spd                5  5  4  3  2  2  2  2  3  2  2  3  4  4  4  5  8  9  8
+Clouds                 SC SC SC FW FW FW FW FW FW FW FW FW SC SC SC SC SC B1 B1
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                 PF                      PF PF            
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    63      43    54      38    56      43    56
+Temp          54 52 62 53   50 45 52 47   41 40 54 47   46 45 54 48
+Dewpt         50 50 51 48   47 43 41 39   37 36 41 41   42 42 44 43
+PWind dir        SE    SW       W     N      NE    SE      SE    SE
+Wind char        GN    GN      GN    GN      LT    GN      LT    GN
+Avg clouds    B1 B2 B1 B1   B1 B2 B1 SC   SC SC B1 B1   B1 B2 B2 B2
+PoP 12hr         30    50      20     5       5    10       5    10
+Rain shwrs        C  C  C    S  S                                  
+
+$$
+PAZ025-232100-
+Altoona-Blair PA
+40.30N  78.32W Elev. 1504 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          42          72          45          71
+Temp                   64 64 53 49 45 43 44 59 69 68 56 52 49 48 48 60 68 67 58
+Dewpt                  38 40 42 43 43 41 41 46 45 44 45 45 44 44 45 48 49 49 51
+RH                     38 41 66 80 93 93 89 62 42 42 66 77 83 86 89 64 51 52 77
+Wind dir               SE SE  E  W  W  W  W NW  N NE  N SW  S  S  S SE  S SE SE
+Wind spd                4  4  2  1  1  1  1  2  2  2  2  2  1  1  1  3  5  6  3
+Clouds                 B1 B1 SC SC SC SC SC FW CL FW FW FW SC SC SC SC SC B1 B1
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    68      46    60      40    60      42    59
+Temp          55 55 67 56   51 48 58 49   43 42 58 50   45 45 57 50
+Dewpt         52 52 52 50   47 44 41 40   38 38 41 41   41 42 43 43
+PWind dir        SE    SW       W     N       N     E       E    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B1 B1   B1 B1 B1 SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         20    50      20     5       5    10       5    10
+Rain shwrs        S  C  C    S                                     
+
+$$
+PAZ019-232100-
+State College-Southern Centre PA
+40.85N  77.85W Elev. 1239 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          42          70          46          70
+Temp                   64 64 54 49 45 43 43 58 68 68 57 52 49 47 46 59 67 67 59
+Dewpt                  42 45 44 45 43 42 41 49 49 50 48 48 47 46 46 53 54 54 53
+RH                     45 50 69 86 93 96 93 72 51 52 72 86 93 96100 80 63 63 80
+Wind dir               SE SE  E NE  N NW SW  W  N NE  S  S  N  N SE SE  S SE SE
+Wind spd                2  2  1  0  0  0  0  2  2  2  1  0  0  0  0  2  5  5  2
+Clouds                 B2 B1 SC SC FW SC SC FW FW FW FW FW FW B1 SC SC SC SC B1
+PoP 12hr                      0           0           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                 PF                      PF PF            
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    68      46    61      40    60      42    60
+Temp          55 55 67 58   53 48 59 51   43 41 58 51   46 44 57 52
+Dewpt         54 54 55 53   50 45 44 41   39 39 43 43   42 42 47 45
+PWind dir        SE     S       W     N       N     E       E    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B1   B1 B1 B1 SC   SC B1 B2 B2   B2 B2 B2 B2
+PoP 12hr         20    50      20     5       5    10       5    10
+Rain shwrs        S  C  C    S  S                                  
+
+$$
+PAZ046-232100-
+Williamsport-Southern Lycoming PA
+41.24N  76.92W Elev. 529 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          46          72          50          70
+Temp                   65 64 56 51 50 48 46 59 69 69 58 54 51 50 51 59 67 67 60
+Dewpt                  42 47 45 47 46 45 44 51 52 54 52 51 50 50 50 56 57 58 56
+RH                     43 54 66 86 86 89 93 75 55 59 80 90 96100 96 90 70 73 87
+Wind dir               SE SE  N  W NW  W  W NW  N  N  N  N NE NE  E SE  S SE SE
+Wind spd                2  2  2  2  2  3  3  2  2  2  2  2  2  2  2  2  4  4  3
+Clouds                 B1 B1 B1 B1 SC SC SC FW FW FW FW FW SC B1 B1 B1 SC B1 B1
+PoP 12hr                      5          10           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                 PF                      PF PF            
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    68      50    63      43    61      44    61
+Temp          57 58 66 62   56 52 61 52   46 44 59 52   48 46 59 53
+Dewpt         57 57 58 56   52 47 45 41   41 40 43 43   43 42 45 45
+PWind dir        SE     S      NW     N       N    NE      NE    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B1   B1 B1 SC SC   SC SC B1 B2   B2 B2 B2 B2
+PoP 12hr         20    40      20     5       5    10       5    10
+Rain shwrs        S  C  C    S  S                                  
+
+$$
+PAZ050-232100-
+Selinsgrove-Snyder PA
+40.82N  76.86W Elev. 450 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          44          72          47          71
+Temp                   64 64 53 49 47 46 46 58 69 69 55 52 50 48 50 59 67 68 58
+Dewpt                  46 48 48 48 46 45 45 50 52 52 52 51 50 48 50 55 57 57 57
+RH                     52 56 83 96 96 96 96 75 55 55 90 96100100100 87 70 68 96
+Wind dir               NE NE  N  N NW NW NW  N  N  N  N  N NE  N  N SE  S SE SE
+Wind spd                1  1  0  0  1  1  1  2  2  1  0  0  0  0  0  1  2  2  1
+Clouds                 B1 B2 B1 B1 SC SC SC FW FW FW FW FW SC B1 B2 B1 B1 SC SC
+PoP 12hr                      5          10           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                 PF                      PF PF            
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    70      49    64      41    61      42    61
+Temp          56 57 68 59   53 51 62 50   44 43 58 50   45 45 59 50
+Dewpt         56 57 57 56   51 48 46 44   40 40 44 44   42 42 45 45
+PWind dir        SE     S       W     N       N    NE      NE     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B1   B1 SC SC FW   SC SC B1 B2   B1 B2 B2 B2
+PoP 12hr         20    40      20     5       5    10       5    10
+Rain shwrs        S  C  C    S  S                                  
+
+$$
+PAZ057-232100-
+Harrisburg-Dauphin PA
+40.19N  76.76W Elev. 310 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          50          72          51          71
+Temp                   63 64 58 55 52 51 51 61 69 69 62 58 55 53 53 61 68 69 64
+Dewpt                  47 49 49 49 48 48 47 51 51 52 52 54 52 51 50 55 56 57 58
+RH                     56 58 72 80 86 89 86 70 53 55 70 86 90 93 89 81 65 66 81
+Wind dir               NE NE  N NW NW NW NW NW  N  N  N NE NE NE NE SE SE SE SE
+Wind spd                5  4  4  4  4  4  4  5  5  3  3  2  2  2  2  2  5  5  5
+Clouds                 B2 B2 B1 SC SC SC FW CL FW FW FW FW SC SC SC B1 SC SC B1
+PoP 12hr                     10          10           5           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    71      53    65      47    62      46    62
+Temp          61 60 68 64   58 55 63 57   50 48 59 56   51 48 59 56
+Dewpt         57 57 56 56   51 48 46 45   43 42 43 45   44 42 44 46
+PWind dir        SE     S       W     N       N    NE      NE     E
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2 B1 B1   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B1
+PoP 12hr         20    30      10     5       5    10      10    10
+Rain shwrs        S  C  S                                          
+
+$$
+PAZ065-232100-
+York-York PA
+39.92N  76.87W Elev. 480 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          46          72          47          73
+Temp                   63 64 55 51 49 47 48 63 70 70 58 54 51 49 50 63 70 70 61
+Dewpt                  46 48 48 48 47 45 46 50 50 51 51 51 50 49 49 54 54 55 56
+RH                     54 56 77 89 93 93 93 62 49 51 77 90 96100 96 72 57 59 84
+Wind dir               NE  N  N  N NW NW NW NW  N  N  W SW  N NE NE SE  S SE SE
+Wind spd                3  3  2  1  1  2  1  4  3  2  1  0  0  0  0  2  3  3  2
+Clouds                 B2 B2 B1 B1 SC SC FW FW FW FW FW FW SC SC SC SC SC SC SC
+PoP 12hr                     10           5           0           5           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                 PF                      PF PF            
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    72      50    65      44    62      43    62
+Temp          57 58 71 62   54 52 63 54   47 45 60 52   47 46 60 52
+Dewpt         56 57 55 54   50 47 45 44   40 40 43 44   42 41 43 45
+PWind dir        SE     S      NW     N       N    NE      NE     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 B1   SC SC SC SC   SC SC B1 B2   B2 B2 B2 B1
+PoP 12hr         20    30      10     5       5    10      10    10
+Rain shwrs        S  C  S                                          
+
+$$
+PAZ066-232100-
+Lancaster-Lancaster PA
+40.12N  76.30W Elev. 403 ft
+119 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          50          72          52          73
+Temp                   65 64 59 56 54 52 51 63 70 70 63 58 56 53 53 64 70 70 65
+Dewpt                  49 49 49 49 49 48 48 53 53 54 54 54 54 52 53 57 58 58 58
+RH                     56 58 69 77 83 86 89 70 55 57 72 86 93 96100 78 66 66 78
+Wind dir               NE NE NE  N  N  N NW  N  N  N NE  E NE NE NE  E SE SE SE
+Wind spd                5  5  5  4  3  4  2  5  5  4  3  2  2  2  1  3  5  5  5
+Clouds                 B2 B2 B2 B1 B1 B1 FW FW FW FW FW SC SC B1 B1 SC SC SC B1
+PoP 12hr                     20          10           5          10          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    72      52    67      46    62      45    63
+Temp          61 60 71 64   58 54 65 57   49 47 60 56   50 47 60 56
+Dewpt         59 58 58 56   52 48 47 44   42 41 44 44   43 41 44 45
+PWind dir        SE     S       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B2 B1 B1   SC SC SC SC   SC SC B1 B1   B1 B2 B2 B1
+PoP 12hr         20    30      20     5       5    10      10    10
+Rain shwrs        S  C  S    S  S                                  
+
+$$

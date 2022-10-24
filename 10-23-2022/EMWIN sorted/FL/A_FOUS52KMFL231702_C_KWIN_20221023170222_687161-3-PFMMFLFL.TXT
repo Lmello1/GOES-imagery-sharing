@@ -1,0 +1,240 @@
+FOUS52 KMFL 231702
+PFMMFL
+
+Point Forecast Matrices
+National Weather Service Miami FL
+101 PM EDT Sun Oct 23 2022
+
+FLZ074-240900-
+Miami-Miami Dade FL
+25.82N  80.28W Elev. 12 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      73          86          72          86          71
+Temp          84 79 77 75 74 73 83 84 82 78 77 75 74 73 82 85 83 78 77 75 73 73
+Dewpt         65 66 67 67 67 68 68 67 67 68 68 67 68 68 68 67 67 67 67 68 68 68
+RH            53 64 71 76 79 84 61 57 61 71 74 76 82 84 63 55 59 69 71 79 84 84
+Wind dir      NE NE NE  N  N  N NE  E NE NE NE NE NE  N NE NE  E  E  E NE  N NW
+Wind spd      11  9  5  3  3  3  8 10 10  6  5  3  2  2  5  6  5  5  2  1  1  1
+Clouds        FW FW FW FW FW FW SC SC SC FW FW FW FW FW FW FW FW SC SC SC SC FW
+PoP 12hr                     10          10           5          10           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          87      72    87      72    86      73    86      72    86
+Temp          84 81   74 72 86 79   75 73 85 79   75 74 83 79   74 74 83 78
+Dewpt         65 68   67 68 67 68   68 68 67 68   69 69 68 68   69 69 68 69
+PWind dir        NE      SW     E       E     E      NE     E       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW SC
+PoP 12hr          5       5     5       5     5       5    10      10    10
+
+$$
+FLZ172-240900-
+Fort Lauderdale-Broward FL
+26.07N  80.15W Elev. 11 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      73          84          72          85          71
+Temp          82 79 77 76 75 73 82 84 81 78 77 75 74 73 81 84 82 78 76 75 73 73
+Dewpt         66 66 67 67 67 68 68 67 68 68 67 67 67 68 68 67 68 67 67 68 68 68
+RH            58 64 71 74 76 84 63 57 65 71 71 76 79 84 65 57 63 69 74 79 84 84
+Wind dir      NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE  E NE  N NW
+Wind spd      13  9  8  5  5  5 10 12 11  9  8  5  4  4  8  9  9  5  3  2  2  2
+Clouds        FW FW SC FW FW SC SC SC SC FW FW FW FW FW FW FW FW SC FW FW FW FW
+PoP 12hr                     10          10           5          10           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      72    86      73    85      73    85      72    85
+Temp          85 79   75 72 85 79   76 73 84 78   76 74 82 79   75 74 82 78
+Dewpt         65 67   67 68 67 68   68 68 68 68   69 69 68 69   69 68 68 68
+PWind dir        NE      SW    NE       E     E       E     E       E     E
+Wind char        LT      LT    LT      LT    GN      LT    GN      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          5       5     5       5     5       5    10      10    10
+
+$$
+FLZ068-240900-
+West Palm Beach-Palm Beach FL
+26.68N  80.12W Elev. 19 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      71          84          70          84          69
+Temp          81 76 75 73 72 71 81 83 81 76 75 73 71 70 80 83 81 76 74 72 70 70
+Dewpt         68 68 68 68 68 68 70 69 69 68 68 67 68 68 70 69 68 69 69 68 67 68
+RH            65 76 79 84 87 90 69 63 67 76 79 81 90 93 72 63 65 79 84 87 90 93
+Wind dir      NE  N NE NE NE  N NE NE NE NE NE NE NE  N NE NE NE NE NE NE NW NW
+Wind spd      10  5  4  2  2  3  6 10 10  5  4  2  2  2  4  5  5  3  2  1  1  1
+Clouds        SC FW SC SC SC SC SC SC SC FW FW FW FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                     10          10           5          10           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      70    86      71    85      71    85      70    84
+Temp          85 77   72 70 85 77   73 71 84 77   73 73 82 77   74 71 82 77
+Dewpt         67 67   67 68 69 69   69 69 70 69   70 69 70 70   69 69 69 69
+PWind dir         N       S    NE       E     E       E     E       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW FW
+PoP 12hr          5       5    10       5     5       5    10      10    20
+Rain shwrs                                                                S
+
+$$
+FLZ069-240900-
+Naples-Collier FL
+26.15N  81.77W Elev. 9 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      67          84          67          83          67
+Temp          82 76 72 69 67 67 80 84 81 76 73 70 68 67 79 82 80 75 73 70 69 69
+Dewpt         65 66 65 66 66 67 69 68 69 68 69 67 67 66 68 67 68 69 68 68 67 67
+RH            56 71 79 90 97100 69 59 67 76 87 90 97 97 69 61 67 82 84 93 93 93
+Wind dir      NE NE  E NE NE NE NE NE NE NE  E  E  E NE  E  W  W NW NW  N NE  E
+Wind spd       9  5  5  4  3  4  6  5  5  4  4  3  3  3  5  3  5  2  2  1  1  1
+Clouds        FW FW FW FW FW FW FW FW SC SC FW FW FW FW FW FW FW FW SC FW FW FW
+PoP 12hr                      0          10           0           5           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          83      70    83      68    83      68    83      68    82
+Temp          82 74   71 70 82 75   71 68 82 75   70 68 81 74   71 68 79 73
+Dewpt         68 69   69 68 69 70   68 68 69 70   69 68 69 70   69 68 68 69
+PWind dir         W      NW    SW       N     S      NE     S      NE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   SC FW FW FW
+PoP 12hr          5       5     5       5     5       0     5      10    10
+
+$$
+FLZ073-240900-
+Homestead General-Miami Dade FL
+25.50N  80.55W Elev. 9 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      68          85          68          86          68
+Temp          83 76 72 71 69 70 82 85 82 75 73 71 70 69 82 85 83 76 73 72 70 70
+Dewpt         66 67 68 68 67 68 69 68 68 69 69 69 68 68 69 67 68 69 70 69 68 68
+RH            57 74 87 90 93 93 65 57 63 82 87 93 93 97 65 55 61 79 90 90 93 93
+Wind dir       E NE NE  N  N  N NE  E  E NE NE NE  N  N NE NE  E  E  E  N  N  N
+Wind spd      11  6  4  3  3  3  9 10 10  5  4  3  2  2  5  5  5  2  1  1  1  1
+Clouds        FW FW FW FW FW FW SC SC SC FW FW FW FW FW FW FW FW SC SC SC FW FW
+PoP 12hr                      0           5           5           5           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      68    86      69    86      70    86      69    85
+Temp          85 76   70 70 85 76   71 71 85 76   72 70 85 76   71 71 84 75
+Dewpt         67 68   68 68 67 69   68 68 69 69   70 70 69 70   69 69 68 69
+PWind dir        NW       W     E      NE     E      NE     E      NE     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW CL FW   FW FW FW FW   FW FW FW SC
+PoP 12hr          5       0     5       5     5       5     5      10    10
+
+$$
+FLZ067-240900-
+Belle Glade-Palm Beach FL
+26.65N  80.63W Elev. 20 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      66          83          64          83          64
+Temp          80 71 68 67 67 67 81 81 79 72 68 67 66 65 79 83 81 73 68 67 65 66
+Dewpt         65 66 67 66 66 66 69 69 67 67 66 66 65 65 69 67 66 66 67 66 65 65
+RH            60 84 97 97 97 97 67 67 67 84 93 97 97100 72 59 60 79 97 97100 97
+Wind dir      NE NE  N NE  N  N NE NE NE NE NE NE  N  N NE  N  N NE  E  E SW  W
+Wind spd      10  5  4  3  3  4  8  9 10  5  4  3  3  3  5  4  5  4  3  2  2  2
+Clouds        SC FW FW SC FW SC SC B1 SC FW FW CL FW FW CL FW FW SC FW FW FW FW
+PoP 12hr                      5          10           5           5           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          84      65    85      65    85      65    85      65    84
+Temp          84 74   67 67 84 74   68 66 84 73   68 66 82 74   68 66 82 73
+Dewpt         66 66   66 65 67 68   67 66 69 68   68 66 69 68   68 66 67 67
+PWind dir        NW      SW    NW      NE    NE      NE     E       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW CL FW SC   FW FW FW FW
+PoP 12hr          5       0    10       5     5       5    10      10    20
+Rain shwrs                                                                S
+
+$$
+FLZ070-240900-
+Immokalee-Collier FL
+26.40N  81.42W Elev. 30 ft
+101 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      66          85          65          86          64
+Temp          82 74 69 67 66 67 79 83 82 75 71 68 66 65 79 85 83 75 70 68 66 66
+Dewpt         63 64 65 66 65 65 69 68 67 67 66 66 65 65 68 66 66 66 66 65 64 65
+RH            53 71 87 97 97 93 72 61 61 76 84 93 97100 69 53 57 74 87 90 93 97
+Wind dir      NE NE NE NE NE NE NE NE NE NE  E  E NE NE NE NE  N  N  S  S  S  S
+Wind spd       8  4  3  2  2  2  5  6  6  4  3  2  2  2  4  2  2  1  0  0  0  0
+Clouds        FW FW FW FW FW FW FW FW SC FW FW FW FW FW FW FW FW SC SC FW FW FW
+PoP 12hr                      0           5           0           5           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          86      67    86      67    86      67    86      67    85
+Temp          85 74   69 67 85 75   69 67 85 76   70 67 84 74   69 67 83 73
+Dewpt         66 66   66 66 67 68   66 66 68 68   67 66 68 68   67 66 66 66
+PWind dir         W       W    SW       N     E      NE     E       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW   FW FW FW FW   FW FW FW FW   FW CL CL FW   SC FW FW FW
+PoP 12hr          5       5     5       0     5       0     5       5    10
+
+$$

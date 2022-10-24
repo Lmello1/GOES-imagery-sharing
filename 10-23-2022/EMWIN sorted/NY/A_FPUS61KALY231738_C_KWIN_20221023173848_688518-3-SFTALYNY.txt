@@ -1,0 +1,91 @@
+FPUS61 KALY 231738
+SFTALY
+NYZ026>066-082>084-232200-
+
+Tabular State Forecast for NEW YORK
+National Weather Service ALBANY, NY
+138 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+
+...Central New York.....
+   Binghamton, NY
+   Ptcldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Mocldy   
+     /64    48/66    49/66    54/67    49/58    41/58    43/57    
+      /00    20/20    10/10    20/40    40/20    10/10    20/40   
+
+
+...East Central New York.....
+   Albany, NY
+   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+     /62    50/61    52/67    55/69    53/65    43/59    43/58    
+      /00    50/40    20/20    20/40    40/20    10/10    20/30   
+
+   Cobleskill, NY
+   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /61    48/60    50/66    53/68    50/60    39/57    41/56    
+      /00    50/40    10/10    20/40    40/20    10/10    20/30   
+
+   Gloversville, NY
+   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /61    47/61    48/65    51/67    49/61    38/56    39/56    
+      /00    40/30    20/10    10/30    30/20    10/10    20/30   
+
+   Saratoga Spgs, NY
+   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   
+     /63    50/62    51/67    54/70    51/65    41/59    40/59    
+      /00    50/30    20/20    10/30    30/20    10/10    20/30   
+
+   Tannersville, NY
+   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+     /58    46/56    49/61    52/62    49/59    39/54    39/52    
+      /20    70/40    20/20    20/40    40/20    10/10    20/30   
+
+
+...Northeast New York.....
+   Glens Falls, NY
+   Ptcldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   
+     /63    49/61    50/67    52/69    50/64    39/58    40/57    
+      /00    50/40    20/20    10/30    30/20    10/10    20/30   
+
+   Massena, NY
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /68    46/66    46/70    51/71    45/58    35/56    38/57    
+      /00    10/10    00/10    10/30    30/10    10/10    10/30   
+
+   Saranac Lake, NY
+   Ptcldy   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+     /67    45/64    45/68    50/68    43/55    32/56    36/55    
+      /00    30/20    00/10    10/30    30/20    10/10    20/30   
+
+   Speculator, NY
+   Ptcldy   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+     /62    46/58    46/64    49/64    45/58    35/54    38/54    
+      /00    40/30    10/10    10/40    40/20    10/10    20/30   
+
+
+...Southeast New York.....
+   Kingston, NY
+   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   
+     /62    51/61    53/67    55/68    52/67    45/61    43/59    
+      /30    50/40    30/20    20/30    30/20    10/10    20/30   
+
+   Poughkeepsie, NY
+   Mocldy   Mocldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Mocldy   
+     /62    51/62    53/68    55/69    53/68    46/62    44/60    
+      /40    50/40    30/20    20/30    30/20    10/10    20/30   
+
+
+$$
+

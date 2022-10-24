@@ -1,0 +1,139 @@
+FPUS61 KCTP 232100
+SFTCTP
+PAZ001>072-241000-
+
+Tabular State Forecast for Pennsylvania
+National Weather Service State College PA
+500 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Pennsylvania/Western...
+   Butler
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   36/73    41/71    53/62    44/58    39/61    43/60    44/59    
+    00/00    00/00    40/60    40/10    00/10    10/10    10/10   
+
+   Erie
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   54/71    55/70    56/63    46/54    43/57    46/58    47/58    
+    00/00    00/00    40/70    70/20    00/10    10/10    20/20   
+
+   Franklin
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   42/72    47/70    54/61    43/55    39/59    43/59    43/57    
+    00/00    00/00    40/70    50/10    00/10    10/10    10/10   
+
+   Indiana
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Mocldy   
+   37/73    42/72    55/65    46/59    40/61    44/60    46/59    
+    00/00    00/00    30/50    30/10    10/10    10/10    10/10   
+
+   Latrobe
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   40/75    45/74    54/67    46/60    41/63    45/62    46/60    
+    00/00    00/00    40/50    30/10    10/10    10/10    10/20   
+
+   Pittsburgh
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   39/74    44/72    54/62    46/58    41/61    45/61    46/59    
+    00/00    00/00    50/50    40/10    00/10    10/10    10/20   
+
+
+...Pennsylvania/Central...
+   Altoona
+   Sunny    Ptcldy   Drzl     Ptcldy   Ptcldy   Mocldy   Mocldy   
+   41/70    45/69    52/66    45/59    39/59    41/58    42/58    
+    00/00    10/10    30/40    30/10    10/10    10/10    10/30   
+
+   Bradford
+   Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   40/69    45/68    51/63    42/54    36/57    39/58    40/56    
+    00/00    00/10    20/70    60/20    00/10    10/10    10/20   
+
+   DuBois
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   42/71    47/70    54/64    44/57    38/59    42/58    43/57    
+    00/00    00/10    30/60    50/10    10/10    10/10    10/10   
+
+   Harrisburg
+   Ptcldy   Drzl     Drzl     Sunny    Ptcldy   Mocldy   Ptcldy   
+   50/69    53/72    58/72    52/65    46/62    46/63    47/63    
+    30/10    20/20    30/30    30/10    10/10    10/10    10/20   
+
+   Johnstown
+   Sunny    Ptcldy   Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+   41/67    47/67    54/63    43/55    39/56    43/56    43/54    
+    00/00    00/10    30/50    30/20    00/10    10/10    20/40   
+
+   Selinsgrove
+   Ptcldy   Drzl     Drzl     Ptcldy   Ptcldy   Mocldy   Mocldy   
+   46/69    50/71    55/71    50/64    42/61    43/61    43/62    
+    30/20    20/30    40/40    40/20    10/10    10/10    10/20   
+
+   State College
+   Sunny    Drzl     Rain     Ptcldy   Mocldy   Mocldy   Mocldy   
+   43/70    47/68    54/67    46/60    39/59    41/59    43/59    
+    10/10    10/20    40/50    40/20    10/10    10/10    10/30   
+
+   Williamsport
+   Ptcldy   Drzl     Rain     Ptcldy   Ptcldy   Mocldy   Mocldy   
+   48/71    52/71    57/70    50/62    42/61    43/61    44/61    
+    20/10    20/20    40/50    40/20    10/10    10/10    10/20   
+
+   York
+   Ptcldy   Drzl     Drzl     Sunny    Ptcldy   Mocldy   Ptcldy   
+   49/69    52/71    57/73    51/65    44/62    44/62    46/62    
+    30/10    20/20    30/30    30/10    10/10    10/10    10/20   
+
+
+...Pennsylvania/Eastern...
+   Allentown
+   Rain     Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   51/66    55/71    58/69    51/65    44/61    43/61    44/62    
+    80/60    30/30    40/40    30/10    10/10    10/10    10/10   
+
+   Hazelton
+   Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   49/66    54/67    57/66    48/59    41/58    42/58    43/58    
+    50/40    30/30    50/50    30/10    10/10    10/10    10/20   
+
+   Lancaster
+   Drzl     Drzl     Drzl     Sunny    Ptcldy   Ptcldy   Ptcldy   
+   50/68    52/72    57/72    51/66    45/62    44/62    45/63    
+    50/20    20/30    40/40    30/20    10/10    10/10    10/20   
+
+   Mount Pocono
+   Rain     Mocldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   48/60    51/64    55/62    48/57    40/54    38/54    40/55    
+    70/60    40/40    50/50    40/10    10/10    10/10    10/10   
+
+   Philadelphia
+   Rain     Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   55/67    58/72    59/72    56/69    50/63    49/62    50/63    
+    90/60    30/30    30/40    20/10    10/10    10/10    10/10   
+
+   Reading
+   Rain     Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   
+   52/67    56/72    57/70    53/65    46/62    46/61    46/62    
+    70/50    30/30    40/40    30/10    10/10    10/10    10/10   
+
+   Wilkes Barre/Scranton
+   Mocldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Mocldy   
+   51/68    55/70    59/69    50/61    41/61    43/60    44/61    
+    50/30    20/40    50/50    40/10    10/10    10/10    10/10   
+
+
+$$
+

@@ -1,0 +1,54 @@
+FPUS65 KPSR 232100
+SFTPSR
+AZZ530>563-CAZ560>570-241200-
+
+Tabular State Forecast for Southwest Arizona/Southeast California
+National Weather Service Phoenix AZ
+200 PM MST Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...SOUTH-CENTRAL ARIZONA...
+   Phoenix
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   54/74    52/78    55/80    57/78    54/79    58/82    60/81    
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Globe
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   41/63    40/69    44/71    47/65    40/68    44/71    46/71    
+    20/00    00/00    00/00    20/20    00/00    00/00    00/00   
+
+...SOUTHWEST ARIZONA...
+   Yuma
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   57/76    52/79    56/83    59/80    56/80    57/83    59/82    
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+...SOUTHEAST CALIFORNIA...
+   Blythe
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   54/74    49/77    54/80    56/77    50/77    51/80    54/81    
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Imperial
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   54/76    49/79    53/82    57/80    53/80    53/82    56/83    
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+
+$$
+
+National Weather Service Phoenix is on the internet at
+
+weather.gov/phoenix

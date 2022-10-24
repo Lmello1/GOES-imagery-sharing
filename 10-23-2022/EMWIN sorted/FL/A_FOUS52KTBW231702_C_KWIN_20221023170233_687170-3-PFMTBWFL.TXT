@@ -1,0 +1,174 @@
+FOUS52 KTBW 231702
+PFMTBW
+
+Point Forecast Matrices
+National Weather Service Tampa Bay Area - Ruskin FL
+102 PM EDT Sun Oct 23 2022
+
+FLZ248-232100-
+Brooksville-Hernando FL
+28.47N  82.45W Elev. 77 ft
+102 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          61          85          59          85
+Temp                   81 82 71 66 63 62 62 77 83 83 74 67 64 61 61 76 83 82 72
+Dewpt                  58 58 61 62 62 61 61 64 63 60 61 62 61 60 61 64 61 61 63
+RH                     46 44 71 87 97 97 97 64 51 46 64 84 90 97100 66 47 49 73
+Wind dir                N NE NE NE  E NE NE  E NE NE NE  E  E  E  E  E  N NW NW
+Wind spd                6  8  4  4  2  2  3  9  8  8  4  4  2  1  2  5  4  5  2
+Clouds                 FW FW FW FW FW SC FW FW SC FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          62    85      63    84      59    85      62    84
+Temp          65 64 83 72   67 64 83 71   63 61 83 72   65 63 82 72
+Dewpt         62 62 66 67   67 64 64 63   62 61 64 65   64 63 64 65
+PWind dir        SE    SW       W    NW       N     S      NE    SW
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW SC   SC SC FW FW   FW FW FW FW   FW FW SC SC
+PoP 12hr          0    10       5     5       0     5       5    20
+Rain shwrs                                                        S
+
+$$
+FLZ151-232100-
+Tampa-Hillsborough FL
+27.97N  82.53W Elev. 11 ft
+102 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          67          85          66          85
+Temp                   82 83 76 72 69 67 68 78 83 83 77 74 70 68 67 77 82 82 76
+Dewpt                  59 58 59 61 63 63 63 65 64 63 62 62 62 62 62 64 63 61 62
+RH                     46 43 56 68 81 87 84 64 53 51 60 66 76 81 84 64 53 49 62
+Wind dir               NE  N  N NE NE NE NE  E  E NE NE  E  E  E  E  E  N NW NW
+Wind spd                6  8  5  5  5  5  4  6  6  8  5  5  5  3  2  4  3  5  3
+Clouds                 FW FW FW FW FW SC SC FW SC SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          68    83      69    83      66    84      68    84
+Temp          71 69 81 76   72 70 82 75   69 67 81 76   70 69 81 75
+Dewpt         63 63 67 67   67 66 66 63   63 63 65 64   65 64 66 64
+PWind dir        NE    SW       W    NW       N     S      NE     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW SC   FW SC FW FW   FW FW FW FW   FW FW SC SC
+PoP 12hr          5    10       5     5       5     5       5    20
+Rain shwrs                                                        S
+
+$$
+FLZ155-232100-
+Sarasota-Manatee FL
+27.40N  82.57W Elev. 27 ft
+102 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          64          84          65          83
+Temp                   81 81 74 70 67 65 66 78 82 81 75 72 68 66 66 76 80 79 73
+Dewpt                  61 60 62 61 63 63 64 66 65 65 65 64 63 63 62 65 64 64 64
+RH                     51 49 66 73 87 93 93 67 56 58 71 76 84 90 87 69 58 60 73
+Wind dir               NE  N  N NE  E NE NE  E  E NE NE  E  E  E  E  E NW NW NW
+Wind spd                8  9  5  5  5  5  5  9  8  9  5  6  5  4  4  5  5  8  3
+Clouds                 FW FW FW FW FW SC SC SC SC SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          66    81      68    81      65    82      66    82
+Temp          68 67 80 73   70 68 81 73   68 67 80 73   68 67 80 73
+Dewpt         64 65 67 68   67 67 67 66   65 64 66 66   66 65 66 66
+PWind dir        NE    SW      SW    NW      NE     S      NE     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW SC
+PoP 12hr          0    10       5     5       5     5       5    10
+
+$$
+FLZ052-232100-
+Winter Haven-Polk FL
+28.07N  81.75W Elev. 146 ft
+102 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          64          85          62          85
+Temp                   83 82 73 69 66 65 65 78 84 82 74 69 66 63 64 77 83 82 74
+Dewpt                  60 59 62 64 64 63 64 65 63 62 62 62 63 62 62 64 62 60 61
+RH                     46 46 68 84 93 93 97 64 49 51 66 78 90 97 93 64 49 47 64
+Wind dir                N NE NE NE NE NE NE NE NE NE NE NE NE NE NE NE  N  N NE
+Wind spd                8  9  8  6  4  4  5  9  8  9  8  6  3  2  2  5  3  4  3
+Clouds                 FW FW FW FW FW FW FW FW SC FW FW FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          64    86      66    85      64    86      66    85
+Temp          66 65 84 75   69 67 85 75   67 66 84 76   69 67 83 75
+Dewpt         63 63 65 66   66 66 65 65   64 64 65 65   65 65 64 65
+PWind dir         E    SW       W    SW       N     E       E     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW SC   SC FW FW FW   FW FW FW FW   FW FW FW SC
+PoP 12hr          0    10       5     5       0     5       5    10
+
+$$
+FLZ265-232100-
+Fort Myers-Lee FL
+26.58N  81.87W Elev. 18 ft
+102 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          68          87          67          86
+Temp                   84 84 76 72 69 68 68 80 85 84 77 74 70 69 68 79 83 83 76
+Dewpt                  63 61 62 65 65 66 67 68 65 65 65 66 66 65 65 67 64 64 66
+RH                     49 46 62 79 87 93 97 67 51 53 67 76 87 87 90 67 53 53 71
+Wind dir               NE NE NE NE NE NE NE NE  E NE NE  E  E NE NE NE  N NW NW
+Wind spd                9 10  6  5  4  3  4  8 10  9  5  5  3  2  3  5  5  5  4
+Clouds                 FW FW FW CL FW FW SC FW SC SC SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          67    85      70    85      69    86      69    85
+Temp          71 69 83 76   72 71 84 76   71 69 84 76   71 70 83 76
+Dewpt         66 66 65 67   68 68 67 68   68 67 66 67   67 67 66 67
+PWind dir         N    SW       W    SW       N     S      NE     S
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW SC
+PoP 12hr          0     5       5     5       0     5       0     5
+
+$$

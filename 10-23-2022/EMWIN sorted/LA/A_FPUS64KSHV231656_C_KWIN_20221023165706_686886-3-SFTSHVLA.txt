@@ -1,0 +1,80 @@
+FPUS64 KSHV 231656
+SFTSHV
+OKZ077-ARZ070-LAZ001-014-018-TXZ125-136-165-232300-
+
+Tabular State Forecast for Four State Area
+National Weather Service Shreveport LA
+1156 AM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+
+...SE OKLAHOMA...
+   BROKEN BOW
+   Mocldy   Tstrms   Tstrms   Sunny    Sunny    Shwrs    Sunny    
+     /86    66/77    51/67    40/70    41/71    46/65    44/70    
+      /00    20/90    90/30    00/00    00/10    40/40    20/10   
+
+
+...SOUTHWEST ARKANSAS...
+   TEXARKANA
+   Ptcldy   Tstrms   Shwrs    Sunny    Sunny    Shwrs    Sunny    
+     /87    67/80    59/67    45/70    46/72    51/65    51/68    
+      /00    10/60    90/30    00/00    00/10    40/40    20/10   
+
+
+...SOUTH CENTRAL ARKANSAS...
+   EL DORADO
+   Ptcldy   Shwrs    Shwrs    Sunny    Sunny    Shwrs    Ptcldy   
+     /85    63/82    60/69    42/70    42/73    48/67    48/68    
+      /00    00/20    90/40    00/00    00/00    30/40    30/10   
+
+
+...NORTHEAST TEXAS...
+   GILMER
+   Ptcldy   Tstrms   Ptcldy   Sunny    Sunny    Shwrs    Sunny    
+     /87    68/79    54/66    43/70    44/73    51/64    48/67    
+      /00    20/80    90/10    00/00    00/10    40/40    20/10   
+
+   TYLER
+   Ptcldy   Tstrms   Ptcldy   Sunny    Sunny    Shwrs    Sunny    
+     /87    70/80    56/67    46/72    48/75    54/68    51/69    
+      /00    20/80    90/10    00/00    00/10    40/40    20/10   
+
+
+...EAST TEXAS...
+   LUFKIN
+   Ptcldy   Shwrs    Sunny    Sunny    Sunny    Shwrs    Sunny    
+     /87    68/83    57/72    45/74    46/78    54/72    51/72    
+      /00    10/40    90/10    00/00    00/10    40/50    20/10   
+
+
+...NORTH LOUISIANA...
+   SHREVEPORT
+   Ptcldy   Shwrs    Shwrs    Sunny    Sunny    Shwrs    Ptcldy   
+     /88    68/84    60/70    46/72    47/76    54/68    52/70    
+      /00    10/40    90/20    00/00    00/10    40/50    30/10   
+
+   MONROE
+   Ptcldy   Mocldy   Tstrms   Sunny    Sunny    Shwrs    Ptcldy   
+     /87    63/84    65/75    47/72    45/75    52/72    52/69    
+      /00    00/10    70/50    00/00    00/00    20/40    30/10   
+
+   NATCHITOCHES
+   Ptcldy   Shwrs    Shwrs    Sunny    Sunny    Shwrs    Ptcldy   
+     /88    64/84    62/75    46/74    44/78    52/73    52/72    
+      /00    00/20    80/30    00/00    00/10    30/50    30/10   
+
+
+$$
+

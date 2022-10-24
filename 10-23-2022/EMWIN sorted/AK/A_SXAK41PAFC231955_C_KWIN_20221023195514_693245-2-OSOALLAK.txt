@@ -1,0 +1,38 @@
+SXAK41 PAFC 231955
+OSOAK 
+SXAK41 PAFC 231955
+OSOAK
+
+OTHER SURFACE OBSERVATIONS
+NATIONAL WEATHER SERVICE ANCHORAGE AK
+1155 AM AKDT SUN OCT 23 2022
+
+ALASKA NWS AUTOMATED SURFACE OBSERVATION REPORTS
+
+LOCATION DAY TIME SKY CONDITIONS              VSBY WX            SLP  TT DP WIND   PKW ALT APP  RH PP
+WHITTIER   231939 SKC                           10               085  34 23 2217G30    978      64       
+CENTRAL    231945 SKC                            3 -FZRA         100  24 32 0000       006     139       
+HEALY      231942 BKN015                        10                    24 19 0000                81       
+SKWENTNA   231953 SKC                           10               145  28 22 0000G00    993      78       
+
+
+.............................NOTES.............................
+THIS IS AN AUTOMATED COLLECTIVE WITH MINIMAL QUALITY CONTROL.
+CLOUD HEIGHTS ARE IN HUNDREDS OF FEET.
+
+..............................KEY..............................
+CLR    - NO CLOUDS
+FEW    - FEW CLOUDS  
+SCT    - SCATTERED CLOUDS 
+BKN    - BROKEN CLOUDS  
+OVC    - OVERCAST  
+VIS    - VISIBILITY IN MILES
+WX     - WEATHER
+TEMP   - TEMPERATURE IN FAHRENHEIT
+DP     - DEWPOINT IN FAHRENHEIT
+VRB    - VARIABLE WIND DIRECTION
+ALT    - ALTIMETER
+RH     - RELATIVE HUMIDITY IN PERCENT
+CHILL  - WIND CHILL
+PEAK   - PEAK WIND SPEED
+

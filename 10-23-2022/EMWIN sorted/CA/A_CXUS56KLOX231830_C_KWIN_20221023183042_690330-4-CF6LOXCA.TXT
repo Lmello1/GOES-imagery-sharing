@@ -1,0 +1,90 @@
+CXUS56 KLOX 231830
+CF6SBA
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SANTA BARBARA AIRPORT CA
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   34 25 N      
+                                          LONGITUDE: 119 50 W    
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND 
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  73  56  65   1   0   0 0.00    M    M  4.2 15 270   M    M   5 1      19 240
+ 2  73  54  64   0   1   0 0.00    M    M  4.8 16 250   M    M   5        21 270
+ 3  76  54  65   1   0   0 0.00    M    M  3.9 10 240   M    M   0        14 250
+ 4  75  56  66   2   0   1 0.00    M    M  4.6  9 100   M    M   1 18     13 220
+ 5  72  60  66   3   0   1 0.00    M    M  5.8 13  90   M    M   8 128    16 260
+ 6  70  59  65   2   0   0 0.00    M    M  5.3 12 130   M    M   9 18     15 120
+ 7  68  61  65   2   0   0 0.00    M    M  4.8 12  90   M    M   8 18     14 180
+ 8  71  60  66   3   0   1 0.00    M    M  5.7 14 240   M    M   8 18     17 250
+ 9  70  61  66   3   0   1 0.00    M    M  5.8 12 110   M    M   6 1      13 260
+10  68  62  65   2   0   0 0.00    M    M  6.5 12 260   M    M  10 18     15 260
+11  71  62  67   4   0   2 0.00    M    M  5.1 12 260   M    M   9 1      14 260
+12  72  63  68   5   0   3 0.03    M    M  6.5 22 260   M    M   6 18     27 260
+13  68  59  64   1   1   0 0.00    M    M  4.3 13 260   M    M   9 1      16 260
+14  66  62  64   2   1   0 0.00    M    M  3.8  8 260   M    M  10 1      10 250
+15  71  63  67   5   0   2    T    M    M  3.6 13 260   M    M   9 1      16 270
+16  71  54  63   1   2   0 0.00    M    M  5.2 16 130   M    M   5        19 130
+17  73  50  62   0   3   0 0.00    M    M  3.8 14 250   M    M   0        17 240
+18  76  54  65   3   0   0 0.00    M    M  4.5 16 250   M    M   0        19 250
+19  91  54  73  11   0   8 0.00    M    M  2.9 14 260   M    M   0        20 250
+20  84  59  72  10   0   7 0.00    M    M  4.6 15 250   M    M   7 1      19 260
+21  70  59  65   3   0   0 0.00    M    M  5.7 14 260   M    M   6 18     17 270
+22  70  53  62   0   3   0 0.00    M    M  7.0 20 350   M    M   8 1      25 350
+================================================================================
+SM 1599 1275        11  26  0.03    M    108.4          M      129              
+================================================================================
+AV 72.7 58.0                               4.9 FASTST   M    M   6    MAX(MPH)  
+                                 MISC ---->    22 260                 27 260   
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SANTA BARBARA AIRPORT CA
+                                          MONTH:     OCTOBER
+                                          YEAR:      2022
+                                          LATITUDE:   34 25 N      
+                                          LONGITUDE: 119 50 W                   
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16    
+
+AVERAGE MONTHLY: 65.3   TOTAL FOR MONTH:   0.03    1 = FOG OR MIST              
+DPTR FM NORMAL:   2.5   DPTR FM NORMAL:   -0.38    2 = FOG REDUCING VISIBILITY  
+HIGHEST:    91 ON 19    GRTST 24HR  0.03 ON 12-12      TO 1/4 MILE OR LESS      
+LOWEST:     50 ON 17                               3 = THUNDER                  
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS              
+                        TOTAL MONTH:  M            5 = HAIL                     
+                        GRTST 24HR    M  ON   M    6 = FREEZING RAIN OR DRIZZLE 
+                        GRTST DEPTH:  M  ON   M    7 = DUSTSTORM OR SANDSTORM:  
+                                                       VSBY 1/2 MILE OR LESS    
+                                                   8 = SMOKE OR HAZE            
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW             
+                                                   X = TORNADO                  
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:   1                      
+MAX 90 OR ABOVE:   1    0.10 INCH OR MORE:   0                      
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   0                      
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   0                        
+
+[HDD (BASE 65) ]                                                                
+TOTAL THIS MO.    11    CLEAR  (SCALE 0-3)   5                                  
+DPTR FM NORMAL   -59    PTCLDY (SCALE 4-7)   9                                  
+TOTAL FM JUL 1    31    CLOUDY (SCALE 8-10)  8                                  
+DPTR FM NORMAL  -135                                                            
+
+[CDD (BASE 65) ]                                                                
+TOTAL THIS MO.    26                                                            
+DPTR FM NORMAL     4    [PRESSURE DATA]                                         
+TOTAL FM JAN 1   391    HIGHEST SLP M ON M        
+DPTR FM NORMAL   181    LOWEST  SLP 29.69 ON 22        
+
+[REMARKS]

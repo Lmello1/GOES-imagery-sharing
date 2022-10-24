@@ -1,0 +1,34 @@
+ASHW60 PHFO 231830
+RTPHI 
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR HAWAII
+NATIONAL WEATHER SERVICE HONOLULU HI
+830 AM HST Sun Oct 23 2022
+
+Values represent highs yesterday, the overnight lows,
+and precipitation over the last 24 hours
+
+.BR HFO 1023 H DH00/TAIRZX/DH08/TAIRZP/PPDRZZ
+:
+:Automated Surface Observing System (ASOS) Sites
+:
+:                               Max    Min
+:ID          Location           Temp   Temp    Pcpn
+PHLI  : Lihue Airport        :  85 /   77 /      T 
+PHNL  : Honolulu Airport     :  89 /   76 /    0.01
+PHJR  : Kalaeloa Airport     :  90 /   73 /    0.01
+PHNG  : Kaneohe MCBH         :   M /    M /      T 
+PHMK  : Molokai Airport      :  87 /   70 /    0.01
+PHOG  : Kahului Airport      :  93 /   72 /    0.00
+PHKO  : Kona Intl Airport    :  90 /   77 /    0.00
+PHTO  : Hilo Airport         :  85 /   70 /    0.06
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center (NCDC). Therefore, 
+these data are subject to revision.  Final and certified climate 
+data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

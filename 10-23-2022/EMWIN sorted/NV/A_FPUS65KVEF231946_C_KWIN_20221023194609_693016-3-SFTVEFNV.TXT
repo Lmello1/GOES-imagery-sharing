@@ -1,0 +1,169 @@
+FPUS65 KVEF 231946
+SFTVEF
+AZZ001>003-036-NVZ014>022-241300-
+
+Tabular State Forecast for 
+The Mojave Desert and Southern Great Basin
+National Weather Service Las Vegas NV
+1245 PM PDT Sun Oct 23 2022
+
+Rows include...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - Indicates temperatures below zero
+         MM Indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...SOUTHERN NEVADA...
+   Las Vegas
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   48/66    48/71    52/73    52/68    48/69    51/73    53/74    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Henderson Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   43/64    43/70    47/72    49/67    43/68    46/72    49/73    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Mt. Charleston
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   22/43    33/49    34/48    28/41    28/45    32/49    35/50    
+    00/00    00/00    00/20    20/00    00/00    00/00    00/10   
+
+   Lake Mead
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   48/65    50/70    53/73    53/67    48/67    51/71    53/73    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Laughlin
+   Sunny    Sunny    Sunny    Dust     Sunny    Sunny    Sunny    
+   53/72    52/78    57/80    56/74    52/77    55/80    58/81    
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00   
+
+   Pahrump
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   37/67    39/72    41/72    40/68    36/72    38/73    40/74    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Mesquite
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   40/66    43/71    47/73    46/67    41/72    44/75    47/75    
+    00/00    00/00    00/20    20/00    00/00    00/00    00/00   
+
+   Alamo
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   27/63    31/69    34/69    33/62    26/65    30/69    33/70    
+    00/00    00/00    00/20    20/00    00/00    00/00    00/00   
+
+   Caliente
+   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+   22/56    29/65    33/63    28/56    23/61    29/65    31/65    
+    00/00    00/00    00/30    30/00    00/00    00/00    00/00   
+
+   Pioche
+   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+   24/49    32/57    36/55    28/48    26/56    32/57    34/57    
+    10/00    00/00    00/30    30/00    00/00    00/00    00/10   
+
+   Beatty
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+   35/64    40/68    42/68    39/64    36/66    38/69    42/70    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/10   
+
+   Indian Springs
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   35/62    39/70    42/69    38/63    36/67    39/71    41/72    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Overton
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   43/69    44/73    47/74    49/71    43/72    45/75    48/77    
+    00/00    00/00    00/10    20/00    00/00    00/00    00/00   
+
+   Searchlight
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   42/59    44/66    49/67    47/59    44/62    46/66    48/68    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Primm
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   37/63    40/71    43/71    41/65    38/67    40/71    44/73    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Sandy Valley
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   38/65    43/72    47/71    44/67    41/69    43/73    46/74    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Boulder City
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   45/63    47/68    51/71    50/64    45/65    48/69    51/71    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/00   
+
+   Tonopah
+   Sunny    Ptcldy   Sunny    Sunny    Ptcldy   Sunny    Ptcldy   
+   23/57    32/62    33/57    28/55    26/59    29/62    33/61    
+    00/00    00/10    10/10    10/00    00/00    00/00    00/10   
+
+...NORTHWEST ARIZONA...
+   Lake Havasu City Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   53/74    52/78    57/81    56/77    51/79    54/81    57/83    
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00   
+
+   Bullhead City
+   Sunny    Sunny    Sunny    Dust     Sunny    Sunny    Sunny    
+   53/71    50/76    53/78    56/73    51/76    55/81    57/80    
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00   
+
+   Kingman
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   35/61    38/70    44/69    41/62    37/69    41/71    44/72    
+    00/00    00/00    00/10    10/10    00/00    00/00    00/00   
+
+   Meadview
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   41/60    45/67    51/69    48/62    43/66    47/69    50/70    
+    00/00    00/00    00/10    20/00    00/00    00/00    00/00   
+
+...SOUTHEAST CALIFORNIA...
+   Bishop
+   Sunny    Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+   25/71    31/73    33/69    29/66    28/71    31/73    33/72    
+    00/00    00/10    10/10    10/00    00/00    00/00    10/10   
+
+   Death Valley
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   55/79    57/84    60/84    59/81    54/82    56/85    59/85    
+    00/00    00/00    00/10    10/00    00/00    00/00    00/10   
+
+   Barstow
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   46/68    49/76    55/76    49/70    47/72    49/75    51/75    
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Twentynine Palms
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   46/68    44/75    49/77    50/71    45/73    47/75    49/77    
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00   
+
+   Needles
+   Sunny    Sunny    Sunny    Dust     Sunny    Sunny    Sunny    
+   50/72    47/77    52/79    52/74    48/77    50/79    53/80    
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00   
+
+...SOUTHWEST UTAH...
+   St. George
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   37/61    40/67    45/68    42/61    36/67    40/70    43/70    
+    00/00    00/00    00/20    30/10    00/00    00/00    00/00   
+
+
+$$
+
+http://weather.gov/lasvegas

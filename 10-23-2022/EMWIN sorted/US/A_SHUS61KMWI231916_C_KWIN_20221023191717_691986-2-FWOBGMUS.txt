@@ -1,0 +1,24 @@
+SHUS61 KMWI 231916
+FWOBGM
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 19:16:26 GMT
+ 
+Listing of Observations (Binghamton, NY)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+SHERBU 300171 221023 13 R 3  67  44  45 0 0  89  3     71  29 100  31  0 0.000
+BOLTER 300971 221023 13 R 1  69  36  30 0 0 182  5     70  48  63  28  0 0.000
+GANG M 301011 221023 13 R 2  68  42  39 0 0 220  1     73  29  95  26  0 0.000
+RIENZE 360151 221023 12 R 2  70  45  41 0 0 169  2     73  34 100  24  0 0.000
+THORNH 360791 221023 12 R 3  62  46  56 0 0 125  1     69  36 100  25  0 0.000
+ASHLEY 360792 221023 12 R 3  58  43  58 0 0 302  1     71  44  86  28  0 0.000
+CAMP W 361031 221023 12 R 3  63  48  58 0 0  72  4     70  32 100  29  0 0.000
+LOCH L 361802 221023 12 R 3  58  41  55 0 0  53  5     71  40  99  28  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 19:16:26 GMT
+

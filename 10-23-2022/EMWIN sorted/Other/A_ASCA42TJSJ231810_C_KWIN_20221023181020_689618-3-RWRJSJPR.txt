@@ -1,0 +1,35 @@
+ASCA42 TJSJ 231810
+RWRPR 
+PUERTO RICO/U.S. VIRGIN ISLANDS HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SAN JUAN PR
+200 PM AST SUN OCT 23 2022
+
+PRZ001>002-007>008-010-231900-
+PUERTO RICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SAN JUAN LMM   MOSUNNY   88  75  66 NE12      29.90F HX  97           
+AGUADILLA      SUNNY     86  75  70 NE12      29.91F HX  95           
+CEIBA          MOSUNNY   88  75  66 E8        29.91F HX  97           
+$$
+
+VIZ001>002-231900-
+U.S. VIRGIN ISLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLOTTE AMA  MOSUNNY   86  75  70 VRB7      29.89F HX  95           
+CHRISTIANSTED  MOSUNNY   88  73  62 E13       29.90F HX  96           
+$$
+
+HOURLY WEATHER ROUNDUP FOR THE NEWS MEDIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ORLANDO        SUNNY     82  57  42 N7        30.09F                  
+NEW YORK       CLOUDY    59  51  75 N10       30.27R                  
+NEWARK         LGT RAIN  62  49  62 NE9       30.26F                  
+CHICAGO        MOSUNNY   76  55  48 S21G30    29.87F                  
+HARTFORD       LGT RAIN  59  56  89 NE6       30.29F                  
+DALLAS         PTSUNNY   81  61  50 S20G49    29.83F                  
+PHILADELPHIA   CLOUDY    64  54  69 NE17G24   30.23F                  
+LOS ANGELES    MOSUNNY   69  50  50 VRB5      29.86F                  
+WASHINGTON DC  CLOUDY    63  52  67 N10       30.22F                  

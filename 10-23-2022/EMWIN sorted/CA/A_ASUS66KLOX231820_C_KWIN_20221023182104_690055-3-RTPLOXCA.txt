@@ -1,0 +1,87 @@
+ASUS66 KLOX 231820
+RTPLOX
+
+Southern California Temperature And Precipitation Summary
+National Weather Service Los Angeles/Oxnard, CA
+1108 AM PDT Sun Oct 23 2022
+
+:
+Yesterdays high temperature
+Low temperature since midnight PDT
+Precipitation since midnight PDT. M denotes missing. T denotes trace.
+** denotes 4PM-4PM reporting station
+:
+.BR LAX 1023 P DH01/TAIRZX/DH11/TAIRZP/DVH10/PPVRZZ
+:
+: ID :           Station         :    High/ Low /  Pcpn
+:
+:       ...Los Angeles County Coast...
+:
+AVNC1:     Avalon Harbor         :     65 /  55 /  0.00
+AIDC1:     Avalon Inland         :     67 /  52 /  0.00
+CVRC1:     **Culver City         :      M /   M /     M
+HHR  :     Hawthorne             :     70 /  59 /  0.00
+LAX  :     LA Airport            :     69 /  59 /  0.00
+CQT  :     LA Downtown/USC       :     70 /  56 /  0.00
+LGB  :     Long Beach Arpt       :     72 /  60 /  0.00
+RDOC1:     Redondo Beach         :      M /   M /     M
+SMO  :     Sta Monica Arpt       :     67 /  56 /  0.00
+1L2  :     Santa Monica Pier     :     66 /  59 /  0.00
+UCLC1:     UCLA                  :     69 /  56 /  0.00
+:
+:       ...Los Angeles County Valleys...
+:
+BUR  :     Burbank               :     71 /  58 /  0.00
+CHTC1:     Chatsworth            :     71 /  55 /  0.00
+CSUC1:     Northridge            :     71 /  56 /  0.01
+PSAC1:     Pasadena              :     74 /  58 /  0.00
+JBLC1:     San Gabriel           :      M /   M /     M
+SAUC1:     Saugus                :     65 /  53 /  0.00
+VNY  :     Van Nuys              :     73 /  59 /  0.01
+WPCC1:     Woodland Hills        :     70 /  51 /  0.00
+:
+:...Los Angeles County Mountains and Deserts...
+:
+ATNC1:     Acton                 :     70 /  44 /  0.00
+WJF  :     Lancaster             :     69 /  50 /  0.00
+MWSC1:     Mount Wilson          :     55 /  34 /     M
+PMD  :     Palmdale              :     69 /  47 /  0.00
+SDB  :     Sandberg              :     57 /  39 /  0.00
+:
+:          ...Ventura County...
+:
+CMA  :     Camarillo             :     71 /  51 /  0.00
+FILC1:     Fillmore              :     71 /  48 /  0.00
+LOKC1:     Lockwood Vly Yard     :     68 /  28 /  0.00
+OJAC1:     Ojai                  :     69 /  45 /  0.00
+LOXC1:     Oxnard - NWS          :     70 /  53 /  0.00
+SMVC1:     Simi Valley           :     70 /  52 /  0.01
+TSOC1:     Thousand Oaks         :     67 /  50 /  0.01
+VTUC1:     Ventura               :     67 /  55 /  0.00
+WLVC1:     Westlake Village      :     72 /  47 /  0.01
+:
+:        ...Santa Barbara County...
+:
+CYMC1:     New Cuyama            :     70 /   M /  0.00
+LPC  :     Lompoc                :     70 /  43 /  0.00
+SBA  :     SBA Arpt/Goleta       :     70 /  47 /  0.00
+BFXC1:     SBA City FD           :      M /   M /     M
+SMX  :     Santa Maria           :     66 /  42 /  0.00
+IZA  :     Santa Ynez            :     68 /  43 /  0.00
+:
+:       ...San Luis Obispo County...
+:
+HSCC1:     **Hearst Castle       :      M /   M /     M
+1MB  :     Morro Bay             :     64 /  50 /  0.00
+PRB  :     Paso Robles           :     69 /  36 /  0.00
+PISC1:     Pismo Beach           :      M /   M /     M
+SBP  :     SLO Airport           :     67 /  45 /  0.00
+SBPC1:     SLO - Cal Poly        :     67 /  45 /  0.00
+.End
+:
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision. Final and certified climate data 
+can be accessed at www.ncdc.noaa.gov.
+:
+$$

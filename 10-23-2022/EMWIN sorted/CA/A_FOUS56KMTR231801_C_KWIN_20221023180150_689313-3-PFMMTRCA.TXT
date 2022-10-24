@@ -1,0 +1,432 @@
+FOUS56 KMTR 231801
+PFMMTR
+
+Point Forecast Matrices
+National Weather Service San Francisco Bay Area
+1101 AM PDT Sun Oct 23 2022
+
+CAZ510-240000-
+Concord Airport-Contra Costa CA
+37.99N 122.05W Elev. 23 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          42          76          46          73
+Temp                      71 74 63 58 55 52 51 64 73 76 66 59 55 54 53 63 70 72
+Dewpt                     30 28 31 33 31 30 29 30 28 29 39 42 45 46 47 49 48 46
+RH                        22 18 30 39 40 43 42 28 19 18 37 53 69 74 80 60 45 39
+Wind dir                   N  N NW  N  W  S SE NE  W SW SW SW SW SW SW  W  W  W
+Wind spd                  14 13  5  3  2  3  3  3  5  9  5  5  4  3  3  5 11 13
+Clouds                    CL CL CL CL CL CL CL CL CL CL CL FW FW SC SC B1 SC B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Rain                                                                          S
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    72      47    73      47    72      49    72
+Temp          58   52 62 71 57   50 63 73 55   49 60 71 57   52 62 71
+Dewpt         47   45 42 38 42   40 38 33 41   40 41 38 44   45 47 44
+PWind dir           W     W       W     N      SW     E      SW     W
+Wind char          GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC FW FW FW   CL FW FW FW   FW SC SC SC   SC SC B1
+PoP 12hr           20    10       5     0       0     5      20    30
+Rain           S    S                                         S  S  C
+
+$$
+CAZ508-240000-
+Hayward Airport-Alameda CA 
+37.66N 122.12W Elev. 46 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          44          70          47          66
+Temp                      68 69 61 57 55 53 51 62 70 68 59 56 55 54 55 60 64 63
+Dewpt                     36 35 39 38 36 33 32 35 34 40 44 47 47 48 49 52 52 51
+RH                        31 28 44 49 49 46 48 36 26 36 57 72 74 80 80 75 65 65
+Wind dir                   N NW NW NW  N NE  E  W  W  W  W  S  S  S  S  W  W  W
+Wind spd                  14 14  5  4  6  3  3  5 10 10  5  4  4  4  2  5 12 13
+Clouds                    FW CL CL CL CL FW CL FW FW CL FW FW SC B1 B1 B2 B1 B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            50    65      49    67      49    66      50    66
+Temp          55   52 58 63 54   50 59 65 54   51 58 63 54   52 59 64
+Dewpt         50   47 47 45 46   44 42 42 45   42 45 46 47   46 49 50
+PWind dir           W    NW      NW     N       W     S       W    SW
+Wind char          GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC SC SC FW   FW SC FW FW   SC SC SC SC   SC B1 B1
+PoP 12hr           10    10       5     0       0     5      20    30
+Rain                                                          S  S  C
+
+$$
+CAZ510-240000-
+Livermore Airport-Contra Costa CA
+37.70N 121.84W Elev. 397 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      73          39          74          43          71
+Temp                      71 73 63 57 52 48 47 61 71 73 64 56 53 50 51 61 68 67
+Dewpt                     31 30 31 30 29 27 28 28 26 29 37 38 41 43 46 51 51 49
+RH                        23 20 30 35 41 44 47 28 18 19 37 51 64 77 83 70 54 52
+Wind dir                   N  N NW  S SE SE  E  N NW  W SW SW  S SW SW  W  W  W
+Wind spd                  13 13  4  8  5  6  5  4  5  9  4  3  2  2  2  5 11 10
+Clouds                    CL CL CL CL CL CL FW FW CL CL CL FW FW SC SC B1 SC B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            46    68      45    70      46    70      47    70
+Temp          55   48 59 66 54   47 59 70 54   48 60 69 54   48 59 68
+Dewpt         47   46 44 41 42   40 37 34 38   37 39 40 43   43 46 46
+PWind dir          SW     W       W     N      SW    SW      SW     W
+Wind char          GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC FW FW FW   FW FW FW FW   FW SC SC SC   SC SC SC
+PoP 12hr           20    10       5     0       0     5      10    20
+Rain                S                                            S  S
+
+$$
+CAZ513-240000-
+Moffett Field-Santa Clara CA
+37.42N 122.05W Elev. 33 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          44          68          47          65
+Temp                      65 65 59 56 54 52 52 62 68 67 60 57 55 54 55 61 64 62
+Dewpt                     37 37 42 42 39 37 36 36 33 38 44 46 46 47 50 52 51 51
+RH                        35 35 53 59 57 56 54 38 27 34 55 67 72 77 83 72 63 67
+Wind dir                  NW NW NW  W NW  W  W NW NW NW NW SW  W  W  W NW NW  W
+Wind spd                  13 14  8  5  5  4  2  5  8  9  4  2  2  2  2  5 11 12
+Clouds                    CL CL CL FW FW FW FW FW CL CL CL FW SC B1 B1 B1 B1 B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            50    63      49    65      49    64      51    64
+Temp          56   52 59 61 54   50 59 64 55   51 59 63 55   52 59 63
+Dewpt         50   48 47 45 47   45 43 43 45   43 45 46 48   46 49 49
+PWind dir           W    NW      NW     N       W    SW       W    SW
+Wind char          GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC SC SC CL   FW SC FW CL   SC SC SC SC   SC B1 B1
+PoP 12hr           10    10       5     0       0     5      10    20
+Rain                                                             S  S
+
+$$
+CAZ530-240000-
+Monterey Airport-Monterey CA
+36.59N 121.85W Elev. 253 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          42          66          45          63
+Temp                      62 61 57 53 52 51 50 61 65 63 57 55 53 52 53 58 61 60
+Dewpt                     43 45 46 43 40 37 33 35 38 44 44 44 45 46 47 50 51 51
+RH                        50 56 67 69 63 59 52 38 37 50 62 66 74 80 80 75 70 72
+Wind dir                  NW NW NW SE  S SE  E  N NW  W SW NW  W  W NW NW  W  W
+Wind spd                  13 14  6  8  6  6  9  5  9  8  5  4  4  4  3  8 10 10
+Clouds                    FW FW FW FW FW FW CL FW FW FW FW SC SC B1 SC B1 SC B2
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    60      47    63      48    63      49    63
+Temp          55   52 56 58 53   49 57 60 53   49 58 60 53   50 57 60
+Dewpt         50   49 47 47 47   44 44 46 45   42 45 47 47   45 46 49
+PWind dir           W    NW      NW     N       N     N       S    NE
+Wind char          LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B1   B1 SC SC FW   SC SC FW FW   SC SC SC B1   B1 B1 SC
+PoP 12hr           10    10       5     0       0     5      20    20
+Rain                                                          S  S  S
+
+$$
+CAZ506-240000-
+Napa Airport-Napa CA
+38.21N 122.28W Elev. 33 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      71          43          70          45          68
+Temp                      69 70 61 58 55 52 49 60 68 70 62 56 54 52 52 58 65 65
+Dewpt                     36 33 32 31 30 30 31 34 35 41 46 47 48 48 49 52 53 51
+RH                        30 25 33 36 38 43 50 37 29 35 56 72 80 86 89 80 65 60
+Wind dir                   N  N NW  N  N  N  E  S SW SW SW SW SW SW SW SW  W  W
+Wind spd                  20 18  6  9  9  8  2  5  8  8  4  3  2  2  2  5 14 12
+Clouds                    CL CL CL CL CL FW FW FW CL CL FW FW SC SC B1 B2 B1 B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+Rain                                                                          S
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            47    66      47    66      45    64      47    64
+Temp          55   50 56 64 55   49 58 65 53   47 55 63 52   49 54 62
+Dewpt         47   43 45 43 42   40 40 40 43   40 43 45 46   44 48 51
+PWind dir           W    NW      NW    NW       W     E       W     W
+Wind char          GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC SC SC FW   FW FW FW FW   FW SC SC SC   SC B1 B1
+PoP 12hr           20    10       5     0       0     5      20    30
+Rain           S    S                                         S  C  C
+
+$$
+CAZ508-240000-
+Oakland Airport-Alameda CA
+37.74N 122.20W Elev. 3 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          46          70          48          66
+Temp                      68 68 60 58 55 53 53 61 69 67 59 56 55 54 55 59 64 62
+Dewpt                     38 38 40 40 37 36 35 37 37 41 46 48 49 49 51 52 52 51
+RH                        33 33 47 51 51 52 50 41 31 39 62 74 80 83 86 78 65 67
+Wind dir                  NW NW NW NW  N NE  E SW  W  W  W SW  S  S SW  W  W  W
+Wind spd                  18 16 11  6  5  4  5  5 10 12  8  5  5  4  4  5 14 17
+Clouds                    CL CL CL CL CL CL CL FW FW FW FW FW SC B1 B1 B2 B1 B1
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            51    65      49    66      49    66      50    65
+Temp          56   54 58 62 55   52 58 64 54   51 58 63 54   53 58 62
+Dewpt         50   47 46 46 46   44 42 43 46   43 45 47 48   47 49 49
+PWind dir           W    NW      NW     N       W     S       W    SW
+Wind char          GN    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    SC   SC FW SC FW   FW SC FW FW   SC SC SC SC   SC B1 B1
+PoP 12hr           10    10       5     0       0     5      20    30
+Rain                                                          S  S  C
+
+$$
+CAZ528-240000-
+Salinas Airport-Monterey CA
+36.67N 121.60W Elev. 82 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          42          72          45          67
+Temp                      66 65 57 53 50 48 47 62 71 66 58 55 52 51 50 60 64 60
+Dewpt                     39 43 44 42 39 36 33 35 33 40 43 42 42 42 43 47 50 51
+RH                        37 45 62 66 66 63 58 36 25 38 57 61 69 71 77 62 60 72
+Wind dir                   W  W  W  N NE NE  E NW NW  W NW NE  W SW SW  W  W  W
+Wind spd                  13 14  8  5  6  6  5  5 10 10  5  5  4  4  3  6 12 13
+Clouds                    FW FW FW FW FW FW FW FW CL FW SC SC SC SC SC B1 SC B2
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    63      46    67      47    66      48    67
+Temp          57   52 57 59 53   48 58 63 53   49 60 60 54   50 59 61
+Dewpt         51   49 47 47 47   45 43 44 45   41 43 46 47   45 46 48
+PWind dir           W     W       W    NE       S     S      SW    NE
+Wind char          GN    LT      GN    LT      LT    LT      LT    LT
+Avg clouds    B2   B2 B1 SC SC   SC SC FW SC   SC B1 SC B1   B1 B1 SC
+PoP 12hr           10    10       5     0       0     5      10    20
+Rain                                                             S   
+
+$$
+CAZ508-240000-
+San Francisco Airport-San Mateo CA
+37.62N 122.38W Elev. 10 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          46          70          49          67
+Temp                      67 66 60 58 56 55 55 63 69 67 60 58 57 57 57 61 65 63
+Dewpt                     42 44 44 42 41 39 38 39 41 43 47 50 51 51 52 53 52 50
+RH                        40 45 55 55 57 55 53 41 36 42 62 75 80 80 83 75 63 62
+Wind dir                  NW  W NW NW NW NW NW NE  W  W  W  W  W  W  W  W  W  W
+Wind spd                  16 21 17 10  8  5  4  4 10 16 13 10  6  6  5  9 16 19
+Clouds                    CL CL CL CL CL CL CL FW FW CL FW FW SC SC B1 B2 B1 SC
+PoP 12hr                      0           0           0           0           5
+QPF 12hr                      0           0           0           0           0
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            52    65      51    68      51    66      52    67
+Temp          57   55 60 62 56   52 60 64 55   52 59 63 56   53 59 63
+Dewpt         50   47 47 46 47   45 44 43 46   45 47 47 48   48 51 49
+PWind dir           W    NW      NW     N       W     S       W     S
+Wind char          BZ    GN      BZ    LT      GN    LT      GN    LT
+Avg clouds    SC   SC FW SC FW   CL FW FW FW   FW SC SC SC   SC B1 B1
+PoP 12hr           10    10       5     0       0     5      20    30
+Rain                                                          S  C  C
+
+$$
+CAZ513-240000-
+San Jose Airport-Santa Clara CA
+37.36N 121.92W Elev. 59 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          43          72          46          68
+Temp                      67 67 60 56 53 51 51 62 71 71 63 58 55 55 55 61 67 65
+Dewpt                     35 33 39 40 37 35 34 33 30 32 42 43 45 45 48 49 50 49
+RH                        30 28 46 55 54 54 52 33 22 24 46 57 69 69 77 65 54 56
+Wind dir                  NW NW NW NW NW NW  W NW NW NW NW  W SW  W  W NW NW NW
+Wind spd                  13 16 10  6  9  8  5  8  8 10  6  3  3  2  3  6 10 13
+Clouds                    CL CL CL FW FW FW FW FW CL CL CL FW SC B1 B1 B1 SC B1
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    66      48    68      49    69      50    68
+Temp          57   52 59 64 54   50 58 67 56   51 60 67 56   52 59 66
+Dewpt         50   47 45 43 46   44 42 40 44   42 43 43 47   45 47 47
+PWind dir           W    NW      NW     N      NE    SW       W    NE
+Wind char          GN    LT      GN    LT      LT    LT      LT    LT
+Avg clouds    SC   SC SC FW FW   FW FW FW CL   FW SC SC SC   SC B1 SC
+PoP 12hr           10    10       5     0       0     5      10    20
+Rain                                                             S  S
+
+$$
+CAZ506-240000-
+Santa Rosa Airport-Sonoma CA
+38.52N 122.82W Elev. 125 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      73          35          76          39          73
+Temp                      69 70 56 48 44 42 41 59 74 73 58 52 49 48 48 58 70 68
+Dewpt                     35 35 38 35 30 27 27 34 37 44 47 49 49 48 48 52 50 48
+RH                        28 27 51 60 57 55 57 39 26 35 67 89100100100 80 49 49
+Wind dir                   N NW  N NW  N  N  E SW SW SW  W  S  N NW NW NW NW  W
+Wind spd                  10 14 11 11  6  4  2  2  8  5  4  3  2  2  2 12 16 10
+Clouds                    CL CL CL FW FW FW FW SC FW FW FW SC B1 B1 B1 B1 B1 B1
+PoP 12hr                      0           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Rain                                                                          S
+Obvis                                                               PF         
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            42    71      40    72      41    70      42    69
+Temp          48   44 55 67 47   42 56 68 45   41 55 66 46   43 53 65
+Dewpt         44   41 44 41 42   38 40 40 40   37 42 44 43   41 48 49
+PWind dir          NW    NW      NW     N      NW     E       W    NE
+Wind char          GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   SC SC SC FW   SC SC FW FW   SC B1 SC SC   B1 B2 B1
+PoP 12hr           20    10       5     0       5    10      30    40
+Rain           S    S                                    S    C  C  C
+
+$$
+CAZ529-240000-
+Watsonville Airport-Santa Cruz CA
+36.94N 121.79W Elev. 161 ft
+1101 AM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          38          67          42          63
+Temp                      64 65 55 50 48 46 46 60 66 64 55 51 50 49 50 58 61 60
+Dewpt                     37 34 39 40 40 37 35 38 40 44 45 45 44 44 46 51 53 52
+RH                        37 31 55 68 74 71 65 44 38 48 69 80 80 83 86 77 75 75
+Wind dir                  NW  N  W SW  E  E  N SW  W SW  E NE  N NW  E SW  W  W
+Wind spd                   9 13  5  5  3  2  3  6  9  5  3  2  2  2  2  5  9 10
+Clouds                    FW FW FW FW FW FW CL FW FW FW FW FW SC SC SC B1 SC B2
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Frost                               Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            46    60      44    63      46    61      46    62
+Temp          52   48 55 59 49   45 56 60 50   47 57 58 49   47 56 59
+Dewpt         50   48 47 45 46   44 44 44 45   41 44 46 47   44 47 49
+PWind dir           W    NW      NW     N       N    SE      NW    NW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1   B1 SC SC FW   FW SC FW FW   SC SC SC B1   B1 B1 B1
+PoP 12hr           10    10       5     0       0     5      10    20
+Rain                                                             S  S
+
+$$
+Visit us at www.weather.gov/sanfrancisco
+
+Follow us on Facebook and Twitter at:
+www.facebook.com/nwsbayarea
+www.twitter.com/nwsbayarea
+

@@ -1,0 +1,126 @@
+FPUS65 KTFX 232013
+SFTTFX
+MTZ301>330-241200-
+
+Tabular State Forecast for North Central and Southwest Montana
+National Weather Service Great Falls MT
+213 PM MDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...CENTRAL MONTANA...
+   Great Falls
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   19/42    30/46    23/44    24/46    31/52    31/53    33/53    
+    10/10    10/00    10/10    10/00    00/00    00/00    10/10   
+
+   Cut Bank
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/39    29/43    19/41    24/43    29/49    29/51    32/50    
+    20/20    20/10    10/20    10/10    10/10    10/10    20/20   
+
+   Havre
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/42    28/47    22/46    24/48    31/55    31/57    33/55    
+    30/10    00/00    00/10    00/00    00/00    00/00    00/10   
+
+   Helena
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   19/47    33/46    25/44    25/46    26/49    28/51    31/50    
+    20/10    50/10    10/30    10/00    00/00    10/10    10/20   
+
+   Lewistown
+   Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   20/42    30/43    22/44    22/44    26/52    30/54    31/52    
+    80/10    10/00    10/10    10/00    00/00    00/00    00/10   
+
+   Shelby
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/40    31/44    21/43    25/46    28/51    29/52    33/52    
+    00/10    10/10    10/10    00/00    00/00    10/10    10/20   
+
+   Chester
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/41    27/45    19/43    22/47    28/51    29/53    31/53    
+    00/10    00/00    00/10    00/00    00/00    00/00    00/10   
+
+   Chinook
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/42    27/47    20/46    21/48    28/55    28/56    31/55    
+    40/00    00/00    00/10    00/00    00/00    00/00    00/10   
+
+   Conrad
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   17/40    30/43    22/41    24/45    29/51    30/52    33/52    
+    00/10    10/10    10/10    10/00    10/10    10/10    10/20   
+
+   Choteau
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   18/40    30/43    22/41    23/45    28/51    30/52    32/51    
+    10/20    30/20    10/20    10/10    10/10    10/10    20/20   
+
+   Fort Benton
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   20/43    31/48    23/46    26/49    33/56    33/57    35/55    
+    10/10    00/00    00/10    00/00    00/00    00/00    10/10   
+
+   Stanford
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   21/41    32/43    24/43    26/44    30/53    33/53    33/51    
+    80/10    20/10    10/10    10/00    00/00    00/00    10/10   
+
+   White Sulphur Springs
+   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   14/41    24/39    18/40    15/39    19/44    22/47    24/45    
+    20/10    40/10    10/20    10/00    00/00    00/00    10/10   
+
+...SOUTHWEST MONTANA...
+   Bozeman Airport
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/44    28/44    21/42    18/41    18/46    20/49    24/49    
+    30/10    70/10    10/40    20/00    00/00    00/00    10/20   
+
+   Bozeman MSU
+   Sunny    Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   15/42    25/41    20/39    17/39    18/45    23/47    25/45    
+    50/10    70/20    20/50    30/00    00/00    00/00    10/20   
+
+   West Yellowstone
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   3/34     18/37    15/35    8/34     9/38     12/41    14/39    
+    20/10    90/30    30/70    50/10    00/00    00/10    10/30   
+
+   Dillon
+   Ptcldy   Sunny    Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   15/42    24/42    20/38    15/39    17/43    22/46    24/45    
+    30/10    40/00    20/50    20/00    00/00    00/10    10/30   
+
+   Boulder
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   20/44    27/41    23/39    21/41    24/46    27/49    29/47    
+    40/10    50/10    10/40    10/00    00/00    00/10    20/20   
+
+   Townsend
+   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   21/44    29/44    25/41    23/42    25/46    28/47    30/47    
+    10/10    50/10    10/30    10/00    00/00    00/10    10/20   
+
+   Virginia City
+   Ptcldy   Ptcldy   Snow     Ptcldy   Ptcldy   Ptcldy   Mocldy   
+   15/36    24/34    22/32    15/32    19/38    23/40    26/38    
+    40/10    70/10    20/60    30/00    00/00    00/10    20/30   
+
+
+$$
+
+http://www.weather.gov/greatfalls

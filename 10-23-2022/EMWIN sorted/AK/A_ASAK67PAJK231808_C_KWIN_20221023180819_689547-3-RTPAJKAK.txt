@@ -1,0 +1,86 @@
+ASAK67 PAJK 231808
+RTPAJK
+Regional temperature and precipitation roundup
+National Weather Service Juneau Ak
+1008 AM AKDT Sun Oct 23 2022
+
+Max temperatures are from the past 24 hours and low temperatures are from 
+the past 18 hours. 18-hour precipitation and snow depth ending at 9 AM 
+Alaska standard time today. 24-hour snowfall ending at midnight Alaska 
+standard time. Snowfall and snow depth data are available only at augmented
+sites. 
+M=missing T=trace
+
+.B PAJK 1023 Z DH18/TAIRZX/TAIRZI/PPLRZZ/DH09/SFDRZZ/DH18/SDIRZZ
+:
+:ID            STATION      Max   Lo    18HR    Snow  Snow   
+:                           Temp  Temp  Precip  Fall  Depth  
+PAYA  : Yakutat Airport   :  46 /  34 /  0.04 /    M /    M
+PAJN  : Juneau Airport    :  46 /  36 /  0.00 /    M /    M
+PAHN  : Haines Airport    :  47 /  37 /  0.00 /    M /    M
+PAKT  : Ketchikan Airport :  49 /  37 /  0.27 /    M /    M
+PAKW  : Klawock Airport   :  53 /  37 /  0.31 /    M /    M
+PASI  : Sitka Airport     :  49 /  42 /     M /    M /    M
+PAGY  : Skagway Airport   :  44 /  35 /  0.00 /    M /    M
+.END
+
+Augmented sites with snow water equivalent at 9 am Alaska standard time.
+M=missing T=trace
+
+.B PAJK 1023 L DH10/SWIRZZ
+:
+:ID        Station                Snow     
+:                                Water Eq  
+AJKA2 : Juneau Forecast Office :    M
+.END
+
+Cooperative Observations 
+Soil tempertaure for selected stations.
+M=missing
+.B PAJK 1023 L DH10/TVIRZZ
+:
+:ID        Station                Obs      Soil    
+:                                Time     Temp    
+AHNA2 : Haines #2              : DH0800 /  48 / 
+.END
+
+:
+Cooperative Observations 
+Max temperature...min temperature...precipitation...and
+Snowfall are for 24 hours ending at indicated times.
+Note: These locations report data once every 24 hours.
+In some weather situations reported low/high temperatures
+may reflect conditions from the previous day.
+M=missing T=trace
+
+.B PAJK 1023 L DH10/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:ID        Station                Obs      Max  Min   24HR    Snow  Snow  
+:                                Time     Temp Temp  Precip  Fall  Depth
+HYDA2 : Hyder                  : DH0700 /  46 /  33 /  0.00 /  0.0/    0
+MPUA2 : Metlakatla Power       : DH0819 /  48 /  40 /  0.12 /  0.0/    0
+THBA2 : Thorne Bay Water       : DH0600 /  52 /  33 /  0.10 /  0.0/    0
+AUKA2 : Auke Bay               : DH0915 /  47 /  37 /  0.01 /  0.0/    0
+CFSA2 : Craig                  : DH0845 /  47 /  40 /  0.33 /  0.0/    0
+PECA2 : Pelican                : DH0800 /  47 /  34 /  0.10 /  0.0/    0
+HOOA2 : Hoonah                 : DH0715 /  46 /  36 /  0.12 /  0.0/    0
+ECBA2 : Eaglecrest Base        : DH0750 /  42 /  35 /  0.00 /  0.0/    0
+SPPA2 : Snettisham Power Plant : DH0700 /  49 /  35 /  0.00 /  0.0/    0
+HCSA2 : Haines Customs         : DH0700 /  43 /  29 /  0.00 /  0.0/    0
+AHNA2 : Haines #2              : DH0800 /  44 /  36 /  0.00 /  0.0/    0
+AJKA2 : Juneau Forecast Office : DH2358 /  44 /  32 /  0.05 /  0.0/    0
+APGA2 : Petersburg COOP        : DH2100 /  41 /  32 /    T  /  0.0/    0
+KTAA2 : Ketchikan 13N          : DH1600 /  49 /  36 /  0.07 /  0.0/    0
+ELVA2 : Elfin Cove             : DH1500 /  47 /  35 /  0.00 /  0.0/    0
+.END
+
+:
+These data are preliminary and have not undergone final quality 
+control by the National Center for Environmental Information /NCEI/. 
+Therefore these data are subject to revision. Final and certified  
+climate data can be accessed at http://www.ncei.noaa.gov.   
+Official values as determined at the above website may take several  
+months for authentication and publication.
+:
+$
+$

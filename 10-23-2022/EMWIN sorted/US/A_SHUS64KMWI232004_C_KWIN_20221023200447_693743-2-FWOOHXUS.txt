@@ -1,0 +1,25 @@
+SHUS64 KMWI 232004
+FWOOHX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:04:03 GMT
+ 
+Listing of Observations (Nashville, TN)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+LAFAYE 400501 221023 13 R 2  77  44  31 0 0 173  2     77  56  75  31  0 0.000
+PICKET 400801 221023 13 R 2  76  36  24 0 0 175  2     77  50  76  24  0 0.000
+BURNS  402102 221023 13 R 2  77  44  32 0 0 235  2     78  56  80  32  0 0.000
+CROSSV 405001 221023 13 R 2  75  36  25 0 0  70  3     75  39 100  25  0 0.000
+MERIWE 406401 221023 13 R 2  79  44  30 0 0 106  3     79  51  94  30  0 0.000
+LEWISB 406601 221023 13 R 2  76  44  33 0 0 154  4     76  56  76  33  0 0.000
+BLEDSO 407102 221023 13 R 2  74  38  28 0 0 154  2     74  42 100  28  0 0.000
+ARNOLD 408901 221023 13 R 3  78  43  29 0 0 258  1     78  48  88  29  0 0.000
+PRENTI 409201 221023 13 R 1  70  38  32 0 0 333  3     70  52  73  32  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:04:03 GMT
+

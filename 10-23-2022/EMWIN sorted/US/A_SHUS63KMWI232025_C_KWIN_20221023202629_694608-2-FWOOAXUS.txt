@@ -1,0 +1,26 @@
+SHUS63 KMWI 232025
+FWOOAX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:25:43 GMT
+ 
+Listing of Observations (Omaha, NE)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+NWS Office:  OAX/Zone: 241
+FRANKT 053104 221023 13 R 1  62  24  24 0 0 334 17     78  55  35   7  0 0.000
+Count:     1  Zone Average:  62  24  24         17  0  78  55  35   7  0 0.000
+ 
+Zone: 242
+CROW C 050701 221023 12 R 2  64  31  30 0 0 318 19     77  38  43   9  0 0.000
+Count:     1  Zone Average:  64  31  30         19  0  77  38  43   9  0 0.000
+ 
+Zone: 252
+NEAL S 136101 221023 13 R 3  78  56  48 0 0 140 21     85  61  74  28  0 0.000
+Count:     1  Zone Average:  78  56  48         21  0  85  61  74  28  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:25:43 GMT
+

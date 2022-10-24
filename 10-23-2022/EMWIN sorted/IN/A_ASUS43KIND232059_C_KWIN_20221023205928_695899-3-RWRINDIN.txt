@@ -1,0 +1,113 @@
+ASUS43 KIND 232059
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+500 PM EDT SUN OCT 23 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-232200-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ SUNNY     77  54  44 S20G32    29.87F                  
+KNOX *+        SUNNY     77  50  38 S23G33    29.93S                  
+MONTICELLO +   SUNNY     76  48  37 S14G21    29.94S                  
+RENSSELAER +   SUNNY     77  52  41 S20G29    29.93S                  
+
+$$
+
+LMZ046-743>745-232200-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BURNS HARBOR     2030   77     190/ 15/ 21 1011.9F
+MICHIGAN CITY    2030   78                 1010.7F
+5NW MICH CITY    2030   71                   N/A
+
+$$
+
+INZ004-005-014>016-021>024-232200-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        SUNNY     76  52  43 S14G28    29.97F                  
+GOSHEN         SUNNY     76  51  41 S22G29    29.97F                  
+PERU/GRISSOM   SUNNY     77  52  41 S18G26    29.97S                  
+SOUTH BEND     SUNNY     77  52  41 S15G32    29.95F                  
+
+$$
+
+INZ006>009-017-018-025>027-232200-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      SUNNY     75  50  41 SE16G25   30.02S                  
+FORT WAYNE     MOSUNNY   76  49  38 S14G25    30.03F                  
+KENDALLVILLE + FAIR      74  53  48 S12G21    30.03S                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-232200-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  SUNNY     74  44  33 S18G26    29.97S                  
+LAFAYETTE      SUNNY     79  51  37 S15G36    29.93F                  
+TERRE HAUTE    MOSUNNY   77  51  40 S22G31    29.95F                  
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-232200-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBUS       SUNNY     77  46  33 S21G29    30.03F                  
+GREENWOOD *+   SUNNY     78  52  40 S17G23    30.02S                  
+INDIANAPOLIS   MOSUNNY   77  48  35 S16G26    29.98F                  
+-EAGLE CREEK   SUNNY     78  50  37 S14G23    29.98F                  
+KOKOMO +       SUNNY     77  51  40 S18G26    30.00F                  
+MT COMFORT *+    N/A    N/A N/A N/A MISG        N/A                   
+SHELBYVILLE    SUNNY     79  49  34 S16G26    30.02S                  
+
+$$
+
+INZ033-034-041-042-049-050-058-059-232200-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         SUNNY     77  46  33 S13G22    30.02F                  
+RICHMOND +     FAIR      73  52  46 S16G23    30.08S HAZE             
+
+$$
+
+INZ060-061-067>069-081>083-085>088-232200-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     PTSUNNY   79  47  32 S10       29.99F                  
+HUNTINGBURG +  MOSUNNY   77  50  38 S18       30.02S                  
+
+$$
+
+INZ062-063-066-070>080-084-089>092-232200-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE +   SUNNY     73  46  38 SE13G21   30.06S                  
+BLOOMINGTON    SUNNY     78  49  35 S12G28    30.00F                  
+FRENCH LICK *+ MOSUNNY   77  43  29 S9        30.02S                  
+
+$$
+
+  

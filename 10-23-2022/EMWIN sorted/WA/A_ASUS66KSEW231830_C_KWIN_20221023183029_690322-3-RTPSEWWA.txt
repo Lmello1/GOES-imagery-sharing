@@ -1,0 +1,42 @@
+ASUS66 KSEW 231830
+RTPSEW
+Max/Min Temperature And Precipitation Table For Washington
+National Weather Service Seattle WA
+1130 AM PDT Sun Oct 23 2022
+
+:Western Washington Cooperative Station Observations
+:
+:These are the daily observations for the past 24 hours.
+:Some temperature values are from the previous day.
+:Some stations only report precipitation.
+
+.BR SEA 1023  P DH11/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                             Obs      24hr  24hr  24hr   Snow  Snow
+:ID    Station         Elev   time     high  low   pcpn   fall  dpth
+:
+CNCW1: Concrete Dam     195 : DH0700 /  54 /  42 / 0.00 /   M /   M
+PSBW1: Poulsbo          217 : DH0600 /     /     / 0.26 /   M /   M
+UBKW1: Upper Baker Dam  690 : DH0600 /  50 /  35 / 0.01 /   M /   M
+DIAW1: Diablo Dam       891 : DH0600 /  51 /  38 /    T / 0.0 /   0
+NWMW1: Newhalem         525 : DH0615 /  53 /  41 / 0.00 / 0.0 /   0
+HTUW1: Humptulips       140 : DH0700 /  54 /  30 / 0.00 /
+ROSW1: Ross Dam        1236 : DH0600 /  51 /  37 /    T /   M /   0
+BRMW1: Bremerton        110 : DH1030 /  52 /  39 / 0.00 /
+:
+:M = missing
+:T = trace
+:Precipitation measured in inches.
+:Elevation measured in feet.
+:Time of observation is in local standard time.	
+.End
+
+
+These data are preliminary and have not undergone final 
+quality control by the National Centers for Environmental 
+Information (NCEI). Therefore, these data are subject to 
+revision. Final and certified climate data can be accessed
+at www.ncei.noaa.gov.
+ 
+$$
+

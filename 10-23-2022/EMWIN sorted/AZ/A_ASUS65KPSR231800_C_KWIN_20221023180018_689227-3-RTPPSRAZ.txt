@@ -1,0 +1,93 @@
+ASUS65 KPSR 231800
+RTPPSR
+
+
+Max/Min Temperature and Precipitation Table for South-central and 
+Southwest Arizona and Extreme Southeast California
+National Weather Service Phoenix AZ
+1100 AM MST Sun Oct 23 2022
+
+       Arizona Automated Station Observations
+ 
+Values represent highs yesterday...lows since 7:00 pm MST yesterday
+and 24-hour precipitation ending at 5:00 am MST.
+ 
+Data reported from automated gauges:
+*  Climate Reference Network sites
++  ASOS site maintained by others
+   All others are ASOS maintained by the National Weather Service
+
+.BR PSR 1023 MS DH00/TAIRZX/DH08/DVH13/TAVRZN
+.BR1 /DH05/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                       Max   Min   24-Hr Snow  Snow
+:Id       Station                 Elev  Temp  Temp  Pcpn  Fall  Depth
+FFZ   :   Mesa Falcon Field       1394 :  87 / 68 / 0.00 /      /    
+DVT   :   Phoenix Deer Valley     1476 :  85 / 65 / 0.00 /      /    
+PHX   :   Phoenix Sky Harbor      1107 :  90 / 68 / 0.00 /      /    
+SDL   :   Scottsdale Airport      1510 :  86 / 67 / 0.00 /      /    
+NYL   :+  Yuma Airport             213 :  88 / 63 / 0.00 /      /    
+RPSA3 :*  Yuma Red Bluff Pavement  600 :  87 / 63 / 0.00 /      /    
+.END
+ 
+       Arizona Cooperative Observations
+ 
+Values reported below are 24-hour readings taken at the noted
+local observation time.
+Data provided by National Weather Service cooperative observers
+ 
+.BR PSR 1023 MS DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs     Max   Min    24-Hr  Snow  Snow
+:Id    Station         Elev    Time    Temp  Temp   Pcpn   Fall Depth
+ACYA3 :Arizona City    1525: DHM   /     M /   M /     M/    M/    M
+CLGA3 :Coolidge        1419: DHM   /     M /   M /     M/    M/    M
+FHLA3 :Fountain Hills  1575: DHM   /     M /   M /     M/    M/    M
+GLEA3 :Globe           3660: DH0900/    79 /  57 /    T /    M/    M
+PARA3 :Parker           375: DHM   /     M /   M /     M/    M/    M
+ROOA3 :Roosevelt 1WNW  2205: DHM   /     M /   M /     M/    M/    M
+TACA3 :Tacna            324: DHM   /     M /   M /     M/    M/    M
+.END
+ 
+       California Automated Station Observations
+ 
+Values represent highs yesterday.
+lows since 7:00 pm PST / 8:00 pm PDT yesterday
+and 24-hour precipitation ending at 4:00 am PST / 5:00 am PDT.
+ 
+Data reported from automated gauges:
+*  Climate Reference Network sites
++  ASOS site maintained by others
+   All others are ASOS maintained by the National Weather Service
+
+.BR PSR 1023 PS DH00/TAIRZX/DH07/DVH12/TAVRZN
+.BR1 /DH04/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                                       Max   Min   24-Hr Snow  Snow
+:Id       Station                 Elev  Temp  Temp  Pcpn  Fall  Depth
+BLH   :   Blythe Airport           392 :  89 / 63 / 0.00 /      /    
+IPL   :   Imperial Airport         -56 :  87 /  M /    T /      /    
+.END
+ 
+       California Cooperative Observations
+ 
+Values reported below are 24-hour readings taken at the noted
+local observation time.
+Data provided by National Weather Service Cooperative Observers
+ 
+.BR PSR 1023 P DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              Obs     Max   Min    24-Hr  Snow  Snow
+:Id    Station         Elev    Time    Temp  Temp   Pcpn   Fall Depth
+RCOC1 :Chiriaco Summit 1706: DHM   /     M /   M /     M/    M/    M
+EGLC1 :Eagle Mountain   973: DH0749/    85 /  59 /  0.00/  0.0/    0
+ELCC1 :El Centro        -30: DHM   /     M /   M /     M/    M/    M
+.END
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Climatic Data Center /NCDC/. Therefore...
+these data are subject to revision. Final and certified climate data 
+can be accessed at www.ncdc.noaa.gov.
+ 
+$$
+

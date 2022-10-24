@@ -1,0 +1,1042 @@
+FOUS54 KSHV 231655
+PFMSHV
+
+Point Forecast Matrices
+National Weather Service Shreveport LA
+1155 AM CDT Sun Oct 23 2022
+
+OKZ077-232200-
+BROKEN BOW-MCCURTAIN OK
+34.03N  94.74W Elev. 404 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          66          76          52          66
+Temp                   82 85 81 73 69 68 67 71 75 75 70 65 64 60 54 59 61 65 60
+Dewpt                  61 58 56 60 63 64 66 67 66 65 65 64 63 60 54 54 49 44 43
+RH                     49 40 42 64 81 87 97 87 74 71 84 97 97100100 83 65 46 53
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S SW SW  W NW NW NW
+Wind spd               14 13 11  8  8  8  6 10 13 11  6  4  3  4  5 10 13 12  5
+Wind gust                 25       18    17 21 25 25 17             20 29 26 16
+Clouds                 B1 SC SC SC B1 B2 OV OV OV OV OV OV OV B2 B2 B1 B1 FW CL
+PoP 12hr                      0          20          90          90          30
+QPF 12hr                      0        0.01        0.66        1.83        0.11
+Rain shwrs                             S  C  C  D  D  D  D  L  L  C  C         
+Tstms                                           S  S  C  C  C  C  S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    70      42    70      48    64      46    69
+Temp          46 41 67 62   46 42 66 64   52 48 62 60   51 47 66 63
+Dewpt         42 39 41 44   44 42 47 48   49 48 53 51   51 47 51 49
+PWind dir        NW    NE       E    SE       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC B1 B1 B1   SC SC FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+ARZ050-232200-
+DE QUEEN-SEVIER AR
+34.05N  94.40W Elev. 423 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          66          77          53          67
+Temp                   83 86 82 72 69 68 67 72 75 76 72 66 65 60 55 61 62 65 60
+Dewpt                  60 57 56 61 62 64 64 66 65 64 65 65 63 60 55 54 49 45 43
+RH                     46 37 41 68 78 87 90 81 71 66 79 97 93100100 78 62 48 53
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  W  W NW NW
+Wind spd               14 13 10  6  6  5  5 10 12 12  8  4  4  4  5 10 13 13  5
+Wind gust                 25 21 18 18 16 18 23 24 25 19          18 20 29 26 16
+Clouds                 SC SC SC SC B1 B2 OV OV OV OV OV OV OV B2 B2 SC B1 SC CL
+PoP 12hr                      0          20          80          90          30
+QPF 12hr                      0           0        0.32        2.22        0.13
+Rain shwrs                             S  C  C  D  D  D  D  D  D  C  C         
+Tstms                                           S  S  S  S  C  C  S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    72      41    72      47    66      46    70
+Temp          45 40 68 63   46 41 68 65   51 48 64 62   51 47 67 64
+Dewpt         42 38 40 43   43 41 46 47   48 48 52 51   50 47 50 49
+PWind dir        NW    NE       E    SE       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC B1 B1 B1   SC SC FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 S  C  C  C    S  S      
+
+$$
+ARZ051-232200-
+NASHVILLE-HOWARD AR
+33.94N  93.59W Elev. 417 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          65          80          57          68
+Temp                   81 83 79 72 68 66 66 71 77 79 75 68 67 64 59 63 65 65 59
+Dewpt                  62 59 57 60 62 63 63 66 66 65 64 67 66 63 59 60 55 51 46
+RH                     53 44 47 66 81 90 90 84 69 62 69 97 97 97100 90 70 60 62
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W NW
+Wind spd               14 13  9  6  6  6  6 10 13 13  8  5  5  5  5 11 13 12  5
+Wind gust                       18 20 18 18 23 25 25 23 19 17 16 18 24 28 26 19
+Clouds                 SC SC SC SC SC OV OV OV B2 B2 OV OV OV B2 B2 B1 B1 SC FW
+PoP 12hr                      0          10          60          90          40
+QPF 12hr                      0           0        0.03        1.24        0.16
+Rain shwrs                                S  S  L  L  D  D  D  D  C  C         
+Tstms                                           S  S        C  C  S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    70      42    71      46    64      46    68
+Temp          47 42 67 62   47 42 67 65   50 48 64 61   52 46 65 62
+Dewpt         43 39 42 44   43 42 48 48   48 47 54 53   51 46 53 51
+PWind dir        NW    NE      NE     E       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL CL CL   CL CL FW FW   SC SC B1 B1   SC SC FW FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+ARZ060-232200-
+HOPE-HEMPSTEAD AR
+33.67N  93.59W Elev. 354 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          65          80          57          68
+Temp                   82 85 80 72 69 67 67 71 77 79 75 68 67 63 59 62 64 66 60
+Dewpt                  63 59 59 61 63 63 63 66 66 66 66 67 66 63 59 59 55 51 49
+RH                     53 41 49 68 81 87 87 84 69 64 74 97 97100100 90 73 58 67
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W NW
+Wind spd               14 13  9  8  9  9  9 13 13 13  9  8  6  8  6 12 13 13  5
+Wind gust                    19 18 21 21 19 26 25 26 26 23 19 24 21 27 28 26 18
+Clouds                 SC SC SC SC B1 OV OV B2 B2 B2 OV OV OV B2 B2 B1 B1 SC FW
+PoP 12hr                      0          10          60          90          30
+QPF 12hr                      0           0        0.02        1.10        0.12
+Rain shwrs                                S  S  L  L  D  D  D  D  C  C         
+Tstms                                                       C  C  S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    70      42    72      48    65      47    68
+Temp          47 42 67 61   48 43 68 64   52 48 62 60   52 48 65 62
+Dewpt         44 40 42 45   44 43 48 49   49 48 56 55   52 48 53 53
+PWind dir        NW     N       E     E       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL CL CL   CL CL FW FW   SC SC B1 B1   SC SC FW FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+ARZ070-232200-
+TEXARKANA-MILLER AR
+33.46N  93.99W Elev. 354 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          67          80          59          67
+Temp                   82 86 81 75 72 70 68 71 77 79 75 70 70 65 60 62 64 66 60
+Dewpt                  63 59 61 63 64 65 65 68 68 67 68 68 68 64 60 58 55 51 49
+RH                     53 40 51 66 76 84 90 90 74 67 79 93 93 97100 87 73 58 67
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W  W NW
+Wind spd               14 14 11 10 10 10  9 13 14 14 10  9  8  8  9 13 14 13  8
+Wind gust                 25 21 20 21 21 21 26 26 26 24 21 19 21 21 27 28 28 18
+Clouds                 SC SC SC SC B1 OV OV B2 OV B2 OV OV B2 B2 B1 SC SC SC FW
+PoP 12hr                      0          10          60          90          30
+QPF 12hr                      0           0        0.03        0.99        0.08
+Rain shwrs                                S  S  L  L  D  D  D  D  C  C         
+Tstms                                           S  S  S  S  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    69      45    72      50    64      50    68
+Temp          50 44 66 62   50 45 68 66   54 51 62 60   55 50 64 62
+Dewpt         46 42 44 46   45 44 49 50   50 50 55 56   53 50 55 54
+PWind dir        NW     N       E    SE       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 S  C  C  C    S  S      
+
+$$
+ARZ072-232200-
+MAGNOLIA-COLUMBIA AR
+33.27N  93.24W Elev. 358 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          65          81          59          69
+Temp                   82 84 78 70 68 66 65 71 78 80 75 68 68 64 60 64 66 67 60
+Dewpt                  61 58 61 63 64 63 62 63 64 65 67 68 67 64 60 59 54 52 51
+RH                     49 41 56 78 87 90 90 76 62 60 76100 97100100 84 65 59 72
+Wind dir                S  S  S  S  S  S  S  S  S  S SE  S  S  S  S SW  W  W  W
+Wind spd               14 12  6  6  5  5  6 11 13 12  8  8  5  5  5 11 13 13  5
+Wind gust                 23 19 18 18 18 18 23 25 24 23 21 23 24 26 24 29 27 20
+Clouds                 SC SC SC SC B1 B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 SC SC SC FW
+PoP 12hr                      0           5          40          90          30
+QPF 12hr                      0           0           0        0.76        0.11
+Rain shwrs                                S  S  C  C  D  D  D  D  C  C         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    70      43    73      49    66      47    68
+Temp          47 43 67 60   47 43 69 63   51 49 63 60   53 48 65 61
+Dewpt         47 43 41 46   46 43 47 51   51 49 55 57   53 48 53 54
+PWind dir        NW     N       E     E       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL CL CL   CL CL FW FW   SC SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+ARZ073-232200-
+EL DORADO-UNION AR
+33.22N  92.81W Elev. 223 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          63          82          60          69
+Temp                   83 85 76 69 66 64 63 72 78 81 74 69 67 66 62 66 68 65 55
+Dewpt                  62 60 61 64 63 62 61 64 65 65 68 67 66 65 62 62 57 54 54
+RH                     49 43 60 84 90 93 93 76 64 58 82 93 97 97100 87 68 68 96
+Wind dir                S  S  S  S  S  S  S  S  S  S SE  S  S  S  S SW  W  W  W
+Wind spd               13 12  6  8  5  6  6 11 12 12  8  9  8  8  8 11 13 13  6
+Wind gust                          17 17 18 23 24 24 21 23 23 25 27 24 29 27 20
+Clouds                 SC SC SC SC B1 B2 B2 B1 B2 B2 B2 B2 B2 B2 B2 B1 SC SC FW
+PoP 12hr                      0           0          20          90          40
+QPF 12hr                      0           0           0        0.47        0.17
+Rain shwrs                                      S  S  L  L  D  D  C  C         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    70      42    73      48    67      48    68
+Temp          47 42 67 59   46 42 69 63   51 48 64 60   53 49 65 59
+Dewpt         47 42 42 48   46 42 49 53   50 48 56 57   53 49 54 57
+PWind dir        NW     N      NE     E       E    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL CL CL   CL CL CL FW   SC SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+TXZ096-232200-
+CLARKSVILLE-RED RIVER TX
+33.59N  95.06W Elev. 440 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          68          76          53          65
+Temp                   82 85 79 72 70 69 68 72 76 74 68 66 65 59 54 57 61 64 59
+Dewpt                  61 59 58 61 63 65 66 68 66 67 66 65 64 59 54 53 49 46 44
+RH                     49 41 49 68 78 87 93 87 71 79 93 97 97100100 86 65 52 57
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W NW NW NW
+Wind spd               19 18 14 13 12 12 11 13 16 13 10  8  6  8 10 14 16 13  6
+Wind gust                          25       25 28 27                27 29 28   
+Clouds                 SC SC SC SC B1 OV OV OV OV OV OV B2 B2 B2 B1 SC B1 FW CL
+PoP 12hr                      0          30          90          90          20
+QPF 12hr                      0           0        0.61        1.50        0.05
+Rain shwrs                             C  C  C  D  D  D  D  L  L  S  S         
+Tstms                                           S  S  C  C  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    69      44    71      50    63      48    68
+Temp          47 43 66 61   49 44 68 65   54 50 61 59   52 49 65 62
+Dewpt         43 41 42 44   44 43 47 48   48 50 53 52   51 49 52 51
+PWind dir        NW    NE       E    SE       E    NE       N     N
+Wind char        LT    LT      LT    GN      LT    GN      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC B1 B1 B1   SC FW FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ109-232200-
+MOUNT PLEASANT-TITUS TX
+33.10N  94.96W Elev. 400 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          66          78          53          66
+Temp                   84 86 81 73 69 69 66 73 77 76 70 69 66 60 54 58 61 65 59
+Dewpt                  62 60 59 64 66 66 66 68 66 67 68 67 65 60 54 54 50 48 47
+RH                     48 42 47 73 90 90100 84 69 74 93 93 97100100 86 67 54 64
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W NW NW NW
+Wind spd               18 17 11 10 10 10  9 13 16 14  8  6  6  6  9 14 16 14  5
+Wind gust                    23 21 21 21    25 28 28 24    18 20    27 29 27 17
+Clouds                 SC SC SC SC B1 OV OV OV OV OV OV B2 B2 B1 B1 SC SC FW CL
+PoP 12hr                      0          20          80          90          10
+QPF 12hr                      0           0        0.31        1.11        0.02
+Rain shwrs                             S  C  C  D  D  D  D  L  L               
+Tstms                                           S  S  C  C  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    69      43    73      49    65      47    67
+Temp          47 42 66 62   47 43 69 66   53 50 63 59   52 48 64 61
+Dewpt         45 42 42 46   46 43 47 49   50 50 56 55   52 48 53 53
+PWind dir        NW     N       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ112-232200-
+LINDEN-CASS TX
+33.01N  94.36W Elev. 361 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          65          79          55          66
+Temp                   84 86 81 72 69 67 65 71 77 79 73 69 67 61 56 61 63 65 60
+Dewpt                  62 59 61 65 66 66 65 68 66 66 69 67 66 61 56 56 52 49 49
+RH                     48 40 51 79 90 97100 90 69 64 87 93 97100100 84 67 56 67
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W  W NW NW
+Wind spd               14 12  8  8  6  6  5 10 13 11  6  5  5  5  5 10 13 11  4
+Wind gust                 24    20 20 19 17 23 25 25 23 17 19 21 18 27 29 26 17
+Clouds                 SC SC SC SC B2 OV OV B2 B2 B2 OV B2 B2 B2 B1 SC SC FW CL
+PoP 12hr                      0          10          70          90          20
+QPF 12hr                      0           0        0.06        0.92        0.03
+Rain shwrs                                S  S  L  L  D  D  D  D  S  S         
+Tstms                                           S  S  S  S  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    70      44    73      49    64      47    67
+Temp          47 42 66 61   48 44 69 65   52 50 63 59   53 48 64 61
+Dewpt         46 42 41 46   45 44 47 50   50 50 56 57   53 48 53 54
+PWind dir        NW     N       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0     5      40    40      20    10
+Rain shwrs                                 S  C  C  C    S  S      
+
+$$
+TXZ124-232200-
+QUITMAN-WOOD TX
+32.80N  95.44W Elev. 397 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          68          77          52          65
+Temp                   84 86 82 73 71 70 70 72 77 75 69 68 65 58 53 56 61 64 59
+Dewpt                  63 61 60 63 65 66 67 69 68 68 69 67 65 58 53 53 50 48 48
+RH                     49 43 47 71 81 87 90 90 74 79100 97100100100 90 67 56 67
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S SW SW  W  W NW NW NW
+Wind spd               17 16 11 10 10 10  9 13 14 12  6  5  5  5  9 13 14 12  3
+Wind gust                    24 21 23 21 21 26 28 26 20    20 19 20 26 28 25 14
+Clouds                 SC SC SC SC B2 B2 OV OV OV OV B2 B2 B1 B1 SC SC SC FW CL
+PoP 12hr                      0          20          90          80          10
+QPF 12hr                      0           0        0.45        1.08           0
+Rain shwrs                             S  C  C  D  D  D  D  C  C               
+Tstms                                           S  S  C  C  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    70      45    73      51    65      47    67
+Temp          48 43 67 63   49 45 69 67   55 52 63 61   53 48 64 62
+Dewpt         46 43 44 47   45 44 48 50   51 52 57 56   53 48 54 53
+PWind dir        NW    NE       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0    10      40    40      20    10
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ136-232200-
+TYLER-SMITH TX
+32.36N  95.40W Elev. 512 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          70          79          56          67
+Temp                   83 86 81 76 73 72 72 74 77 78 72 69 67 62 57 59 63 66 61
+Dewpt                  62 60 60 63 66 67 67 68 67 67 69 68 66 60 54 51 50 48 47
+RH                     49 42 49 64 79 84 84 82 71 69 90 97 97 93 90 75 62 52 60
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W NW NW NW
+Wind spd               19 17 13 12 12 11 11 14 17 13  9  9 10  9 11 14 16 13  5
+Wind gust                 27 24 24 23 23 21 26 28 26 23 23 24 21 21 27 28 25   
+Clouds                 SC SC SC SC B2 B2 OV OV B2 B2 B2 B2 B1 B1 SC SC SC CL CL
+PoP 12hr                      0          20          80          90          10
+QPF 12hr                      0           0        0.33        0.92           0
+Rain shwrs                             S  C  C  D  D  D  D  C  C               
+Tstms                                           S  S  C  C  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    72      48    74      54    67      50    68
+Temp          52 46 68 64   52 48 71 68   59 55 64 63   55 51 65 63
+Dewpt         46 44 43 46   45 44 47 50   51 54 57 56   54 51 54 53
+PWind dir        NW    NE       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0    10      40    40      20     5
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ137-232200-
+LONGVIEW-GREGG TX
+32.39N  94.71W Elev. 308 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          68          81          56          68
+Temp                   84 87 81 73 71 70 70 74 79 80 75 69 68 62 58 61 65 67 61
+Dewpt                  61 58 59 64 66 66 66 67 65 65 67 68 67 62 57 53 50 48 47
+RH                     46 38 47 73 84 87 87 79 62 60 76 97 97100 96 75 58 50 60
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W  W NW NW
+Wind spd               17 14 12 11  9  9  8 13 16 13 10  9  9  9  9 13 14 12  5
+Wind gust                 25    23 21    19 24 26    23 19 21 27 19 26 28 26 17
+Clouds                 SC SC SC SC B2 OV OV B2 B2 B2 B2 B2 B1 B1 SC SC SC FW CL
+PoP 12hr                      0          10          70          90          10
+QPF 12hr                      0           0        0.07        0.78        0.01
+Rain shwrs                                S  S  L  L  D  D  L  L               
+Tstms                                           S  S  S  S  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    71      44    75      52    67      49    69
+Temp          49 44 68 63   49 45 71 67   55 53 64 62   54 50 66 63
+Dewpt         46 43 40 43   45 44 45 48   51 53 56 56   54 50 53 52
+PWind dir        NW     N       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   SC FW FW FW
+PoP 12hr          0     0       0    10      40    40      20    10
+Rain shwrs                                 S  C  C  C    S         
+
+$$
+TXZ149-232200-
+RUSK-CHEROKEE TX
+31.80N  95.15W Elev. 545 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          68          81          56          67
+Temp                   82 86 82 74 72 70 69 73 78 80 76 69 68 61 57 60 65 66 62
+Dewpt                  62 58 59 64 66 67 67 68 66 66 67 68 67 61 54 51 49 47 46
+RH                     51 39 46 71 81 90 93 84 67 62 74 97 97100 90 72 56 50 56
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S SW  W  W NW NW NW
+Wind spd               17 14 12 12 12 12 11 13 14 13 10  9  9 11 10 13 14 12  5
+Wind gust                 25 24 23 23    21 25 25 25 25 21 24 25 25 27 28 24 17
+Clouds                 SC SC SC B1 B2 OV OV B2 B2 B2 B2 B2 B1 B1 SC SC FW FW CL
+PoP 12hr                      0          10          70          90          10
+QPF 12hr                      0           0        0.08        0.62           0
+Rain shwrs                                S  S  L  L  D  D  L  L               
+Tstms                                           S  S  C  C  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    71      47    74      54    67      50    68
+Temp          49 45 67 64   51 47 71 68   57 55 64 64   54 50 65 63
+Dewpt         45 43 42 44   43 42 46 48   50 55 58 55   54 50 53 51
+PWind dir        NW     N       E    SE      SE    NE       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   SC SC FW FW
+PoP 12hr          0     0       0    10      40    40      20     5
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ152-232200-
+NACOGDOCHES-NACOGDOCHES TX
+31.58N  94.72W Elev. 322 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          66          82          55          70
+Temp                   84 86 80 70 69 67 67 74 80 82 78 70 68 62 56 62 67 69 63
+Dewpt                  63 60 63 66 68 67 67 69 67 66 67 69 68 62 56 52 50 49 48
+RH                     49 42 56 87 97100100 84 65 58 69 97100100100 70 54 49 58
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S SW  W  W  W NW NW
+Wind spd               14 13 11  9  6  6  6 11 13 13 10  9  6  8  6 12 13 12  5
+Wind gust                 24 23 23 18 18 18 23 25 25 25 23 24 26 18 27 27 25 17
+Clouds                 SC SC SC B1 B2 OV B2 B2 B2 B2 B2 B2 B2 B1 SC FW FW FW CL
+PoP 12hr                      0          10          50          90          10
+QPF 12hr                      0           0        0.02        0.66           0
+Rain shwrs                                S  S  C  C  D  D  D  D               
+Tstms                                                 S  S  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    73      45    77      52    70      49    70
+Temp          48 43 70 64   49 45 73 69   55 53 67 64   54 50 67 64
+Dewpt         47 43 42 45   45 44 47 50   53 53 59 57   54 50 55 53
+PWind dir        NW     N       E    SE      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   SC SC SC FW
+PoP 12hr          0     0       0    10      40    50      20     5
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ153-232200-
+CENTER-SHELBY TX
+31.79N  94.18W Elev. 364 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          66          83          57          71
+Temp                   84 87 80 70 69 67 66 74 81 83 79 70 69 64 58 64 69 70 63
+Dewpt                  61 59 62 66 66 66 66 68 66 65 66 69 68 64 58 53 50 48 48
+RH                     46 39 54 87 90 97100 82 60 55 64 97 97100100 67 51 45 58
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S SW SW  W  W NW NW
+Wind spd               14 13 10  8  6  5  5 10 12 13 10  8  6  6  5 10 13 12  5
+Wind gust                 24 23 21 20 17 17 21 24 25 26 26 24 26 16 27 28 26 19
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B2 B1 B2 B2 B2 B1 B1 FW FW FW CL
+PoP 12hr                      0          10          40          90          20
+QPF 12hr                      0           0           0        0.52        0.01
+Rain shwrs                                S  S  C  C  D  D  D  D  S  S         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    72      44    76      52    70      49    70
+Temp          49 44 69 64   48 44 72 67   55 53 68 64   54 50 67 63
+Dewpt         47 44 41 45   45 44 47 49   52 53 57 57   54 50 53 53
+PWind dir        NW     N       E    SE      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0    10      40    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+TXZ165-232200-
+LUFKIN-ANGELINA TX
+31.23N  94.75W Elev. 279 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          68          83          57          72
+Temp                   84 86 80 72 70 69 68 75 81 82 78 72 69 63 58 63 69 71 65
+Dewpt                  64 60 64 66 68 67 67 70 68 67 69 70 69 63 57 53 51 50 50
+RH                     51 42 58 81 93 93 97 84 65 61 74 93100100 96 70 53 47 58
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S SW  W  W  W NW NW
+Wind spd               14 13 11 10  6  6  5 10 13 13 10  9  6  8  6 11 12 11  5
+Wind gust                 25 23 21 18 18 18 21 25 25 26 23 23 26 17 27 25 23 16
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B1 B1 B2 B1 B2 B1 SC FW FW FW CL
+PoP 12hr                      0          10          40          90          10
+QPF 12hr                      0           0        0.01        0.67           0
+Rain shwrs                                S  S  C  C  D  D  D  D               
+Tstms                                                 S  S  C  C               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    74      46    78      54    72      51    72
+Temp          51 45 70 66   50 46 73 70   58 55 69 66   56 51 69 66
+Dewpt         47 44 44 47   46 45 49 51   54 55 61 58   55 51 56 54
+PWind dir        NW     N       E    SE      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 SC   SC SC SC FW
+PoP 12hr          0     0       0    10      40    50      20     5
+Rain shwrs                                 C  C  C  C    S         
+
+$$
+TXZ167-232200-
+HEMPHILL-SABINE TX
+31.34N  93.85W Elev. 272 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          66          83          57          73
+Temp                   85 86 79 70 68 67 66 76 82 83 78 70 68 64 58 67 71 72 65
+Dewpt                  62 61 63 66 66 65 65 68 67 66 67 69 68 64 58 56 52 50 51
+RH                     46 43 58 87 93 93 97 76 61 57 69 97100100100 68 51 46 60
+Wind dir                S  S  S  S  S SE SE SE  S  S  S  S  S  S SW  W  W NW NW
+Wind spd               12 12  8  5  5  5  4  9 11 12  9  6  5  5  5  9 11 10  4
+Wind gust                    20 17 18 16 17    23 25 26 24 23 26    20 25 23 18
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B2 B1 B1 B1 B1 B1 B1 FW FW FW CL
+PoP 12hr                      0          10          30          90          20
+QPF 12hr                      0           0           0        0.43        0.03
+Rain shwrs                                      C  C  L  L  D  D  S  S         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    73      46    77      52    72      50    71
+Temp          51 45 70 64   50 46 74 68   55 53 70 65   55 51 68 65
+Dewpt         48 45 42 48   46 45 48 50   52 53 59 57   55 51 55 54
+PWind dir        NW     N      NE     E      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0    10      40    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ001-232200-
+SHREVEPORT-CADDO LA
+32.45N  93.82W Elev. 236 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          68          84          60          70
+Temp                   85 88 83 75 72 71 70 73 81 83 79 72 70 66 61 64 67 69 63
+Dewpt                  62 60 61 64 65 64 64 66 66 67 66 68 68 65 60 55 52 51 49
+RH                     46 39 47 69 79 79 81 79 60 59 64 87 93 97 97 73 59 53 60
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S  S SW  W  W  W NW
+Wind spd               16 16 13 10 10 10  9 12 16 16 13 11 10 10 10 13 16 14  9
+Wind gust                       21             26 26 26 24 23 26    29 31 28   
+Clouds                 SC SC SC SC B2 B2 OV B2 B2 B2 B2 B2 B2 B2 B1 SC SC FW CL
+PoP 12hr                      0          10          40          90          20
+QPF 12hr                      0           0        0.01        0.55        0.04
+Rain shwrs                                S  S  C  C  D  D  D  D  S  S         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    72      47    76      54    68      52    70
+Temp          52 47 69 65   51 47 72 68   57 55 66 64   56 53 67 64
+Dewpt         47 44 41 44   45 44 47 49   50 52 56 56   55 53 54 53
+PWind dir        NW     N       E    SE      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      40    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ003-232200-
+MINDEN-WEBSTER LA
+32.64N  93.30W Elev. 266 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          65          83          60          70
+Temp                   84 87 80 73 69 67 65 74 82 82 76 71 70 66 61 66 68 68 60
+Dewpt                  63 60 61 66 66 65 64 67 68 68 69 70 68 66 61 61 56 54 54
+RH                     49 40 52 79 90 93 97 79 63 63 79 97 93100100 84 65 61 81
+Wind dir                S  S  S  S  S  S SE  S  S  S SE  S  S  S  S SW  W  W NW
+Wind spd               13 11  8  8  6  6  5 10 12 12  8  9  8  8  6 10 13 13  5
+Wind gust                 21 21 21 18 18 18 23 25 25 21 26 23 26 21 27 29 27 20
+Clouds                 SC SC SC SC B2 B2 B2 B1 B2 B2 B2 B2 B2 B2 B2 SC SC FW FW
+PoP 12hr                      0           5          30          90          30
+QPF 12hr                      0           0           0        0.56        0.09
+Rain shwrs                                      C  C  L  L  D  D  C  C         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    72      44    75      51    69      50    69
+Temp          49 44 69 62   49 44 71 65   54 51 66 62   55 51 66 62
+Dewpt         49 44 44 49   47 44 50 53   53 51 58 60   55 51 57 58
+PWind dir        NW     N      NE    SE      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   SC SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ012-232200-
+BIENVILLE-BIENVILLE LA
+32.36N  92.98W Elev. 243 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          63          84          61          72
+Temp                   84 86 80 71 68 67 64 73 80 83 79 70 70 66 62 66 70 70 62
+Dewpt                  63 60 61 64 64 63 63 66 67 68 68 69 69 66 62 64 57 54 54
+RH                     49 42 52 79 87 87 97 79 65 61 69 97 97100100 93 63 57 75
+Wind dir                S  S  S  S  S  S SE  S  S  S SE  S  S  S  S SW  W  W NW
+Wind spd               13 11  9  8  6  6  5 10 12 11  8  9  8  8  8 10 13 11  5
+Wind gust                    20 20 18 18 18 21 25 23 21 23 24 25 28 27 29 27 20
+Clouds                 SC SC SC SC B2 B2 B2 B1 B2 B1 B1 B1 B2 B2 B2 SC SC FW FW
+PoP 12hr                      0           0          20          90          40
+QPF 12hr                      0           0           0        0.36        0.14
+Rain shwrs                                      S  S  L  L  D  D  C  C         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    72      44    76      51    70      50    70
+Temp          50 45 69 63   49 44 72 66   53 51 68 63   55 51 67 63
+Dewpt         49 45 44 48   46 44 50 53   53 51 60 60   55 51 57 57
+PWind dir        NW     N      NE     E       E     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ006-232200-
+FARMERVILLE-UNION LA
+32.77N  92.40W Elev. 171 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          64          83          63          73
+Temp                   84 85 78 70 67 66 64 71 79 83 76 70 70 68 65 68 71 70 59
+Dewpt                  62 59 61 64 64 62 62 65 65 66 68 69 69 68 65 66 57 54 55
+RH                     48 41 56 81 90 87 93 81 62 57 76 97 97100100 93 61 57 87
+Wind dir                S  S  S  S  S SE SE  S  S  S SE  S  S  S  S SW  W  W  W
+Wind spd               13 10  6  6  5  6  5 10 11 11  8  9  8  9  8 10 13 11  6
+Wind gust                    18 17 16    17 21 25 23 20 23 24 24 29 25 31 27 20
+Clouds                 SC SC SC SC B1 B2 B2 B1 B1 B1 B1 B2 B2 B2 B2 B1 SC FW FW
+PoP 12hr                      0           0          20          80          50
+QPF 12hr                      0           0           0        0.21        0.23
+Rain shwrs                                      S  S  C  C  D  D  C  C         
+Tstms                                                             S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    71      45    74      51    71      51    70
+Temp          51 46 68 61   49 45 71 63   53 51 68 62   56 52 67 61
+Dewpt         50 46 44 49   47 45 50 54   53 51 58 59   56 52 56 58
+PWind dir        NW     N      NE     E       E     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW CL CL CL   CL CL CL FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                    C  C  C    C  S      
+
+$$
+LAZ014-232200-
+MONROE-OUACHITA LA
+32.51N  92.03W Elev. 75 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          63          84          65          75
+Temp                   84 86 78 71 68 66 63 72 80 83 77 73 71 69 66 70 74 73 63
+Dewpt                  61 58 60 61 61 60 60 63 63 63 65 67 68 68 66 65 57 53 54
+RH                     46 39 54 71 78 81 90 73 56 51 67 81 90 97100 84 55 49 72
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S SW  W  W
+Wind spd               14 13  8  6  6  5  5 11 13 13  9 10 10 10  9 12 14 14  9
+Wind gust                       17 18 18 18          21 25 24 26 29 24 32 29 23
+Clouds                 SC SC SC SC SC B2 B2 B1 B1 B1 B1 B1 B2 B2 B2 B1 FW FW CL
+PoP 12hr                      0           0          10          70          50
+QPF 12hr                      0           0           0        0.07        0.29
+Rain shwrs                                            C  C  L  L  C  C         
+Tstms                                                             S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    72      45    75      52    72      52    69
+Temp          52 47 68 62   49 45 71 65   54 52 69 63   56 53 66 62
+Dewpt         49 45 44 47   46 45 49 51   52 51 56 57   55 53 55 56
+PWind dir        NW     N      NE     E       E     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL FW FW FW   FW SC B1 B1   B1 B1 SC FW
+PoP 12hr          0     0       0     5      20    40      30    10
+Rain shwrs                                    S  C  C    C  C      
+
+$$
+LAZ010-232200-
+MANSFIELD-DE SOTO LA
+32.03N  93.70W Elev. 322 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          67          84          60          71
+Temp                   85 87 81 73 70 68 67 74 81 83 79 71 70 65 61 66 68 70 63
+Dewpt                  61 60 61 65 65 64 64 66 66 66 66 68 68 65 61 56 52 50 49
+RH                     45 40 51 76 84 87 90 76 60 57 64 90 93100100 70 57 49 60
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S  S SW  W  W  W NW
+Wind spd               14 13 11 10  9  9  8 10 13 12 10 10 10 10  9 11 13 12  6
+Wind gust                 24 23 23 21    18 21 25 25 26 26 24 26    27 28 27 19
+Clouds                 SC SC SC B1 B2 OV B2 B2 B2 B1 B1 B2 B2 B2 B1 SC FW FW CL
+PoP 12hr                      0           5          30          90          20
+QPF 12hr                      0           0           0        0.45        0.04
+Rain shwrs                                      C  C  L  L  D  D  S  S         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    71      46    75      53    68      51    69
+Temp          50 45 68 63   49 46 72 67   55 53 66 64   55 52 66 63
+Dewpt         47 44 42 44   45 45 47 49   51 53 58 56   55 52 55 53
+PWind dir        NW     N       E     E      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      40    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ017-232200-
+MANY-SABINE LA
+31.57N  93.47W Elev. 276 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          63          84          59          74
+Temp                   86 87 78 68 66 65 63 75 81 83 77 70 69 65 60 69 73 72 62
+Dewpt                  62 61 63 65 64 64 63 68 66 66 67 69 68 65 60 59 52 51 51
+RH                     45 42 60 90 93 97100 79 60 57 71 97 97100100 70 48 48 67
+Wind dir                S  S  S  S  S SE SE SE  S  S  S  S  S  S SW  W  W  W NW
+Wind spd               12 13  8  5  5  5  5  9 11 11  9  8  6  5  5  9 11 10  5
+Wind gust                    21 18 18 17 17 19 24 25 25 26 24 26 19 23 26 24 19
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B2 B1 B1 B1 B2 B2 B2 SC FW FW CL
+PoP 12hr                      0           5          20          90          30
+QPF 12hr                      0           0           0        0.34        0.08
+Rain shwrs                                      S  S  C  C  D  D  C  C         
+Tstms                                                       S  S               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    73      44    78      52    72      49    71
+Temp          50 45 70 63   48 44 75 67   53 52 70 64   55 50 68 63
+Dewpt         49 45 42 46   45 44 48 51   52 52 58 57   55 50 56 55
+PWind dir        NW     N      NE     E      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ018-232200-
+NATCHITOCHES-NATCHITOCHES LA
+31.74N  93.10W Elev. 112 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      88          64          84          62          74
+Temp                   86 86 77 70 67 67 65 73 81 83 77 71 71 68 64 70 73 72 61
+Dewpt                  61 61 63 65 64 64 63 66 66 67 67 70 69 68 64 61 54 51 51
+RH                     43 43 62 84 90 90 93 79 60 59 71 97 93100100 73 51 48 70
+Wind dir                S  S  S  S  S SE SE SE SE  S  S  S  S  S SW  W  W  W NW
+Wind spd               14 13 10  8  5  5  5 10 12 12 10 10  9  8  8 10 13 12  8
+Wind gust                    20 18 17 17 17 20 24 24 26 26 23 26 26 25 28 25 19
+Clouds                 SC SC SC B1 B2 B2 B2 B2 B2 B1 B1 B1 B2 B2 B2 SC FW FW CL
+PoP 12hr                      0           5          20          80          30
+QPF 12hr                      0           0           0        0.30        0.11
+Rain shwrs                                      S  S  C  C  D  D  C  C         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    75      44    78      52    73      52    72
+Temp          51 46 72 64   49 44 74 67   54 53 70 64   57 53 69 63
+Dewpt         49 46 42 46   47 44 49 51   53 53 58 57   57 53 56 56
+PWind dir        NW     N      NE     E      SE     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr          0     0       0     5      30    50      30    10
+Rain shwrs                                 S  C  C  C    C  S      
+
+$$
+LAZ019-232200-
+WINNFIELD-WINN LA
+31.92N  92.64W Elev. 144 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          63          83          62          74
+Temp                   85 86 77 70 67 65 64 71 80 83 77 71 70 68 64 69 73 70 60
+Dewpt                  63 61 63 64 63 62 62 66 66 67 67 69 69 68 64 66 57 53 53
+RH                     48 43 62 81 87 90 93 84 62 59 71 93 97100100 90 57 55 78
+Wind dir                S  S  S  S  S SE SE SE SE  S  S  S  S  S  S SW  W  W NW
+Wind spd               13 11  9  8  6  5  5 10 12 11  9 10  9  8  8 10 13 11  8
+Wind gust                    21 18 18 18 18 20 24 21 21 24 23 25 29 24 28 26 19
+Clouds                 SC SC SC SC B1 B2 B2 B1 B1 B1 B1 B1 B2 B2 B2 SC FW FW FW
+PoP 12hr                      0           0          20          80          40
+QPF 12hr                      0           0           0        0.16        0.19
+Rain shwrs                                      S  S  C  C  D  D  C  C         
+Tstms                                                             S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    73      44    76      51    72      51    70
+Temp          50 45 70 63   49 44 73 66   54 51 69 65   56 52 68 63
+Dewpt         49 45 44 47   46 44 50 52   53 51 59 58   56 52 56 57
+PWind dir        NW     N      NE     E       E     E      NE     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC B1 B1   B1 B1 SC FW
+PoP 12hr          0     0       0     5      30    40      30    10
+Rain shwrs                                    C  C  C    C  S      
+
+$$
+LAZ022-232200-
+JENA-LA SALLE LA
+31.69N  92.13W Elev. 167 ft
+1155 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          62          84          65          75
+Temp                   83 84 76 70 66 64 62 71 79 83 77 71 70 69 67 71 74 72 62
+Dewpt                  61 60 63 63 62 60 61 64 65 66 67 68 69 69 67 67 59 54 54
+RH                     47 44 64 78 87 87 97 79 62 57 71 90 97100100 87 59 53 75
+Wind dir                S  S  S  S SE SE SE SE  S  S  S  S  S  S  S SW  W  W  W
+Wind spd               13 12  8  6  5  5  5 10 10 11  9 10 10  9  8 10 12 11  5
+Wind gust                    19 18 18 18 18    20 21 21 23 25 26 29 20 26 25 20
+Clouds                 SC SC SC SC B1 B2 B1 B1 B2 B1 B1 B1 B2 B2 B2 B1 FW CL CL
+PoP 12hr                      0           0          10          70          50
+QPF 12hr                      0           0           0        0.04        0.28
+Rain shwrs                                            C  C  L  L  C  C         
+Tstms                                                             S  S         
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    71      45    75      52    73      52    70
+Temp          52 47 68 61   49 45 72 65   54 52 70 64   57 53 67 63
+Dewpt         49 46 46 48   47 45 51 53   53 52 59 60   57 53 57 58
+PWind dir        NW     N      NE     E       E     E       N     N
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL CL CL   CL CL FW FW   FW SC SC B1   B1 B1 SC FW
+PoP 12hr          5     0       0     5      20    40      30    10
+Rain shwrs                                    S  C  C    C  C      
+
+$$

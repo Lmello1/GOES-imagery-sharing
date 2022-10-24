@@ -1,0 +1,105 @@
+SOUS41 KAKQ 232107
+TIDAKQ
+
+TIDE  DATA
+NATIONAL  WEATHER  SERVICE  WAKEFIELD  VA
+507  PM  EDT  SUN  OCT  23  2022
+
+TIDES  FOR  NEXT  3  DAYS
+2022/10/24
+OCEAN-CITY-PIER  
+  /  LOW  01:01-AM  /  HIGH  07:13-AM  /  LOW  01:30-PM  /  HIGH  07:32-PM  
+OCEAN-CITY-INLET  
+  /  LOW  01:12-AM  /  HIGH  07:36-AM  /  LOW  01:43-PM  /  HIGH  07:53-PM  
+CAMBRIDGE  
+  /  HIGH  03:42-AM  /  LOW  10:06-AM  /  HIGH  04:09-PM  /  LOW  10:42-PM  
+BISHOPS-HEAD  
+  /  HIGH  12:59-AM  /  LOW  07:29-AM  /  HIGH  01:17-PM  /  LOW  08:05-PM  
+COLONIAL-BEACH  
+  /  HIGH  02:14-AM  /  LOW  08:31-AM  /  HIGH  02:36-PM  /  LOW  09:04-PM  
+KIPTOPEKE  
+  /  LOW  02:02-AM  /  HIGH  08:20-AM  /  LOW  02:39-PM  /  HIGH  08:34-PM  
+WINDMILL-POINT  
+  /  LOW  04:37-AM  /  HIGH  10:40-AM  /  LOW  05:15-PM  /  HIGH  10:58-PM  
+WACHAPREAGUE  
+  /  LOW  01:54-AM  /  HIGH  08:15-AM  /  LOW  02:27-PM  /  HIGH  08:34-PM  
+LEWISETTA  
+  /  HIGH  12:58-AM  /  LOW  07:09-AM  /  HIGH  01:18-PM  /  LOW  07:41-PM  
+OYSTER  
+  /  LOW  01:37-AM  /  HIGH  08:13-AM  /  LOW  02:06-PM  /  HIGH  08:32-PM  
+SAXIS  
+  /  LOW  06:09-AM  /  HIGH  11:51-AM  /  LOW  06:45-PM  
+YORKTOWN-USCG  
+  /  LOW  02:47-AM  /  HIGH  09:00-AM  /  LOW  03:24-PM  /  HIGH  09:17-PM  
+VIRGINIA-BEACH  
+  /  LOW  01:06-AM  /  HIGH  07:24-AM  /  LOW  01:40-PM  /  HIGH  07:37-PM  
+SEWELLS-POINT  
+  /  LOW  02:36-AM  /  HIGH  08:53-AM  /  LOW  03:14-PM  /  HIGH  09:08-PM  
+DUCK  
+  /  LOW  12:50-AM  /  HIGH  07:09-AM  /  LOW  01:24-PM  /  HIGH  07:22-PM  
+---------------------------------------------------------------------------------------
+
+2022/10/25
+OCEAN-CITY-PIER  
+  /  LOW  01:40-AM  /  HIGH  07:55-AM  /  LOW  02:16-PM  /  HIGH  08:15-PM  
+OCEAN-CITY-INLET  
+  /  LOW  01:48-AM  /  HIGH  08:19-AM  /  LOW  02:27-PM  /  HIGH  08:34-PM  
+CAMBRIDGE  
+  /  HIGH  04:21-AM  /  LOW  10:43-AM  /  HIGH  04:50-PM  /  LOW  11:28-PM  
+BISHOPS-HEAD  
+  /  HIGH  01:38-AM  /  LOW  08:08-AM  /  HIGH  01:55-PM  /  LOW  08:52-PM  
+COLONIAL-BEACH  
+  /  HIGH  02:53-AM  /  LOW  09:09-AM  /  HIGH  03:15-PM  /  LOW  09:47-PM  
+KIPTOPEKE  
+  /  LOW  02:40-AM  /  HIGH  08:58-AM  /  LOW  03:23-PM  /  HIGH  09:15-PM  
+WINDMILL-POINT  
+  /  LOW  05:14-AM  /  HIGH  11:18-AM  /  LOW  05:59-PM  /  HIGH  11:37-PM  
+WACHAPREAGUE  
+  /  LOW  02:36-AM  /  HIGH  09:02-AM  /  LOW  03:15-PM  /  HIGH  09:19-PM  
+LEWISETTA  
+  /  HIGH  01:36-AM  /  LOW  07:46-AM  /  HIGH  01:58-PM  /  LOW  08:23-PM  
+OYSTER  
+  /  LOW  02:16-AM  /  HIGH  08:55-AM  /  LOW  02:52-PM  /  HIGH  09:15-PM  
+SAXIS  
+  /  HIGH  12:05-AM  /  LOW  06:48-AM  /  HIGH  12:31-PM  /  LOW  07:29-PM  
+YORKTOWN-USCG  
+  /  LOW  03:28-AM  /  HIGH  09:40-AM  /  LOW  04:10-PM  /  HIGH  10:00-PM  
+VIRGINIA-BEACH  
+  /  LOW  01:45-AM  /  HIGH  08:04-AM  /  LOW  02:25-PM  /  HIGH  08:19-PM  
+SEWELLS-POINT  
+  /  LOW  03:15-AM  /  HIGH  09:33-AM  /  LOW  03:58-PM  /  HIGH  09:50-PM  
+DUCK  
+  /  LOW  01:29-AM  /  HIGH  07:49-AM  /  LOW  02:09-PM  /  HIGH  08:04-PM  
+---------------------------------------------------------------------------------------
+
+2022/10/26
+OCEAN-CITY-PIER  
+  /  LOW  01:40-AM  /  HIGH  07:55-AM  /  LOW  02:16-PM  /  HIGH  08:15-PM  
+OCEAN-CITY-INLET  
+  /  LOW  01:48-AM  /  HIGH  08:19-AM  /  LOW  02:27-PM  /  HIGH  08:34-PM  
+CAMBRIDGE  
+  /  HIGH  04:21-AM  /  LOW  10:43-AM  /  HIGH  04:50-PM  /  LOW  11:28-PM  
+BISHOPS-HEAD  
+  /  HIGH  01:38-AM  /  LOW  08:08-AM  /  HIGH  01:55-PM  /  LOW  08:52-PM  
+COLONIAL-BEACH  
+  /  HIGH  02:53-AM  /  LOW  09:09-AM  /  HIGH  03:15-PM  /  LOW  09:47-PM  
+KIPTOPEKE  
+  /  LOW  02:40-AM  /  HIGH  08:58-AM  /  LOW  03:23-PM  /  HIGH  09:15-PM  
+WINDMILL-POINT  
+  /  LOW  05:14-AM  /  HIGH  11:18-AM  /  LOW  05:59-PM  /  HIGH  11:37-PM  
+WACHAPREAGUE  
+  /  LOW  02:36-AM  /  HIGH  09:02-AM  /  LOW  03:15-PM  /  HIGH  09:19-PM  
+LEWISETTA  
+  /  HIGH  01:36-AM  /  LOW  07:46-AM  /  HIGH  01:58-PM  /  LOW  08:23-PM  
+OYSTER  
+  /  LOW  02:16-AM  /  HIGH  08:55-AM  /  LOW  02:52-PM  /  HIGH  09:15-PM  
+SAXIS  
+  /  HIGH  12:05-AM  /  LOW  06:48-AM  /  HIGH  12:31-PM  /  LOW  07:29-PM  
+YORKTOWN-USCG  
+  /  LOW  03:28-AM  /  HIGH  09:40-AM  /  LOW  04:10-PM  /  HIGH  10:00-PM  
+VIRGINIA-BEACH  
+  /  LOW  01:45-AM  /  HIGH  08:04-AM  /  LOW  02:25-PM  /  HIGH  08:19-PM  
+SEWELLS-POINT  
+  /  LOW  03:15-AM  /  HIGH  09:33-AM  /  LOW  03:58-PM  /  HIGH  09:50-PM  
+DUCK  
+  /  LOW  01:29-AM  /  HIGH  07:49-AM  /  LOW  02:09-PM  /  HIGH  08:04-PM  

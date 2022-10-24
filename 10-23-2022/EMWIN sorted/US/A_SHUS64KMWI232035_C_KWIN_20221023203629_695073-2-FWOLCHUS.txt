@@ -1,0 +1,25 @@
+SHUS64 KMWI 232035
+FWOLCH
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (Lake Charles, LA)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+VERNON 162302 221023 12 O 3  83  62  49 0 0 134  3 10  84  61 100  38  0 0.000
+DOVE F 162303 221023 12 O 3  84  62  48 0 0 130  6 10  84  59  99  38  0 0.000
+EVANGE 162401 221023 12 O 3  83  61  48 0 0 149  6 10  84  61  96  41  0 0.000
+SABINE 165102 221023 12 R 2  82  70  68 0 0 136 16     82  70  84  58  0 0.000
+LACASS 165103 221023 12 R 2  79  66  65 0 0 136 15     81  62 100  52  0 0.000
+WOODVI 414402 221023 13 O 1  84  62  48 0 0 177 10     85  65  95  45  0 0.000
+KIRBYV 414501 221023 13 O 2  85  63  47 0 0 167 12  9  85  61 100  47  0 0.000
+SOUTHE 416101 221023 13 O 3  84  65  53 0 0 198  6     85  59 100  47  0 0.000
+MCFADD 419901 221023 13 O 3  79  70  75 0 0 146 11 14  82  68  90  57  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

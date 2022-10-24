@@ -1,0 +1,164 @@
+ASUS41 KLWX 232013
+RWRLWX
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BALTIMORE MD/WASHINGTON DC
+400 PM EDT SUN OCT 23 2022
+
+Note: "FAIR" indicates few or no clouds below 12,000 feet
+with no significant weather and/or obstructions to visibility.
+ TC=TEMPERATURE CELSIUS
+
+ * =Non NWS site. Station does not report precipitation (e.g. rain,
+    snow, etc.), thunder, or fog.
+
+DCZ001-MDZ009-015-VAZ040>042-051-053>054-232100-
+WASHINGTON METRO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WASHINGTON NAT CLOUDY    65  54  67 NE10      30.20S                  
+DULLES         PTSUNNY   66  52  60 N10       30.20F                  
+ANDREWS AFB    CLOUDY    63  51  67 N7        30.17S                  
+FT BELVOIR     CLOUDY    65  52  64 N3        30.17F                  
+QUANTICO       CLOUDY    66  32  28 N9        30.19F                  
+LEESBURG*      CLOUDY    66  55  68 NE9       30.22S                  
+MANASSAS*      CLOUDY    65  53  65 N12       30.20F                  
+GAITHERSBURG*  PTSUNNY   65  52  62 VRB3      30.21F                  
+
+$$
+
+MDZ006>007-011-014-232100-
+BALTIMORE METRO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BWI AIRPORT    CLOUDY    66  50  56 N7        30.19S                  
+BALT INNER HAR   N/A     66  49  54 MISG      30.21S                  
+MARTIN STATE   RAIN      63  54  72 N5        30.21F                  
+ANNAPOLIS      LGT RAIN  63  52  67 N8        30.19S                  
+FORT MEADE*    CLOUDY    63  46  55 N6        30.22S                  
+
+$$
+
+MDZ012-015-019>023-232100-
+MARYLAND EASTERN SHORE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OCEAN CITY     NOT AVBL                                               
+SALISBURY      LGT RAIN  61  59  93 NE8       30.13S FOG              
+CAMBRIDGE*     CLOUDY    59  59 100 NW8       30.16S FOG              
+EASTON*        LGT RAIN  61  61 100 N5        30.21S                  
+
+$$
+
+MDZ017>025-232100-
+SOUTHERN MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PATUXENT RIVER LGT RAIN  61  56  83 N14       30.16S                  
+ST INIGOES     LGT RAIN  63  55  75 VRB5      30.15S                  
+LEONARDTOWN*   CLOUDY    59  54  82 N3        30.18S                  
+
+$$
+
+MDZ003>005-232100-
+NORTH CENTRAL MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FREDERICK*     PTSUNNY   66  54  63 NE10      30.22F                  
+HAGERSTOWN APT CLOUDY    63  47  55 N9        30.23F                  
+WESTMINSTER*   CLOUDY    63  50  63 MISG      30.22F                  
+
+$$
+
+MDZ501>502-232100-
+WESTERN MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OAKLAND*       NOT AVBL                                               
+CUMBERLAND*    MOSUNNY   65  40  40 CALM      30.27F                  
+
+$$
+
+VAZ025>031-232100-
+SHENANDOAH VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WINCHESTER*    CLOUDY    63  48  59 CALM      30.21F                  
+FRONT ROYAL*   CLOUDY    63  45  51 CALM      30.22F                  
+LURAY*         CLOUDY    63  46  55 NE7       30.22F                  
+NEW MARKET*    CLOUDY    68  38  33 NE8       30.21F                  
+STAUNTON*      PTSUNNY   67  43  41 NE7       30.23F                  
+WAYNESBORO*    PTSUNNY   63  42  46 MISG      30.22F                  
+
+$$
+
+WVZ021-048>050-054>055-232100-
+EASTERN WEST VIRGINIA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARTINSBURG    CLOUDY    64  47  53 N7        30.22F                  
+PETERSBURG*    MOSUNNY   66  43  42 CALM      30.23F                  
+
+$$
+
+VAZ036>039-050-232100-
+CENTRAL FOOTHILLS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLOTTESVILL CLOUDY    69  51  52 NE7       30.19S                  
+CULPEPER*      CLOUDY    67  51  55 N7        30.20F                  
+ORANGE*        CLOUDY    64  52  63 N7        30.21S                  
+GORDONSVILLE*  NOT AVBL                                               
+WARRENTON*     CLOUDY    65  51  60 N7        30.23F                  
+
+$$
+
+VAZ055>057-232100-
+NORTH AND CENTRAL PIEDMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FREDERICKSBRG* CLOUDY    64  54  68 N7        30.17F                  
+STAFFORD*      CLOUDY    67  54  61 N7        30.22S                  
+
+$$
+
+NCZ024-NYZ072-PAZ021-071-VAZ022-071-232100-
+OTHER REGIONAL OBSERVATIONS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NEW YORK CITY  CLOUDY    61  46  57 E8        30.28S                  
+PHILADELPHIA   RAIN      60  54  80 NE14G23   30.21F                  
+PITTSBURGH     MOSUNNY   71  37  28 E5        30.18F                  
+ROANOKE        SUNNY     71  36  27 NE9       30.20F                  
+RICHMOND       CLOUDY    58  55  90 N12       30.17S                  
+RALEIGH        PTSUNNY   69  44  40 NW10      30.15F                  
+
+$$
+
+ANZ530>537-232100-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES
+                       AIR SEA DIR/SP/G
+                 (UTC) (F)     (DEG/KT/KT) (MB)
+THOMAS PT LIGHT  2000   60     340/ 15/ 17 1023.0R
+TOLCHESTER       1930      59   20/  7/ 10 1022.6
+GOOSES REEF      1948   56 61  350/ 21/ 29 1023.9R
+COVE POINT       1930          300/ 14/ 18 1021.8
+BALT HARBOR      1930      62   60/  9/ 12 1022.1
+BALT KEY BRIDGE  1930           30/  9/ 11 1022.5
+ANNAPOLIS USNA   1930      64  340/  6/  9 1022.0
+ANNAPOLIS CBIBS  1948   59 60   10/ 12/ 16 1024.1R
+WASH DC CHANNEL  1930      60   60/  4/  8 1021.9
+DAHLGREN         1930      61  350/  3/  6 1021.1
+LEWISETTA        1930      61   10/  7/ 10 1021.0
+SOLOMONS ISLAND  1930      63  360/  9/ 14 1020.1
+PINEY POINT      1930           10/ 10/ 13   N/A
+POTOMAC BUOY     1948   56     350/ 14/ 19   N/A
+CAMBRIDGE PIER   1930      60  340/  8/ 11 1021.2
+BISHOPS HEAD     1930      59  350/  8/ 12 1020.7
+CHESAPEAKE CITY  1930      60   50/  3/  8 1022.6
+
+$$
+
+  

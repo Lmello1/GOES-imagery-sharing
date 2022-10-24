@@ -1,0 +1,123 @@
+FPUS64 KOHX 231900
+SFTOHX
+TNZ005>011-023>034-056>066-075-077>080-093>095-241100-
+
+Tabular State Forecast for Middle Tennessee
+National Weather Service Nashville TN
+200 PM CDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+Dover
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   57/79    62/73    47/64    41/67    44/71    50/67    48/66    
+    00/00    30/90    90/00    00/00    00/20    30/40    40/20   
+
+Clarksville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   53/80    60/75    48/64    41/68    45/73    50/69    49/68    
+    00/00    20/90    90/10    00/00    00/20    30/40    40/20   
+
+Portland
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   52/78    58/74    49/61    42/66    46/71    51/67    51/66    
+    00/00    20/80    80/10    00/00    00/10    30/40    40/30   
+
+Celina
+   Sunny    Shwrs    Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   50/78    57/76    51/61    44/68    45/73    50/69    51/67    
+    00/00    10/60    60/20    00/00    00/10    30/40    40/30   
+
+Dickson
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   52/77    59/73    47/62    41/67    44/71    51/66    49/65    
+    00/00    20/90    90/10    00/00    00/20    30/40    40/20   
+
+Nashville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   52/80    60/76    50/65    46/70    49/74    53/70    52/69    
+    00/00    10/80    80/10    00/00    00/10    30/40    40/30   
+
+Lebanon
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   50/79    57/76    50/63    43/69    46/74    51/69    51/68    
+    00/00    10/80    80/10    00/00    00/10    30/40    40/30   
+
+Carthage
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   49/79    55/76    49/62    42/70    44/74    49/69    49/68    
+    00/00    10/70    70/10    00/00    00/10    30/40    40/30   
+
+Cookeville
+   Sunny    Shwrs    Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   51/75    56/74    49/59    44/67    46/71    51/67    50/65    
+    00/00    10/60    60/10    00/00    00/10    30/40    40/30   
+
+Murfreesboro
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   50/80    57/77    49/64    43/71    46/75    51/70    50/69    
+    00/00    10/80    80/10    00/00    00/10    30/40    40/30   
+
+Smithville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   47/76    54/74    48/60    43/68    45/71    50/68    48/66    
+    00/00    10/70    70/10    00/00    00/10    30/40    40/30   
+
+Linden
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   54/79    61/73    46/64    41/69    44/73    51/68    48/67    
+    00/00    20/90    90/00    00/00    00/20    40/40    40/20   
+
+Columbia
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   50/79    58/74    48/64    42/70    45/74    51/69    50/67    
+    00/00    10/80    80/10    00/00    00/10    30/40    40/20   
+
+Shelbyville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   49/78    56/75    48/63    43/70    46/73    51/69    50/67    
+    00/00    10/80    80/10    00/00    00/10    30/40    40/30   
+
+McMinnville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   49/76    55/74    48/60    43/69    46/71    51/68    49/65    
+    00/00    10/60    60/10    00/00    00/10    30/40    40/30   
+
+Waynesboro
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   53/77    61/72    46/64    42/69    46/72    53/68    50/66    
+    00/00    20/90    90/00    00/00    00/20    40/40    40/20   
+
+Lawrenceburg
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   50/77    58/72    46/62    42/68    46/71    51/67    50/65    
+    00/00    10/90    90/10    00/00    00/20    30/40    40/20   
+
+Jamestown
+   Sunny    Shwrs    Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   
+   48/73    53/72    49/57    44/65    44/69    49/65    49/63    
+    00/00    00/50    60/20    00/00    00/10    30/40    40/40   
+
+Crossville
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   47/71    52/71    47/57    42/65    44/68    48/63    47/62    
+    00/00    00/50    60/10    00/00    00/10    30/40    40/30   
+
+Altamont
+   Sunny    Shwrs    Ptcldy   Sunny    Ptcldy   Shwrs    Ptcldy   
+   50/72    54/70    47/58    43/67    46/69    51/65    48/62    
+    00/00    10/60    60/10    00/00    00/10    30/40    40/30   
+
+
+$$
+

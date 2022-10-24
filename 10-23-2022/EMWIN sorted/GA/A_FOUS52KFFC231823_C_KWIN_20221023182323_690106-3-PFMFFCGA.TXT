@@ -1,0 +1,576 @@
+FOUS52 KFFC 231823
+PFMFFC
+
+Point Forecast Matrices
+National Weather Service Peachtree City GA
+223 PM EDT Sun Oct 23 2022
+
+GAZ033-240915-
+Atlanta-Fulton GA
+33.64N  84.43W Elev. 1026 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          76          52          77          53
+Temp          74 62 55 51 49 48 64 74 75 66 60 57 54 52 65 74 75 69 66 63 58 54
+Dewpt         42 45 47 48 48 48 51 51 50 52 52 52 51 50 53 53 55 57 59 62 58 54
+RH            32 54 74 89 96100 63 44 41 61 75 83 90 93 65 48 50 66 78 97100100
+Wind dir      SE SE  E  E  E  E  E SE SE SE SE SE SE SE SE  S  S SE  S SW  W  W
+Wind spd       4  3  2  2  3  3  5  6  5  4  3  4  4  3  8 11 11  9  9  6  5  5
+Wind gust                                                     21    21         
+Clouds        FW FW FW FW B1 SC FW FW FW SC SC SC SC SC SC B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C         
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      48    74      52    74      56    69      55    68
+Temp          67 60   52 49 70 64   56 53 71 65   60 57 66 62   57 56 65 60
+Dewpt         51 50   49 48 51 52   52 52 54 54   54 53 54 55   56 56 57 57
+PWind dir        NW      NW     E       E     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    SC FW   FW CL FW CL   CL FW SC SC   SC B1 B2 B1   B1 B1 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      30    30
+Rain shwrs                                         S  S  C  C    C  C  S  C
+
+$$
+GAZ054-240915-
+Peachtree City-Fayette GA
+33.36N  84.56W Elev. 808 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          77          49          78          52
+Temp          75 60 52 48 46 45 65 76 76 65 57 54 53 50 66 75 76 69 64 62 57 53
+Dewpt         44 46 47 47 46 45 53 52 52 54 53 51 50 49 55 55 57 59 61 62 57 53
+RH            33 60 83 96100100 65 43 43 68 86 90 89 96 68 50 52 70 90100100100
+Wind dir      SE  E  N  N  E  E  E SE SE SE SE SE SE SE SE  S  S  S  S SW  W  W
+Wind spd       2  1  0  0  1  2  4  4  4  2  1  1  2  2  5  9  9  5  6  4  4  3
+Wind gust                                                     19 16 18         
+Clouds        FW FW FW SC B1 SC FW FW FW SC SC SC SC SC SC B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C         
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      46    75      50    75      55    70      53    68
+Temp          68 59   49 47 71 62   54 51 72 64   58 56 67 61   56 55 66 60
+Dewpt         52 52   48 47 52 54   53 51 55 57   54 53 56 57   56 55 59 58
+PWind dir        NW       N    NE       E     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    SC FW   FW CL FW CL   CL FW SC SC   SC B1 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      30    30
+Rain shwrs                                         S  S  C  C    C  C  S  C
+
+$$
+GAZ045-240915-
+West Atlanta-Fulton GA
+33.78N  84.52W Elev. 841 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          77          50          78          53
+Temp          75 64 55 49 47 46 64 75 77 67 59 56 53 51 65 75 76 69 65 61 58 54
+Dewpt         40 43 46 46 46 46 50 49 48 51 51 51 50 50 53 53 55 57 59 59 56 52
+RH            28 46 72 89 96100 60 40 36 56 75 83 89 96 65 46 48 66 81 93 93 93
+Wind dir      SE SE  E NE  E  E SE SE SE SE SE SE SE SE SE  S  S SE  S SW  W  W
+Wind spd       5  1  0  0  0  1  4  6  6  2  1  1  1  1  6 12 11  8  8  4  4  3
+Wind gust                                                     21    20         
+Clouds        FW FW FW SC B1 SC FW FW FW SC SC SC SC SC SC B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.11
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C         
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      46    75      51    74      54    69      52    69
+Temp          66 59   51 47 71 64   55 52 71 65   58 55 66 62   55 53 66 61
+Dewpt         49 48   47 46 49 50   51 50 53 52   52 51 52 53   54 53 54 54
+PWind dir        NW      NW     E       E     E       E     E       E    SE
+Wind char        GN      LT    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    SC FW   FW CL FW CL   CL FW SC SC   SC B1 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      30    30
+Rain shwrs                                         S  S  C  C    C  C  S  C
+
+$$
+GAZ045-240915-
+Chamblee-DeKalb GA
+33.88N  84.30W Elev. 1003 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          76          51          77          53
+Temp          75 63 55 51 48 48 65 74 75 65 59 55 53 52 65 73 74 68 64 61 57 54
+Dewpt         42 45 47 48 48 47 50 51 49 51 52 51 50 50 53 54 55 57 59 61 57 54
+RH            31 52 74 89100 96 58 44 40 60 78 86 89 93 65 51 51 68 84100100100
+Wind dir      SE SE  E  E  E  E  E SE SE SE SE SE  E  E SE SE  S SE  S SW  W  W
+Wind spd       4  2  2  1  2  2  5  6  5  3  3  2  2  3  8 10 11  8  8  5  5  5
+Wind gust                                                     21    21         
+Clouds        FW CL FW FW B1 SC FW FW SC SC SC SC SC SC SC B1 B1 B1 B1 B2 B2 SC
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C         
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      46    74      52    74      55    68      53    67
+Temp          66 59   51 47 70 63   55 53 71 65   58 56 65 61   56 55 64 60
+Dewpt         51 51   49 47 51 53   52 51 54 54   54 53 54 55   56 55 58 57
+PWind dir        NW      NW     E       E     E       E     E       E     E
+Wind char        GN      LT    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    SC FW   FW CL FW CL   CL FW SC SC   SC B1 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      30    30
+Rain shwrs                                         S  S  C  C    C  C  C  C
+
+$$
+GAZ008-240915-
+Blairsville-Union GA
+34.85N  83.94W Elev. 2047 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      43          73          46          70          48
+Temp          71 58 51 47 45 43 62 71 71 60 53 50 49 47 61 68 67 61 58 55 53 49
+Dewpt         40 41 42 42 41 41 48 46 46 48 47 46 45 45 52 51 52 52 54 55 53 49
+RH            32 53 71 83 86 93 60 41 41 64 80 86 86 93 72 54 59 72 86100100100
+Wind dir       S SE SE SE SE SE SE SE SE SE SE SE SE SE SE  S SE SE SE SE  S  W
+Wind spd       3  2  1  2  2  2  2  4  4  2  2  2  1  1  4  9  8  6  6  3  2  2
+Wind gust                                                     18 19 20 13      
+Clouds        CL FW CL FW SC SC FW FW SC SC SC SC SC SC SC B1 B1 B2 B2 B2 B2 SC
+PoP 12hr                      0           0           0          20          60
+QPF 12hr                      0           0           0           0        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  L  L  S  S   
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      41    70      46    68      47    63      48    62
+Temp          62 54   46 42 68 57   49 47 66 57   51 48 62 55   51 49 60 55
+Dewpt         50 48   46 42 49 49   47 46 51 51   49 48 52 52   51 49 54 53
+PWind dir        NW       N     E       E    SE       E    SE       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      GN    GN
+Avg clouds    SC FW   FW FW FW CL   FW FW SC SC   B1 B2 B2 B1   B1 B2 B2 B2
+PoP 12hr          0       0     0       5     5      20    40      40    40
+Rain shwrs                                         S  S  C  C    C  C  C  C
+
+$$
+GAZ019-240915-
+Rome-Floyd GA
+34.35N  85.17W Elev. 644 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          80          52          79          52
+Temp          77 63 53 49 47 45 64 77 79 66 58 55 53 53 67 76 76 70 64 60 56 53
+Dewpt         41 44 46 45 44 44 50 49 49 51 52 51 50 49 54 55 56 59 60 57 53 49
+RH            28 50 77 86 89 96 60 37 35 58 80 86 89 86 63 48 50 68 87 90 90 86
+Wind dir       S SE  S NE NE NE SE SE SE SE SE SE SE SE SE  S  S  S  S SW  W  W
+Wind spd       5  2  1  1  1  1  3  6  8  3  2  3  2  3  6 12 12 10  6  6  3  2
+Wind gust                                                  24    25 19         
+Clouds        CL FW FW SC SC SC FW FW FW SC B1 B1 SC SC SC B1 B1 B2 B2 SC SC SC
+PoP 12hr                      0           0           0          40          60
+QPF 12hr                      0           0           0        0.01        0.24
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  L  L         
+Tstms                                                       S  S  S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      46    75      49    75      54    70      52    70
+Temp          65 59   51 47 71 63   53 51 72 65   59 56 67 62   56 54 67 60
+Dewpt         49 49   47 45 50 52   50 49 53 53   52 51 53 54   54 52 54 54
+PWind dir        NW       N    NE       E    SE       E     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    SC FW   FW FW FW CL   CL FW SC SC   SC B2 B1 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0    10      30    40      40    30
+Rain shwrs                                         S  C  C  C    C  C  C  C
+
+$$
+GAZ020-240915-
+Cartersville-Bartow GA
+34.13N  84.85W Elev. 759 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          77          52          77          50
+Temp          76 61 54 50 47 46 65 75 76 64 57 55 53 53 65 74 75 68 63 60 55 51
+Dewpt         42 45 46 45 45 45 51 51 49 52 52 51 50 49 54 55 55 58 61 60 55 51
+RH            30 56 74 83 93 96 60 43 39 65 83 86 89 86 68 51 50 70 93100100100
+Wind dir      SE SE SE  E  E  E SE SE SE SE SE SE SE SE SE SE  S SE  S SW  W  W
+Wind spd       5  2  1  2  2  2  5  6  6  2  2  3  3  4  8 12 12  8  8  4  4  3
+Wind gust                                                        21 20 14      
+Clouds        CL FW FW SC SC SC FW FW FW SC B1 B1 SC SC SC B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  C  C  L  L         
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      45    74      50    74      54    69      52    68
+Temp          65 57   49 46 70 62   52 51 71 63   57 55 66 60   55 53 65 59
+Dewpt         51 50   48 46 51 53   51 50 55 54   53 52 55 55   55 53 57 56
+PWind dir        NW       N     E       E     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    SC FW   FW CL FW CL   CL FW SC SC   SC B1 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      30    40      40    30
+Rain shwrs                                         S  C  C  C    C  C  C  C
+
+$$
+GAZ023-240915-
+Gainesville-Hall GA
+34.27N  83.82W Elev. 1276 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          75          49          75          54
+Temp          74 61 54 51 48 47 64 73 74 63 57 54 52 50 63 71 73 66 63 61 58 55
+Dewpt         41 43 45 45 45 45 48 48 48 49 50 49 48 48 50 52 53 54 55 58 58 54
+RH            30 51 71 80 89 93 56 41 40 60 77 83 86 93 62 51 49 65 75 90100 96
+Wind dir      SE SE  E NE NE NE  E SE SE SE  E NE NE NE SE SE SE SE SE  S  W  W
+Wind spd       4  2  3  3  3  3  5  4  5  2  3  3  3  3  5  9  9  5  6  5  5  5
+Wind gust                                                           17         
+Clouds        CL CL CL FW SC SC FW FW SC SC FW SC SC SC SC SC SC B1 B1 B2 B2 SC
+PoP 12hr                      0           0           0          10          50
+QPF 12hr                      0           0           0           0        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S   
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      47    73      52    71      54    67      53    65
+Temp          67 59   51 48 70 62   54 53 68 62   57 55 64 60   55 54 63 59
+Dewpt         51 49   48 47 50 51   51 50 53 53   52 51 53 54   54 54 56 56
+PWind dir         W       N     E      NE     E       E     E       E     E
+Wind char        GN      LT    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    SC FW   CL CL FW CL   FW FW SC SC   SC B2 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      40    30
+Rain shwrs                                         S  S  C  C    C  C  C  C
+
+$$
+GAZ036-240915-
+Athens-Clarke GA
+33.94N  83.32W Elev. 808 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          77          47          78          55
+Temp          76 61 54 50 47 45 65 75 76 63 57 53 50 49 65 74 76 66 63 61 59 56
+Dewpt         45 46 48 47 46 45 50 49 49 49 50 50 48 47 52 53 53 54 55 56 59 56
+RH            33 58 80 89 96100 58 40 39 60 77 89 93 93 63 48 45 65 75 84100100
+Wind dir       E  E  E NE  N NE  E  E SE SE SE NE NE NE SE  S  S SE SE  S SW  W
+Wind spd       3  1  1  1  2  2  3  4  3  2  2  1  1  1  3  6  8  4  5  5  4  4
+Wind gust                                                              16      
+Clouds        CL CL CL FW SC SC FW FW FW FW FW FW SC SC SC SC SC B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      47    75      51    74      53    69      54    68
+Temp          70 61   51 48 72 62   54 53 71 63   57 54 67 61   56 55 65 60
+Dewpt         54 52   49 48 51 53   51 50 55 54   52 52 55 56   56 55 58 58
+PWind dir         W      NW    NE      NE     E      NE     E       E     E
+Wind char        GN      LT    LT      LT    GN      LT    GN      LT    LT
+Avg clouds    SC FW   CL CL CL CL   CL FW SC SC   SC B1 B2 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      40    30
+Rain shwrs                                            S  S  C    C  C  C  C
+
+$$
+GAZ039-240915-
+Washington-Wilkes GA
+33.72N  82.70W Elev. 646 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      45          77          47          78          57
+Temp          75 61 55 50 47 45 66 76 76 63 56 53 50 48 65 75 76 65 62 61 60 58
+Dewpt         46 48 49 48 47 45 48 48 47 50 50 49 48 47 52 52 52 55 54 55 57 57
+RH            36 62 80 93100100 52 37 36 62 80 86 93 96 63 45 43 70 75 81 90 96
+Wind dir       E NE SE NE  N  N  E  E  E SE SE  E NE  N SE  S SE SE SE  S  S SW
+Wind spd       2  0  1  1  2  1  2  3  2  1  1  1  0  0  2  5  6  3  4  5  4  3
+Clouds        FW CL CL CL SC SC FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0           0          30
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      49    76      52    74      54    70      54    70
+Temp          72 61   53 50 73 62   55 53 71 63   57 55 67 61   57 56 67 60
+Dewpt         54 53   49 48 51 54   52 51 54 55   52 52 54 57   55 55 57 58
+PWind dir         W       N    NE      NE    NE      NE    NE       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   CL CL CL CL   FW FW SC SC   SC B1 B1 B1   B1 B2 B2 B1
+PoP 12hr          0       0     0       0     5      20    30      30    30
+Rain shwrs                                            S  S  C    C  C  C  C
+
+$$
+GAZ089-240915-
+Columbus-Muscogee GA
+32.51N  84.94W Elev. 397 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          81          52          80          55
+Temp          77 64 56 53 51 49 67 79 80 69 62 58 55 53 67 78 79 72 68 64 60 56
+Dewpt         41 44 47 47 48 48 53 52 51 53 54 52 52 51 55 56 58 62 64 63 60 55
+RH            28 48 72 80 89 96 61 39 36 57 75 80 90 93 65 47 49 71 87 97100 96
+Wind dir      SE  E  E  E  E  E SE SE SE  E  E  E  E  E SE  S  S  S  S SW  W  W
+Wind spd       4  3  2  2  2  3  4  6  5  3  2  3  2  3  6 11 11  8  8  5  4  3
+Wind gust                                                  21    20 20         
+Clouds        CL FW FW SC SC SC FW FW FW FW SC SC SC SC SC SC SC B1 B1 B1 B1 FW
+PoP 12hr                      0           0           0          10          50
+QPF 12hr                      0           0           0           0        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S   
+Tstms                                                             S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      48    77      53    79      58    73      56    73
+Temp          71 63   53 49 73 66   57 54 76 69   62 59 69 65   59 57 69 63
+Dewpt         51 52   49 48 50 53   53 53 55 57   56 56 57 59   58 57 58 58
+PWind dir        NW       N    NE      NE     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    FW FW   FW CL CL CL   CL FW FW SC   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr          0       0     0       0     5      20    30      30    20
+Rain shwrs                                         S  S  C  C    C  C  S  S
+Tstms                                                               S      
+
+$$
+GAZ082-240915-
+Macon-Bibb GA
+32.69N  83.64W Elev. 354 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          81          48          82          58
+Temp          78 63 54 50 47 46 68 80 81 67 58 54 51 50 68 78 79 69 66 64 62 59
+Dewpt         47 51 52 50 47 46 54 52 51 54 53 51 49 48 55 53 55 58 60 61 61 58
+RH            33 65 93100100100 61 38 35 63 83 90 93 93 63 42 44 68 81 90 97 96
+Wind dir       E  E  E NE  N NE  E  E  E  E  E  E SE  E SE  S  S SE  S  S SW  W
+Wind spd       4  3  2  1  2  2  4  4  4  3  2  2  2  2  4  9  9  5  6  5  5  5
+Clouds        FW CL FW FW SC SC FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B1 SC
+PoP 12hr                      0           0           0           0          30
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                             S  S         
+Heat index                         80                         80               
+Max heat                           80    80                      80            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      47    78      51    78      55    74      53    73
+Temp          75 64   52 48 75 65   56 53 76 67   59 56 71 63   57 55 71 63
+Dewpt         54 54   49 47 51 55   54 52 55 57   55 54 56 58   56 55 58 58
+PWind dir         W      NW    NE      NE     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    SC CL   CL CL CL CL   CL FW FW SC   SC B1 B1 B1   B1 B2 B1 B1
+PoP 12hr          5       0     0       0     5      20    30      30    30
+Rain shwrs                                            S  S  C    C  C  S  C
+
+$$
+GAZ074-240915-
+Sandersville-Washington GA
+32.98N  82.80W Elev. 438 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          79          48          80          59
+Temp          77 63 55 51 48 46 68 78 78 66 58 54 51 49 66 76 77 66 64 62 60 60
+Dewpt         48 52 52 50 48 46 50 49 48 53 51 50 48 48 52 52 51 56 56 56 59 60
+RH            36 67 90 96100100 52 36 35 63 77 86 89 96 61 43 40 70 75 81 96100
+Wind dir       E  E  E  E NE NE  E  E  E  E  E  E  E SE SE  S SE SE SE  S  S SW
+Wind spd       3  1  2  1  1  1  4  4  3  1  2  2  1  1  3  5  6  3  4  4  4  3
+Clouds        FW CL CL FW SC SC FW FW FW FW FW FW FW FW FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      49    78      53    77      55    73      56    73
+Temp          75 64   54 50 74 65   57 54 73 66   60 56 69 64   60 57 70 63
+Dewpt         55 56   50 49 51 57   54 53 55 59   56 54 56 60   58 57 58 61
+PWind dir         W      NW    NE      NE     E      NE    NE       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 FW   CL CL FW CL   CL FW SC SC   B1 B1 B2 B1   B1 B2 B1 B1
+PoP 12hr          5       0     0       0     5      20    30      30    30
+Rain shwrs                                            S  S  C    C  C  S  C
+
+$$
+GAZ097-240915-
+Dublin-Laurens GA
+32.54N  82.89W Elev. 325 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          80          48          82          59
+Temp          78 60 54 50 47 47 68 78 79 62 57 53 50 50 68 78 80 66 64 63 62 62
+Dewpt         47 53 52 50 47 47 52 49 48 54 51 50 48 48 53 50 51 58 57 58 59 60
+RH            33 78 93100100100 57 36 34 75 80 89 93 93 59 37 36 75 78 84 90 93
+Wind dir      NE NE NE NE  N  N  E  E  E  E  E  E  E  N SE  S  S SE  S  S  S SW
+Wind spd       3  1  1  1  0  1  3  3  2  1  1  1  0  0  3  4  5  2  4  4  3  3
+Clouds        FW FW CL FW SC SC FW FW FW FW FW FW FW FW FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+Heat index                                                    80               
+Max heat                                                         80            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      49    79      53    78      56    74      56    74
+Temp          76 62   54 51 76 63   57 55 76 65   60 58 72 62   58 58 72 61
+Dewpt         54 56   50 48 49 57   54 53 54 59   56 55 54 58   56 56 56 59
+PWind dir         W      NW    NE      NE     E      NE    NE       E     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 FW   CL FW CL CL   CL FW FW SC   SC B1 B2 B1   B1 B2 B1 B1
+PoP 12hr          5       0     0       0     5      10    30      30    30
+Rain shwrs                                               S  C    C  S  S  C
+Tstms                                                                     S
+
+$$
+GAZ104-240915-
+Americus-Sumter GA
+32.05N  84.27W Elev. 468 ft
+223 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          81          51          82          59
+Temp          77 63 55 52 49 48 68 79 80 68 60 57 54 52 69 79 80 71 67 64 63 60
+Dewpt         44 46 49 50 49 48 54 51 49 52 53 52 50 50 55 54 55 59 62 64 63 60
+RH            31 54 80 93100100 61 38 34 57 78 83 86 93 61 42 42 66 84100100100
+Wind dir       E  E  E  E NE NE  E SE SE  E  E  E  E  E SE  S  S  S  S  S SW  W
+Wind spd       5  2  2  2  2  3  5  5  4  3  2  2  2  2  6 10 10  6  6  6  4  4
+Clouds        CL FW FW SC SC SC FW FW FW FW FW FW FW FW FW SC SC SC SC B1 B1 SC
+PoP 12hr                      0           0           0           5          40
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S   
+Tstms                                                             S  S  S  S   
+Heat index                                                 80 80               
+Max heat                                                   80    81            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      48    78      53    80      58    75      57    73
+Temp          75 64   54 49 74 66   57 54 77 69   62 59 73 66   60 58 71 64
+Dewpt         51 53   50 48 49 52   54 54 55 57   57 57 56 58   59 58 58 59
+PWind dir        NW       N    NE      NE     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    SC CL   CL CL CL CL   CL FW FW SC   SC B1 B1 B1   B1 B1 B1 B1
+PoP 12hr          5       0     0       0     5      20    30      30    20
+Rain shwrs                                            S  S  C    C  S  S  S
+
+$$

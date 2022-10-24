@@ -1,0 +1,1362 @@
+FOUS51 KOKX 231726
+AFMOKX
+
+Area Forecast Matrices
+National Weather Service New York NY
+125 PM EDT Sun Oct 23 2022
+
+NYZ072-232100-
+New York (Manhattan)-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63    54 56 58          64    59 59 62    67 70 71
+Temp                   61 60 57 57 57 57 57 60 63 64 62 62 61 62 57 64 70 70 66
+Dewpt                  51 54 53 53 54 55 55 58 59 60 60 60 60 60 57 60 61 61 61
+RH                     70 81 86 86 90 93 93 93 87 87 93 93 97 93100 87 73 73 84
+Wind dir               NE  N NE NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE SE
+Wind spd               12 13 13 12 11 10 10  8  6  6  5  4  4  3  2  3  4  4  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr                   0.09        0.13           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          59    70      58    69      53    63      52    61
+Temp          62 60 69 64   61 58 68 62   57 53 62 58   54 52 60 57
+Dewpt         60 60 61 60   57 55 53 50   48 47 47 48   47 47 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ073-232100-
+Bronx-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 62 63    53 55 58          64    58 59 61    67 69 71
+Temp                   60 60 57 56 57 57 57 60 63 64 62 62 61 61 57 64 69 69 66
+Dewpt                  52 55 54 54 55 55 56 58 60 61 61 61 61 61 57 61 62 62 62
+RH                     75 84 90 93 93 93 96 93 90 90 97 97100100100 90 78 78 87
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE SE
+Wind spd               13 14 14 13 12 10 12  8  8  8  6  4  4  4  2  3  4  4  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          50          20
+QPF 12hr              0.09-0.16        0.15           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    69      58    68      52    63      51    60
+Temp          61 60 68 65   61 58 67 61   56 53 61 57   53 52 59 56
+Dewpt         61 60 62 61   58 55 54 51   48 47 48 49   48 48 49 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ176-232100-
+Northern Queens-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          56          64          59    68 70 71
+Temp                   61 60 57 57 57 57 58 60 63 64 62 63 62 62 57 64 70 70 66
+Dewpt                  51 54 53 54 55 55 56 58 60 60 60 61 60 60 57 60 61 61 61
+RH                     70 81 86 90 93 93 93 93 90 87 93 93 93 93100 87 73 73 84
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE SE
+Wind spd               16 16 16 14 12 11 12  9  8  8  6  4  4  4  3  4  4  4  5
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr              0.09-0.18        0.15           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    69      57    69      54    63      52    61
+Temp          62 61 69 64   61 58 69 62   57 54 62 58   54 53 60 56
+Dewpt         60 60 61 60   58 55 53 51   48 47 47 48   48 48 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ178-232100-
+Southern Queens-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 64    55 57 59          65    59 60 62    65 68 69
+Temp                   61 60 57 58 58 58 58 61 64 64 62 63 62 62 58 64 68 68 65
+Dewpt                  53 54 54 54 55 56 56 58 60 61 61 61 61 61 58 60 61 62 61
+RH                     75 81 90 86 90 93 93 90 87 90 97 93 97 97100 87 78 81 87
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE  E SE NE  E SE SE SE
+Wind spd               17 18 17 16 13 12 11  9  8  8  6  5  5  5  3  4  5  5  6
+Wind gust                    27 26       23                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr              0.10-0.19        0.13           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S   
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    68      58    68      55    63      53    60
+Temp          62 61 68 64   61 59 68 62   58 55 62 58   55 54 60 57
+Dewpt         60 61 62 61   58 55 55 53   49 48 49 50   49 49 50 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC B1 B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ075-232100-
+Kings (Brooklyn)-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 63    56 56 59          64    59 60 62    65 68 70
+Temp                   62 60 57 57 58 58 58 60 63 64 62 63 62 62 58 64 68 68 65
+Dewpt                  53 54 53 54 55 55 56 58 60 60 60 61 61 61 58 60 61 62 61
+RH                     72 81 86 90 90 90 93 93 90 87 93 93 97 97100 87 78 81 87
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE SE
+Wind spd               16 17 17 14 12 11 11  9  6  6  6  4  4  4  3  4  4  5  5
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr                   0.09        0.14           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S   
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    68      58    68      55    63      53    60
+Temp          62 61 68 64   61 59 68 63   58 55 62 59   55 54 60 57
+Dewpt         60 60 62 61   58 55 54 52   49 48 49 50   49 49 50 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ074-232100-
+Richmond (Staten Island)-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 64    53 54 57          64    56 58 60    66 68 70
+Temp                   62 60 57 56 56 56 56 60 63 64 62 61 60 60 56 63 68 68 64
+Dewpt                  52 54 53 53 54 55 55 58 60 60 60 60 60 60 56 60 62 62 61
+RH                     70 81 86 90 93 96 96 93 90 87 93 97100100100 90 81 81 90
+Wind dir               NE  N  N NE NE  N  N  N  N NE NE NE NE  E NE  E SE SE  E
+Wind spd               14 16 17 16 12 12 11  9  6  6  5  4  4  4  3  3  4  4  5
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B2
+PoP 12hr                     80          80          40          40          20
+QPF 12hr                   0.06        0.13           0           0           0
+Drizzle                          L          AR AR AR AR AR AR AR               
+Rain                    O  O  O  L           C  C  C  C  C  C  C  S  S  S  S   
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    68      56    68      52    63      51    60
+Temp          60 59 67 64   60 57 68 61   55 53 62 57   53 52 60 57
+Dewpt         60 59 62 60   57 55 54 51   48 47 50 50   49 48 50 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC B1 B1   B2 B2 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ177-232100-
+Northern Nassau-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 61 63    53 54 58          65    57 59 62    67 69 70
+Temp                   60 60 57 57 56 56 57 60 63 64 62 61 61 61 56 63 69 69 65
+Dewpt                  52 54 54 54 55 56 56 59 61 61 61 61 61 61 56 61 62 62 62
+RH                     75 81 90 90 96100 96 96 93 90 97100100100100 93 78 78 90
+Wind dir               NE NE NE NE NE NE NE NE NE NE NE  E  E SE  E  E SE SE SE
+Wind spd               13 16 17 16 13 12 11  9  8  8  6  4  5  5  3  4  4  4  4
+Wind gust                          24    21                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          60          40          20
+QPF 12hr              0.17-0.27        0.14           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  L                                    
+Tstms                               S  S  S                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          59    68      57    68      53    62      51    60
+Temp          61 60 68 63   60 58 68 61   55 53 61 57   53 52 59 55
+Dewpt         61 60 62 61   59 55 55 53   50 48 48 50   48 48 50 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ179-232100-
+Southern Nassau-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                61 63 64    53 55 58          65    57 59 62    65 68 69
+Temp                   61 60 57 57 57 57 58 62 64 64 62 62 61 61 57 63 68 68 64
+Dewpt                  53 55 55 55 56 56 57 59 61 62 62 61 61 61 57 61 62 62 62
+RH                     75 84 93 93 96 96 96 90 90 93100 97100100100 93 81 81 93
+Wind dir               NE NE NE NE NE NE NE NE NE NE NE  E SE SE  E SE SE SE SE
+Wind spd               16 17 17 14 13 11 12  9  6  6  5  4  5  5  3  5  5  5  6
+Wind gust              27 28 27 26 24 21 23                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          60          40          20
+QPF 12hr              0.14-0.26        0.11           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          D  D  L                                    
+Tstms                               S  S  S                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          59    68      57    69      53    63      52    61
+Temp          61 60 68 63   60 58 69 62   56 54 63 57   53 53 61 57
+Dewpt         60 60 62 61   59 55 55 53   50 49 49 50   49 49 51 51
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ078-232100-
+Northwest Suffolk-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62    52 54 58          65    56 58 62    66 68 69
+Temp                   61 60 56 56 56 56 57 61 64 64 62 61 61 61 56 63 68 68 64
+Dewpt                  53 55 55 55 56 56 57 60 62 63 62 61 61 60 56 62 63 62 62
+RH                     75 84 96 96100100100 97 93 97100100100 97100 97 84 81 93
+Wind dir               NE NE NE NE NE NE NE NE NE NE  E  E SE SE  E SE SE SE SE
+Wind spd               16 18 17 16 13 12 12  9  9  8  5  4  5  4  3  4  5  5  5
+Wind gust                    27 26 25 23             16                        
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B1 B1 B1
+PoP 12hr                     80          80          70          40          20
+QPF 12hr              0.17-0.28   0.12-0.27           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          D  D  L  L                                 
+Tstms                               S  S  S  S                                 
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      56    68      52    62      50    61
+Temp          60 59 68 62   59 57 68 60   54 53 62 55   51 51 60 55
+Dewpt         60 59 63 61   58 56 56 54   50 49 49 50   49 49 51 51
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ080-232100-
+Southwest Suffolk-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 64    53 54 58          65    57 58 62    64 67 69
+Temp                   61 60 57 57 57 57 58 62 65 64 62 62 62 61 57 62 67 67 63
+Dewpt                  55 56 56 56 57 57 57 61 63 63 62 62 61 61 57 62 63 63 62
+RH                     81 87 96 96100100 96 97 93 97100100 97100100100 87 87 97
+Wind dir               NE NE NE NE NE NE NE NE NE NE  E SE SE SE  E SE SE SE  E
+Wind spd               17 18 18 17 13 12 12  9  8  6  5  5  6  5  3  5  6  5  6
+Wind gust              28 31 29 28 26 24 24          16 16 17                  
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B2 B1 B1 B1
+PoP 12hr                     80          80          70          40          20
+QPF 12hr              0.17-0.29   0.09-0.25           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  L  L                                 
+Tstms                               S  S  S  S                                 
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    67      56    68      53    62      51    61
+Temp          60 59 67 62   59 58 68 61   55 54 62 56   53 52 60 55
+Dewpt         60 59 63 62   59 57 57 55   52 50 51 51   50 50 52 52
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ079-232100-
+Northeast Suffolk-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 63    51 54 58    64 65 67    55 58 62    64 67 69
+Temp                   61 60 57 57 57 57 58 62 64 64 62 62 61 60 57 63 67 67 63
+Dewpt                  55 56 55 56 57 57 58 61 62 62 62 62 61 60 57 62 62 62 61
+RH                     81 87 93 96100100100 97 93 93100100100100100 97 84 84 93
+Wind dir               NE NE NE NE NE NE NE NE NE  E  E SE SE SE  E SE SE SE  E
+Wind spd               17 19 19 17 14 12 12  9  8  6  6  6  5  5  4  6  6  5  6
+Wind gust                       27                   17                        
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          90          90          40          20
+QPF 12hr              0.20-0.27   0.18-0.33   0.02-0.08           0           0
+Drizzle                       L  D                AR AR AR AR AR               
+Rain                    O  O  L  D                 C  C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  L  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                             PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    67      56    67      51    62      50    60
+Temp          59 59 67 61   58 57 67 61   55 52 61 54   51 51 60 55
+Dewpt         59 59 63 61   58 57 57 55   51 49 49 50   49 50 51 50
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    40      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ081-232100-
+Southeast Suffolk-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 64    52 55 58    64 65 67    55 58 62    63 66 69
+Temp                   61 60 57 57 58 58 59 63 65 64 62 62 61 60 57 62 66 66 63
+Dewpt                  55 56 56 57 57 58 58 62 63 63 62 62 61 60 57 62 62 62 61
+RH                     81 87 96100 96100 96 97 93 97100100100100100100 87 87 93
+Wind dir               NE NE NE NE NE NE NE NE NE  E SE SE SE SE SE SE SE SE  E
+Wind spd               18 19 19 17 13 12 11  8  6  6  6  8  6  6  4  8  6  5  6
+Wind gust                    31 27 24    21          17                        
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          90          80          40          20
+QPF 12hr                   0.26   0.18-0.40   0.01-0.09           0           0
+Drizzle                       L  D                AR AR AR AR AR               
+Rain                    O  O  L  D                 C  C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  L  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                             PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    66      56    67      52    61      50    60
+Temp          59 59 66 61   58 57 67 60   55 53 61 54   52 52 60 55
+Dewpt         59 59 63 61   58 57 58 56   52 50 51 51   50 51 52 51
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    GN      GN    BZ      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B2 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ071-232100-
+Southern Westchester-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 62 63    52 53 57          64    56 57 61    67 69 71
+Temp                   61 60 56 55 55 55 55 59 63 64 61 60 60 60 55 63 69 69 65
+Dewpt                  50 54 53 53 54 54 55 59 61 61 61 60 60 60 55 61 62 62 62
+RH                     67 81 90 93 96 96100100 93 90100100100100100 93 78 78 90
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE SE
+Wind spd               12 13 14 13 11 10 10  6  6  6  5  4  3  4  2  3  4  4  4
+Wind gust                          21                                          
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          50          50          20
+QPF 12hr              0.08-0.20   0.12-0.18           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    69      56    68      50    62      49    60
+Temp          60 59 68 63   59 56 67 59   53 51 61 55   50 50 59 54
+Dewpt         60 59 63 61   57 55 54 51   47 46 48 49   47 47 49 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ070-232100-
+Northern Westchester-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 61 63    51 52 55    61 63 64    54 56 60    67 68 71
+Temp                   61 60 55 53 53 52 53 57 61 62 59 58 58 58 53 61 68 68 63
+Dewpt                  47 53 51 52 52 52 53 57 60 60 59 58 58 58 53 61 62 62 61
+RH                     60 78 86 96 96100100100 97 93100100100100100100 81 81 93
+Wind dir               NE  N  N NE NE  N NE NE NE NE NE NE NE  E NE  E SE SE SE
+Wind spd               10 11 12 11  9  8  8  5  4  4  3  3  3  3  2  3  3  3  3
+Wind gust                                18                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          60          50          20
+QPF 12hr              0.07-0.21   0.12-0.17           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  L                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    68      54    67      47    61      46    59
+Temp          58 57 66 62   57 55 66 58   50 48 60 54   47 47 58 53
+Dewpt         58 57 62 60   56 53 54 50   45 45 47 47   45 44 49 48
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ069-232100-
+Rockland-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                58 61 64    49 52 55    59 62 64    53 56 60    65 68 71
+Temp                   61 60 55 53 53 53 53 57 60 62 59 58 58 57 53 62 68 68 63
+Dewpt                  47 53 51 51 52 52 53 56 58 59 59 58 58 57 53 60 61 61 61
+RH                     60 78 86 93 96 96100 96 93 90100100100100100 93 78 78 93
+Wind dir               NE  N  N  N NE  N  N  N  N  N  N  N NE NE NE  E SE SE SE
+Wind spd                9 11 12 11  9  9  9  5  4  4  3  2  3  2  2  2  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     70          80          50          50          20
+QPF 12hr              0.03-0.09   0.10-0.15           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  L  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    68      54    66      48    61      46    58
+Temp          59 57 66 62   57 55 66 58   51 48 59 54   48 47 57 53
+Dewpt         58 57 61 60   56 53 53 49   45 44 46 47   45 44 48 48
+PWind dir        SE    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         30    30      20    10       5    10      20    30
+Rain           S  C                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ068-232100-
+Putnam-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                58 60 63    50 51 53    60 62 63    54 56 57    66 68 70
+Temp                   60 59 55 53 52 52 52 56 60 61 59 58 57 57 53 61 68 67 63
+Dewpt                  48 52 50 51 51 51 52 56 59 59 58 58 57 57 53 60 61 61 60
+RH                     64 78 83 93 96 96100100 96 93 96100100100100 97 78 81 90
+Wind dir               NE  N  N NE NE  N  N NE NE NE NE NE NE  E  E SE SE SE SE
+Wind spd                9 10 11 10  8  6  6  5  4  4  3  2  2  3  1  3  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     70          90          60          50          20
+QPF 12hr              0.06-0.17        0.14           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  L  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  L                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    67      54    65      46    60      44    58
+Temp          58 56 66 62   57 54 65 57   50 47 59 53   47 45 57 52
+Dewpt         57 56 62 59   55 53 52 48   44 42 46 45   43 43 47 46
+PWind dir        SE    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         30    30      20    10      10    10      20    30
+Rain           S  C                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NYZ067-232100-
+Orange-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                57 61 63    48 50 53    59 61 63    52 54 57    64 68 70
+Temp                   60 59 54 52 52 51 51 56 59 61 58 57 56 56 51 61 67 67 62
+Dewpt                  46 49 49 50 51 51 51 56 57 58 57 56 56 56 51 59 61 61 60
+RH                     60 69 83 93 96100100100 93 90 96 96100100100 93 81 81 93
+Wind dir               NE NE  N NE NE NE NE NE  N NE NE  N NE NE NE  E SE SE SE
+Wind spd                9  9  9  9  8  8  8  5  4  3  3  2  2  2  1  2  2  2  2
+Wind gust                    20 19                                             
+Clouds                 OV OV OV OV OV OV OV OV OV OV B2 OV OV OV B2 B1 B1 B1 B2
+PoP 12hr                     60          80          50          40          20
+QPF 12hr              0.01-0.07   0.04-0.16           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    C  L  O  D           C  C  C  S  S  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    67      52    66      45    60      44    58
+Temp          57 55 66 61   56 52 66 55   48 45 58 52   46 45 57 51
+Dewpt         57 55 61 59   55 51 51 48   44 42 45 45   43 43 47 46
+PWind dir        SE     S       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC B1 B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ002-232100-
+Western Passaic-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                58 61 63          50    59 61 63          54    64 67 70
+Temp                   61 59 53 52 51 51 51 56 60 60 58 57 57 56 52 60 67 67 62
+Dewpt                  48 52 51 51 51 51 51 56 58 59 58 57 56 56 52 59 61 62 60
+RH                     62 78 93 96100100100100 93 96100100 96100100 96 81 84 93
+Wind dir               NE NE  N NE NE  N  N  N  N  N  N  N NE NE NE  E SE SE SE
+Wind spd                9  9 10  9  8  8  8  5  4  3  2  2  2  2  1  2  2  3  3
+Clouds                 OV OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV B1 B1 B1 B1 B1
+PoP 12hr                     70          80          50          40          20
+QPF 12hr                   0.02        0.11           0           0           0
+Drizzle                          D          AR AR    AR AR AR AR               
+Rain                    C  L  O  D           C  C  S  S  S  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF    PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    67      52    65      46    59      44    57
+Temp          57 55 65 60   55 52 65 56   49 46 58 52   47 45 56 51
+Dewpt         57 55 61 59   55 51 52 49   44 43 47 46   44 43 48 48
+PWind dir        SE     S       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         30    40      20    10       5    10      20    30
+Rain           S  C                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ004-232100-
+Eastern Passaic-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63    51 52 54          63    54 56 58    68 70 71
+Temp                   63 61 56 55 54 54 54 58 62 63 60 60 59 58 54 63 69 69 64
+Dewpt                  46 54 53 52 53 53 54 58 59 60 60 59 59 58 54 61 62 62 62
+RH                     54 78 90 90 96 96100100 90 90100 96100100100 93 78 78 93
+Wind dir               NE NE  N NE NE NE  N  N NE NE  N  N NE NE NE  E SE SE SE
+Wind spd               10 11 10 10  8  8  9  5  4  4  3  3  2  2  2  2  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     70          80          50          50          20
+QPF 12hr                   0.05        0.12           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  L  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    69      55    68      49    62      47    60
+Temp          60 58 68 63   58 55 68 59   53 50 61 56   50 48 59 54
+Dewpt         59 58 62 60   56 53 52 50   46 45 47 48   46 46 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ103-232100-
+Western Bergen-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 63 64    50 52 53    61 63 64    54 55 57    66 69 71
+Temp                   63 60 55 53 53 53 53 58 61 62 59 59 58 58 53 62 69 68 64
+Dewpt                  47 53 52 52 52 52 53 57 59 60 59 58 58 57 53 60 61 62 61
+RH                     56 78 90 96 96 96100 96 93 93100 96100 96100 93 76 81 90
+Wind dir               NE  N  N  N NE  N  N  N  N  N  N  N NE NE NE  E SE SE SE
+Wind spd                9 10 10 10  8  8  8  5  4  4  3  3  2  2  2  2  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     70          80          50          50          20
+QPF 12hr                   0.04        0.12           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  L  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    68      54    67      48    61      46    59
+Temp          59 57 67 62   57 54 67 58   51 49 60 54   49 47 58 53
+Dewpt         58 57 61 60   56 53 52 50   45 45 46 47   45 45 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ104-232100-
+Eastern Bergen-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                61 63 64    51 54 55          64    56 58 59    68 70 71
+Temp                   63 61 57 55 55 55 55 59 63 64 61 60 60 60 55 63 70 70 65
+Dewpt                  49 54 53 53 54 54 55 58 59 60 60 60 60 60 55 60 62 61 62
+RH                     60 78 86 93 96 96100 96 87 87 97100100100100 90 76 73 90
+Wind dir               NE  N  N  N NE  N  N  N NE NE NE NE NE NE NE  E SE SE SE
+Wind spd               10 12 12 11  9  9  9  5  5  4  4  3  3  2  2  3  3  4  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          50          50          20
+QPF 12hr                   0.07        0.13           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    70      56    68      51    63      49    60
+Temp          61 59 68 64   60 56 68 60   54 51 62 56   51 50 60 55
+Dewpt         60 59 62 60   57 54 53 50   47 46 47 48   47 46 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ105-232100-
+Western Essex-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          53          63          57    68 69 71
+Temp                   63 60 57 55 54 54 55 59 62 63 60 60 59 58 54 63 69 69 64
+Dewpt                  48 54 53 52 53 53 54 58 59 60 59 59 59 58 54 60 61 61 61
+RH                     58 81 86 90 96 96 96 96 90 90 96 96100100100 90 76 76 90
+Wind dir               NE NE NE NE NE  N NE NE NE NE NE NE NE NE NE  E SE SE  E
+Wind spd               11 12 12 11  9  9  9  6  5  4  4  3  3  2  2  2  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV B2 OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     70          80          40          50          20
+QPF 12hr                   0.05        0.12           0           0           0
+Drizzle                          L          AR AR AR AR AR AR AR               
+Rain                    L  L  O  L           C  C  S  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    69      55    68      50    63      48    60
+Temp          60 58 67 63   59 55 68 59   53 50 61 56   51 49 59 55
+Dewpt         59 58 61 60   56 53 52 50   46 45 47 48   47 46 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ106-232100-
+Eastern Essex-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          54          64          58          70
+Temp                   63 61 57 56 56 56 56 60 63 64 62 61 60 60 55 63 70 70 66
+Dewpt                  50 54 53 53 53 54 55 57 59 60 60 60 60 60 55 60 61 61 61
+RH                     62 78 86 90 90 93 96 90 87 87 93 97100100100 90 73 73 84
+Wind dir               NE  N  N  N NE  N  N  N  N NE NE  N NE NE NE  E SE SE  E
+Wind spd               12 13 13 12 11 10 10  8  6  5  4  4  3  3  2  2  3  3  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr                   0.05        0.14           0           0           0
+Drizzle                          L          AR AR AR AR AR AR AR               
+Rain                    O  O  O  L           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          59    70      57    69      52    63      50    61
+Temp          61 59 69 64   60 57 69 61   55 52 63 57   53 51 60 56
+Dewpt         60 59 61 60   57 54 52 50   47 46 47 48   47 47 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ107-232100-
+Western Union-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          53          64          57    68 70 71
+Temp                   63 60 57 55 55 55 55 59 63 64 61 60 59 58 54 63 70 69 65
+Dewpt                  51 55 54 53 53 54 55 58 59 60 60 60 59 58 54 61 62 62 61
+RH                     65 84 90 93 93 96100 96 87 87 97100100100100 93 76 78 87
+Wind dir               NE  N  N NE NE  N NE  N  N NE NE  N NE NE NE  E SE  E  E
+Wind spd               11 12 13 12 10 10  9  6  5  4  4  3  3  2  2  2  3  3  3
+Clouds                 OV OV OV OV OV OV OV OV OV B2 OV B2 OV OV B1 B1 B1 B1 B2
+PoP 12hr                     80          80          40          40          20
+QPF 12hr                   0.05        0.13           0           0           0
+Drizzle                          L          AR AR    AR AR AR AR               
+Rain                    L  O  O  L           C  C  S  S  S  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF    PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    70      55    69      50    63      49    60
+Temp          60 58 68 63   59 55 68 60   54 51 62 57   51 50 60 55
+Dewpt         60 58 62 60   56 53 52 50   47 46 48 49   47 47 49 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC B1 B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ108-232100-
+Eastern Union-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          54          64          58          70
+Temp                   63 60 57 56 56 55 56 59 63 64 62 61 60 60 55 63 70 70 65
+Dewpt                  51 54 54 53 54 55 55 58 59 60 60 60 60 60 55 61 61 62 61
+RH                     65 81 90 90 93100 96 96 87 87 93 97100100100 93 73 76 87
+Wind dir               NE  N  N  N NE  N  N  N  N NE NE NE NE NE NE  E SE SE  E
+Wind spd               13 14 14 13 11 11 10  8  6  5  4  4  3  3  2  3  3  3  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          40          40          20
+QPF 12hr                   0.06        0.13           0           0           0
+Drizzle                          L          AR AR AR AR AR AR AR               
+Rain                    O  O  O  L           C  C  S  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          58    70      56    70      52    64      50    61
+Temp          61 59 68 64   60 56 69 61   55 52 63 58   53 51 60 56
+Dewpt         60 59 62 61   57 54 52 51   48 47 48 49   48 48 49 50
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC B1 B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10       5    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+NJZ006-232100-
+Hudson-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 63    54 56 58          64    58 59 61    66 69 71
+Temp                   62 60 58 57 57 57 57 60 63 64 62 62 61 61 57 64 69 69 66
+Dewpt                  51 54 53 53 54 55 55 57 59 59 60 60 60 60 57 59 60 61 61
+RH                     67 81 83 86 90 93 93 90 87 84 93 93 97 97100 84 73 76 84
+Wind dir               NE  N  N NE NE NE NE NE NE NE NE NE NE NE NE  E SE SE SE
+Wind spd               12 13 14 13 11 10  9  8  6  5  5  4  3  3  2  3  3  4  4
+Wind gust                          21    20                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B1 B1 B1 B1 B1
+PoP 12hr                     80          80          50          40          20
+QPF 12hr                   0.07        0.13           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  C                                    
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          60    69      58    68      53    63      52    60
+Temp          61 60 68 65   61 58 68 62   56 53 62 58   54 52 60 57
+Dewpt         60 60 60 60   57 55 52 50   48 47 47 48   48 47 48 49
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+CTZ005-232100-
+Northern Fairfield-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 60 62          51    61 63 64    54 55 57    67 68 70
+Temp                   60 59 54 53 52 52 53 57 61 62 59 59 58 58 53 61 68 67 63
+Dewpt                  47 50 51 52 52 52 53 57 60 60 59 58 58 58 53 61 62 62 61
+RH                     62 72 90 96100100100100 97 93100 96100100100100 81 84 93
+Wind dir               NE NE NE NE NE NE NE NE NE NE NE NE  E  E  E SE SE SE SE
+Wind spd               10 12 12 12 10  8  9  6  5  4  4  3  3  3  2  3  4  4  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          70          50          20
+QPF 12hr              0.13-0.20   0.13-0.21           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    L  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          D  D  L                                    
+Tstms                                  S  S  S                                 
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    68      54    67      47    61      45    59
+Temp          58 57 67 61   57 54 66 57   50 48 60 52   47 46 58 52
+Dewpt         58 57 62 60   56 53 54 50   45 44 46 46   44 43 47 47
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B1 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+CTZ009-232100-
+Southern Fairfield-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 61 63    51 52 56          64    55 57 61    66 68 71
+Temp                   61 60 56 55 54 54 55 59 63 63 61 60 59 59 55 62 68 68 64
+Dewpt                  50 53 53 53 53 54 55 59 61 62 61 60 59 59 55 62 63 63 62
+RH                     67 78 90 93 96100100100 93 97100100100100100100 84 84 93
+Wind dir               NE  N NE NE NE NE NE NE NE NE NE NE  E  E NE  E SE SE  E
+Wind spd               12 14 14 14 12 10 10  8  6  6  5  4  4  4  3  3  4  4  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     80          80          60          50          20
+QPF 12hr              0.16-0.21   0.13-0.18           0           0           0
+Drizzle                          D          AR AR AR AR AR AR AR               
+Rain                    O  O  O  D           C  C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          L  L  L  L                                 
+Tstms                               S  S  S  S                                 
+Obvis                                       PF PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      55    68      50    62      48    60
+Temp          59 59 67 62   58 56 67 59   52 51 61 55   49 49 59 54
+Dewpt         59 59 64 61   57 55 56 52   48 46 49 49   46 47 50 50
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      GN    GN
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC B1   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                        S  S  S  C
+
+$$
+
+CTZ006-232100-
+Northern New Haven-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                57 60 61          51    60 62 64          56    65 68 69
+Temp                   60 58 54 53 53 52 54 57 61 62 59 59 59 58 54 62 68 68 63
+Dewpt                  45 48 52 52 52 52 53 57 59 60 59 59 59 58 54 61 62 62 61
+RH                     58 69 93 96 96100 96100 93 93100100100100100 97 81 81 93
+Wind dir               NE  N NE NE NE NE NE NE NE NE NE NE  E  E  E SE SE SE SE
+Wind spd               10 12 14 13 11 10 10  6  6  5  4  3  3  3  2  3  4  4  3
+Wind gust                       24                                             
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          80          70          50          20
+QPF 12hr                   0.15   0.17-0.28        0.01           0           0
+Drizzle                          D             AR AR AR AR AR AR               
+Rain                    L  O  O  D              C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          D  D  L  L                                 
+Tstms                                  S  S  S  S                              
+Obvis                                          PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    68      54    67      47    61      45    59
+Temp          59 58 67 61   58 55 67 58   51 48 60 52   47 46 58 52
+Dewpt         59 58 63 61   57 54 54 51   46 44 46 46   45 44 47 48
+PWind dir         E    SE       W     N       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+
+CTZ010-232100-
+Southern New Haven-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                58 60 62    51 52 56          64    56 57 62    66 68 70
+Temp                   60 60 56 55 54 54 55 59 63 63 61 61 60 59 55 62 68 68 64
+Dewpt                  49 52 54 54 54 54 55 59 61 62 61 61 60 59 55 62 63 63 62
+RH                     67 75 93 96100100100100 93 97100100100100100100 84 84 93
+Wind dir               NE  N  N NE NE  N  N NE NE NE NE  E  E  E  E SE SE SE  E
+Wind spd               12 14 14 14 11 10 10  8  6  5  4  4  4  4  3  4  4  5  5
+Wind gust                 25 25       20 20                                    
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          80          80          50          20
+QPF 12hr              0.13-0.22   0.17-0.35        0.02           0           0
+Drizzle                          D             AR AR AR AR AR AR               
+Rain                    O  O  O  D              C  C  C  C  C  C  S  S  S  S  S
+Rain shwrs                          D  D  D  L  L                              
+Tstms                               S  S  S  S  S                              
+Obvis                                          PF PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      56    68      50    62      47    60
+Temp          59 59 67 62   59 57 68 60   54 50 61 54   50 48 59 54
+Dewpt         59 59 64 62   59 56 56 53   49 46 48 48   47 46 49 49
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      GN    LT
+Avg clouds    B2 B2 B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain           S  S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+
+CTZ007-232100-
+Northern Middlesex-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                58 60 62          51    61 63 65          57    66 68 70
+Temp                   60 59 54 54 53 54 54 59 62 63 61 60 60 59 55 62 68 68 64
+Dewpt                  48 52 53 53 53 53 54 59 61 62 61 60 60 59 55 62 64 63 61
+RH                     64 78 96 96100 96100100 97 97100100100100100100 87 84 90
+Wind dir                N  N  N  N  N  N  N  N NE NE NE  E  E  E  E SE SE SE SE
+Wind spd               10 12 12 12  9  8  8  5  4  3  3  3  3  3  2  4  4  4  3
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          80          80          50          20
+QPF 12hr              0.17-0.25   0.28-0.38        0.04           0           0
+Drizzle                          D                AR AR AR AR AR               
+Rain                    O  O  O  D                 C  C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  L  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                             PF PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      55    68      48    61      45    59
+Temp          59 58 67 62   58 56 68 58   52 48 61 51   47 46 59 52
+Dewpt         59 58 64 61   58 55 56 52   48 45 47 47   45 45 49 49
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B1 B2 B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+
+CTZ011-232100-
+Southern Middlesex-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62    52 53 56          65    57 58 61    66 68 70
+Temp                   62 60 56 55 55 56 56 61 64 64 62 61 61 60 56 63 68 68 64
+Dewpt                  52 55 54 54 55 55 56 60 63 63 62 61 61 60 56 63 64 63 62
+RH                     70 84 93 96100 96100 97 97 97100100100100100100 87 84 93
+Wind dir               NE  N NE NE NE NE NE NE NE NE  E SE SE  E  E SE SE SE  E
+Wind spd               12 14 14 13 11  9  9  6  6  5  5  4  4  4  3  5  4  4  5
+Wind gust              23 25 25 24                   16                        
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          90          90          40          20
+QPF 12hr                   0.23   0.23-0.30        0.04           0           0
+Drizzle                          D                   AR AR AR AR               
+Rain                    O  O  O  D                    C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  L  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                                PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      56    68      50    62      47    60
+Temp          59 58 68 62   59 56 68 60   54 50 62 54   50 49 60 54
+Dewpt         59 58 65 62   59 56 57 54   49 47 49 49   48 47 50 50
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 OV B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B1 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+
+CTZ008-232100-
+Northern New London-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                59 61 62          51          64          57    67 68 70
+Temp                   61 58 55 54 54 54 55 60 63 64 62 61 60 59 55 62 68 68 64
+Dewpt                  50 55 54 54 54 54 55 59 63 63 62 61 60 59 55 62 64 64 62
+RH                     67 90 96100100100100 96100 97100100100100100100 87 87 93
+Wind dir               NE  N  N NE NE NE NE NE NE NE  E SE SE SE  E SE SE SE  E
+Wind spd               11 12 12 12  9  8  8  4  4  4  3  3  3  3  3  4  4  3  4
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          90          90          40          20
+QPF 12hr              0.18-0.25   0.26-0.42   0.05-0.13           0           0
+Drizzle                          L                   AR AR AR AR               
+Rain                    O  O  O  L                    C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  D  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                                PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      55    68      48    61      45    59
+Temp          59 58 68 62   58 55 68 59   52 48 61 51   47 46 59 52
+Dewpt         59 58 65 62   58 55 57 53   48 45 48 47   45 45 50 49
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      LT    GN      LT    LT
+Avg clouds    B2 OV B2 B2   B1 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+
+CTZ012-232100-
+Southern New London-
+125 PM EDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                60 62 63    51 53 56          65    57 58 62    65 68 69
+Temp                   62 59 56 56 55 55 56 61 64 64 62 61 61 60 56 62 68 68 64
+Dewpt                  52 55 54 55 55 55 56 61 63 63 62 61 60 60 56 62 64 63 61
+RH                     70 87 93 96100100100100 97 97100100 97100100100 87 84 90
+Wind dir               NE NE NE NE NE NE NE NE NE NE  E SE SE SE  E SE SE SE  E
+Wind spd               13 14 14 13 11 10  9  6  5  5  5  4  4  4  3  5  5  4  5
+Wind gust              24    25                                                
+Clouds                 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B1 B1 B1 B1
+PoP 12hr                     90          90          90          40          20
+QPF 12hr                   0.19   0.24-0.37   0.05-0.11           0           0
+Drizzle                       L  L                   AR AR AR AR               
+Rain                    O  O  O  L                    C  C  C  C  S  S  S  S   
+Rain shwrs                          D  D  D  D  L  L                           
+Tstms                               S  S  S  S  S                              
+Obvis                                                PF PF PF PF               
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    68      55    68      49    61      47    60
+Temp          59 59 68 62   59 56 68 60   54 50 61 53   49 48 60 53
+Dewpt         59 59 65 62   58 56 58 54   49 46 49 48   47 47 51 50
+PWind dir         E    SE       W    NW       N    NE      NE    NE
+Wind char        LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    B2 OV B2 B2   B2 B1 SC SC   SC SC SC SC   B1 B2 B2 B2
+PoP 12hr         20    30      20    10      10    10      20    30
+Rain              S                                                
+Rain shwrs           C  C    S  S                           S  S  C
+
+$$
+

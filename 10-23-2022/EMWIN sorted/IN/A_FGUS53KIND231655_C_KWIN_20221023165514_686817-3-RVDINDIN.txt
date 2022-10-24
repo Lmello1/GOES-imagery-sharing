@@ -1,0 +1,36 @@
+FGUS53 KIND 231655
+RVDIND
+INC027-037-045-051-083-101-121-125-129-153-157-165-167-171- 
+ILC023-033-047-059-185-193-241655-
+
+
+Daily River and Lake Summary
+National Weather Service Indianapolis IN
+1255 PM EDT Sun Oct 23 2022
+
+.B IND 1023 DC22102312 DH12/HG/DRH+24/HGIFF
+:
+:    Station          Flood    7am     24-hr    7am
+: ID       Name       Stage   Stage   Change  Forecast
+:                                               Mon
+:
+:East Fork White River
+SHLI3  :Shoals         20.0:  2.34/:   0.00:   2.30 
+:
+:White River
+PTRI3  :Petersburg     16.0:  1.82/:   0.00:   1.80 
+:
+:Wabash River
+LAFI3  :Lafayette      11.0:  2.85/:   1.51:   3.00 
+TERI3  :Terre Haute    16.5:  3.40/:  -0.08:   3.40 
+MCRI2  :Mount Carmel   19.0:  2.27/:   0.06:   2.30 
+:
+:Unavailable observed or forecast stages are indicated by M.
+:During periods of low flow, forecasts will vary because of
+:natural variations and power generation.
+:
+.END
+
+
+$$
+

@@ -1,0 +1,32 @@
+SRUS43 KKRF 231645
+RVMKRF
+ 
+RESERVOIR DATA
+NWS Missouri Basin River Forecast Center Pleasant Hill MO 
+1645Z Sun Oct 23 2022
+ 
+U.S. Army Corps of Engineers 
+Missouri Mainstem Reservoir Data 
+ 
+ 
+:data date/time is 10-23-2022 00:00 
+
+.B KRF 20221023 C DH00/HP/QID/QTD
+:
+:LID    Reservoir           Pool Elev    Inflow      Outflow
+:                           Feet MSL     KCFS        KCFS
+FPKM8 : Fort Peck Dam     :  2219.71  /   5.000  /    4.000 
+GARN8 : Garrison Dam      :  1833.43  /  11.000  /   14.000 
+PIES2 : Oahe Dam          :  1591.44  /  14.000  /   21.600 
+BBDS2 : Big Bend Dam      :  1420.70  /  21.000  /    9.300 
+FRDS2 : Fort Randall Dam  :  1346.57  /  20.000  /   30.100 
+GPDN1 : Gavins Point Dam  :  1208.00  /  32.000  /   32.000 
+.END
+ 
+ 
+:END OF MESSAGE
+ 
+
+$$
+
+

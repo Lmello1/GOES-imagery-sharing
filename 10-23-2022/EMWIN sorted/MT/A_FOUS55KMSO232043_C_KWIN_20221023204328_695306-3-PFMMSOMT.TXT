@@ -1,0 +1,252 @@
+FOUS55 KMSO 232043
+PFMMSO
+
+Point Forecast Matrices
+National Weather Service Missoula MT
+240 PM MDT Sun Oct 23 2022
+
+MTZ005-241100-
+Missoula-Missoula MT
+46.92N 114.08W Elev. 3205 ft
+240 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      25          46          32          47          25
+Temp          42 43 37 33 30 28 28 37 44 45 41 38 36 34 34 42 46 44 36 32 30 28
+Dewpt         31 32 31 30 28 25 26 26 31 35 34 34 33 32 31 31 31 30 28 27 25 24
+RH            65 65 79 89 92 88 92 64 60 68 76 85 89 92 89 65 55 57 72 81 81 85
+Wind dir      NW NW NW NW  N  E SE  S SW NE NW  W SW  W SW  W  W  W SW  S SE SE
+Wind spd       8  6  3  2  2  2  2  5  5  6  5  5  3  4  4  8  8  5  3  2  2  2
+Clouds        B2 SC B1 B1 B2 SC B1 B2 OV OV OV OV OV B2 B2 B1 B2 B1 B1 B2 B2 B2
+PoP 12hr                      5          60          90          50          30
+QPF 12hr                      0        0.01        0.10        0.04           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain           C                       L  D  D  D  D  C  C                     
+Snow                                L                 C  C              C  C  C
+Obvis                        PF PF                   PF                        
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          45      27    46      23    50      26    52      30    49
+Temp          38 43 33   30 38 45 32   26 37 48 34   30 42 48 37   32 41 48
+Dewpt         29 30 28   27 28 30 25   22 27 32 28   26 31 33 32   30 35 36
+PWind dir        SW       W    SW       S     S       S     S       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1   B2 OV B1 SC   SC B2 B1 B2   B1 B2 B1 B1   B2 OV B2
+PoP 12hr         50      30     5      10    10      20    20      40    40
+Rain              C  C                                S  S  S  C    C  C  C
+Snow           C  C  C    C                           S  S             C   
+
+$$
+MTZ003-241100-
+Kalispell-Flathead MT
+48.30N 114.27W Elev. 2977 ft
+240 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      23          40          27          42          23
+Temp          44 41 31 27 26 26 28 36 38 40 34 33 32 31 32 40 42 40 32 29 27 26
+Dewpt         27 27 27 27 26 26 28 29 32 34 33 33 32 30 31 31 29 28 29 29 27 26
+RH            51 57 85100100100100 75 79 79 96100100 96 96 70 60 62 88100100100
+Wind dir       N NE NW  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW  S  S  S SE
+Wind spd       6  4  2  2  3  5  5  9  9  6  5  5  5  6  8  9 10  6  4  3  2  4
+Clouds        SC B1 FW SC SC B1 OV OV OV B2 B2 OV OV B2 OV B2 B2 B2 OV B2 B2 OV
+PoP 12hr                      5          90          80          50          30
+QPF 12hr                      0        0.06        0.13        0.09           0
+Snow 12hr                 00-00           T       00-00                        
+Rain                                D  D  L  L  D  D  C  C  S  S        C      
+Snow                          C  C  D              D  C  C              C  C  C
+Obvis                        PF PF          PF PF PF PF                PF PF   
+Wind chill                   19 22 29 32          26 24 25 34 36             20
+Min chill        38    27    19    18    32    27    24    24    36    25    20
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          43      26    41      24    46      27    47      30    45
+Temp          37 41 30   27 37 41 31   27 39 43 31   28 42 45 34   32 41 43
+Dewpt         32 30 29   27 29 30 29   27 33 33 30   28 35 35 34   32 37 35
+PWind dir         S      SW    SW       S     S       S     S       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B1 B1   B2 OV B2 B2   B1 B2 B1 B2   B1 B2 B2 B2   OV OV B2
+PoP 12hr         40      30    20      20    20      20    30      40    40
+Rain              C  S    C             S  S  S  S    S  S  C  C    C  C  C
+Snow           C  C  S    C  S          S  S          S  S             C   
+
+$$
+MTZ007-241100-
+Butte-Silver Bow MT
+45.95N 112.50W Elev. 5550 ft
+240 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      15          42          22          40          18
+Temp          34 32 27 23 20 17 18 34 41 40 35 31 28 25 26 36 40 37 28 23 21 20
+Dewpt         26 26 24 22 20 16 16 21 23 27 28 28 25 22 21 22 20 19 18 18 17 17
+RH            72 78 88 96100 96 92 58 48 59 75 88 88 88 81 56 44 48 66 81 84 88
+Wind dir      NW NW NW NW NW  W SW SW  W  W  W  W  W  W  W  W  W SW SW SW SW  S
+Wind spd      13 10  5  4  3  3  2  6 10 11  6  5  5  5  5 10 11 10  4  3  2  2
+Wind gust     25 20                18       17             21 21               
+Clouds        OV B2 B2 B1 B1 FW SC FW B1 B2 B2 B1 B1 B1 SC SC SC SC B1 B1 B2 B2
+PoP 12hr                     40          10          60          10          20
+QPF 12hr                   0.01           0        0.02           0           0
+Snow 12hr                     T       00-00           T                        
+Rain                                      L  L                                 
+Snow           D  C  C                    L  L  C  C                    S  S  C
+Obvis               PF                         PF PF                           
+Wind chill    25 24 20 17          28 35 33 29 25 22 18 19 28 33 30            
+Min chill        24    17    12     9    29    25    18    18    30    18    17
+Winter Storm   W                                                               
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          38      15    40      17    44      21    47      24    45
+Temp          34 34 21   17 33 36 23   19 36 40 26   22 39 43 29   25 40 42
+Dewpt         23 23 19   15 21 21 18   15 23 24 20   17 24 26 23   22 28 28
+PWind dir        SW       W    SW      SW     S       S    SW      SW    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      GN    GN
+Avg clouds    B2 B2 B1   SC SC SC SC   SC B1 SC B1   B1 B1 SC B1   B1 B2 B2
+PoP 12hr         50      20     0       0     5       5    10      20    30
+Rain                                                                      C
+Snow           C  C  S                                              S  S  C
+
+$$
+IDZ010-241100-
+Salmon-Lemhi ID
+45.12N 113.88W Elev. 4045 ft
+240 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      17          47          26          47          22
+Temp          40 40 33 29 24 21 22 35 45 45 39 36 32 29 29 40 46 44 33 29 26 25
+Dewpt         25 28 24 23 20 17 19 19 24 30 30 29 26 24 24 25 23 24 19 19 19 19
+RH            55 62 69 78 84 84 88 52 43 55 70 75 78 81 81 55 40 45 56 66 74 78
+Wind dir       N NW SW  S  S SE SE  S  S  S  S  W  W SW SW  W  W SW  S  S  S  S
+Wind spd       9  5  3  3  2  2  2  5  6  5  5  4  3  3  2  4  4  3  2  2  2  2
+Wind gust        16                   17 17 17                                 
+Clouds        B2 SC B1 SC FW FW SC SC B2 B2 B2 B2 B1 B1 B1 SC SC SC B1 B1 B2 B2
+PoP 12hr                     10          20          50           5          20
+QPF 12hr                      0           0        0.02           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain           S                       S  C  C  S  S                           
+Snow           S                    S              S                    S  S  L
+Wind chill    34                                                               
+Min chill        33    25    21    18    35    31    25    24          29    25
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          42      18    44      18    48      20    51      24    49
+Temp          35 39 28   21 33 43 26   20 35 46 28   23 38 49 32   27 40 46
+Dewpt         24 26 21   17 21 24 18   15 20 26 19   17 23 29 25   22 27 31
+PWind dir        SW      NW    SW       S     S       S     S       S    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2 B1   SC B1 SC SC   SC B1 SC B1   B1 B1 SC B1   B1 B2 B2
+PoP 12hr         60      10     0       0     5       5    10      20    30
+Rain                                                           S    S  C  C
+Snow           L  L                                                 S  C   
+
+$$
+MTZ004-241100-
+Lookout Pass-Mineral MT
+47.45N 115.67W Elev. 6027 ft
+240 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      23          31          23          31          23
+Temp          27 25 25 26 27 28 26 23 23 23 28 31 32 32 30 25 23 23 26 28 29 29
+Dewpt         19 21 21 21 21 20 19 19 22 23 26 26 25 25 23 22 21 21 22 20 19 19
+RH            71 84 84 81 78 71 74 84 96100 92 81 75 75 75 88 92 92 85 71 66 66
+Wind dir      NW  W  W  W SW SW SW SW SW SW  W  W  W  W SW SW SW SW  S  S  S  S
+Wind spd       3  5  9  9 11 13 13 13 13 13 16 16 17 18 14 11 10  8  9  8  9  9
+Wind gust                             24                                       
+Clouds        B1 B1 SC B1 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     10          90          90          50          50
+QPF 12hr                      0        0.40        0.36        0.07        0.01
+Snow 12hr                 00-00           4           4                        
+Snow                          L  L  D  D  D  D  L  L  C  C  C  C  S  S  C  C  L
+Obvis                                        F                                 
+Wind chill       18 16 17 17 17 14 11 11 11 16 20 20 20 19 14 13 14 17 20 20 20
+Min chill        18    15    16    11    10    13    20    14    12    15    20
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          30      23    29      23    32      27    35      28    34
+Temp          25 22 30   30 23 21 27   29 28 27 31   34 30 27 35   36 28 26
+Dewpt         21 21 22   21 20 20 18   18 21 22 20   21 23 25 26   27 27 25
+PWind dir        SW      SW    SW       S     S       S     S       S    SW
+Wind char        GN      GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    OV B2 B2   OV OV B2 B1   B1 B2 B2 B2   B2 B2 B2 OV   OV OV B2
+PoP 12hr         60      30    10      20    20      30    40      50    50
+Snow           L  C  C    S             S  S  S  C    C  C  C  C    C  C  C
+
+$$
+IDZ006-241100-
+Lowell-Idaho ID
+46.15N 115.60W Elev. 1575 ft
+140 PM PDT Sun Oct 23 2022
+
+Date          Sun 10/23/22      Mon 10/24/22            Tue 10/25/22         Wed
+PDT 3hrly     14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      25          46          32          50          28
+Temp          44 41 37 35 33 30 29 39 44 43 40 38 37 36 34 42 49 44 36 33 32 31
+Dewpt         41 41 37 35 33 30 29 34 43 43 40 38 37 36 34 40 41 44 36 33 32 31
+RH            89100100100100100100 82 96100100100100100100 93 74100100100100100
+Wind dir       W SW SE  S  E SE SE  S  S  S  S SW SW SW SW SW  W SW SE SE SE SE
+Wind spd       3  2  1  0  0  1  1  2  2  2  2  2  2  2  2  2  2  1  2  1  1  1
+Wind gust                                   12       12                        
+Clouds        B2 B1 B1 B2 B1 SC B2 OV OV OV OV OV OV B2 B2 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     10          90          90          30          40
+QPF 12hr                      0        0.39        0.39        0.05        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain           C              S  S  D  D  D  D  L  L  C  C        S  S  C  C  L
+Snow                          S  S                                         C  L
+Obvis               PF    PF PF PF             PF                      PF PF   
+Winter Weath                        Y  Y  Y  Y  Y  Y  Y                        
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+PDT 6hrly     11 17 23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          46      26    50      27    54      30    55      33    53
+Temp          40 42 34   30 40 44 32   29 43 47 35   33 45 49 39   37 45 47
+Dewpt         38 42 34   30 38 43 32   29 38 47 35   32 41 49 39   37 45 47
+PWind dir        SW      SW     S      SE    SE      SE    SE       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2   B2 B2 B1 SC   SC B2 B1 B1   B1 B2 B1 B2   B2 OV B2
+PoP 12hr         70      30     5      10    10      10    30      50    50
+Rain           L  L  C    S                              S  C  C    C  C  C
+Snow           L          S                              S                 
+
+$$

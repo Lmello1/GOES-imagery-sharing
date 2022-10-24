@@ -1,0 +1,34 @@
+ABUS24 KWBC 231730
+TPTERN
+
+HOURLY TEMPERATURE/WEATHER FOR EASTERN UNITED STATES
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+100 PM EDT SUN OCT 23 2022
+
+CITY                     F    C      WEATHER
+
+ALBANY NY                60   16      CLDY     
+ATLANTA                  69   21      CLDY     
+BOSTON                   57   14      CLDY     
+BUFFALO                  73   23      FAIR     
+CARIBOU                  66   19      FAIR     
+CHARLESTON SC            73   23      FAIR     
+CHATTANOOGA              69   21      FAIR     
+CINCINNATI               73   23      WINDY    
+CLEVELAND                73   23      PCLDY    
+DETROIT                  73   23      CLDY     
+HATTERAS                 62   17      -RA      
+JACKSONVILLE             78   26      PCLDY    
+KEY WEST                 80   27      FAIR     
+KNOXVILLE                69   21      FAIR     
+MACON                    73   23      FAIR     
+MIAMI                    86   30      WINDY    
+NEW YORK                 57   14      -RA      
+PHILADELPHIA             62   17      CLDY     
+PITTSBURGH               66   19      FAIR     
+PORTLAND ME              60   16      CLDY     
+RICHMOND                 59   15      CLDY     
+TAMPA                    82   28      FAIR     
+WASHINGTON DC            64   18      CLDY     
+
+$$ 

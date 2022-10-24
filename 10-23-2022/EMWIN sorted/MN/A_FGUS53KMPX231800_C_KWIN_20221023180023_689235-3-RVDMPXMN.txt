@@ -1,0 +1,23 @@
+FGUS53 KMPX 231800
+RVDMPX
+MNC003-037-049-053-123-163-WIC093-250000-
+Daily River And Lake Summary
+National Weather Service Twin Cities/Chanhassen MN
+100 PM CDT Sun Oct 23 2022
+
+.B MSP 0010/23/22 DC0023d13 DH12/HG/DRD+1/HGIFF/DRD+2/HGIFF/
+.B1 DRD+3/HGIFF/DRD+4/HGIFF/DRD+5/HGIFF
+:
+: Station        Flood  7am  24-hr                 7am
+:Id      Name    Stage Stage Change             Forecasts
+:                                    Mon    Tue    Wed    Thu    Fri
+: Mississippi River
+MSPM5 :Fridley abv 16:    M/:    M:  3.7/   3.7/   3.7/   3.7/   3.8/
+STPM5 :St. Paul    14:  3.2/:  0.0:  3.2/   3.2/   3.2/   3.2/   3.2/
+HSTM5 :Hastings L/ 15:  4.5/: -0.2:  4.5/   4.5/   4.5/   4.6/   4.6/
+RDWM5 :Red Wing L/   :    M/:    M:667.7/ 667.7/ 667.7/ 667.7/ 667.7/
+REDM5 :Red Wing    14:    M/:    M:  2.4/   2.4/   2.4/   2.4/   2.4/
+.End
+  
+$$
+

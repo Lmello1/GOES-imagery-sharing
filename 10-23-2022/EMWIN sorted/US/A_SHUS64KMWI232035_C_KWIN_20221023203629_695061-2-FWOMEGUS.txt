@@ -1,0 +1,29 @@
+SHUS64 KMWI 232035
+FWOMEG
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:34 GMT
+ 
+Listing of Observations (Memphis, TN)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+POINSE 032801 221023 13 O 2  80  57  46 0 0 200 10     80  65  74  40  0 0.000
+MARRIA 034503 221023 12 O 2  80  57  46 0 0   0  0     80  62  78  41  0 0.000
+WINBOR 220202 221023 13 R 2  77  55  48 0 0 178  7     77  56  93  42  0 0.000
+TISHOM 220601 221023 13 R 2  77  43  30 0 0  52 14     77  54  86  30  0 0.000
+HIGHWA 221502 221023 12 R 2  81  50  35 0 0  58  2     81  51  99  35  0 0.000
+YALOBU 222101 221023 13 R 2  80  56  45 0 0 313  5     80  55  94  40  0 0.000
+MONROE 222401 221023 13 R 2  79  44  30 0 0  74 11     80  51 100  30  0 0.000
+GREENF 401801 221023 13 R 2  80  51  37 0 0 215  5     80  61  77  37  0 0.000
+DYERSB 403801 221023 13 R 2  80  55  43 0 0 180  9     80  63  75  43  0 0.000
+CAMDEN 404001 221023 13 R 2  79  45  31 0 0 360 12     79  61  72  31  0 0.000
+COVING 405801 221023 13 R 2  80  53  40 0 0 237 16     80  62  77  40  0 0.000
+CHICKA 408001 221023 13 R 2  79  51  39 0 0 155  5     79  56  86  39  0 0.000
+SHILOH 408302 221023 13 R 2  80  46  31 0 0 201  2     80  57  80  31  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:34 GMT
+

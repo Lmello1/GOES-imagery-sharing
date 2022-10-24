@@ -1,0 +1,335 @@
+FOUS53 KUNR 231828
+PFMUNR
+
+Point Forecast Matrices
+National Weather Service Rapid City SD
+1228 PM MDT Sun Oct 23 2022
+
+SDZ026-232300-
+Rapid City Regional Airport-Pennington SD
+44.05N 103.06W Elev. 3204 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          32          45          30          54
+Temp                      51 45 39 36 33 32 35 40 45 41 34 33 33 35 42 50 52 46
+Dewpt                     37 35 34 29 25 24 25 25 24 23 22 21 21 23 28 27 25 26
+RH                        59 68 82 75 72 72 66 55 43 48 61 61 61 61 57 41 35 45
+Wind dir                  NW NW NW NW NW NW NW NW NW NW SW SW SW NW NW NW NW NW
+Wind spd                  27 29 29 27 24 24 25 28 26 13  4  5  6 10 12 17 16  9
+Wind gust                 42 46 47 44 41 42 46 46 40                           
+Clouds                    OV OV B2 B2 B2 B2 OV B2 B1 FW FW FW FW SC SC SC SC FW
+PoP 12hr                     60          70          40           0           0
+QPF 12hr                   0.07        0.05        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                       C  L  C                                             
+Snow                                      C  C                                 
+Wind chill                               19                                    
+Min chill                                18    18                              
+Wind                       Y  Y  Y  Y  Y  Y  Y  Y                              
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            29    53      32    50      27    57      32    60
+Temp          33   32 48 47 37   34 46 44 32   30 51 48 38   34 54 50
+Dewpt         25   24 30 30 30   29 30 27 25   24 25 24 22   21 25 25
+PWind dir           W     S       N     N       W     S      SW     W
+Wind char          LT    GN      GN    GN      LT    GN      GN    GN
+Avg clouds    FW   SC B1 B2 B2   B2 B1 SC FW   FW FW FW SC   SC SC SC
+PoP 12hr            5    10      30    10       5     0       0     0
+Rain                         C    S                                  
+
+$$
+WYZ054-232300-
+Northeast Wyoming Regional Airport-Campbell WY
+44.35N 105.54W Elev. 4364 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      43          28          40          29          45
+Temp                      36 35 31 29 28 28 30 35 40 35 32 33 33 34 37 43 44 40
+Dewpt                     34 33 30 27 27 25 26 27 26 26 23 22 23 25 29 28 26 27
+RH                        92 92 96 92 96 88 85 72 57 69 69 63 66 69 72 55 49 59
+Wind dir                  NW NW NW NW NW NW NW NW NW SW SW SW  W  W  W NW NW NW
+Wind spd                  26 28 29 31 28 32 27 25 16 10  9 10  9  8 11 13 12  5
+Wind gust                 41 46 46 47 47 49 43 37                              
+Clouds                    OV OV OV OV OV OV B2 SC FW FW SC SC B1 B2 B1 SC SC SC
+PoP 12hr                     70          80          20           5          10
+QPF 12hr                   0.06        0.15        0.01           0           0
+Snow 12hr                 00-00           1       00-00                        
+Rain                       C  L                                                
+Snow                       C  L  L  L  D  S  S                                 
+Obvis                                 BS BS BS                                 
+Wind chill                      16 13 12 11 15                                 
+Min chill                    19    12    10    11                              
+Winter Weath               Y  Y  Y  Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            26    46      26    43      26    49      30    52
+Temp          31   31 42 40 32   30 39 37 30   30 45 43 35   34 47 45
+Dewpt         23   23 28 27 26   24 27 26 21   19 25 24 21   20 27 26
+PWind dir           S    SW      NW    NW      SW    SW       S    SW
+Wind char          LT    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    SC   B1 B1 B1 B2   B2 SC FW FW   FW FW FW SC   B1 SC SC
+PoP 12hr            5    10      30    10       5     0       0     0
+Rain                         C                                       
+Snow                         C    S                                  
+
+$$
+SDZ001-232300-
+Buffalo-Harding SD
+45.60N 103.55W Elev. 3004 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          28          41          29          49
+Temp                      50 44 37 33 29 28 29 34 40 37 31 30 32 34 38 46 48 42
+Dewpt                     38 39 37 32 27 27 27 27 26 28 27 26 26 28 30 30 28 28
+RH                        63 82100 96 92 96 92 75 57 70 85 85 78 78 73 53 46 57
+Wind dir                  NW NW NW NW NW NW NW NW NW  W  W  W  W  W  W  W  W  W
+Wind spd                  23 24 28 33 33 35 35 35 29 16  9  9 12 13 18 21 20 12
+Wind gust                 34 35 42 50 50 54 54 54 46             25            
+Clouds                    OV OV OV OV OV OV OV OV SC FW FW SC FW SC SC FW FW FW
+PoP 12hr                     60          90          60           0           0
+QPF 12hr                   0.03        0.27        0.05           0           0
+Snow 12hr                 00-00           1           T                        
+Rain                       S  D  D                                             
+Snow                             C  L  L  L  L                                 
+Obvis                                       BS                                 
+Wind chill                         18 12 11 12 19                              
+Min chill                          17    11    11                              
+Winter Weath                     Y  Y  Y  Y  Y                                 
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            26    52      28    49      27    55      29    57
+Temp          31   28 46 44 34   29 43 41 31   29 49 46 34   31 51 48
+Dewpt         27   24 28 29 30   27 29 27 26   22 25 26 24   23 26 27
+PWind dir           W    SE      NE    NW       W    SW      SW     W
+Wind char          LT    GN      LT    GN      GN    GN      LT    GN
+Avg clouds    FW   SC B1 B1 B2   B2 B1 SC FW   FW FW FW SC   B1 B1 SC
+PoP 12hr            0    10      20    10       0     0       0     0
+Rain                         S    S                                  
+Snow                              S                                  
+
+$$
+SDZ029-232300-
+Custer County Airport-Custer SD
+43.73N 103.62W Elev. 5602 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          25          38          27          46
+Temp                      49 37 32 28 25 25 28 33 37 33 30 30 31 31 39 43 44 37
+Dewpt                     35 30 27 22 20 17 19 19 19 19 17 16 17 18 23 22 22 22
+RH                        58 75 81 78 81 71 68 56 48 56 58 55 56 58 52 43 41 54
+Wind dir                  NW NW NW NW NW NW  W NW NW  W  W  W  W NW NW NW NW NW
+Wind spd                  14 21 25 27 26 26 25 23 19 13  5  5  5  5  9 13 12  5
+Wind gust                 27 42 49 51 49 50 50 43 31          17    20 26 25 18
+Clouds                    OV OV B2 B2 B2 B2 OV OV B1 FW FW FW FW SC B1 SC SC SC
+PoP 12hr                     70          50          50           0           5
+QPF 12hr                   0.07        0.03        0.01           0           0
+Snow 12hr                 00-00           T           T                        
+Rain                       L  C                                                
+Snow                          C  C     S  C  C                                 
+Wind chill                      18 13  9  9 13                                 
+Min chill                          12     8     8                              
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            25    45      27    44      24    50      30    53
+Temp          28   29 43 39 32   30 41 36 27   27 46 39 34   32 49 42
+Dewpt         20   20 25 26 24   23 25 25 19   18 17 19 17   15 19 21
+PWind dir           W     S       N    NW      NW     W       W     W
+Wind char          LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    SC   B1 B1 B2 B2   B2 B1 SC SC   FW FW FW SC   SC SC SC
+PoP 12hr            5    20      30    10       5     0       0     0
+Rain                      S  C                                       
+Snow                      S  C    S                                  
+
+$$
+SDZ013-232300-
+Faith Municipal Airport-Meade SD
+45.04N 102.02W Elev. 2584 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          31          41          29          52
+Temp                      58 52 44 38 33 31 32 36 41 38 32 30 31 33 40 49 51 45
+Dewpt                     39 39 40 37 31 27 27 27 28 27 27 26 25 25 30 30 28 28
+RH                        49 61 86 96 92 85 81 69 59 64 81 85 78 72 67 48 41 51
+Wind dir                  NW NW  W  W  W  W NW NW NW NW  W  W  W  W  W  W NW NW
+Wind spd                  18 26 28 29 32 32 32 32 25 19 10  9 10 12 17 21 20 12
+Wind gust                 28 40 43 44 48 49 49 49 39 29                        
+Clouds                    OV OV OV OV OV OV OV OV B1 SC FW FW SC B1 SC SC FW FW
+PoP 12hr                     20          70          60           0           0
+QPF 12hr                      0        0.10        0.02           0           0
+Snow 12hr                 00-00           T           T                        
+Rain                          C  C  L  S           S                           
+Snow                                   L  L  L  S                              
+Wind chill                            19 15 17                                 
+Min chill                                14    14                              
+Wind                       Y  Y  Y  Y  Y  Y  Y  Y                              
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            27    51      32    50      28    56      31    58
+Temp          31   30 47 46 38   35 46 44 32   30 50 48 36   34 51 49
+Dewpt         28   26 28 32 32   31 30 29 27   24 26 26 25   24 25 26
+PWind dir           W    SE       E    NW       W    SW       S    SW
+Wind char          GN    GN      GN    GN      LT    GN      GN    GN
+Avg clouds    FW   SC B1 B2 B2   B2 B2 SC SC   FW FW FW SC   SC B1 SC
+PoP 12hr            0    20      30    10       0     0       0     0
+Rain                      S  C    S                                  
+
+$$
+SDZ042-232300-
+Pine Ridge Airport-Oglala Lakota SD
+43.02N 102.51W Elev. 3333 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          29          46          27          55
+Temp                      57 48 40 35 31 30 34 40 45 42 34 31 30 31 40 50 53 47
+Dewpt                     36 37 35 31 26 23 26 24 24 22 21 21 21 22 25 26 25 24
+RH                        45 65 82 85 81 75 72 52 43 44 58 66 69 69 55 39 33 40
+Wind dir                  NW NW  W  W  W  W  W  W  W NW  W SW SW  W  W  W  W NW
+Wind spd                  20 21 21 24 25 25 27 25 21 13  5  5  5  6  9 12 13  5
+Wind gust                 31 36 35 37 40 43 42 39 32                           
+Clouds                    B2 OV B2 B1 B1 B1 B1 B2 B2 SC CL FW FW SC SC SC SC SC
+PoP 12hr                     60          70          30           0           0
+QPF 12hr                   0.04        0.11           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                       S  L  C              S  S                           
+Snow                                      C  C  S                              
+Wind chill                            17 16                                    
+Min chill                                15    16                              
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            27    54      29    50      25    55      28    60
+Temp          32   31 50 48 38   32 45 43 30   27 48 47 36   31 54 51
+Dewpt         24   24 28 29 28   27 30 28 26   23 24 22 22   21 24 24
+PWind dir          SW     S       S    NW       W    SW       S    SW
+Wind char          LT    GN      GN    GN      LT    GN      GN    GN
+Avg clouds    SC   SC B2 B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC
+PoP 12hr            5    10      20    20       5     0       0     0
+Rain                         S    S  S                               
+
+$$
+SDZ032-232300-
+Philip Airport-Haakon SD
+44.05N 101.60W Elev. 2209 ft
+1228 PM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          31          47          26          56
+Temp                      59 52 42 38 34 32 34 39 45 41 33 30 28 30 41 52 55 47
+Dewpt                     37 39 40 36 30 27 29 29 29 27 27 26 24 24 28 29 27 28
+RH                        44 61 93 92 85 81 82 67 53 57 78 85 85 78 59 41 34 47
+Wind dir                  NW NW  W  W  W  W  W NW NW NW  W  W SW  W  W NW NW NW
+Wind spd                  20 27 26 28 29 28 28 29 25 18  6  5  6  8 12 18 18 10
+Wind gust                 32 41 43 43 46 44 44 44 36                      28   
+Clouds                    B2 B2 B2 B2 B2 B2 B2 OV B2 SC FW FW FW FW SC SC SC FW
+PoP 12hr                     20          50          40           0           0
+QPF 12hr                      0        0.05        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          C  C  C           S  S                           
+Snow                                   S  C  C  S                              
+Wind chill                               17                                    
+Min chill                                16    18                              
+Wind                                Y  Y  Y  Y  Y                              
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            26    55      31    53      26    58      29    62
+Temp          32   29 50 49 39   35 47 45 32   29 51 48 35   33 54 52
+Dewpt         28   26 31 33 33   31 33 32 30   27 29 28 26   25 28 27
+PWind dir           W     S       E    NW       W    SW       S    SW
+Wind char          LT    GN      GN    GN      LT    GN      LT    GN
+Avg clouds    FW   SC B2 B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC
+PoP 12hr            0    20      20    10       5     0       0     0
+Rain                      S  S    S                                  
+
+$$
+SDZ049-232300-
+Winner Regional Airport-Tripp SD
+43.39N  99.84W Elev. 2032 ft
+128 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          38          48          30          59
+Temp                      78 64 51 45 40 38 39 43 46 42 37 35 33 32 42 55 57 51
+Dewpt                     32 35 40 39 31 28 27 26 27 28 27 26 25 24 25 26 26 25
+RH                        19 34 66 79 70 67 62 51 47 57 67 69 72 72 50 32 30 36
+Wind dir                  SW  W  W  W  W  W  W  W  W  W  W  W  W SW  W NW NW NW
+Wind spd                  23 23 25 27 27 25 29 27 25 20 12 10  8  6 10 17 19 11
+Wind gust                 35 35 39 41 42 37 43 42 37 31                   29   
+Clouds                    FW SC B1 B1 B1 SC SC B1 B2 B1 SC CL FW FW FW SC FW FW
+PoP 12hr                     10          30          20           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                          S  C  S     S  S                                 
+Snow                                      S  S                                 
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    58      38    53      31    58      34    63
+Temp          36 33 54 51   44 41 48 46   36 33 52 50   39 37 57 55
+Dewpt         26 26 27 28   29 32 35 32   32 29 30 27   26 25 28 25
+PWind dir         W     S      SE     S       W    SW       S     S
+Wind char        GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW B1 B2   B2 B2 OV B2   SC SC FW FW   FW SC SC SC
+PoP 12hr          0    10      30    30      10     5       0     0
+Rain                         S  C  C  S                            
+
+$$

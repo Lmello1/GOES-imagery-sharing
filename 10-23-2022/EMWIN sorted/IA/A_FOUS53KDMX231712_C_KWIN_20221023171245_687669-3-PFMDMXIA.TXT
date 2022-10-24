@@ -1,0 +1,360 @@
+FOUS53 KDMX 231712
+PFMDMX
+
+Point Forecast Matrices
+National Weather Service Des Moines IA
+1212 PM CDT Sun Oct 23 2022
+
+IAZ060-232200-
+Des Moines-Polk IA
+41.54N  93.65W Elev. 924 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          62          68          40          56
+Temp                   79 83 78 75 74 72 68 63 62 56 52 51 48 44 41 45 51 54 49
+Dewpt                  57 58 58 60 60 60 58 54 50 48 47 45 40 37 35 35 35 35 33
+RH                     47 43 50 60 62 66 70 72 65 74 83 80 74 76 79 68 54 48 54
+Wind dir                S  S  S  S  S  S  S SW  W  W  W  W NW NW NW NW NW NW NW
+Wind spd               23 25 23 24 25 23 16 13 12 11  6  4  5  5  5  8 11 11  5
+Wind gust              33 39 40 46 46 41 27                                    
+Clouds                 SC SC B1 SC B2 OV OV OV OV OV B2 B1 SC FW SC SC SC FW SC
+PoP 12hr                     10          40          70          40          10
+QPF 12hr                      0           0        0.33        0.05           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          C  C  C  C  L  L  C  C                     
+Tstms                               S                                          
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    59      41    57      40    56      37    57
+Temp          44 39 55 51   45 42 54 51   45 42 52 49   43 38 54 50
+Dewpt         32 31 35 35   36 35 37 37   40 40 41 39   39 37 40 38
+PWind dir        NW     N      SE    SE      SE    NE      NE     E
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B2 B2 B1   B2 B2 B1 SC   FW FW FW SC
+PoP 12hr          0     0       5    10      30    20      20    10
+Rain shwrs                                 C  C  S  S    S  S      
+
+$$
+IAZ039-232200-
+Waterloo/Cedar Falls-Black Hawk IA
+42.55N  92.40W Elev. 865 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          65          71          41          55
+Temp                   76 80 76 71 70 69 67 68 67 61 55 52 49 45 42 46 51 52 48
+Dewpt                  56 57 58 61 60 60 59 60 55 52 50 48 44 39 36 37 36 36 35
+RH                     50 45 54 71 71 73 75 76 65 72 83 86 83 79 79 71 56 54 60
+Wind dir                S  S  S  S  S  S  S  S SW SW  W  W  W  W NW NW NW NW NW
+Wind spd               24 24 23 24 23 21 18 18 16 14  9  5  5  5  5  9 12 13  6
+Wind gust              36 39 39 43 42 39 34 28                                 
+Clouds                 FW B1 B1 B2 B1 B2 OV OV OV OV OV B2 B1 SC SC SC SC SC SC
+PoP 12hr                     10          40          70          60          10
+QPF 12hr                      0           0        0.26        0.21           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  C  C  C  C  L  L  L  L  S  S               
+Tstms                               S  S                                       
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    57      38    55      39    55      36    57
+Temp          42 37 54 48   41 39 53 50   43 40 52 48   41 37 54 49
+Dewpt         33 32 36 35   36 34 37 36   39 39 41 39   39 36 39 38
+PWind dir        NW    NW       E    SE      SE     E      NE    SE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    SC FW FW FW   B1 B2 B1 B2   B2 B2 B1 SC   SC SC SC SC
+PoP 12hr          5     0       5    10      20    20      20    10
+Rain shwrs                                 S  S  S  S       S      
+
+$$
+IAZ048-232200-
+Ames-Story IA
+41.99N  93.62W Elev. 936 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          61          67          37          56
+Temp                   78 83 77 73 72 70 66 63 62 56 52 49 46 41 39 45 51 54 48
+Dewpt                  57 58 59 60 60 60 57 53 48 47 45 43 37 34 34 35 36 35 34
+RH                     48 43 54 64 66 71 73 70 60 72 77 80 71 76 82 68 56 48 58
+Wind dir                S  S  S  S  S  S  S SW  W  W  W  W NW NW NW NW NW NW NW
+Wind spd               25 25 24 26 25 23 16 14 13 11  6  5  5  5  4 10 11 11  6
+Wind gust              35 41 40 47 47 40 28                                    
+Clouds                 FW SC SC SC SC B2 OV OV OV OV B2 B1 SC FW FW FW SC FW SC
+PoP 12hr                     10          40          70          30          10
+QPF 12hr                      0           0        0.25        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          C  C  C  C  L  L  C  C                     
+Tstms                               S                                          
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    58      39    57      38    56      35    57
+Temp          41 37 55 49   43 40 53 50   43 40 53 48   40 36 54 48
+Dewpt         32 31 36 35   36 35 38 38   40 39 41 40   39 36 40 39
+PWind dir        NW     N      SE    SE      SE    NE      NE    SE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW SC   B1 B2 B2 B2   B2 B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0       5    10      30    20      10    10
+Rain shwrs                            S    C  S  S  S              
+
+$$
+IAZ004-232200-
+Estherville-Emmet IA
+43.40N  94.75W Elev. 1315 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          59          34          56
+Temp                   74 82 76 70 68 64 55 53 56 54 50 43 39 37 35 42 49 54 47
+Dewpt                  55 54 56 60 58 51 43 41 34 32 31 32 31 30 30 33 31 30 29
+RH                     51 38 50 71 70 63 64 64 43 43 48 65 73 75 82 70 50 40 49
+Wind dir                S  S  S  S  S  S SW SW SW SW  W  W  W  W NW NW NW NW NW
+Wind spd               26 27 24 26 26 21 17 19 19 18 10 10  8  6  6 10 11 12  5
+Wind gust              37 42 39 46 44 34 27                                    
+Clouds                 FW FW SC B1 SC B1 B2 B2 B1 B2 B1 FW FW FW FW FW FW FW FW
+PoP 12hr                     20          40          20           5           5
+QPF 12hr                      0        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C  S  S  S  S  S                           
+Tstms                         S  S  C                                          
+Wind chill                                              37          36         
+Min chill                                                  32    29    31      
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    55      38    53      35    53      34    56
+Temp          39 34 50 46   41 40 50 47   40 38 49 46   38 35 52 48
+Dewpt         29 29 32 30   31 31 36 36   37 35 39 36   35 33 37 34
+PWind dir        NW     W      SE    SE      SE    SW       S     S
+Wind char        LT    LT      GN    GN      LT    GN      LT    GN
+Avg clouds    FW FW FW SC   B1 B2 B2 B2   B2 B1 B1 SC   FW SC SC SC
+PoP 12hr          5     5      20    30      30    20      10     5
+Rain shwrs                   S  S  C  C    C  S  S                 
+
+$$
+IAZ035-232200-
+Fort Dodge-Webster IA
+42.55N  94.18W Elev. 1165 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      85          56          64          35          57
+Temp                   77 83 78 72 70 69 61 60 60 57 53 46 42 38 36 44 51 54 48
+Dewpt                  56 56 57 60 60 57 51 45 38 39 34 35 32 32 31 34 33 32 30
+RH                     48 40 48 66 71 66 70 58 44 51 48 65 67 79 82 68 50 43 49
+Wind dir                S  S  S  S  S  S SW  W SW SW  W  W  W  W NW NW NW NW NW
+Wind spd               25 26 26 27 27 24 14 14 14 12  6  6  5  5  4 10 11 11  5
+Wind gust              36 42 40 47 46 40 28                                    
+Clouds                 FW SC SC B1 SC B2 OV OV OV B2 B2 SC FW FW FW FW FW FW FW
+PoP 12hr                     10          30          40          20           5
+QPF 12hr                      0           0        0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       C  C  S  C  C  C  C  S  S                     
+Tstms                            S  S                                          
+Wind chill                                                          38         
+Min chill                                                  38    32    35      
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    58      39    56      36    55      33    58
+Temp          39 34 53 48   42 40 53 50   42 38 52 48   38 35 54 48
+Dewpt         30 30 33 31   33 34 36 36   38 37 39 37   37 35 38 36
+PWind dir        NW     N      SE    SE      SE     S      SE     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW SC   B1 B2 B2 B2   B2 B2 B1 SC   FW SC SC SC
+PoP 12hr          0     0      10    20      30    20      10    10
+Rain shwrs                         S  S    C  S  S  S              
+
+$$
+IAZ094-232200-
+Lamoni-Decatur IA
+40.63N  93.90W Elev. 1125 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      86          62          68          40          56
+Temp                   80 84 78 74 74 72 67 64 61 56 53 50 48 45 41 46 52 54 50
+Dewpt                  57 58 58 60 60 60 61 56 52 50 48 48 44 39 37 37 35 35 33
+RH                     45 41 50 62 62 66 81 75 72 80 83 93 86 79 85 71 52 48 52
+Wind dir                S  S  S  S  S  S  S SW  W  W NW  W NW NW NW NW NW  N  N
+Wind spd               25 25 24 25 25 23 17 13 11 10  6  5  6  6  6 10 12 12  6
+Wind gust              37 41 43 46 46 39 27                                    
+Clouds                 FW SC SC SC B2 B2 OV OV OV OV B2 B2 SC SC SC SC SC SC FW
+PoP 12hr                     10          50          80          40          10
+QPF 12hr                      0        0.03        0.63        0.12           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  C  L  L  D  D  C  C  S  S               
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    60      40    58      41    57      37    58
+Temp          43 39 57 51   44 42 55 52   46 42 54 50   43 39 54 50
+Dewpt         32 31 36 37   36 36 38 38   40 40 41 41   40 38 40 38
+PWind dir        NW    NE      SE    SE      SE    NE      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B1 B1 B1   B2 B2 B1 SC   FW FW SC SC
+PoP 12hr          0     0       5    10      30    30      20    10
+Rain shwrs                                 C  C  C  S    S         
+
+$$
+IAZ017-232200-
+Mason City-Cerro Gordo IA
+43.16N  93.33W Elev. 1189 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          59          66          35          53
+Temp                   74 79 74 69 68 67 64 62 60 57 51 47 43 39 37 43 49 51 45
+Dewpt                  55 56 57 59 58 58 53 50 43 42 39 38 34 32 32 34 34 33 33
+RH                     51 45 55 70 70 73 67 65 53 57 63 71 70 76 82 70 56 50 62
+Wind dir                S  S  S  S  S  S  S SW SW SW  W  W  W  W  W NW NW NW NW
+Wind spd               25 27 24 26 26 24 17 16 16 14  8  6  5  5  4  9 10 11  5
+Wind gust              37 42 39 46 46 40 29                                    
+Clouds                 FW SC B1 B1 SC B2 OV OV OV OV B2 B1 SC FW FW FW SC FW FW
+PoP 12hr                     10          40          50          30          10
+QPF 12hr                      0        0.07        0.14           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C  C  C  C  C  C  C  C                     
+Tstms                         S  S  S                                          
+Wind chill                                                          37         
+Min chill                                                  37    32    33      
+Wind                       Y  Y  Y  Y                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    54      36    53      35    53      33    54
+Temp          38 34 50 45   39 38 50 46   40 38 50 45   37 35 51 46
+Dewpt         31 31 34 33   33 32 36 35   37 37 40 39   36 34 38 37
+PWind dir        NW    NW      SE    SE      SE     S       S     S
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B2 B2 B2   B2 B2 B1 SC   FW SC SC SC
+PoP 12hr          5     0      10    20      20    20      10    10
+Rain shwrs                            S    S  S  S  S              
+
+$$
+IAZ049-232200-
+Marshalltown-Marshall IA
+42.11N  92.91W Elev. 972 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          63          68          38          54
+Temp                   76 81 76 71 69 69 67 64 64 58 52 49 46 43 39 45 50 52 47
+Dewpt                  56 56 57 60 60 59 59 56 51 50 48 47 42 37 35 35 35 34 33
+RH                     50 42 52 68 73 70 75 75 63 75 86 93 86 79 85 68 56 50 58
+Wind dir                S  S  S  S  S  S  S SW SW  W  W  W  W  W NW NW NW NW NW
+Wind spd               24 26 24 24 24 24 18 16 16 13  8  5  5  5  5  9 11 12  6
+Wind gust              36 41 41 42 43 40 32                                    
+Clouds                 FW SC B1 B1 SC OV OV OV OV OV B2 B2 B1 FW SC FW SC SC SC
+PoP 12hr                     10          40          70          50          10
+QPF 12hr                      0           0        0.29        0.11           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          C  C  C  C  L  L  C  C  S  S               
+Tstms                               S  S                                       
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    57      37    55      36    54      34    56
+Temp          40 36 53 47   41 39 52 48   42 38 51 47   39 36 52 47
+Dewpt         32 31 34 35   35 35 36 36   39 38 40 39   38 36 38 37
+PWind dir        NW     N      SE    SE      SE     E      NE    SE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW FW FW FW   B1 B2 B1 B2   B2 B2 B1 SC   SC FW SC SC
+PoP 12hr          5     0       5    10      20    20      10    10
+Rain shwrs                                 S  S  S  S              
+
+$$
+IAZ086-232200-
+Ottumwa-Wapello IA
+41.11N  92.45W Elev. 836 ft
+1212 PM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          66          71          44          55
+Temp                   78 83 78 73 71 71 69 68 68 63 56 53 51 48 46 47 52 53 49
+Dewpt                  58 58 59 62 61 60 61 62 60 58 55 53 50 46 42 40 39 39 38
+RH                     50 43 52 68 71 68 76 81 76 84 96100 96 93 86 76 61 59 66
+Wind dir                S  S  S  S  S  S  S  S  S SW SW  W  W NW NW NW NW NW NW
+Wind spd               23 24 21 23 23 21 16 16 14 12  9  6  5  5  6 10 12 12  6
+Wind gust              34 39 39 43 41 36 28 27          17                   17
+Clouds                 SC SC B1 B1 B2 OV OV OV OV OV OV OV B2 B1 SC B1 B1 B1 SC
+PoP 12hr                     10          40          90          70          20
+QPF 12hr                      0           0        0.47        0.35           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  C  C  D  D  L  L  C  C  S  S  S  S   
+Tstms                               S                                          
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    60      39    58      40    56      37    58
+Temp          43 39 55 49   42 39 54 50   45 41 53 50   43 39 54 49
+Dewpt         36 34 38 39   38 37 39 40   40 40 44 42   41 39 43 41
+PWind dir        NW     N       E    SE       E     E      NE    NE
+Wind char        LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    SC FW FW FW   SC B1 B1 B1   B2 B2 B1 B1   SC SC SC SC
+PoP 12hr          5     0       0     5      20    20      20    20
+Rain shwrs                                 S  S  S  S    S  S  S   
+
+$$

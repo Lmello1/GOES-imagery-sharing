@@ -1,0 +1,90 @@
+ASUS43 KIWX 232010
+RWRIWX
+
+KIWX WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NORTHERN INDIANA
+400 PM EDT SUN OCT 23 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. 
+
+* THESE STATIONS ARE NOT UNDER NWS QUALITY CONTROL. THEY ALSO MAY NOT 
+  REPORT WEATHER SUCH AS PRECIPITATION OR FOG. 
+
+INZ001>027-232100-
+NORTHERN INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY*          MOSUNNY   79  55  44 S16G32    29.88F                  
+VALPARAISO     SUNNY     81  53  37 S20G39    29.92F                  
+MICHIGAN CITY* SUNNY     77  52  41 S13G26    29.92F                  
+LAPORTE*       SUNNY     77  59  52 S18G30    29.93F                  
+KNOX*          MOSUNNY   79  52  38 S21G30    29.93F                  
+SOUTH BEND     SUNNY     76  53  44 S21G32    29.96F                  
+ELKHART*       MOSUNNY   77  54  44 S17G32    29.98S                  
+GOSHEN         SUNNY     76  52  43 S22G32    29.98F                  
+MONTICELLO*    SUNNY     78  49  36 S21G28    29.94F                  
+LOGANSPORT*    MOSUNNY   77  50  38 S21G26    29.98F                  
+ROCHESTER*     SUNNY     75  52  43 S17G26    29.97F                  
+PLYMOUTH*      SUNNY     77  52  41 S14G26    29.95F                  
+WARSAW*        MOSUNNY   76  51  41 S8G16     29.99F                  
+AUBURN*        MOSUNNY   73  52  46 S8        30.04F                  
+FORT WAYNE     PTSUNNY   75  49  39 S17G25    30.04F                  
+HUNTINGTON*    MOSUNNY  N/A N/A N/A S15       30.02F                  
+PERU/GRISSOM   MOSUNNY   78  52  40 S18       29.97F                  
+
+$$
+INZ028>050-232100-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAFAYETTE      SUNNY     79  51  37 S15G28    29.94F                  
+KOKOMO*        SUNNY     77  52  41 S23       30.01F                  
+MARION*        SUNNY     76  51  40 S16G24    30.03S                  
+MUNCIE*        SUNNY     77  46  33 S18G29    30.03F                  
+INDIANAPOLIS   MOSUNNY   78  49  35 S20       30.00S                  
+
+$$
+MIZ043>046-050>051-056>058-064>065-071>073-077>080-232100-
+SOUTHWEST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATTLE CREEK   MOSUNNY   76  52  43 S18G25    30.01F                  
+BENTON HARBOR  MOSUNNY   79  55  43 S17G30    29.92F                  
+COLDWATER*     MOSUNNY   75  51  42 S10G16    30.03F                  
+HILLSDALE*     PTSUNNY   74  45  34 S14G23    30.05F                  
+HOLLAND        MOSUNNY   77  54  44 S18G29    29.94F                  
+GRAND RAPIDS   MOSUNNY   75  52  44 S20G30    29.98F                  
+KALAMAZOO      MOSUNNY   77  52  41 S15G26    29.99F                  
+STURGIS*       SUNNY     75  48  38 S17G24    30.00F                  
+THREE RIVERS*  FAIR      76  52  43 S14G26    30.00S                  
+
+$$
+OHZ001>008-015>018-024>025-232100-
+NORTHWEST OHIO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WAUSEON*       FAIR      77  50  38 S15       30.06F                  
+DEFIANCE       SUNNY     77  49  37 S16G25    30.05F                  
+FINDLAY        SUNNY     77  50  38 S17       30.08F                  
+OTTAWA*        FAIR      77  43  29 S12G22    30.10S                  
+TOLEDO EXPRESS PTSUNNY   78  50  37 S10G17    30.07F                  
+VAN WERT*      FAIR      77  45  31 S15G22    30.06F                  
+LIMA           MOSUNNY   75  48  38 S12G23    30.08F                  
+
+$$
+AND FOR LAKE MICHIGAN COASTAL AND OPEN LAKE BUOY OBSERVATIONS
+  
+STATION/POSITION TEMP    WIND        PRES    VSBY  WAVE
+                 AIR SEA DIR/SP/G                  HT/PER
+                 (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+CALUMET HARBOR           160/ 12/ 23 1011.0
+MICHIGAN CITY     78                 1011.2F
+BURNS HARBOR      78     160/ 11/ 18 1012.5F
+SOUTH LAKE BUOY   56 50  130/ 12/ 14 1012.3F         2/ 4
+4 MI NW BRIDGMAN  71 57  150/ 19/ 27 1012.7F         2/ 3
+MICHIGAN CITY     71                   N/A           2/ 3
+
+$$
+&&
+  

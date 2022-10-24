@@ -1,0 +1,290 @@
+FOUS52 KTAE 231829
+PFMTAE
+
+Point Forecast Matrices
+National Weather Service Tallahassee FL
+228 PM EDT Sun Oct 23 2022
+
+FLZ017-240900-
+Tallahassee-Leon FL
+30.39N  84.35W Elev. 81 ft
+228 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          83          55          82          64
+Temp          79 67 57 54 52 53 71 81 81 72 63 60 58 56 74 82 80 71 66 66 65 64
+Dewpt         47 50 51 51 51 53 61 58 58 58 59 57 55 55 62 63 64 66 66 66 65 64
+RH            32 54 80 90 96100 71 46 46 61 87 90 90 96 66 53 58 84100100100100
+Wind dir      NE NE NE  E  E  E  E SE  S SE  S  E  E  E SE  S  S  S  S  S  S  W
+Wind spd       3  3  2  3  2  3  4  4  4  3  0  2  2  3  5  9  9  6  3  3  3  3
+Clouds        CL FW FW FW SC SC FW FW FW FW FW SC FW FW FW SC SC SC SC SC B1 B1
+PoP 12hr                      0           0           0           5          20
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  S  S   
+Tstms                                                             S  S  S  S   
+Obvis                     PF                      PF                      PF PF
+Heat index                         81 81                   83 81               
+Max heat                           81    82                83    83            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          81      53    82      56    83      61    80      60    79
+Temp          80 71   59 54 80 69   60 57 82 71   63 61 79 71   63 61 78 70
+Dewpt         61 56   52 50 55 57   55 56 60 62   61 61 63 64   61 60 63 62
+PWind dir         W       N     N      NE    SE      SE    SE      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   CL CL CL CL   CL FW FW FW   SC B1 SC SC   SC SC SC SC
+PoP 12hr         10       0     0       0     5      20    30      20    20
+Rain shwrs                                            S  S  C    S        S
+Tstms                                                 S  S  C    S        S
+
+$$
+FLZ112-240900-
+Panama City Airport-Coastal Bay FL
+30.07N  85.58W Elev. 69 ft
+128 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      57          80          62          81          64
+Temp          77 69 65 62 59 59 71 79 78 73 69 67 64 63 76 81 80 74 71 70 68 64
+Dewpt         51 57 58 57 56 55 60 63 64 65 64 63 61 61 65 66 67 69 69 69 67 61
+RH            40 66 78 84 90 87 68 58 62 76 84 87 90 93 69 60 65 84 93 97 97 90
+Wind dir      SW  S SE  E  E  E  E  S  S SE SE SE  E  E SE  S  S  S  S SW  W NW
+Wind spd       5  4  4  4  6  8 10 10 11  8  6  5  6  8 11 14 14 10 10 10  9 11
+Clouds        FW FW FW SC SC SC FW FW FW SC SC SC SC FW FW SC SC SC SC B1 B1 SC
+PoP 12hr                      0           5           0          20          40
+QPF 12hr                      0           0           0        0.01        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C  S  S   
+Tstms                                                       S  S  C  C  S  S   
+Heat index                                                 83 81               
+Max heat                           81    83                85    85            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      56    78      58    80      63    78      62    77
+Temp          77 70   61 57 76 70   62 59 79 71   66 63 76 71   66 63 76 69
+Dewpt         56 56   53 51 52 57   56 55 59 62   62 61 63 64   62 60 60 61
+PWind dir        NW       N    NW       N    SE      SE    SE      SE     S
+Wind char        GN      GN    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    FW CL   CL CL CL CL   CL FW FW FW   SC B1 B1 SC   SC SC SC SC
+PoP 12hr          5       0     0       0    10      30    30      30    20
+Rain shwrs                                         S  C  S  C    C  S  S  S
+Tstms                                              S  C  S  C    C  S  S  S
+
+$$
+FLZ115-240900-
+Apalachicola-Franklin FL
+29.73N  85.03W Elev. 20 ft
+228 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          78          63          79          66
+Temp          74 67 64 61 60 61 73 76 75 70 67 65 64 66 77 79 78 72 70 69 68 66
+Dewpt         57 58 58 58 58 60 66 67 66 66 65 63 63 65 68 69 70 70 70 69 68 66
+RH            55 73 81 90 93 97 79 74 74 87 93 93 97 97 74 72 76 93100100100100
+Wind dir      SE SE  E NE NE  E  E SE SE SE SE  E  E SE SE SE  S  S  S  S SW  W
+Wind spd       8  4  3  4  5  6 11 11  9  4  4  3  5  6 11 11 11  8  8  8  8  6
+Wind gust                                                                 18   
+Clouds        FW FW FW SC SC SC FW FW FW SC SC SC SC FW FW SC SC SC SC SC B1 SC
+PoP 12hr                      0           0           0          10          30
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  C  C   
+Tstms                                                             C  C  C  C   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          78      56    77      59    78      63    77      62    76
+Temp          77 69   61 56 76 69   62 60 77 70   65 64 76 71   66 63 75 70
+Dewpt         62 60   55 54 57 59   58 59 63 65   64 64 66 67   64 63 65 64
+PWind dir         W       N     E       N     E      SE    SE      SE     S
+Wind char        GN      GN    LT      LT    GN      LT    GN      GN    GN
+Avg clouds    SC FW   FW CL CL CL   CL FW FW FW   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         10       0     0       0     5      20    30      30    20
+Rain shwrs                                            S  S  C    C  S  S  S
+Tstms                                                 S  S  C    C  S  S  S
+
+$$
+FLZ034-240900-
+Cross City-Inland Dixie FL
+29.64N  83.12W Elev. 39 ft
+228 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          84          55          84          63
+Temp          80 67 60 57 55 55 72 81 81 72 64 60 57 56 74 83 82 70 65 63 63 64
+Dewpt         53 54 55 56 55 55 59 56 55 57 57 55 54 54 60 59 60 62 63 63 63 64
+RH            39 63 84 96100100 64 42 41 59 78 84 90 93 62 44 47 76 93100100100
+Wind dir      NE NW  E  E NE NE  E NE NE NE  E  E  E  E SE  S SW SW  S  S  S  S
+Wind spd       4  3  3  3  3  4  6  6  5  4  3  3  2  3  5  6  8  3  3  2  3  3
+Clouds        CL CL FW FW SC SC FW FW FW SC FW FW FW FW FW FW FW SC SC SC SC SC
+PoP 12hr                      0           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Tstms                                                                         S
+Obvis                                             PF                      PF PF
+Heat index    80                   81 81                   83 82               
+Max heat         80                81    82                83    84            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          83      56    83      58    84      61    83      61    82
+Temp          82 71   61 57 82 69   61 60 83 71   64 62 82 71   64 62 82 70
+Dewpt         68 66   59 54 56 59   58 59 62 63   62 61 64 65   63 62 62 64
+PWind dir        SW      NW    NW      NE    SE      NE    SE       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC FW   FW FW CL CL   CL FW FW FW   SC SC SC SC   SC SC FW FW
+PoP 12hr         20       5     0       0     5      10    20      20    20
+Rain shwrs     S                                            S    S        S
+Tstms          S                                            S    S        S
+
+$$
+ALZ069-240900-
+Dothan-Houston AL
+31.32N  85.45W Elev. 401 ft
+128 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          81          53          82          57
+Temp          77 63 56 53 50 49 68 78 79 70 63 59 56 55 71 81 81 72 67 67 62 57
+Dewpt         41 45 46 46 47 48 54 53 53 56 58 59 56 55 60 62 63 66 67 67 62 57
+RH            28 52 69 77 89 96 61 42 41 61 84100100100 68 53 54 81100100100100
+Wind dir       E  E  E  E  E  E SE SE SE SE SE SE  E  E SE  S  S  S  S  S  W NW
+Wind spd       5  4  3  4  4  4  6  6  6  4  3  3  3  4  9 12 13 10  8  6  6  5
+Wind gust                                                        27 23 20 17   
+Clouds        CL FW FW SC SC FW FW FW FW FW SC SC FW FW FW SC B1 SC B1 B1 SC SC
+PoP 12hr                      0           0           0          20          40
+QPF 12hr                      0           0           0        0.01        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C         
+Tstms                                                       S  S  C  C         
+Heat index                                                 82 82               
+Max heat                           80    80                84    85            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      49    77      52    80      58    75      57    75
+Temp          73 64   54 50 74 66   56 53 78 69   62 59 74 66   61 57 74 65
+Dewpt         52 52   51 49 51 54   53 53 56 58   59 59 60 62   61 57 60 59
+PWind dir        NW       N     N      NE     E       E    SE      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    FW CL   CL CL CL CL   CL FW FW SC   SC B1 B1 SC   SC SC SC SC
+PoP 12hr          5       0     0       0     5      20    30      30    20
+Rain shwrs                                         S  S  S  C    C  S  S  S
+Tstms                                              S  S  S  C    C  S  S  S
+
+$$
+GAZ125-240900-
+Albany-Dougherty GA
+31.58N  84.18W Elev. 197 ft
+228 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          81          52          83          61
+Temp          77 64 56 53 51 50 68 78 79 69 62 58 55 53 70 81 82 73 67 65 64 61
+Dewpt         46 50 51 51 51 50 56 53 52 54 54 52 51 52 56 56 57 61 63 65 64 61
+RH            33 60 83 93100100 65 42 39 59 75 80 86 96 61 42 43 66 87100100100
+Wind dir       E  E  E  E  E NE  E SE SE  E  E  E  E SE SE  S  S  S  S  S SW NW
+Wind spd       4  2  3  3  2  3  4  4  3  3  2  3  3  3  6  8  9  8  6  6  5  4
+Wind gust                                                  18             16   
+Clouds        CL FW FW FW SC SC FW FW FW FW FW FW FW FW FW FW SC SC SC B1 B1 SC
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0        0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  S  S   
+Tstms                                                             C  C  S  S   
+Obvis                  PF PF                      PF                      PF PF
+Heat index                                                 81 82               
+Max heat                                                   81    82            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          77      51    78      55    81      59    77      58    75
+Temp          76 66   57 52 76 68   59 56 78 70   63 60 75 67   62 59 73 66
+Dewpt         55 53   51 49 52 54   55 54 57 59   60 58 60 61   60 59 61 62
+PWind dir        NW       N    NE      NE     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    SC CL   CL CL CL CL   CL FW FW SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr          5       0     0       0     5      20    30      20    20
+Rain shwrs                                            S  S  C    S  S     S
+Tstms                                                 S  S  C    S  S     S
+
+$$
+GAZ160-240900-
+Valdosta-Lowndes GA
+30.78N  83.28W Elev. 204 ft
+228 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          82          52          84          62
+Temp          78 64 58 55 53 52 71 79 79 69 62 58 55 54 73 83 82 70 64 63 63 63
+Dewpt         50 54 54 55 53 52 57 54 53 55 54 53 53 53 57 56 57 61 62 63 63 63
+RH            37 70 86100100100 61 42 41 61 75 83 93 96 57 40 43 73 93100100100
+Wind dir       E  N  E  E  E NE  E  E NE NE  E  E  E  E SE  S  S SW  S  S  S  S
+Wind spd       4  3  4  3  3  4  6  5  4  4  3  2  2  2  5  6  6  3  3  3  4  4
+Clouds        FW CL FW FW SC SC FW FW FW SC FW FW FW FW FW FW SC SC SC SC SC B1
+PoP 12hr                      0           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                                             PF                      PF PF
+Heat index                                                    82               
+Max heat                           80    80                82    84            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          82      54    82      56    84      61    81      60    80
+Temp          80 70   59 55 80 68   59 58 83 72   64 62 80 70   63 61 79 68
+Dewpt         63 56   53 51 54 56   56 57 60 62   61 61 62 63   61 60 61 62
+PWind dir         W      NW     N      NE     E       E     E       E    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    SC FW   FW CL CL CL   CL FW FW SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         10       0     0       0     5      10    20      20    20
+Rain shwrs                                                  S    S        S
+Tstms                                                       S    S        S
+
+$$

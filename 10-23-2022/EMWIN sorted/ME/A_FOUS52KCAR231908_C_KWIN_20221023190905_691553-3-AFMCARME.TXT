@@ -1,0 +1,604 @@
+FOUS52 KCAR 231908
+AFMCAR
+
+Area Forecast Matrices
+National Weather Service Caribou ME
+308 PM EDT Sun Oct 23 2022
+
+MEZ001-240900-
+Northwest Aroostook-
+Including the cities of Allagash, Clayton Lake, Madawaska, 
+Fort Kent, and Frenchville
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                43 45 48    55 58 63    45 48 52    61 65 68    50 53 57
+Temp          62 55 51 48 47 47 55 57 55 52 50 51 51 52 59 64 63 58 56 56 55 55
+Dewpt         45 46 45 44 44 43 46 49 50 51 50 50 51 52 56 58 58 57 56 55 55 55
+RH            54 72 80 86 89 86 72 75 83 96100 96100100 90 81 84 96100 96100100
+Wind dir      SW  S  S  S  S  S SE SE SE  E SE SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       4  3  3  3  2  3  3  4  4  3  2  2  2  2  4  5  4  4  4  5  4  4
+Wind gust                                                              16      
+Clouds        SC SC B1 B2 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B2 B1 B1 B2 B2 B2 B2
+PoP 12hr                      5          60          60          10           5
+QPF 12hr                      0   0.06-0.35        0.02           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                      SC SC  L  L  C  S  S                           
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      50    61      31    49      30    50      32    53
+Temp          65 59   57 51 58 43   35 32 49 37   32 31 49 39   35 35 53 41
+Dewpt         59 58   56 51 45 35   28 27 29 29   26 27 33 34   32 32 37 37
+PWind dir         S       S     W      NW     N       W    SW      SW     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC B1 SC   SC SC SC SC
+PoP 12hr         40      60    30       5     5       5     5      10    10
+Rain                   L                                                   
+Rain shwrs        C    C  C  C                                             
+
+$$
+MEZ002-240900-
+Northeast Aroostook-
+Including the cities of Presque Isle, Caribou, Van Buren, 
+Mars Hill, and Ashland
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                43 46 48    55 58 60    47 50 53    61 65 67    52 56 58
+Temp          62 55 51 49 47 48 55 57 56 53 52 53 52 53 59 64 63 59 58 58 57 57
+Dewpt         46 46 46 45 45 46 48 50 51 51 52 52 52 53 57 58 58 58 57 57 56 57
+RH            56 72 83 86 93 93 77 77 83 93100 96100100 93 81 84 96 96 96 96100
+Wind dir       S  S  S  S  S  S SE  E  E  E SE SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       4  3  2  3  2  2  3  4  4  3  3  3  2  3  4  5  5  5  5  5  4  4
+Wind gust                                                  16                  
+Clouds        SC B1 B1 B2 B2 OV OV OV OV OV OV B2 OV B2 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     10          70          80          20           5
+QPF 12hr                      0   0.18-0.51   0.01-0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                      SC  L  L  D  C  C  C  S                        
+Obvis                     PF PF                                                
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      53    64      34    51      31    51      34    54
+Temp          65 61   58 55 62 46   38 34 50 39   33 33 50 40   37 36 54 42
+Dewpt         59 59   58 55 48 36   30 29 30 30   28 29 34 34   33 33 38 38
+PWind dir         S       S     W      NW     N      NW     W       W     W
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   FW SC SC SC   SC SC SC SC
+PoP 12hr         40      70    30      10     5       5     5      10    20
+Rain                   L  L                                                
+Rain shwrs        C    C  C  C                                            S
+
+$$
+MEZ003-240900-
+Northern Somerset-
+Including the cities of Baker Lake and Billy-Jack Depot
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                44 46 48    53 56 58    47 49 50    61 66 68    51 53 55
+Temp          62 54 50 48 47 48 54 55 55 51 51 51 51 52 60 65 64 58 56 55 54 54
+Dewpt         43 45 43 42 43 44 48 51 51 51 51 51 50 52 57 58 58 57 56 55 53 54
+RH            50 71 77 80 86 86 80 86 86100100100 96100 90 78 81 96100100 96100
+Wind dir       S  S  S  S SE SE SE  E SE SE SE  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       2  3  2  3  2  3  3  4  4  2  2  2  1  2  3  3  3  3  4  3  3  4
+Clouds        SC SC B1 B2 OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B1 B1 B2 B2 B1 B1
+PoP 12hr                     30          70          50          10           5
+QPF 12hr                      0   0.19-0.40        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                    S  S                                                   
+Rain shwrs                   SC SC  L  L  C  S  S                              
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      49    59      31    49      30    50      32    53
+Temp          64 58   55 50 56 43   34 31 48 37   31 31 49 38   34 34 53 40
+Dewpt         58 57   55 50 45 36   29 27 29 29   27 27 32 33   32 32 38 38
+PWind dir         S       S     W      NW     N      SW    SW      SW     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC B1 SC   SC SC SC SC
+PoP 12hr         50      60    20       5     5       5    10      10    20
+Rain                   L                                                   
+Rain shwrs     S  C    C  C  S                                            S
+
+$$
+MEZ004-240900-
+Northern Piscataquis-
+Including the cities of Baxter St Park, Chamberlain Lake, 
+Churchill Dam, and Mount Katahdin
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                43 46 51    50 57 59    45 49 55    51 65 69    48 53 60
+Temp          61 53 50 48 47 48 54 56 55 51 51 51 51 53 61 65 63 58 56 55 54 55
+Dewpt         45 45 45 43 44 45 49 52 52 51 51 51 51 52 58 60 60 57 56 55 54 55
+RH            56 74 83 83 89 89 83 86 90100100100100 96 90 84 90 96100100100100
+Wind dir       S  S  S  S SE SE  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       2  2  2  2  2  2  3  4  4  2  2  2  2  2  3  5  3  4  4  4  3  4
+Clouds        SC B1 B2 B2 OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B1 B1 B2 B2 B2 B2
+PoP 12hr                     30          70          70          20          10
+QPF 12hr              0.00-0.05   0.24-0.94   0.01-0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                    S  C                                                   
+Rain shwrs                   SC SC  L  L  L  C  C  S  S                    S  S
+Obvis                     PF                                                   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      50    62      32    51      31    51      33    54
+Temp          64 59   56 51 60 44   36 33 50 38   33 32 50 39   35 36 54 41
+Dewpt         60 58   56 51 48 38   30 28 31 31   28 29 34 35   33 33 39 39
+PWind dir        SE       S     W      NW     N      NW     W       W     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      60    30      10     5       5    10      10    20
+Rain                   L                                                   
+Rain shwrs     S  C    C  C  S                                            S
+
+$$
+MEZ005-240900-
+Northern Penobscot-
+Including the cities of Millinocket, East Millinocket, Patten, 
+and Medway
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                44 47 51    55 57 59    47 51 54    61 65 68    52 56 58
+Temp          60 53 50 49 48 49 54 56 56 53 53 53 53 54 60 64 64 60 59 58 57 57
+Dewpt         49 48 47 46 47 47 51 53 54 53 53 53 53 54 59 61 61 60 58 58 56 57
+RH            67 83 89 89 96 93 90 90 93100100100100100 96 90 90100 96100 96100
+Wind dir       S  S  S  S SE  E  E  E  E  E  E SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       3  2  2  2  1  2  3  4  4  2  1  2  2  2  4  5  4  4  3  4  3  3
+Clouds        SC B1 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     40          80          80          20          20
+QPF 12hr              0.00-0.07   0.41-0.62   0.02-0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                    S  C                                                   
+Rain shwrs                   SC  L  D  L  L  L  C  C  S  S  S  S  S  S  S  S  S
+Obvis               PF PF PF PF                                                
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      54    65      35    52      33    52      35    55
+Temp          64 60   59 55 63 47   40 36 52 40   35 34 51 41   37 37 55 43
+Dewpt         61 60   58 54 51 40   33 30 33 32   30 31 37 37   34 34 41 40
+PWind dir        SE       S    NW      NW     N       N     W       W     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC SC SC SC
+PoP 12hr         60      70    30      10     5       5    10      10    20
+Rain              L    L                                                   
+Rain shwrs     S  C       C  C                                            S
+
+$$
+MEZ006-240900-
+Southeast Aroostook-
+Including the cities of Houlton, Hodgdon, Sherman, 
+and Smyrna Mills
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                46 47 51    56 58 60    49 52 56    62 64 66    55 56 59
+Temp          59 54 50 49 48 49 55 57 56 54 54 54 54 55 60 63 64 60 59 58 57 57
+Dewpt         49 48 47 47 47 48 50 53 53 53 53 54 54 55 59 61 61 60 59 58 57 57
+RH            69 80 89 93 96 96 83 86 90 96 96100100100 96 93 90100100100100100
+Wind dir      SW SW  S  S SE  E  E  E  E  E  E SE  S  S  S  S  S  S  S  S  S  S
+Wind spd       3  2  2  2  1  1  3  4  4  2  2  2  2  2  4  5  4  3  3  4  3  3
+Clouds        SC B1 B2 OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 OV B2
+PoP 12hr                     30          80          80          30          20
+QPF 12hr                      0   0.43-0.66   0.02-0.10        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                       S                                                   
+Rain shwrs                   SC SC  D  D  D  L  C  C  C  S  S  S  S  S  S  S  S
+Obvis                  PF PF PF                                                
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      55    65      36    51      32    52      34    55
+Temp          64 60   59 56 64 48   40 36 51 40   34 34 50 40   37 37 55 43
+Dewpt         61 60   59 56 52 40   32 30 32 32   30 31 36 36   34 34 40 40
+PWind dir        SE       S     W      NW     N       N    NW       W     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC SC SC SC
+PoP 12hr         60      70    30      10     5       5    10      10    20
+Rain              L    L                                                   
+Rain shwrs     S  C       C  C  S                                         S
+
+$$
+MEZ010-240900-
+Central Piscataquis-
+Including the cities of Greenville, Monson, and Blanchard
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                44 48 52    52 56 59    47 51 55    55 64 67    52 55 59
+Temp          59 54 51 50 50 50 53 54 55 53 53 53 53 54 60 63 63 59 58 57 57 57
+Dewpt         43 45 45 45 46 48 50 53 53 52 53 53 53 54 58 59 60 58 58 57 56 56
+RH            55 71 80 83 86 93 89 96 93 96100100100100 93 87 90 96100100 96 96
+Wind dir       S  S SE SE  E  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S SE
+Wind spd       2  3  2  2  3  4  4  5  4  3  2  2  2  2  4  5  4  4  4  4  3  4
+Wind gust                                                  16    16 17 16 13   
+Clouds        SC B1 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                     50          70          70          20          20
+QPF 12hr              0.00-0.16   0.36-0.76   0.02-0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 S  S  C                                                   
+Rain shwrs                    L  L  L  L  L  C  C  S  S  S  S  S  S  S  S  S  S
+Obvis                        PF    PF PF                                       
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      53    61      35    50      34    50      35    54
+Temp          62 59   58 53 60 47   40 36 50 40   36 35 49 41   38 38 53 43
+Dewpt         59 59   57 53 49 39   33 30 31 32   31 31 35 36   34 35 39 39
+PWind dir        SE       S    NW      NW     N       N    NW       W    NW
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 SC SC   FW FW FW SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         60      60    20      10     5       5    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C    C  C  S                                            S
+
+$$
+MEZ031-240900-
+Southern Piscataquis-
+Including the cities of Dover-Foxcroft, Milo, and Guilford
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                46 47 49    55 57 59    50 52 53    63 66 67    54 55 57
+Temp          58 52 49 49 49 50 54 56 57 54 54 54 53 54 61 65 65 61 59 58 57 57
+Dewpt         48 48 48 47 48 49 52 54 54 54 54 54 53 54 60 61 61 60 59 58 56 57
+RH            69 86 96 93 96 96 93 93 90100100100100100 97 87 87 97100100 96100
+Wind dir       S  S SE NE NE NE NE NE NE NE NE  E  S  S  S  S  S  S  S  S SE SE
+Wind spd       2  2  1  2  2  3  4  5  4  2  2  1  1  2  3  5  4  3  3  2  2  2
+Clouds        B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 OV OV B2
+PoP 12hr                     70          80          80          30          30
+QPF 12hr              0.06-0.18   0.44-0.64        0.03        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 S  C  C                                                   
+Rain shwrs                    L  D  D  D  D  C  C  C  C  S  S  S  S  C  C  C  C
+Obvis               PF PF PF PF PF PF PF                                       
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      54    66      36    53      34    53      35    57
+Temp          64 60   58 55 65 49   42 37 53 42   36 35 52 42   38 38 56 44
+Dewpt         61 60   58 54 51 42   34 31 33 34   31 32 37 38   36 36 41 41
+PWind dir        SE       S    NW       N     N       N    NW      NW     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 SC SC   FW FW FW SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         60      60    20      10     5       5    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C    C  C  S                                         S  S
+
+$$
+MEZ011-240900-
+Central Penobscot-
+Including the cities of Lincoln, Howland, and Springfield
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                47 49 51    55 58 59    52 53 56    61 64 67    56 57 59
+Temp          58 53 50 50 50 50 54 57 58 56 55 56 55 56 60 63 64 62 59 59 58 58
+Dewpt         50 50 49 48 49 50 53 55 56 55 55 56 55 56 60 62 62 61 59 59 58 58
+RH            75 89 96 93 96100 96 93 93 96100100100100100 97 93 97100100100100
+Wind dir      SW SW SE  E  E NE  E  E  E  E  E SE  S  S  S  S  S  S  S  S  S SE
+Wind spd       2  1  1  1  1  2  3  4  4  2  1  1  2  2  2  4  2  2  2  2  2  2
+Clouds        B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV B2 OV B2 B2 B2 OV OV OV
+PoP 12hr                     60          80          80          30          30
+QPF 12hr              0.02-0.13   0.55-0.85   0.05-0.12        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 S  C  C                                                   
+Rain shwrs                    L  L  D  D  D  L  C  C  C  S  S  S  S  S  C  C  C
+Obvis               PF PF PF PF PF PF PF                                       
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      56    65      38    52      34    52      36    55
+Temp          63 61   60 56 65 50   43 38 52 42   37 35 51 42   39 38 55 45
+Dewpt         62 61   60 56 54 43   36 33 34 35   33 33 38 39   37 36 42 42
+PWind dir        SE       S    NW       N     N       N    NW       W     W
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV OV   B2 B2 B1 SC   FW FW FW SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         60      70    30      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C       C  S                                            S
+
+$$
+MEZ032-240900-
+Northern Washington-
+Including the cities of Danforth, Vanceboro, and Topsfield
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                47 48 51    56 58 60    52 53 56    62 64 65    55 56 60
+Temp          58 54 51 50 50 50 54 57 58 56 55 55 55 57 60 63 64 61 59 58 57 58
+Dewpt         50 50 49 48 49 49 52 54 55 55 55 55 55 57 60 61 61 60 59 58 57 58
+RH            75 86 93 93 96 96 93 90 90 96100100100100100 93 90 97100100100100
+Wind dir      SW SW SE  E  E  E  E  E  E  E SE SE  S  S  S  S  S  S  S  S  S SE
+Wind spd       1  1  1  1  1  2  3  4  4  2  2  2  2  2  2  3  2  2  2  2  2  2
+Clouds        B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                     40          80          80          40          30
+QPF 12hr              0.02-0.07   0.61-0.95        0.11        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                    S  C                                                   
+Rain shwrs                   SC  L  D  D  D  L  L  C  C  S  S  S  S  S  S  C  S
+Obvis               PF PF PF PF PF PF PF                                       
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      56    65      38    51      35    51      36    54
+Temp          63 61   59 57 65 51   42 38 51 42   37 36 50 42   39 39 54 45
+Dewpt         61 61   59 57 54 43   35 33 33 35   33 34 37 38   37 37 41 42
+PWind dir        SE       S     W       N     N       N    NW       W     W
+Wind char        LT      LT    LT      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC SC   SC SC SC SC
+PoP 12hr         60      70    30      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C       C  C  S                                         S
+
+$$
+MEZ015-240900-
+Southern Penobscot-
+Including the cities of Bangor, Brewer, Orono, and Old Town
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                46 49 51    56 59 61    51 54 56    60 66 67    55 56 59
+Temp          58 53 51 51 51 51 55 58 58 56 56 56 56 57 61 65 66 62 59 59 58 58
+Dewpt         50 49 49 49 50 51 54 57 57 56 56 56 56 57 61 63 63 61 59 59 57 58
+RH            75 86 93 93 96100 96 96 96100100100100100100 93 90 97100100 96100
+Wind dir      SE  E  E NE NE NE NE  E  E  E NE SE  S  S  S  S  S  S  S SE SE SE
+Wind spd       2  2  2  2  3  4  5  5  4  2  2  2  2  2  3  5  4  3  3  2  2  3
+Clouds        B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 OV B2 B2 B2 OV OV OV
+PoP 12hr                     80          90          80          30          40
+QPF 12hr              0.07-0.19   0.41-0.75   0.02-0.09        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 C  C  L                                                   
+Rain shwrs                    D  D  D  D  D  L  C  C  C  S  S  S  S  C  C  C  C
+Obvis               PF PF PF PF PF PF PF          PF PF                PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      56    67      39    53      35    53      36    57
+Temp          64 61   60 56 66 52   44 39 53 43   38 36 52 43   40 39 57 46
+Dewpt         63 61   60 56 54 44   37 33 36 36   34 34 40 40   38 37 44 43
+PWind dir         E       S    NW       N     N       N     N      NW    NW
+Wind char        LT      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    OV OV   B2 B2 B1 SC   FW SC SC SC   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         70      60    20      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C    C  C  S                                            S
+
+$$
+MEZ016-240900-
+Interior Hancock-
+Including the cities of Amherst, Aurora, Dedham, Eastbrook, 
+and Great Pond
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50    56 59 61          54    62 65 67    55 56 59
+Temp          58 54 53 52 52 52 56 58 58 57 57 57 57 57 62 64 64 61 59 59 58 57
+Dewpt         51 50 50 49 51 52 55 58 58 57 56 57 57 57 61 64 63 61 59 59 58 57
+RH            77 86 89 89 96100 96100100100 96100100100 97100 97100100100100100
+Wind dir      SE  E  E  E  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S SE SE SE
+Wind spd       2  2  2  2  3  4  5  5  5  2  2  2  2  2  3  5  3  2  2  2  2  2
+Clouds        B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                     80          90          80          30          30
+QPF 12hr              0.06-0.22   0.53-0.92        0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 C  C  L                                                   
+Rain shwrs                    D  D  D  D  D  L  C  C  C  S  S  S  S  S  C  C  C
+Obvis                     PF PF PF PF PF          PF PF                PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      56    66      39    53      37    52      38    56
+Temp          63 62   60 57 65 53   45 39 52 44   39 37 51 44   41 40 56 46
+Dewpt         63 61   60 57 56 46   38 34 37 38   35 36 42 42   40 39 45 45
+PWind dir         E       S    NW       N     N       N     N      NW    NW
+Wind char        LT      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    OV B2   B2 B2 B1 SC   SC SC SC SC   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         70      60    20      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C    C  C  S                                            S
+
+$$
+MEZ017-240900-
+Central Washington-
+Including the cities of Calais, Grand Lake Stream, Wesley, 
+and Princeton
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                47 50 52    57 59 61    52 54 57    62 65 67    54 56 59
+Temp          58 54 52 52 51 52 56 58 58 57 57 57 57 58 62 65 63 61 59 58 57 57
+Dewpt         50 50 50 50 51 52 55 57 57 56 56 57 57 58 62 63 63 60 59 58 57 57
+RH            75 86 93 93100100 96 96 96 96 96100100100100 93100 97100100100100
+Wind dir      SE  E  E NE  E  E  E  E  E SE SE SE  S  S  S  S  S  S  S SE SE SE
+Wind spd       1  1  1  1  2  3  4  5  4  2  2  1  2  1  2  3  2  2  1  1  2  2
+Clouds        B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                     70          80          80          40          30
+QPF 12hr              0.05-0.20   0.54-0.96   0.07-0.14           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 S  C  L                                                   
+Rain shwrs                    L  L  D  D  D  L  L  C  C  S  S  S  S  S  C  C  C
+Tstms                              IS IS                                       
+Obvis                     PF PF PF PF PF          PF PF                PF PF   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      56    66      39    53      36    53      38    56
+Temp          63 62   60 57 66 53   44 40 53 43   39 38 52 44   41 41 56 46
+Dewpt         62 61   60 57 57 47   38 35 36 38   35 36 41 42   40 40 44 45
+PWind dir         E       S     W       N     N       N     N      NW    NW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2   B2 B2 B1 SC   SC SC SC SC   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         60      70    30      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C       C  S                                            S
+
+$$
+MEZ029-240900-
+Coastal Hancock-
+Including the cities of Ellsworth, Bar Harbor, Bucksport, Orland, 
+and Castine
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                49 51 53    57 60 63    53 54 57    58 64 67    54 55 57
+Temp          58 55 54 53 53 55 58 59 59 57 57 57 57 58 62 64 62 59 58 57 56 57
+Dewpt         52 51 51 51 52 54 57 58 58 56 56 57 57 57 61 62 61 59 58 57 56 57
+RH            80 86 90 93 96 96 96 96 96 96 96100100 96 97 93 97100100100100100
+Wind dir       E  E  E NE NE  E  E  E  E SE SE  S  S  S  S  S  S SE SE SE  E  E
+Wind spd       2  3  4  5  6  9  8  8  6  3  3  2  2  2  3  4  3  2  2  2  3  3
+Wind gust           16 21 24 25 23 20 17 16 13                            13 17
+Clouds        B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV OV OV
+PoP 12hr                     80          80          80          30          30
+QPF 12hr              0.17-0.53   0.44-0.93        0.06        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain              S  C  D  D                                                   
+Rain shwrs                    D  D  L  L  D  L  C  C  C  S  S  S  S  S  C  C  C
+Tstms                              IS IS                                       
+Obvis                  PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      55    66      42    55      40    55      42    58
+Temp          63 60   59 57 66 54   47 42 55 47   42 41 53 47   44 44 57 49
+Dewpt         62 60   58 57 57 47   40 37 39 39   37 38 43 43   42 42 46 46
+PWind dir         E       S    NW       N     N       N     N       N    NW
+Wind char        LT      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    OV OV   OV B2 B1 SC   SC SC SC SC   SC B1 B1 SC   SC B1 SC SC
+PoP 12hr         70      60    20      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C    C  C  S                                            S
+
+$$
+MEZ030-240900-
+Coastal Washington-
+Including the cities of Eastport, Perry, Machias, and Cherryfield
+308 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                49 50 53    56 60 62    52 54 55    57 63 66          54
+Temp          57 54 53 52 52 54 58 59 58 57 57 57 57 57 61 63 61 59 57 56 55 57
+Dewpt         51 51 51 50 52 53 56 58 57 56 56 57 56 57 60 61 60 58 57 56 55 57
+RH            80 90 93 93100 96 93 96 96 96 96100 96100 97 93 97 96100100100100
+Wind dir       E NE NE NE NE  E  E  E  E SE SE SE  S  S  S  S  S SE SE  E SE  E
+Wind spd       1  2  2  3  4  5  6  6  5  3  2  2  2  2  3  3  2  1  1  1  2  2
+Wind gust           12 16 19 21 20 18 17 16 13 13       13 13    11 11 11    13
+Clouds        B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV OV
+PoP 12hr                     80          80          80          40          30
+QPF 12hr              0.08-0.30   0.48-0.70   0.07-0.15        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                 C  L  L                                                   
+Rain shwrs                    D  L  L  L  D  L  L  C  C  S  S  S  S  S  C  C  C
+Tstms                              IS IS                                       
+Obvis               PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF PF
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      55    66      41    55      39    54      41    57
+Temp          62 60   58 56 65 54   45 42 54 46   41 41 53 46   44 44 57 48
+Dewpt         61 60   58 56 58 49   39 36 37 39   37 38 42 43   42 42 45 46
+PWind dir         E       S     W       N     N      NE     N      NW    NW
+Wind char        LT      LT    LT      GN    GN      LT    LT      LT    LT
+Avg clouds    OV OV   OV OV B1 SC   SC SC SC SC   SC B1 B1 SC   SC B1 SC SC
+PoP 12hr         60      70    30      10    10      10    10      10    20
+Rain              L    L                                                   
+Rain shwrs     C  C       C  S                                            S
+
+$$

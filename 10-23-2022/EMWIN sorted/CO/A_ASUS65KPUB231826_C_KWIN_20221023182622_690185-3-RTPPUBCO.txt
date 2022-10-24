@@ -1,0 +1,93 @@
+ASUS65 KPUB 231826
+RTPPUB
+
+Max/min Temperature And Precipitation Table
+For Southeast And South Central Colorado
+National Weather Service Pueblo Co
+1215 PM MDT Sun Oct 23 2022
+
+Following are airport observations taken by the National Weather
+Service.  Values represent highs yesterday...18 hour lows ending
+at noon...and 24 hour precipitation ending at 6 AM.
+
+.BR PUB 1023 M DH01/TAIRZX/DH11/TAIRZI/DH05/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:       Station                    Max /  Min /  24-HR / Snow /  Snow
+:       Name                      Temp / Temp / Precip / Fall / Depth
+:
+ALS  :  Alamosa                :    66 /   44 /    T   /  0.0 /     0
+COS  :  Colorado Springs       :    77 /   52 /   0.00 /  0.0 /     0
+LHX  :  La Junta               :    84 /   56 /   0.00 /    M /     M
+LAA  :  Lamar                  :    86 /   49 /   0.00 /    M /     M
+LXV  :  Leadville              :    55 /   30 /   0.02 /    M /     M
+PUB  :  Pueblo                 :    81 /   64 /   0.00 /  0.0 /     0
+SPD  :  Springfield            :    86 /   61 /   0.00 /    M /     M
+TAD  :  Trinidad               :    77 /   53 /   0.00 /    M /     M
+.END
+
+Following are observations taken by National Weather Service
+Cooperative Observers.  Values represent highs...lows and
+precipitation for the 24 hour period ending at obs time.
+
+.BR PUB 1023 M DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:       Station             Obs /  Max /  Min /  24-HR / Snow /  Snow
+:       Name               Time / Temp / Temp / Precip / Fall / Depth
+:
+ALBC2 : Alamosa 1E     : DH0659 /   66 /   24 /   0.00 /    M /     M
+BKFC2 : Bl Forest 6WNW : DH0700 /   78 /   50 /   0.00 /  0.0 /     0
+BNVC2 : Buena Vista    : DH0800 /   65 /   42 /    T   /  0.0 /     0
+CMPC2 : Campo 7S       : DH0700 /   87 /   48 /   0.00 /    M /     M
+CTYC2 : Canon City     : DH0700 /   76 /   55 /   0.00 /  0.0 /     0
+CMHC2 : Colo Sprng 10N : DH0700 /   71 /   53 /   0.00 /  0.0 /     0
+DLNC2 : Del Norte 3ENE : DH0700 /   60 /   32 /   0.00 /  0.0 /     0
+DNWC2 : Divide 4NW     : DH0600 /   58 /   34 /   0.00 /  0.0 /     0
+GSDC2 : Grt Sand Dunes : DH0800 /   63 /   40 /   0.00 /  0.0 /     0
+KIXC2 : Kim 10SSE      : DH0700 /   80 /   49 /   0.00 /    M /     M
+LJTC2 : La Junta       : DH0700 /   83 /   54 /   0.00 /  0.0 /     0
+LMRC2 : Lamar          : DH0700 /   84 /   36 /   0.00 /  0.0 /     0
+MVSC2 : Monte Vista 1W : DH0700 /   63 /   28 /    T   /    M /     M
+ORDC2 : Ordway 4NW     : DH0710 /   82 /   36 /   0.00 /    M /     M
+PBRC2 : Pueblo Rsvr    : DH0700 /   80 /   50 /   0.00 /    M /     M
+WALC2 : Walsenburg 1NW : DH0700 /   74 /   51 /   0.00 /  0.0 /     0
+WAVC2 : Waverly 1W     : DH0700 /   65 /   29 /   0.00 /    M /     M
+.END
+
+Following are observations taken by National Weather Service
+Cooperative Observers that report precipitation only.  Values
+represent 24 hour precipitation ending at obs time.
+
+.BR PUB 1023 M DH07/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:       Station             Obs /                24-HR / Snow /  Snow
+:       Name               Time /               Precip / Fall / Depth
+:
+AGRC2 : Aguilar 18WSW  : DH0700 /                 0.27 /  0.0 /     0
+PLKC2 : Palmer Lake    : DH0700 /                 0.00 /  0.0 /     0
+.END
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information.
+Therefore...these data are subject to revision.  Final and
+certified climate data can be accessed at www.ncei.noaa.gov.
+
+&&
+
+Following are supplemental observations taken by volunteer amateur
+radio operators.  Values represent highs...lows and precipitation
+for the 24 hour period ending at obs time.
+
+        Station             Obs /  Max /  Min /  24-HR / Snow /  Snow
+        Name               Time / Temp / Temp / Precip / Fall / Depth
+ 
+PUNC2 : PUEBLO 3N      : DH0700 /   81 /   52 /   0.00 /  0.0 /     0
+
+Following are supplemental observations taken by volunteer CoCoRaHS
+observers.  Precipitation and snowfall are for the 24 hour period
+ending at obs time.
+
+            Station                        Obs /  24-hr / Snow / Snow
+            Name                          Time / Precip / Fall /Depth
+
+
+$$

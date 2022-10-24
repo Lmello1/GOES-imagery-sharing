@@ -1,0 +1,207 @@
+FPUS62 KCHS 231716
+SFTCHS
+GAZ087-088-099>101-114>119-137>141-SCZ040-042>045-047>052-232200-
+
+Tabular State Forecast for Southeast South Carolina and Southeast Georgia
+National Weather Service Charleston SC
+116 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+
+...Southeast South Carolina...
+   Allendale
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /78    46/77    50/78    58/80    55/79    57/79    59/76    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Beaufort
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /78    53/76    57/77    62/78    61/77    62/77    63/75    
+      /00    00/00    00/00    10/10    10/10    10/20    20/20   
+
+   Bluffton
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /77    51/77    57/78    63/79    60/79    62/79    62/76    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Charleston Waterfront
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /76    57/75    59/77    63/78    63/78    63/78    63/76    
+      /00    00/00    00/00    00/10    10/10    10/20    20/20   
+
+   Daniel Island
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /76    53/76    57/78    62/80    62/79    62/78    62/77    
+      /00    00/00    00/00    00/10    10/10    10/20    20/20   
+
+   Edisto Beach
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /73    58/73    61/73    66/74    64/74    64/75    64/73    
+      /00    00/00    00/00    00/10    10/10    10/20    20/30   
+
+   Hampton
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /78    46/77    51/79    59/80    56/80    58/79    59/76    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Hilton Head Island
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /74    57/75    60/76    64/77    62/76    63/76    63/75    
+      /00    00/00    00/00    10/10    10/10    10/20    20/20   
+
+   Isle Of Palms
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /73    58/73    61/74    65/76    64/75    64/75    64/74    
+      /00    00/00    00/00    00/10    10/10    10/20    20/30   
+
+   Kiawah Island
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /74    56/73    60/74    64/76    64/75    63/75    63/74    
+      /00    00/00    00/00    00/10    10/10    10/20    20/20   
+
+   McClellanville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /75    50/75    55/76    59/78    60/77    59/76    60/75    
+      /00    00/00    00/00    00/10    10/10    10/20    20/30   
+
+   Moncks Corner
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /76    49/75    54/77    58/79    60/78    59/78    60/75    
+      /00    00/00    00/00    00/10    10/10    10/10    10/20   
+
+   North Charleston
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /78    49/76    55/78    60/80    62/79    61/79    62/76    
+      /00    00/00    00/00    00/10    10/10    10/10    10/20   
+
+   Ravenel
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /78    49/76    55/77    60/79    61/78    61/78    62/75    
+      /00    00/00    00/00    00/10    10/10    10/10    10/20   
+
+   Ridgeland
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    48/76    53/78    60/79    58/78    59/78    61/75    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   St. George
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /77    45/76    51/79    58/81    57/80    58/79    59/76    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Summerville
+   Sunny    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /78    48/75    54/78    59/80    60/78    59/79    61/75    
+      /00    00/00    00/00    00/10    10/10    10/10    10/20   
+
+   Walterboro
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /78    46/76    51/78    58/80    57/79    58/79    59/75    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+
+...Southeast Georgia...
+   Claxton
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /80    45/80    52/81    60/81    55/81    59/81    61/78    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Darien
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /78    49/77    57/79    61/81    59/80    61/80    62/78    
+      /00    00/00    00/00    10/20    20/10    10/10    10/20   
+
+   Downtown Savannah
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /78    50/77    57/78    63/81    60/80    62/79    62/77    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Halfmoon Landing
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    51/77    56/78    61/81    58/79    60/79    62/78    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Hinesville
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    45/79    53/81    60/81    56/81    59/81    61/78    
+      /00    00/00    00/00    10/20    20/10    10/10    10/20   
+
+   Ludowici
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    45/80    53/81    60/82    55/81    59/82    60/79    
+      /00    00/00    00/00    10/20    20/10    10/10    10/20   
+
+   Metter
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    45/79    51/81    60/81    55/81    59/81    60/78    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Millen
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    45/79    49/81    59/81    53/81    57/81    59/77    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Pembroke
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /80    45/79    52/81    60/81    55/81    59/81    60/78    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Reidsville
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /80    45/80    53/81    60/81    55/81    59/82    61/78    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Richmond Hill
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    49/78    55/79    61/81    57/80    60/80    61/78    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Skidaway Island
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /77    52/75    58/76    63/78    60/78    62/77    62/75    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Springfield
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    47/78    52/80    60/81    57/81    59/80    61/77    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Statesboro
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    45/79    51/81    60/81    55/81    58/81    59/78    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+   Sylvania
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    46/77    50/79    59/80    54/79    57/79    59/76    
+      /00    00/00    00/00    10/10    10/00    00/10    10/20   
+
+   Townsend
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /79    48/78    55/80    61/82    57/81    60/81    61/79    
+      /00    00/00    00/00    10/20    20/10    10/10    10/20   
+
+   Tybee Island
+   Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Mocldy   
+     /72    62/73    63/74    67/76    64/76    66/76    66/74    
+      /00    00/00    00/00    10/10    10/10    10/20    20/20   
+
+   Wilmington Island
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Ptcldy   Mocldy   
+     /76    55/75    59/76    63/78    60/77    62/76    63/75    
+      /00    00/00    00/00    10/10    10/10    10/10    10/20   
+
+
+$$
+

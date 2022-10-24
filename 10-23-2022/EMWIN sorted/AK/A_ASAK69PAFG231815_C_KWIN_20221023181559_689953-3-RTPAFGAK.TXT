@@ -1,0 +1,140 @@
+ASAK69 PAFG 231815
+RTPAFG
+Regional Temperature and Precipitation Roundup
+National Weather Service Fairbanks AK
+1015 AM akd Sun Oct 23 2022
+
+ All values are for 18 hours between 3 PM yesterday and
+ 9 AM Alaska local time today.
+:
+ Snowfall and snow depth data available only at augmented
+ sites.
+ Precipitation data reliable during the winter only at
+ augmented sites.
+.B PAFG 1023 Z DH18/TXL/TNL/PPL/SF/SD
+:
+: ID           STATION            HI    LO    PCPN   SNOW SNOW
+:                                                    FALL DEPTH 
+PAFA  : Fairbanks Airport      :  33 /  29 /    T  /     /     
+PAEI  : Eielson AFB            :  31 /  27 /  0.01 /     /    9
+PANN  : Nenana                 :  33 /  28 /  0.00 /     / 
+PATA  : Tanana                 :  33 /  27 /       /     / 
+PAMH  : Minchumina             :  33 /  22 /       /     /     
+PAIN  : Denali Park            :  30 /  18 /       /     /     
+PABI  : Delta Junction         :  25 /  21 /  0.00 /     /     
+PAOR  : Northway Airport       :  31 /  17 /       /     / 
+PAEG  : Eagle                  :     /     /       /     /     
+PFYU  : Fort Yukon             :  24 /   6 /       /     /     
+PARC  : Arctic Village         :  14 /   6 /       /     /     
+PABT  : Bettles                :  29 /  20 /       /     / 
+PAHL  : Huslia                 :  38 /  25 /       /     /     
+PAGA  : Galena                 :  35 /  27 /    T  /     /     
+PAKV  : Kaltag                 :  32 /  22 /  0.00 /     /     
+PAMC  : McGrath                :  31 /  28 /    T  /     /     
+PAFS  : Nikolai                :  38 /  25 /  0.00 /     /     
+PANV  : Anvik                  :  35 /  27 /       /     /     
+PAHC  : Holy Cross             :     /     /       /     /     
+:
+PABR  : Barrow Airport         :  27 /  20 /  0.00 /     /     
+PPIZ  : Point Lay              :  25 /  13 /    T  /     /     
+PAWI  : Wainwright             :  20 /   9 /       /     / 
+PATQ  : Atqasuk                :  22 /  11 /  0.00 /     /     
+PAQT  : Nuiqsut                :  23 /  14 /       /     / 
+PASC  : Deadhorse              :  25 /  20 /       /     / 
+PABA  : Barter Island          :  25 /  23 /       /     /     
+PAKP  : Anaktuvuk Pass         :  21 /  15 /       /     /     
+:
+PAOM  : Nome                   :  41 /  34 /  0.30 /     /     
+PAOT  : Kotzebue               :  34 /  30 /  0.09 /     /     
+PAPO  : Point Hope             :     /     /       /     /     
+PAVL  : Kivalina               :     /     /       /     /     
+PAWN  : Noatak                 :  34 /  33 /       /     /     
+PAFM  : Ambler                 :  32 /  28 /       /     /     
+PAGH  : Shungnak Airport       :     /     /       /     /     
+PASH  : Shishmaref             :  36 /  29 /       /     /     
+PADE  : Deering                :     /     /       /     /     
+PABL  : Buckland               :  35 /  32 /       /     /     
+PAIW  : Wales                  :     /     /       /     /     
+PATE  : Teller                 :  36 /  29 /       /     /     
+PAGL  : Golovin                :  38 /  35 /       /     /     
+PAKK  : Koyuk                  :  33 /  32 /       /     /     
+PAUN  : Unalakleet             :  38 /  29 /       /     /     
+PAMK  : Saint Michael          :  39 /  30 /       /     /     
+PAEM  : Emmonak                :     /     /       /     /     
+PACM  : Scammon Bay            :     /     /       /     /     
+PASM  : Saint Marys            :  39 /  30 /       /     /     
+PAHP  : Hooper Bay             :     /     /       /     /     
+.END
+
+
+ Cooperative Observations 
+ All values are for 24 hours ending around 9 AM Alaska
+ local time today.
+.B PAFG 1023 Z DH17/TX/TN/PPD/SF/SD
+:
+: ID           STATION            HI    LO    PCPN   SNOW SNOW
+:                                                    FALL DEPTH
+GSCA2 : Goldstream Creek       :  32 /  25 /  0.03 /  0.9/    3
+DNPA2 : Denali Park HQ         :     /     /       /     /     
+LMHA2 : Lake Minchumina        :  35 /  23 /  0.00 /  0.0/    1
+CHSA2 : Circle Hot Springs     :  26 /  16 /  0.01 /  0.6/    5
+BIGA2 : Delta Junction 20SE    :     /     /       /     /     
+DDAA2 : Delta 6N               :     /     /       /     /     
+CQNA2 : Chicken COOP           :  29 /  14 /  0.10 /  0.5/    3
+PACA2 : Port Alcan             :     /     /       /     /     
+EGLA2 : Eagle                  :  32 /  23 /  0.06 /  0.6/    4
+HFLA2 : North Pole    1N       :  32 /  26 /  0.03 /  0.3/    6
+WITA2 : Whitestone Farms       :     /     /       /     /     
+SFXA2 : South Fox              :  33 /  27 /  0.05 /  1.2/    5
+BROA2 : Barrow ERL             :     /     /       /     /     
+NMRA2 : KNOM Nome Radio Station:     /     /       /     /     
+RBNA2 : Robertson River        :  32 /  15 /    T  /    T/    9
+MLYA2 : Manley Hot Springs 15NE :     /     /       /     /     
+WSMA2 : Wiseman                :  25 /  16 /  0.00 /     /    2
+
+
+.END
+ Cooperative Observations 
+ All values are for 24 hours ending around 2 PM Alaska
+ local time yesterday.
+.B PAFG 1023 Z DH23/TX/TN/PPD/SF/SD
+:
+: ID           STATION            HI    LO    PCPN   SNOW SNOW
+:                                                    FALL DEPTH
+GCQA2 : Gilmore Creek          :     /     /       /     /     
+DRYA2 : Dry Creek              :     /     /       /     /     
+.END
+
+
+ Cooperative Observations 
+ All values are for 24 hours ending around 6 PM Alaska
+ local time yesterday.
+.B PAFG 1023 Z DH03/TX/TN/PPD/SF/SD
+:
+: ID           STATION            HI    LO    PCPN   SNOW SNOW
+:                                                    FALL DEPTH
+TOAA2 : Tok #2                 :  31 /  27 /  0.01 /  0.2/   10
+GALA2 : Galena                 :     /     /       /     /     
+APNA2 : Alpine Airstrip        :  27 /  22 /  0.00 /  0.0/    0
+UBW   : Kuparuk                :     /     /       /     /     
+.END
+
+
+ Cooperative Observations 
+ All values are for 24 hours ending around 10 PM Alaska
+ local time yesterday.
+.B PAFG 1023 Z DH06/TX/TN/PPD/SF/SD
+:
+: ID           STATION            HI    LO    PCPN   SNOW SNOW
+:                                                    FALL DEPTH
+FAOA2 : College Observatory    :  32 /  28 /  0.05 /  1.4/    4
+AURA2 : Aurora/Fairbanks       :  33 /  29 /  0.04 /  0.4/    2
+RPLA2 : Redpoll/Fairbanks Hills:     /     /       /     /     
+ENEA2 :Goldstream Valley Bottom:     /     /       /     /     
+KERA2 : Keystone Ridge         :     /     /       /     /     
+NOPA2 : North Pole             :  32 /  29 /  0.01 /  0.5/    4
+EFLA2 : East Farmers Loop      :  33 /  28 /  0.10 /  1.4/    4
+FKMA2 : Fort Knox Mine         :  28 /  23 /  0.05 /     /     
+CSKA2 : Clear Sky              :     /     /       /     /     
+.END
+

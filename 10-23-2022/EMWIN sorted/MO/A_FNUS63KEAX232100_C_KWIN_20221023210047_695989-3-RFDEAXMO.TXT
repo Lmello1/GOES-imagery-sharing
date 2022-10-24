@@ -1,0 +1,307 @@
+FNUS63 KEAX 232100
+RFDEAX
+
+GRASSLAND FIRE DANGER INDEX **EXPERIMENTAL**
+NATIONAL WEATHER SERVICE KANSAS CITY/PLEASANT HILL, MO
+400 PM CDT SUN OCT 23 2022
+
+THE GFDI DOES NOT ACCOUNT FOR PRECIPITATION THAT OCCURS WITHIN
+THE HOUR PRECEDING ANY GIVEN FORECAST HOUR BELOW OR ANY SNOW ON
+THE GROUND AT THE FORECAST HOUR. PLEASE MAKE APPROPRIATE ADJUSTMENTS.
+
+GFDI SCALE:
+
+(L)  LOW                   0 TO  2
+(M)  MODERATE              3 TO  7
+(H)  HIGH                  8 TO 19
+(V)  VERY HIGH            20 TO 49
+(X)  EXTREME              50+
+(-)  MISSING
+
+
+KSZ060-241500-
+LINN KS-
+INCLUDING THE CITIES OF PLEASANTON, LA CYGNE, AND MOUND CITY
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *                            V    V    H  
+MON OCT 24  HIGH       14  *   H    H    M    M    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ057-241500-
+MIAMI-
+INCLUDING THE CITIES OF PAOLA, OSAWATOMIE, AND LOUISBURG
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  20  *                            H    H    H  
+MON OCT 24  HIGH       14  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ105-241500-
+JOHNSON KS-
+INCLUDING THE CITIES OF OVERLAND PARK, STANLEY, OLATHE, SHAWNEE, 
+AND LENEXA
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  21  *                            V    V    H  
+MON OCT 24  HIGH       16  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ104-241500-
+WYANDOTTE-
+INCLUDING THE CITY OF KANSAS CITY KANSAS
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  21  *                            V    V    H  
+MON OCT 24  HIGH       17  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ103-241500-
+LEAVENWORTH-
+INCLUDING THE CITIES OF FORT LEAVENWORTH, LEAVENWORTH, 
+AND LANSING
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  21  *                            V    H    H  
+MON OCT 24  HIGH       17  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ025-241500-
+ATCHISON KS-
+INCLUDING THE CITY OF ATCHISON
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  25  *                            V    V    H  
+MON OCT 24  HIGH       17  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+KSZ102-241500-
+DONIPHAN-
+INCLUDING THE CITIES OF WATHENA, ELWOOD, TROY, AND HIGHLAND
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  29  *                            V    V    H  
+MON OCT 24  HIGH       18  *   H    H    M    M    M    L    L    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    L    M    M    L    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    L    M    L    L  
+THU OCT 27  MODERATE    7  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ011-241500-
+HOLT-
+INCLUDING THE CITIES OF MOUND CITY, OREGON, MAITLAND, 
+FOREST CITY, AND CRAIG
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  28  *                            V    V    H  
+MON OCT 24  HIGH       18  *   H    H    M    M    M    L    L    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    L    M    M    L    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    L    M    L    L  
+THU OCT 27  HIGH        8  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ020-241500-
+BUCHANAN-
+INCLUDING THE CITIES OF ST. JOSEPH AIRPORT AND ST. JOSEPH
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  25  *                            V    V    H  
+MON OCT 24  HIGH       18  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    M    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ028-241500-
+PLATTE-
+INCLUDING THE CITIES OF PARKVILLE, PLATTE CITY, RIVERSIDE, 
+WEATHERBY LAKE, AND WESTON
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *                            V    V    H  
+MON OCT 24  HIGH       19  *   H    H    M    L    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    M    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ029-241500-
+CLAY-
+INCLUDING THE CITIES OF GLADSTONE, LIBERTY, EXCELSIOR SPRINGS, 
+AND KEARNEY
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  21  *                            V    H    H  
+MON OCT 24  HIGH       14  *   H    H    M    M    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    M    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ037-241500-
+JACKSON-
+INCLUDING THE CITIES OF KANSAS CITY AND INDEPENDENCE
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *                            V    H    H  
+MON OCT 24  HIGH       15  *   H    H    M    M    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ043-241500-
+CASS-
+INCLUDING THE CITIES OF BELTON, RAYMORE, HARRISONVILLE, 
+AND PLEASANT HILL
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  22  *                            V    H    H  
+MON OCT 24  HIGH       13  *   H    H    M    M    L    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ053-241500-
+BATES-
+INCLUDING THE CITIES OF BUTLER, ADRIAN, AND RICH HILL
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  24  *                            V    H    H  
+MON OCT 24  HIGH       13  *   H    H    M    M    M    M    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ054-241500-
+HENRY-
+INCLUDING THE CITIES OF CLINTON AND WINDSOR
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  20  *                            V    H    H  
+MON OCT 24  HIGH       10  *   H    H    M    M    M    L    L    L  
+TUE OCT 25  MODERATE    5  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ044-241500-
+JOHNSON MO-
+INCLUDING THE CITY OF WARRENSBURG
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *                            V    H    H  
+MON OCT 24  HIGH       12  *   H    H    M    M    M    L    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    L    M    M    L    L  
+WED OCT 26  LOW         2  *   L    L    L    L    L    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+MOZ024-241500-
+LINN MO-
+INCLUDING THE CITIES OF BROOKFIELD AND MARCELINE
+359 PM CDT SUN OCT 23 2022
+
+                                 (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH        8  *                            H    M    M  
+MON OCT 24  MODERATE    4  *   M    M    M    L    L    L    L    L  
+TUE OCT 25  LOW         2  *   L    L    L    L    L    L    L    L  
+WED OCT 26  LOW         1  *   L    L    L    L    L    L    L    L  
+THU OCT 27  LOW         2  *   L    L    L    L    L    L    L    L  
+FRI OCT 28  LOW         1  *   L    L    L    L    L    L    L    L  
+$$
+
+&&
+
+
+THIS PRODUCT IS BEING CREATED FOR COUNTIES WHERE GRASSLAND CURING
+INFORMATION IS AVAILABLE. ADDITIONAL COUNTIES IN THE PLEASANT HILL
+OFFICE AREA OF RESPONSIBILITY WILL BE ADDED WHEN CURING OBSERVATION
+FOR THOSE AREAS CAN BE OBTAINED. FOR ADDITIONAL INFORMATION CONTACT
+THE PLEASANT HILL/KANSAS CITY WEATHER OFFICE AT 816-540-6021.

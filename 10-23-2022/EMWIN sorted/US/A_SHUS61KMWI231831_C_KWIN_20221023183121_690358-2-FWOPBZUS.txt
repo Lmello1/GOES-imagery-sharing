@@ -1,0 +1,24 @@
+SHUS61 KMWI 231831
+FWOPBZ
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:05 GMT
+ 
+Listing of Observations (Pittsburgh, PA)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+MORAIN 360191 221023 12 R 2  74  39  29 0 0 194  2     74  35  98  29  0 0.000
+YELLOW 360631 221023 12 R 2  71  35  27 0 0 115  4     75  32 100  21  0 0.000
+ALLEGH 361002 221023 13 R 1  71  35  27 0 0 140  4     71  35  91  26  0 0.000
+QUARRY 361291 221023 13 R 2  63  31  31 0 0 160  5     70  46  60  24  0 0.000
+HILLCR 460101 221023 13 R 2  72  38  30 0 0  70  5     72  48  67  30  0 0.000
+KINGWO 460901 221023 13 R 2  71  34  26 0 0  31  0     72  36  97  22  0 0.000
+WVU RE 460902 221023 13 R 2  70  34  27 0 0 342  2     71  44  72  27  0 0.000
+DAVIS  462601 221023 13 R 1  65  29  26 0 0  59  2     67  47  51  19  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:05 GMT
+

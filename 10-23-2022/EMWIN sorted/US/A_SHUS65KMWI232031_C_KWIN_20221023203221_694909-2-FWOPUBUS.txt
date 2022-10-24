@@ -1,0 +1,65 @@
+SHUS65 KMWI 232031
+FWOPUB
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:31:26 GMT
+ 
+Listing of Observations (Pueblo, CO)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+RED CR 054001 221023 12 R 2  61  32  34 0 0 202 10     77  58  46   9  0 0.000
+NWS Office:  PUB/Zone: 220
+RED DE 052902 221023 13 R 3  33  23  69 0 0 230  8     60  33  98  10  7 0.440
+LODGEP 056501 221023 13 R 3  33  21  62 0 0 219  7     56  32  96  14  3 0.230
+Count:     2  Zone Average:  33  22  66          8  0  58  33  97  12  5 0.335
+ 
+Zone: 221
+MANCHE 053501 221023 12 R 2  43  27  55 0 0 245 18     63  40  84  10  1 0.010
+FORT C 053603 221023 12 R 2  57  31  37 0 0 210 16     71  57  37  11  0 0.000
+RAMPAR 053605 221023 12 R 3  34  31  92 0 0 287 13     60  34  92  11  0 0.000
+Count:     3  Zone Average:  45  30  61         16  0  65  44  71  11  0 0.003
+ 
+Zone: 222
+COPPER 053904 221023 12 R 3  57  20  24 0 0 213 10     69  51  44  13  0 0.000
+Count:     1  Zone Average:  57  20  24         10  0  69  51  44  13  0 0.000
+ 
+Zone: 223
+LUJAN  054702 221023 12 R 3  29  25  86 0 0 348  6     54  26  98  20  1 0.020
+BLUE P 055305 221023 12 R 2  34  16  48 0 0 244 18     49  30  98  32  3 0.100
+BIGHOR 056005 221023 12 R 3  34  28  81 0 0 252 20     57  34  89  32 14 0.640
+Count:     3  Zone Average:  32  23  72         15  0  53  30  95  28  6 0.253
+ 
+Zone: 224
+ALAMOS 055504 221023 13 R 2  49  28  45 0 0 243 14     66  44  85  16  0 0.000
+Count:     1  Zone Average:  49  28  45         14  0  66  44  85  16  0 0.000
+ 
+Zone: 225
+BEAR C 053905 221023 12 R 3  33  28  84 0 0 297 12     58  31  88  17  1 0.070
+WILLIS 054801 221023 12 R 3  41  31  68 0 0 233  6     59  38  80  16  3 0.100
+BLACK  055601 221023 12 R 3  40  27  60 0 0  71 20     61  40  79  15  2 0.080
+BOSQUE 056203 221023 12 R 2  48  35  61 0 0 243  9     62  48  61  20  0 0.000
+Count:     4  Zone Average:  41  30  68         12  0  60  39  77  17  2 0.062
+ 
+Zone: 226
+RAMAH  053606 221023 13 R 1  65  25  22 0 0 214 26     75  54  34   8  0 0.000
+Count:     1  Zone Average:  65  25  22         26  0  75  54  34   8  0 0.000
+ 
+Zone: 232
+ROCKY  054201 221023 13 R 2  78  29  17 0 0 226 14     86  58  38   8  0 0.000
+PINON  056202 221023 13 R 2  71  30  22 0 0 248 21     79  55  53  10  0 0.000
+Count:     2  Zone Average:  75  30  20         18  0  83  57  46   9  0 0.000
+ 
+Zone: 236
+GRANAD 054401 221023 13 R 2  83  30  15 0 0 213 23     87  55  58   7  0 0.000
+Count:     1  Zone Average:  83  30  15         23  0  87  55  58   7  0 0.000
+ 
+Zone: 237
+UTE  C 056301 221023 12 R 2  78  32  19 0 0 219 36     85  63  60   7  0 0.000
+Count:     1  Zone Average:  78  32  19         36  0  85  63  60   7  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:31:26 GMT
+

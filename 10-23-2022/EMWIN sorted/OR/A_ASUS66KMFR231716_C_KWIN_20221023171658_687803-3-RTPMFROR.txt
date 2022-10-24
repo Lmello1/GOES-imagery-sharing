@@ -1,0 +1,65 @@
+ASUS66 KMFR 231716
+RTPMFR
+
+Regional Temperature and Precipitation Table
+National Weather Service MEDFORD OR
+1015 AM PDT Sun Oct 23 2022
+
+.BR MFR 1023 P DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                              OBS  24HR   24HR   24HR   SNOW   SNOW
+:ID    STATION        ELEV    TIME  HIGH    LOW   PCPN   FALL   DPTH
+:
+:WESTERN OREGON
+ASHO3 :Ashland        1750 : DH0530   51 /   40 / 0.46 /    M /    M 
+BDNO3 :Bandon           20 :           M /    M /    M /    M /    M 
+BROO3 :Brookings COOP  175 :           M /    M /    M /    M /    M 
+COQO3 :Coquille         10 : DH0800   60 /   42 / 0.20 /    M /    M 
+CRLO3 :Crater Lake    6475 : DH0800   29 /   24 / 2.30 /  2.6 /    7 
+DRNO3 :Drain           292 :           M /    M /    M /    M /    M 
+ELTO3 :Elkton          150 :           M /    M /    M /    M /    M 
+FVWO3 :Fairview        195 :           M /    M /    M /    M /    M 
+GPSO3 :Grants Pass     925 : DH0700   56 /   42 / 0.19 /    M /    M 
+HOWO3 :Howard Prairie 4567 :           M /    M /    M /    M /    M 
+LMLO3 :Lemolo Lake    4077 : DH0930   39 /   31 / 0.73 /  1.5 /    1 
+LOSO3 :Lost Creek Lak 1700 : DH0600   52 /   41 / 0.31 /    M /    M 
+OLEO3 :Odell Lake Eas 4786 :           M /    M /    M /    M /    M 
+RUCO3 :Ruch           1510 :           M /    M /    M /    M /    M 
+WINO3 :Winchester Dam  462 : DH0700   56 /   41 / 0.50 /    M /    M 
+CYVO3 :Canyonville     700 : DH0800    M /    M / 0.55 /  0.0 /    0 
+GLYO3 :Glide COOP      742 :           M /    M /    M /    M /    M 
+LOOO3 :Lookingglass    622 : DH0800    M /    M /    M /    M /    M 
+MYCO3 :Myrtle Creek    703 : DH0800    M /    M / 0.45 /  0.0 /    0 
+OKDO3 :Oakland         430 :           M /    M /    M /    M /    M 
+ROGO3 :Roseburg        425 :           M /    M /    M /    M /    M 
+PTOO3 :Port Orford     150 : DH0700    M /    M / 0.42 /    M /    M 
+UPPO3 :Upper Olalla    860 :           M /    M /    M /    M /    M 
+:
+:EASTERN OREGON
+ADEO3 :Adel           4583 :           M /    M /    M /    M /    M 
+ALKO3 :Alkali Lake    4332 :           M /    M /    M /    M /    M 
+CHEO3 :Chemult        4760 :           M /    M /    M /    M /    M 
+HMRO3 :Hart Mountain  5616 :           M /    M /    M /    M /    M 
+KENO3 :Keno           4116 :           M /    M /    M /    M /    M 
+KLFO3 :Klamath Falls  4250 : DH0800    M /    M / 0.02 /  0.0 /    0 
+SVLO3 :Silver Lake    4382 :           M /    M /    M /    M /    M 
+:
+:NORTHERN CALIFORNIA
+COPC1 :Copco          2703 :           M /    M /    M /    M /    M 
+DUNC1 :Dunsmuir       2170 :           M /    M /    M /    M /    M 
+FOJC1 :Fort Jones     2725 :           M /    M /    M /    M /    M 
+HPYC1 :Happy Camp     1120 :           M /    M /    M /    M /    M 
+JESC1 :Jess Valley    5400 : DH2000   57 /   31 / 0.50 /    M /    M 
+STGC1 :Lava Beds      4770 :           M /    M /    M /    M /    M 
+MCLC1 :McCloud        3280 :           M /    M /    M /    M /    M 
+OACC1 :Oak Knoll      1980 :           M /    M /    M /    M /    M 
+YKAC1 :Yreka          2625 : DH0800   54 /   31 / 0.00 /  0.0 /    0 
+:
+.END
+
+These data are preliminary and have not undergone final
+quality control by the National Climatic Data Center /NCDC/.
+Therefore, these data are subject to revision. Final and
+certified climate data can be accessed at www.ncdc.noaa.gov.
+
+$$

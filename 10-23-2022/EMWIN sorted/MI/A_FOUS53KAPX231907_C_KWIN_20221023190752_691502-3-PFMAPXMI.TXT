@@ -1,0 +1,232 @@
+FOUS53 KAPX 231907
+PFMAPX
+
+Point Forecast Matrices
+National Weather Service Gaylord MI
+307 PM EDT Sun Oct 23 2022
+
+MIZ087-240900-
+Sault Ste Marie-Chippewa MI
+46.48N  84.35W Elev. 722 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      53          64          52          62          42
+Temp          67 59 57 57 55 54 58 62 62 58 57 56 54 52 57 60 57 52 49 46 44 43
+Dewpt         53 51 51 50 49 49 52 52 51 50 49 49 49 48 50 51 51 50 47 45 43 42
+RH            61 75 80 77 80 83 80 70 67 75 75 77 83 86 77 72 80 93 93 96 96 96
+Wind dir      SE SE SE SE SE SE SE SE SE SE SE SE SE SE  S  S  S SW NW NW NW NW
+Wind spd      11 12 10 12 12 12 13 14 13 10  9  9  8  8  8  9  5  2  4  5  6  8
+Wind gust           20    23    24                                             
+Clouds        SC B1 B2 B2 OV B2 B2 B2 B2 OV B2 B2 B1 B2 OV OV OV OV OV OV OV B2
+PoP 12hr                     40          20          20          60          80
+QPF 12hr                   0.01        0.01           0        0.11        0.63
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                 S  S  C  C  L  L  D  D  L  L  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          48      34    49      36    51      37    54      38    53
+Temp          46 42   39 34 47 43   37 37 49 45   39 37 51 46   40 39 52 46
+Dewpt         41 36   33 32 33 33   35 35 38 38   38 37 41 40   39 38 43 42
+PWind dir        NW      NW    NW      SE    SE      SE     S      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   SC SC SC B1   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B1
+PoP 12hr         50       5     0       5     5      10    10      10    20
+Rain shwrs     C  S                                                       S
+
+$$
+MIZ016-240900-
+Pellston-Emmet MI
+45.57N  84.80W Elev. 722 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          70          52          65          40
+Temp          73 64 60 58 56 55 62 68 69 65 60 58 56 53 60 63 59 54 50 47 43 41
+Dewpt         54 52 51 50 49 50 54 55 53 52 51 49 49 45 50 52 52 52 50 46 43 41
+RH            51 65 72 75 77 83 75 63 57 63 72 72 77 74 69 67 78 93100 96100100
+Wind dir      SE SE SE SE SE SE  S  S  S  S  S  S  S  S  S SW SW  W NW  N  N NW
+Wind spd      10 10 11 10 10 11 12 12 11  9  9  8  8  8  8  8  5  2  2  3  5  8
+Wind gust     21       21                   20 19 20 19 20 19 16       13 18 20
+Clouds        SC B1 B1 B2 OV B2 B2 B2 B2 B2 OV B2 B1 B2 OV OV OV OV OV OV B2 B2
+PoP 12hr                     50          20          10          60          80
+QPF 12hr                   0.03           0           0        0.05        0.71
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                       C  C  L  L  D  D  L  L  C
+Tstms                      S  S                                                
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          49      33    49      33    53      35    54      36    55
+Temp          47 42   36 33 48 43   36 36 51 46   38 36 53 45   39 37 53 49
+Dewpt         41 36   33 32 35 36   35 35 40 40   38 36 42 42   39 37 44 44
+PWind dir        NW      NW     N      SE    SE      SE     S      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC SC   B1 B2 B2 B2   B1 SC SC SC   SC B1 B1 B1
+PoP 12hr         50       0     0       5     5      10    10      10    20
+Rain shwrs     C                                                          S
+
+$$
+MIZ022-240900-
+Gaylord-Otsego MI
+45.02N  84.68W Elev. 1329 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      55          70          55          66          41
+Temp          72 63 61 58 56 55 62 68 68 64 62 60 57 55 60 64 62 56 51 49 45 42
+Dewpt         50 50 49 48 46 47 52 51 50 50 48 47 47 43 47 49 51 52 51 49 45 42
+RH            46 62 65 69 69 74 70 54 52 60 60 62 69 64 62 58 67 86100100100100
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW SW  N  N NW
+Wind spd      12 11 13 13 12 13 16 16 16 13 13 12 11 11 11 10  6  3  3  5  6  8
+Wind gust     27 21 24 27 24       27 26 24 25 23 21 21 24 23 18          18 20
+Clouds        SC SC B1 B2 OV B2 B2 B2 B2 B2 B2 B2 B1 B2 B2 OV OV OV OV OV OV OV
+PoP 12hr                     40          20          10          60          80
+QPF 12hr                   0.02           0           0        0.03        0.63
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                       C  C  L  L  D  D  D  D  C
+Tstms                   S                                                      
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          47      31    49      33    52      34    54      36    54
+Temp          46 41   35 31 47 42   36 35 50 45   37 34 53 45   39 37 52 47
+Dewpt         39 35   32 30 33 33   33 33 36 37   36 34 38 39   37 36 41 41
+PWind dir        NW      NW     N      SE    SE       S     S      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC SC   B1 B2 B2 B2   B1 SC SC SC   SC SC B1 B1
+PoP 12hr         50       0     0       5     5      10    10      20    20
+Rain shwrs     C  S                                                 S  S  S
+
+$$
+MIZ024-240900-
+Alpena-Alpena MI
+45.08N  83.53W Elev. 692 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      52          69          53          67          43
+Temp          69 60 57 56 53 53 62 67 68 63 60 58 56 54 62 65 64 59 54 51 48 44
+Dewpt         53 52 50 48 47 47 51 50 50 49 47 47 45 45 48 49 51 52 51 50 48 44
+RH            57 75 77 74 80 80 67 54 52 60 62 67 66 71 60 56 63 78 90 96100100
+Wind dir      SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S NW NW
+Wind spd      10 10 11 11 10 10 12 13 12 10  9  9  8  8 10 10  8  2  2  2  3  5
+Wind gust                                   21 20 19 18 20                13 16
+Clouds        SC FW FW SC SC B2 B1 B2 B2 B2 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV
+PoP 12hr                     20          10           5          30          70
+QPF 12hr                      0           0           0           0        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S                                C  C  L  L  L  L  L
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          52      34    52      36    53      36    56      38    56
+Temp          50 44   39 35 51 43   39 39 53 45   41 37 55 46   42 39 55 47
+Dewpt         43 38   34 33 34 36   36 37 39 40   38 37 41 42   40 39 44 44
+PWind dir        NW      NW     N       E    SE       S     S       S    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC B1   B1 B2 B2 B2   B1 B1 SC SC   SC B1 B1 B2
+PoP 12hr         60       5     0       0     5      10    10      20    30
+Rain shwrs     L  C                                                 S  S  C
+
+$$
+MIZ026-240900-
+Traverse City-Grand Traverse MI
+44.73N  85.57W Elev. 623 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      58          71          54          65          43
+Temp          74 68 65 63 61 59 63 68 69 66 63 61 58 55 60 62 59 55 52 50 46 44
+Dewpt         54 53 51 50 50 50 53 53 53 53 51 51 50 47 50 53 53 52 51 48 45 43
+RH            50 59 60 62 67 72 70 59 57 63 65 70 75 74 69 72 80 90 96 93 96 96
+Wind dir       S SE  S  S  S  S  S  S  S  S  S  S  S  S  S SW SW  W NW  N  N  N
+Wind spd      13 13 14 14 13 14 16 16 14 11 11 11 10  9 10  9  5  2  3  5 10 10
+Wind gust     28 24 25 29 26 29    27 25 21 24 23 23 20 21 20 16       20 28 27
+Clouds        SC SC B1 B2 OV B2 B2 B2 B2 B2 OV B2 B1 B2 OV OV OV B2 OV OV B2 B2
+PoP 12hr                     50          20          20          70          80
+QPF 12hr                   0.02           0           0        0.10        0.80
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  C  S  S              S  S  C  C  L  L  D  D  L  L  C
+Tstms                   S  S                                                   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          49      36    52      38    54      38    56      40    56
+Temp          47 44   40 36 49 46   40 39 52 48   41 38 54 49   42 40 54 50
+Dewpt         41 37   35 34 35 36   36 36 39 40   39 37 41 42   40 39 43 44
+PWind dir        NW       N    NE      SE    SE      SE    SE      SE    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC SC SC B1   B1 B2 B2 B2   B1 SC SC FW   SC SC B1 B1
+PoP 12hr         40       0     0       5    10      10    10      20    20
+Rain shwrs     C                                                 S  S  S  S
+
+$$
+MIZ034-240900-
+Houghton Lake-Roscommon MI
+44.35N  84.67W Elev. 1152 ft
+307 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      54          70          55          67          42
+Temp          72 66 61 59 56 56 61 67 68 66 63 61 58 55 60 64 64 59 56 53 49 44
+Dewpt         51 51 50 48 47 47 52 52 52 51 49 47 47 43 48 51 53 54 53 52 49 44
+RH            48 58 67 67 72 72 72 59 57 58 60 60 67 64 64 63 67 83 90 96100100
+Wind dir       S SE SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S SE  N  N
+Wind spd      13 11 11 11 10 10 12 13 13 12 12 11 11 10 10 10  8  5  5  6  6  9
+Wind gust     25       24          24 24                                       
+Clouds        SC SC SC B1 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B2 B2 OV OV OV OV OV B2
+PoP 12hr                     30          20          10          50          80
+QPF 12hr                   0.01           0           0        0.03        0.43
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                       S  S  C  C  D  D  D  D  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          49      31    50      34    52      35    54      36    53
+Temp          47 42   37 32 48 43   37 36 50 45   38 36 52 46   40 38 52 47
+Dewpt         42 38   33 31 35 35   35 35 38 39   37 36 40 40   39 38 43 43
+PWind dir        NW      NW    NE       E    SE       E    SE       E    SE
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   SC FW SC SC   B1 B2 B2 B2   B1 SC SC SC   SC B1 B2 B2
+PoP 12hr         50       0     0       0     5      10    10      20    30
+Rain shwrs     C                                                 S  S  S  C
+
+$$

@@ -1,0 +1,23 @@
+FOUS73 KMSR 232001
+FFHILX
+                                                                        
+HEADWATER FLASH FLOOD GUIDANCE                                          
+NWS NORTH CENTRAL RIVER FORECAST CENTER TWIN CITIES/CHANHASSEN MN       
+301 PM CDT SUN OCT 23 2022
+                                                                        
+LINCOLN HYDROLOGIC SERVICE AREA                                         
+                                                                        
+AVERAGE INCHES OF RAINFALL FOR GIVEN DURATIONS REQUIRED TO INITIATE     
+FLASH FLOODING AT THE INDICATED LOCATIONS.                              
+                                                                        
+.B MSR 221023 Z DH18/DC2210232001 /DUE/PPHCF/PPTCF/PPQCF
+:                                                                       
+:IDENT    1HR   3HR   6HR  HEADWATER NAME        STREAM
+:======= ====  ====  ====  ====================  ==================
+:                                                                       
+:   *** ILLINOIS HEADWATER POINTS ***                                   
+:                                                                       
+BMII2     3.5/  4.0/  4.5 :BLOOMINGTON IL        SUGAR CR
+RLLI2     2.4/  2.6/  3.8 :ROWELL IL             SALT CR
+.END
+$$

@@ -1,0 +1,72 @@
+ASUS66 KSTO 231812
+RTPSTO
+
+Regional Temperature And Precipitation Summary
+National Weather Service Sacramento CA
+1110 AM PDT Sun Oct 23 2022
+
+:
+:Observations taken at 1100 AM...Temperature...Precipitation...Inches
+.BR STO 1023 P DH11/TX/TN/PP/SD
+:
+:High temperatures are for yesterday
+:Low temperatures are since midnight
+:Precipitation for previous 24 hours
+:M denotes missing. T denotes trace.
+:AP = airport    RS = ranger station
+:
+: ID      Station                Elev     High / Low /  Pcpn / Snodep
+:
+:      ...Northern Sierra Nevada/Lassen N.P./Siskiyou County...
+AAT  :  Alturas                  4400 :     55 /  27 /  0.00 / 
+MINC1:  Mineral                  4875 :      M /   M /     M /  M
+MNZC1:  Manzanita Lake           5750 :      M /   M /     M /  M
+CHEC1:  Chester                  4525 :     52 /  26 /  0.00 / 
+QCYC1:  Quincy                   3408 :     59 /  24 /  0.00 / 
+TVL  :  South Lake Tahoe Airport 6314 :     56 /  21 /  0.02 / 
+BLU  :  Blue Canyon AP           5280 :     56 /  33 /  0.01 /  M
+MHS  :  Mt Shasta City           3590 :     58 /  36 /  0.10 / 
+SIY  :  Montague/Siskiyou AP     2635 :     60 /  31 /  0.02 / 
+:
+:      ...Northern/Central Sacramento Valley and Foothills...
+SHDC1:  Shasta Dam               1075 :      M /   M /     M /  M
+RDD  :  Redding AP                502 :     73 /  44 /  0.00 / 
+RBL  :  Red Bluf AP               349 :     74 /  50 /  0.00 / 
+CHUC1:  Chico University Farm     238 :      M /   M /     M / 
+OVE  :  Oroville AP               192 :     73 /  49 /  0.00 / 
+PDEC1:  Paradise                 1750 :     67 /  45 /  0.00 / 
+MYV  :  Marysville AP              62 :     76 /  51 /  0.00 / 
+ECKC1:  Alder Springs            4500 :     54 /  36 /  0.00 / 
+:
+:      ...Southern Sacramento Valley...
+SMTC1:  Sacramento                 25 :     75 /  49 /  0.00 / 
+SAC  :  Sacramento Exec AP         21 :     76 /  49 /  0.00 / 
+SMF  :  Sacramento Intl AP         25 :     77 /  53 /  0.00 / 
+DAVC1:  Davis UC Exp Farm          60 :     75 /  55 /  0.00 /  M
+:
+:      ...Delta/Solano County/Northern San Joaquin Valley...
+SUU  :  Travis AFB                 40 :     80 /  43 /  0.00 / 
+VCB  :  Vacaville AP              113 :     77 /  50 /  0.00 / 
+LSOC1:  Lake Solano               190 :     77 /  54 /  0.00 /  0
+SCK  :  Stockton AP                27 :     77 /  47 /  0.00 / 
+MOD  :  Modesto AP                 97 :     74 /  50 /  0.00 / 
+NMDC1:  New Melones Dam HQ        960 :     71 /  42 /  0.02 /  0
+MRLC1:  Markley Cove              480 :     74 /  41 /  0.00 /  0
+:
+:      ...Motherlode...
+GRAC1:  Grass Valley             2500 :     63 /  36 /  0.00 /  0
+AUBC1:  Auburn                   1360 :      M /   M /     M /  M
+GEOC1:  Georgetown RS            3001 :      M /   M /     M /  M
+SRLC1:  Sutter Hill              1300 :      M /   M /     M /  M
+ADSC1:  San Andreas RS           1100 :     67 /  36 /  0.00 / 
+SONC1:  Sonora                   1750 :     69 /  40 /  0.02 /  0
+GROC1:  Groveland                2850 :      M /   M /     M /  M
+:
+.End
+:
+:These data are preliminary and have not undergone final quality
+:Control by the National Climatic Data Center. Therefore, these
+:Data are subject to revision. Final and certified climate data
+:Can be accessed at www.ncdc.noaa.gov.
+:
+$$

@@ -1,0 +1,39 @@
+SHUS64 KMWI 232035
+FWOEPZ
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (El Paso, TX)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+EL PAS 416901 221023 12 O 1  81  47  30 0 0 240 24     84  70  47  29  0 0.000
+DELL C 417001 221023 13 O 0  78  52  40 0 0 250 14     82  52  90  38  0 0.000
+NWS Office:  EPZ/Zone: 360
+BEAVER 292001 221023 13 R 1  61  31  33 0 0 235 12     67  53  96  33  4 0.100
+LUNA   292004 221023 13 R 2  57  37  48 0 0 232 13     66  47  80  42  1 0.040
+RESERV 292005 221023 13 R 1  63  34  35 0 0 200 16     72  54  70  34  0 0.000
+SLAUGH 292008 221023 13 R 3  50  32  50 0 0 220  8     57  40  91  42  0 0.000
+GILA C 292011 221023 13 R 1  66  39  37 0 0 240 12     72  56  88  37  1 0.010
+MOGOLL 292013 221023 13 R 2  55  32  43 0 0 262 12     60  46  86  43  0 0.000
+BURRO  292504 221023 12 R 2  59  38  47 0 0 252 17     65  47 100  46  2 0.030
+Count:     7  Zone Average:  59  35  42         13  0  66  49  87  40  1 0.026
+ 
+Zone: 362
+DRIPPI 292903 221023 13 R 3  67  44  44 0 0 234 21     71  60  74  42  0 0.000
+SAN AN 292904 221023 13 R 2  65  39  39 0 0 226 13     71  56  84  39  0 0.000
+Count:     2  Zone Average:  66  42  42         17  0  71  58  79  41  0 0.000
+ 
+Zone: 363
+SMOKEY 292203 221023 13 R 3  57  36  47 0 0 223 19     63  54  86  47  4 0.130
+MAYHIL 293002 221023 13 R 2  64  41  44 0 0 240 14     70  58  65  41  0 0.000
+MESCAL 293003 221023 12 R 3  60  39  47 0 0 147 13     65  57  75  47  0 0.000
+COSMIC 293004 221023 13 R 3  46  41  83 0 0 243 19     53  44 100  69  0 0.000
+Count:     4  Zone Average:  57  39  55         16  0  63  53  82  51  1 0.032
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

@@ -1,0 +1,232 @@
+FPUS65 KPSR 232125
+SFTAZ 
+AZZALL-240925-
+
+Tabular State Forecast for Arizona
+National Weather Service Phoenix AZ
+225 PM MST Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather
+   Forecast temperatures...early morning low/daytime high
+      Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+      - indicates temperatures below zero
+      MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30
+
+...NORTHWEST ARIZONA...
+   Lake Havasu City Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   53/74    52/78    57/81    56/77    51/79    54/81    57/83
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00
+
+   Bullhead City
+   Sunny    Sunny    Sunny    Dust     Sunny    Sunny    Sunny
+   53/71    50/76    53/78    56/73    51/76    55/81    57/80
+    00/00    00/00    00/00    10/00    00/00    00/00    00/00
+
+   Kingman
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   35/61    38/70    44/69    41/62    37/69    41/71    44/72
+    00/00    00/00    00/10    10/10    00/00    00/00    00/00
+
+   Meadview
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   41/60    45/67    51/69    48/62    43/66    47/69    50/70
+    00/00    00/00    00/10    20/00    00/00    00/00    00/00
+
+...NORTH CENTRAL AND NORTHEAST ARIZONA...
+   Flagstaff
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny
+   25/47    21/59    28/54    27/47    23/53    26/57    28/57
+    10/00    00/00    00/00    30/30    00/00    00/00    00/00
+
+   Grand Canyon Airport
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   18/46    17/57    24/56    23/46    16/51    20/56    22/57
+    00/00    00/00    00/10    20/20    00/00    00/00    00/00
+
+   Phantom Ranch
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   31/70    37/79    47/79    46/69    40/74    43/78    46/79
+    00/00    00/00    00/10    30/20    00/00    00/00    00/10
+
+   Prescott
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   32/55    30/64    35/62    35/57    29/62    34/65    37/65
+    00/00    00/00    00/00    10/10    00/00    00/00    00/00
+
+   Castle Hot Springs
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   47/69    46/72    53/73    53/72    50/74    55/76    56/76
+    00/00    00/00    00/00    10/10    00/00    00/00    00/00
+
+   Seligman
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   28/56    28/65    35/63    33/55    30/63    33/65    35/66
+    00/00    00/00    00/10    10/10    00/00    00/00    00/00
+
+   Cottonwood
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   38/65    41/72    40/71    41/65    36/71    40/73    42/73
+    00/00    00/00    00/00    20/20    00/00    00/00    00/00
+
+   Sedona
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   38/62    42/70    43/67    43/62    39/67    43/70    44/70
+    10/00    00/00    00/00    20/20    00/00    00/00    00/00
+
+   Page
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   37/57    39/62    43/65    43/57    36/58    39/60    41/62
+    00/00    00/00    00/10    30/20    00/00    00/00    00/00
+
+   Jacob Lake
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   17/42    22/50    28/49    24/39    22/46    25/49    28/50
+    10/00    00/00    00/20    40/20    00/00    00/00    00/10
+
+   Canyon De Chelly
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy
+   28/48    25/58    33/61    33/47    24/54    28/58    30/60
+    10/00    00/00    00/10    40/40    10/00    00/00    00/00
+
+   Window Rock
+   Sunny    Sunny    Sunny    Snoshwr  Sunny    Sunny    Ptcldy
+   24/46    18/57    28/58    30/45    21/53    25/57    27/58
+    20/00    00/00    00/00    50/50    10/00    00/00    00/00
+
+   Navajo National Monument
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy
+   24/43    27/52    32/53    29/41    25/46    27/51    30/52
+    00/00    00/00    00/10    30/30    00/00    00/00    00/00
+
+   Wupatki National Monument
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny
+   30/55    30/63    36/66    36/54    29/58    32/61    35/63
+    00/00    00/00    00/00    30/30    00/00    00/00    00/00
+
+   Winslow
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   31/54    25/63    33/67    37/54    27/58    30/63    33/64
+    20/00    00/00    00/00    30/30    00/00    00/00    00/00
+
+   St. Johns
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   32/51    23/61    31/67    36/55    24/59    28/63    32/64
+    50/10    00/00    00/00    40/40    10/00    00/00    00/00
+
+   Heber
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny
+   25/46    24/58    32/57    32/49    23/53    28/57    31/58
+    30/00    00/00    00/00    40/40    00/00    00/00    00/00
+
+   Show Low
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   27/46    24/58    35/59    36/49    26/54    30/59    35/60
+    40/00    00/00    00/00    40/40    10/00    00/00    00/00
+
+   Greer
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   21/38    18/54    30/53    31/41    21/51    27/53    29/53
+    60/10    00/00    00/00    40/40    10/00    00/00    00/00
+
+   Payson
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny
+   36/58    35/65    38/64    38/59    33/64    38/67    40/66
+    20/00    00/00    00/00    20/20    00/00    00/00    00/00
+
+...SOUTH-CENTRAL ARIZONA...
+   Phoenix
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   54/74    52/78    55/80    57/78    54/79    58/82    60/81
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   Globe
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   41/63    40/69    44/71    47/65    40/68    44/71    46/71
+    20/00    00/00    00/00    20/20    00/00    00/00    00/00
+
+...SOUTHWEST ARIZONA...
+   Yuma
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny
+   57/76    52/79    56/83    59/80    56/80    57/83    59/82
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+...SOUTHEAST ARIZONA...
+   Tucson
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   50/68    42/76    45/80    52/75    47/77    51/81    53/80
+    70/00    00/00    00/00    00/10    00/00    00/00    00/00
+
+   Green Valley
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   46/64    39/73    43/77    49/70    42/73    45/77    48/76
+    70/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   MT Lemmon
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   30/36    28/44    32/47    36/40    31/44    34/47    36/47
+    70/00    00/00    00/00    00/20    00/00    00/00    00/00
+
+   Hannagan Meadow
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   20/32    21/47    26/45    29/36    21/43    26/45    28/46
+    70/20    00/00    00/00    00/40    00/00    00/00    00/00
+
+   Picacho Peak
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   48/69    44/75    48/80    52/73    46/75    48/79    51/78
+    20/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   Oracle
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   41/60    37/68    41/72    46/65    40/68    43/71    45/71
+    60/00    00/00    00/00    00/20    00/00    00/00    00/00
+
+   Safford
+   Sunny    Sunny    Sunny    Ptcldy   Sunny    Sunny    Ptcldy
+   45/65    34/70    40/74    44/70    38/70    41/73    44/74
+    70/00    00/00    00/00    00/20    00/00    00/00    00/00
+
+   Organ Pipe N.M.
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   51/72    47/79    48/80    54/76    49/79    51/81    53/80
+    00/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   Sells
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   48/69    43/77    48/80    52/75    45/77    48/81    51/79
+    40/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   Nogales
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   48/63    35/73    40/75    48/69    41/72    44/76    47/75
+    70/00    00/00    00/00    00/00    00/00    00/00    00/00
+
+   Willcox
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   41/60    27/68    31/72    38/66    32/66    34/69    37/70
+    80/00    00/00    00/00    00/10    00/00    00/00    00/00
+
+   Sierra Vista
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   46/58    38/68    41/72    45/65    40/66    42/70    45/70
+    70/00    00/00    00/00    00/10    00/00    00/00    00/00
+
+   Bisbee
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   43/55    32/65    36/69    42/63    36/62    40/67    41/68
+    70/10    00/00    00/00    00/10    00/00    00/00    00/00
+
+   Douglas
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy
+   47/62    31/70    37/75    43/70    37/69    40/73    42/73
+    60/20    00/00    00/00    00/10    00/00    00/00    00/00
+
+
+$$

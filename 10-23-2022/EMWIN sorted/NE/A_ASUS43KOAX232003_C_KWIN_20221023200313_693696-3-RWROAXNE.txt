@@ -1,0 +1,98 @@
+ASUS43 KOAX 232003
+RWRNE 
+
+WEATHER ROUNDUP FOR NEBRASKA
+NATIONAL WEATHER SERVICE OMAHA NE
+300 PM CDT SUN OCT 23 2022
+
+NOTES: SATELLITE DATA IS BEING USED TO AUGMENT CLOUD COVER ABOVE
+       12000 FEET.
+       "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+   
+NEZ001>004-019>022-054>056-232100-
+NEBRASKA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SCOTTSBLUFF    MOSUNNY   57  37  47 W21G33    29.35R                  
+ALLIANCE       MOSUNNY   62  38  40 NW25G32   29.30R                  
+CHADRON        PTSUNNY   53  37  54 NW26G45   29.33R                  
+GORDON         PTSUNNY   56  34  43 NW17G24   29.28R                  
+KIMBALL        MOSUNNY   56  31  39 NW17G32   29.36R                  
+SIDNEY         SUNNY     65  35  33 N23G30    29.33R                  
+$$
+ 
+NEZ057>060-069>072-079>082-232100-
+SOUTHWEST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORTH PLATTE   SUNNY     86  30  13 SW20G33   29.17F                  
+IMPERIAL       SUNNY     83  26  12 SW28G45   29.19F                  
+LEXINGTON      SUNNY     87  36  16 SW30G41   29.21F                  
+MCCOOK         CLOUDY    86  29  12 SW33G46   29.22F HAZE             
+OGALLALA       SUNNY     72  32  22 NW21G29   29.24R                  
+$$
+ 
+NEZ005>010-023>029-035>040-094-232100-
+NORTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VALENTINE      SUNNY     69  30  23 W21G32    29.19R                  
+AINSWORTH      SUNNY     82  29  14 SW24G35   29.15S                  
+BROKEN BOW     CLOUDY    85  30  13 S30G46    29.18F                  
+O'NEILL        SUNNY     84  44  24 SE26G37   29.18F                  
+ORD            MOSUNNY   88  36  15 S30G49    29.17F                  
+THEDFORD       SUNNY     80  33  18 W25G33    29.19R                  
+$$
+ 
+NEZ041-046>049-061>064-073>077-083>087-232100-
+SOUTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND ISLAND   SUNNY     89  47  23 S30G44    29.24F                  
+AURORA         SUNNY     87  51  29 S31G43    29.25F                  
+HASTINGS       SUNNY     87  48  25 S23G41    29.26F                  
+HEBRON         MOSUNNY   83  53  34 S30G40    29.34S                  
+HOLDREGE       CLOUDY    87  34  15 SW35G43   29.22F HAZE             
+KEARNEY        MOSUNNY   87  47  24 S29       29.21F                  
+YORK           SUNNY     86  50  28 S26G37    29.27F                  
+$$
+ 
+NEZ011>018-030>034-042>045-232100-
+NORTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORFOLK        CLOUDY    88  51  28 S28G39    29.24F                  
+ALBION         SUNNY     88  47  23 S30G39    29.21F                  
+BLAIR          SUNNY     86  55  35 S23G37    29.34F                  
+COLUMBUS       MOSUNNY   87  52  29 S35G43    29.26F                  
+FREMONT        SUNNY     86  56  35 S22G33    29.31F                  
+WAYNE          SUNNY     86  52  31 S25G39    29.27F                  
+$$
+
+NEZ050>053-065>068-078-088>093-232100-
+SOUTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LINCOLN        MOSUNNY   86  55  34 S36G51    29.32F                  
+OMAHA EPPLEY   MOSUNNY   86  56  35 S29G44    29.34F                  
+BEATRICE       MOSUNNY   83  56  38 S25G39    29.36F                  
+FALLS CITY     LGT RAIN  80  59  48 S29G45    29.47R                  
+NEBRASKA CITY  SUNNY     85  56  37 S28G40    29.40F                  
+PLATTSMOUTH    SUNNY     85  55  35 S28G45    29.38F                  
+$$
+
+NEZ044-045-051>053-067-232100-
+OMAHA AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OMAHA EPPLEY   MOSUNNY   86  56  35 S29G44    29.34F                  
+BLAIR          SUNNY     86  55  35 S23G37    29.34F                  
+FREMONT        SUNNY     86  56  35 S22G33    29.31F                  
+MILLARD        SUNNY     85  55  35 S23G31    29.34F                  
+OFFUTT AFB     MOSUNNY   87  55  32 S23G33    29.36F                  
+PLATTSMOUTH    SUNNY     85  55  35 S28G45    29.38F                  
+WAHOO          SUNNY     87  53  30 S32G41    29.32F HAZE             
+$$
+  

@@ -1,0 +1,52 @@
+FGUS53 KILX 231637
+RVDILX
+ILC009-017-057-123-125-137-143-155-169-179-203-241636-
+
+
+Daily River and Lake Summary
+National Weather Service Lincoln IL
+1137 AM CDT Sun Oct 23 2022
+
+.B ILX 1023 DC102311/DH12/HG/DRD+1/HGIFF/DRD+2/HGIFF/
+.B1 DRD+3/HGIFF/DRD+4/HGIFF/DRD+5/HGIFF
+:
+:      Station     Flood 7AM   24Hr    7AM
+:ID    Name        Stage Stage Change  Forecasts
+:                                      Mon   Tue   Wed   Thu   Fri
+:Illinois River
+HNYI2 :Henry       23.0: 14.4/:  0.0: 14.3/ 14.3/ 14.3/ 14.3/ 14.3
+PIAI2 :Peoria      18.0: 11.4/: -0.1: 11.3/ 11.3/ 11.3/ 11.3/ 11.3
+HAVI2 :Havana      14.0:  5.2/: -0.3:  5.1/  5.1/  5.0/  5.0/  4.9
+BEAI2 :Beardstown  14.0:  9.4/: -0.3:  9.3/  9.3/  9.3/  9.3/  9.3
+.END
+
+
+:Lock and Dam Tailwater Stages
+.B ILX 1023 DC102311/DH12/HT/DRD+1/HTIFF/DRD+2/HTIFF/
+.B1 DRD+3/HTIFF/DRD+4/HTIFF/DRD+5/HTIFF
+:
+:      Station     Flood 7AM   24Hr    7AM
+:ID    Name        Stage Stage Change  Forecasts
+:                                      Mon   Tue   Wed   Thu   Fri
+:Lock and Dam Sites
+PRAI2 :Peoria L/D 447.0:429.9/: -0.2 :429.8/429.7/429.7/429.6/429.6
+.END
+
+
+:Max stage forecasts for the Illinois River over the next 7 days...
+Henry       14.3  Sun Oct 23
+Peoria      11.4  Sun Oct 23
+Peoria L/D 429.8  Sun Oct 23
+Havana       5.2  Sun Oct 23
+Beardstown   9.4  Sun Oct 23
+:
+:River forecasts are based on observed precipitation and
+:forecast precipitation for the next 24 hours.
+
+
+:A graphical presentation of river stages and forecasts can
+:be found on the internet at
+:https://water.weather.gov/ahps2/index.php?wfo=ilx.
+
+$$
+

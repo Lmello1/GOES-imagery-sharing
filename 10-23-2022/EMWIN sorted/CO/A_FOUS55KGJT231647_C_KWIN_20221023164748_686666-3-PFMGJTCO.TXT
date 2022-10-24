@@ -1,0 +1,434 @@
+FOUS55 KGJT 231647
+PFMGJT
+
+Point Forecast Matrices for Western Colorado and Eastern Utah
+National Weather Service Grand Junction, CO
+1047 AM MDT Sun Oct 23 2022
+
+COZ002-232300-
+Hayden-Routt CO
+40.47N 107.21W Elev. 6601 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      34          21          35          19          42
+Temp                   32 34 31 28 26 22 21 24 30 35 30 20 19 21 23 29 38 42 37
+Dewpt                  30 27 24 23 22 22 21 22 21 20 19 17 17 18 20 22 26 27 26
+RH                     92 75 75 81 85100100 92 69 54 63 88 92 88 88 75 62 55 64
+Wind dir               NW  W  W  W  W  W  W  W  W  W  W  S  S  S  S SW  W  W SW
+Wind spd                9 16 12 10  9 10 10 10 10 13 10  5  6  6  6  8  5 10  8
+Clouds                 OV B2 B2 B2 B2 B2 B2 OV B2 B1 SC FW SC B1 B2 OV B2 B2 B1
+PoP 12hr                     90          60          30           5          20
+QPF 12hr                   0.10        0.02           0           0           0
+Snow 12hr                     1           T       00-00                        
+Rain shwrs                                                                     
+Snowshwrs               D  L  L  C  C  C  C  S                    S  S         
+Tstms                   S  S  S  S                                             
+Wind chill             24 24 21 18 17 11 10 13 21 26 21 13 10 12 15 21    36 31
+Min chill              24    19    17    10    10    21    10    10    17    31
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            24    44      24    38      14    43      18    47
+Temp          28   27 39 40 29   24 30 32 14   14 33 36 20   18 38 40
+Dewpt         27   27 30 27 26   23 24 21 14   13 21 19 17   15 23 21
+PWind dir          SE     S       W     W      SE     S      SE     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    B1   B2 B2 B2 B2   B2 B2 B1 SC   FW FW FW FW   SC SC SC
+PoP 12hr           20    50      70    40      10     0       0     0
+Rain shwrs             C  C  L                                       
+Snowshwrs           S  C  C  L    L  C  C                            
+
+$$
+
+COZ006-232300-
+Grand Junction-Mesa CO
+39.09N 108.56W Elev. 4858 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          31          47          30          53
+Temp                   44 46 38 35 34 34 31 35 42 47 44 38 33 33 30 37 47 53 50
+Dewpt                  37 36 34 34 32 30 28 27 26 27 27 28 25 24 23 25 27 32 32
+RH                     76 68 85 96 92 85 88 72 53 45 51 67 72 69 75 61 45 44 50
+Wind dir                W  W  W SW NW  N NW  N NW NW NW SE SE SE SE SE SE NW NW
+Wind spd               10 11 10  5  5  5  5  5  6  5  5  3  5  6  6  6  4  3  4
+Clouds                 OV B2 B2 B1 B2 B1 SC B1 FW FW FW FW FW FW FW SC SC SC B1
+PoP 12hr                     90          60          10           0           0
+QPF 12hr                   0.06        0.02           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              D  L  L  C  C                                          
+Snowshwrs                           C  C                                       
+Tstms                   S  S  S  S                                             
+Wind chill             38    31          25                27 27 23            
+Min chill              37    31    28    25    26          27    23    25      
+Freeze                                 W  W  W                 W  W  W         
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            36    56      34    48      27    52      30    55
+Temp          40   36 45 51 37   34 36 40 30   27 38 44 31   30 42 47
+Dewpt         32   32 34 34 33   31 31 30 25   22 27 29 26   23 29 31
+PWind dir          SE     S      SW    NW      NE     E      SE    SE
+Wind char          LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1   B2 B2 B1 B1   B2 B2 SC FW   FW FW FW SC   SC SC FW
+PoP 12hr            5    20      50    30       5     0       0     0
+Rain shwrs             S     C    C  C                               
+Snowshwrs                         C  C                               
+
+$$
+
+COZ008-232300-
+Glenwood Springs-Garfield CO
+39.56N 107.33W Elev. 5916 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      38          20          40          19          48
+Temp                   36 38 35 28 25 21 20 23 34 40 34 23 21 19 19 27 41 47 45
+Dewpt                  34 31 27 26 24 21 20 22 25 23 21 19 18 19 19 21 28 29 28
+RH                     92 76 72 92 96100100 96 69 50 58 84 88100100 78 59 49 51
+Wind dir               NW  W  W  W  W  W  W  W  W  W  W  W  S  S  S SW  W  W  W
+Wind spd               10 13 12  9  9  6  6  9  9 12 10  6  6  6  6  6  6  9  6
+Wind gust                    23                                                
+Clouds                 OV B2 B2 B1 B1 B1 B1 B1 B1 SC FW FW FW SC SC B2 B1 B1 B1
+PoP 12hr                    100          70          20           0          10
+QPF 12hr                   0.28        0.07           0           0           0
+Snow 12hr                     T           1       00-00                        
+Rain shwrs              D  D                                                   
+Snowshwrs                  D  L  C  C  C  S                                    
+Tstms                   S  S  S  S                                             
+Wind chill             29 30 26 19 16 12 11 12 26 33 26 14 12 10 10 19         
+Min chill              29    26    16    11    10    26    12     9    12    39
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            28    48      26    43      17    49      21    52
+Temp          29   29 37 40 31   30 31 32 19   17 33 38 25   21 39 40
+Dewpt         29   29 34 30 28   27 27 24 19   15 25 24 20   17 27 24
+PWind dir           S    SW      SW     W      NE    SE       E    SW
+Wind char          LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    B1   B2 B2 B1 B2   B2 B2 B1 SC   FW FW FW FW   SC SC FW
+PoP 12hr           20    50      70    50      10     0       0     0
+Rain shwrs          S  C  C  L    L     C                            
+Snowshwrs           S  C     L    L  C  C                            
+
+$$
+
+COZ010-232300-
+Aspen-Pitkin CO
+39.19N 106.83W Elev. 7820 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      36          17          34          17          44
+Temp                   33 34 28 23 21 17 17 19 29 34 29 18 18 17 22 30 42 43 42
+Dewpt                  29 25 21 19 17 15 15 15 17 18 16 13 11 10 12 16 25 25 24
+RH                     85 69 75 84 84 92 92 84 60 51 58 80 73 73 65 55 50 49 48
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW SW SW  S SW  W  W  W  W
+Wind spd               10 12 11  6  6  5  5  5  8 11 10  5  5  6  5  5  8  9  6
+Wind gust                 23 21                                                
+Clouds                 OV OV OV OV B2 B2 OV OV B1 B1 SC FW FW FW SC B1 B1 B1 B1
+PoP 12hr                     90          80          30           0           5
+QPF 12hr                   0.27        0.11           0           0           0
+Snow 12hr                     2           1       00-00                        
+Rain shwrs                                                                     
+Snowshwrs               D  D  D  L  L  C  C  S  S                              
+Tstms                   C  S  S  S                                             
+Wind chill             25 26 18 15 12  8  9 11 21 26 19 10 10  7 15 24         
+Min chill              25    18    12     8     9    19     9     7    18    38
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            27    43      25    37      16    46      22    49
+Temp          28   31 38 36 26   28 29 30 17   16 36 36 26   22 41 37
+Dewpt         22   23 27 23 19   20 21 19 12    9 20 19 14   10 21 19
+PWind dir           S    SW      SW    NW       E    SW       S    SW
+Wind char          LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B1   B1 B2 B2 B2   B2 B2 B2 SC   SC FW FW FW   SC SC SC
+PoP 12hr           20    40      60    60      20     5       0     0
+Snowshwrs           S  C  C  C    L  L  C  S                         
+
+$$
+
+COZ011-232300-
+Montrose-Montrose CO
+38.48N 107.86W Elev. 5759 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      40          26          40          22          50
+Temp                   39 40 35 32 31 27 26 28 34 40 36 27 25 23 23 32 42 50 45
+Dewpt                  35 31 28 28 27 26 25 24 24 21 20 20 17 16 14 19 24 26 26
+RH                     85 70 75 85 85 96 96 85 66 46 52 74 71 74 68 58 48 39 47
+Wind dir               SW  W  W SW  W  W SW SW NW NW NW SE SE SE SE SE NW NW  N
+Wind spd               12 14 11  6  6  6  5  4  5  9  6  8  8  6  5  4  4  5  4
+Clouds                 OV B2 B2 B2 B2 B1 B1 B1 SC FW FW CL CL FW FW FW FW SC SC
+PoP 12hr                     90          70          30           0           0
+QPF 12hr                   0.09        0.04           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs              D  D  L                                                
+Snowshwrs                     L  L  L  C  C                                    
+Tstms                   C  S  S  S                                             
+Wind chill             31 31 26 25 25 20 19 22    34 30 19 16 15 16            
+Min chill              31    26    22    19    19    30    16    14    18      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            31    52      30    42      21    48      25    53
+Temp          31   34 46 47 32   30 30 37 24   23 36 43 29   26 44 46
+Dewpt         26   25 30 27 26   26 28 25 20   17 25 24 22   18 27 26
+PWind dir          SE    SW       S     W       S    NE      SE     N
+Wind char          LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC   B1 B1 B1 B1   B2 B2 B1 SC   FW FW FW FW   SC SC FW
+PoP 12hr           10    30      50    50      10     0       0     0
+Rain shwrs             C  C  C    C     C                            
+Snowshwrs              C          C  C  C                            
+
+$$
+
+COZ014-232300-
+Gunnison-Gunnison CO
+38.54N 106.93W Elev. 7678 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      41          14          39          12          48
+Temp                   39 41 34 29 25 17 14 18 33 39 32 20 16 13 13 21 38 48 41
+Dewpt                  29 23 21 22 19 17 14 15 15 14 16 15 13 11 10 12 19 22 23
+RH                     67 48 58 75 78100100 88 47 35 51 81 88 91 87 68 46 35 48
+Wind dir               SW  W  W  W  W  W  W  W NW NW  W  W  W NW NW  W  W  W  W
+Wind spd               19 21 17 11  5  3  4  5 10 14 13  8  4  3  3  3  5 11 10
+Wind gust                 36 27                                                
+Clouds                 OV B2 B2 B2 B1 B1 SC SC SC SC FW FW FW FW FW FW FW SC SC
+PoP 12hr                     90          60          20           0           0
+QPF 12hr                   0.09        0.03           0           0           0
+Snow 12hr                     T           T       00-00                        
+Rain shwrs                                                                     
+Snowshwrs               D  L  L  C  C  C  S                                    
+Tstms                   S  S  S                                                
+Wind chill             29 32 23 19 18 11  7 10 24 31 23 10  8  7  7          35
+Min chill              29    23    17     7     7    23     8     6     8    35
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            19    49      21    43      12    47      13    50
+Temp          20   20 35 40 22   23 31 34 16   12 30 38 23   14 35 40
+Dewpt         20   19 26 23 22   21 21 20 16   11 18 18 15   11 19 18
+PWind dir           N    SW       W     W      NW     W       N    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    SC   B1 B2 B1 B1   B1 B2 B1 SC   SC FW FW FW   SC SC FW
+PoP 12hr           10    30      50    60      10     0       0     0
+Rain shwrs                C                                          
+Snowshwrs              C  C  C    C  L  C                            
+
+$$
+
+COZ022-232300-
+Durango-La Plata CO
+37.14N 107.75W Elev. 6685 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          22          48          20          54
+Temp                   40 43 40 33 29 24 22 28 41 48 42 30 26 24 20 31 44 54 47
+Dewpt                  35 26 21 21 21 20 18 20 17 15 17 18 17 16 16 19 22 24 25
+RH                     82 51 46 61 72 84 84 71 37 26 36 60 68 71 84 61 41 31 42
+Wind dir                W  W  W  W  W  W  N NW  W NW NW NW  N  N NE  E SW SW SW
+Wind spd               17 23 18 10  6  5  4  5  9 16 17 10  5  4  4  3  5 12 11
+Wind gust                 39 31                                                
+Clouds                 B2 B1 B1 SC SC FW FW FW FW CL CL FW CL CL FW FW CL FW FW
+PoP 12hr                     90          30          10           0           0
+QPF 12hr                   0.07        0.02           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              D  C                                                   
+Snowshwrs                     C  S  S                                          
+Tstms                   S  S                                                   
+Wind chill             31 33 31 25 22 16 15 22 35    34 21 19 18 14            
+Min chill              31    29    22    15    17    34    19    14    16      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            25    55      27    47      21    53      24    57
+Temp          27   25 46 47 32   28 36 39 26   22 43 45 29   25 47 49
+Dewpt         25   24 26 25 26   26 28 25 23   19 24 24 25   22 26 25
+PWind dir           N    SE      NW     W       N     S       N     S
+Wind char          LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    FW   SC B1 SC B1   B1 B1 B1 SC   FW FW FW FW   SC SC FW
+PoP 12hr            0    10      40    50      10     0       0     0
+Rain shwrs                   C    C     C                            
+Snowshwrs                    C    C  C  C                            
+Tstms                                   S                            
+
+$$
+
+UTZ024-232300-
+Vernal-Uintah UT
+40.45N 109.52W Elev. 5278 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      43          22          45          25          49
+Temp                   37 43 39 32 29 26 22 27 38 45 41 32 28 28 25 31 40 49 45
+Dewpt                  32 30 28 27 25 24 22 22 25 23 22 25 24 24 25 25 27 28 28
+RH                     82 60 64 81 85 92100 81 59 41 46 75 85 85100 78 59 44 51
+Wind dir               SW  S SW  W  S NE NE  W  S  S  S  N  N  N NE  E  S  S  N
+Wind spd                4  6  6  5  4  3  4  3  4  5  4  4  4  4  4  2  3  3  4
+Clouds                 B2 B1 B1 SC SC SC SC SC FW CL FW FW FW SC B1 B2 B1 SC B1
+PoP 12hr                     60          30           5           0           5
+QPF 12hr                   0.07        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C                                                
+Snowshwrs                     C  S                                             
+Wind chill                               16                   22               
+Min chill              32    34    24    16    17    37    23    20    22      
+Freeze                                 W  W  W                 W  W  W         
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            29    50      26    47      21    47      24    50
+Temp          31   29 39 44 28   26 35 40 27   21 35 40 29   25 36 42
+Dewpt         31   29 32 29 28   26 26 24 22   19 24 22 22   21 25 24
+PWind dir           N    SW       N    NE       N    SE       N    SE
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1   B2 B2 B1 B2   B2 B1 SC FW   FW FW FW SC   B1 SC SC
+PoP 12hr           20    40      50    20       5     0       0     0
+Rain shwrs          S  C  C  C                                       
+Snowshwrs           S  C     C    C  S                               
+
+$$
+
+UTZ027-232300-
+Moab-Grand UT
+38.56N 109.55W Elev. 4555 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          29          52          30          58
+Temp                   43 49 44 38 36 33 29 34 45 52 50 39 34 34 30 40 49 58 55
+Dewpt                  36 32 29 27 26 25 25 27 26 24 24 25 24 23 22 26 26 27 30
+RH                     76 52 55 64 67 72 85 75 47 33 36 57 66 64 72 57 40 30 38
+Wind dir               SW  W  W  W  S  S  S SW NW NW  S SE SE SE SE  E  W  W  N
+Wind spd               10  8  9  9  5  3  4  3  5  4  3  4  4  4  4  4  3  3  2
+Clouds                 B2 B1 OV B2 SC FW FW FW CL CL CL FW FW FW FW FW SC SC B1
+PoP 12hr                     80          40           5           0           0
+QPF 12hr                   0.06        0.02           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              L  C  C  C  S                                          
+Snowshwrs                           S                                          
+Tstms                   S  S  S                                                
+Wind chill             37       32                                             
+Min chill              35    39    30    24    26          30    25    28      
+Freeze                                 W  W  W                 W  W  W         
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            37    63      33    55      28    56      30    59
+Temp          43   37 48 56 38   34 39 46 36   29 43 50 36   31 43 52
+Dewpt         30   29 31 30 30   30 29 27 25   22 26 27 25   24 28 29
+PWind dir           E     S      SW    NW      NE     N       E     N
+Wind char          LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    B1   B2 B1 B1 B1   B2 B1 SC FW   FW FW FW SC   SC SC FW
+PoP 12hr            5    10      40    20       5     0       0     0
+Rain shwrs                   C    C  S                               
+Snowshwrs                         C  S                               
+
+$$
+
+UTZ028-232300-
+Monticello-San Juan UT
+37.87N 109.34W Elev. 4950 ft
+1047 AM MDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      37          24          40          27          50
+Temp                   35 35 32 28 27 25 24 27 36 40 36 29 29 28 27 33 44 50 47
+Dewpt                  29 24 22 21 17 17 16 18 19 18 17 16 13 14 13 17 20 23 24
+RH                     78 64 66 75 65 71 71 68 50 41 45 58 51 55 55 51 38 34 40
+Wind dir                W  W NW NW NW NW NW NW  N NW NW NW  N  N  N NE  W  W  W
+Wind spd               13 16 13 13 13 14 14 17 17 16 13  8  6  4  4  5  6  9  5
+Wind gust                                      27                              
+Clouds                 B2 B2 B2 B1 B1 SC FW FW CL CL CL CL FW FW FW FW FW SC SC
+PoP 12hr                     80          60          10           0           0
+QPF 12hr                   0.08        0.02           0           0           0
+Snow 12hr                     1           T       00-00                        
+Rain shwrs                                                                     
+Snowshwrs               L  L  L  C  S                                          
+Tstms                   S  S  S                                                
+Wind chill             25 25 22 16 15 13 12 15 25 32 27 21 21 22               
+Min chill              25    22    15    11    12    27    21    21    23      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    50      30    42      26    48      29    51
+Temp          35   34 45 49 36   30 31 38 29   27 39 44 34   30 45 48
+Dewpt         19   19 24 22 20   21 23 20 17   14 20 22 17   16 24 24
+PWind dir           S     S       W    NW       N     N       S     S
+Wind char          LT    GN      GN    GN      GN    LT      LT    LT
+Avg clouds    SC   B1 B1 SC B1   B2 B1 B1 FW   FW FW FW FW   SC SC FW
+PoP 12hr            5    10      40    30       5     0       0     0
+Rain shwrs                   C                                       
+Snowshwrs                    C    C  C  S                            
+
+$$
+

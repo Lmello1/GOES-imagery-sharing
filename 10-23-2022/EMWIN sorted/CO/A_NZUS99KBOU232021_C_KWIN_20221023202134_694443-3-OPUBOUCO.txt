@@ -1,0 +1,51 @@
+NZUS99 KBOU 232021
+OPUBOU
+Developmental Probabilistic Snow Accumulation Forecast
+National Weather Service Denver/Boulder, Colorado
+1421 MDT Sunday, October 23, 2022
+
+--------------------------------------------------------------------------------
+This developmental product contains the probabilities (%) that the given snow
+amounts (inches) will occur at Denver International Airport during the respec-
+tive 3- or 12-hour periods.  The probabilities indicate the amount of snow that
+is expected to accumulate on runways and other concrete surfaces at DIA.
+[T (trace) means more than zero.]
+--------------------------------------------------------------------------------
+
+Short Term (23/15-24/18 MDT): There will be a good chance of rain and snow
+showers between 6 pm and 9 pm.  However, no accumulation will occur on concrete
+surfaces.  After 9 pm no additional precipitation is expected.
+
+                   0"    T or   1" or   3" or   10" or
+Day/Hour MDT             more    more    more     more
+            --------------------------------------------------
+23/15-23/18 |     100       0       0       0
+23/18-23/21 |     100       0       0       0
+23/21-24/00 |     100       0       0       0
+24/00-24/03 |     100       0       0       0
+24/03-24/06 |     100       0       0       0
+23/18-24/06 |                                        0
+24/06-24/09 |     100       0       0       0
+24/09-24/12 |     100       0       0       0
+24/12-24/15 |     100       0       0       0
+24/15-24/18 |     100       0       0       0
+24/06-24/18 |                                        0
+
+Long Term (24/18-25/18 MDT): No precipitation is expected.
+
+                   0"    T or   1" or   3" or   10" or
+Day/Hour MDT             more    more    more     more
+            --------------------------------------------------
+24/18-24/21 |     100       0       0       0
+24/21-25/00 |     100       0       0       0
+25/00-25/03 |     100       0       0       0
+25/03-25/06 |     100       0       0       0
+24/18-25/06 |                                        0
+25/06-25/09 |     100       0       0       0
+25/09-25/12 |     100       0       0       0
+25/12-25/15 |     100       0       0       0
+25/15-25/18 |     100       0       0       0
+25/06-25/18 |                                        0
+
+
+

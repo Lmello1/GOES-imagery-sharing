@@ -1,0 +1,242 @@
+ASUS64 KLUB 231712
+RTPLUB
+Texas Temperature and Precipitation Table...Updated
+National Weather Service Lubbock TX
+1212 PM CDT Sun Oct 23 2022
+
+Data below provided by National Weather Service
+  -----------
+Values represent High and Low Temperatures over the last 24 Hours
+and Total Precipitation over the last 24 Hours
+
+.BR LUB 1023 C DH08/TAIRZX/TAIRZN/TAIRZZ/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                            OBS   MAX  MIN  OBS   24HR 24HR SNOW
+:ID     LOCATION             TIME  TEMP TEMP TEMP  PCPN SNFL DEPTH
+:------------------------------------------------------------
+LBST2: Lubbock            :DH0800/  85 / 57 / 63 / 0.00/  0.0/ 0
+CDS  : Childress Airport  :DH0800/  91 / 65 / 65 / 0.00/
+AMA  : Amarillo           :DH0800/  81 / 61 / 62 / 0.00/
+
+ABET2: Abernathy          :DH0804/  85 / 57 / 59 / 0.00/  0.0/ 0
+ASPT2: Aspermont          :DH0700/  92 / 64 / 69 / 0.00/  0.0/ 0
+BNFT2: Brownfield         :DH0730/  84 / 52 / 57 / 0.00/  0.0/ 0
+CAPT2: Caprock Canyons Pk :DH0800/  88 / 66 / 67 / 0.00/     /
+CXDT2: Childress          :DH0700/  92 / 61 / 68 / 0.00/  0.0/ 0
+CBYT2: Crosbyton          :DH0700/  86 / 59 / 66 / 0.00/  0.0/ 0
+DNVT2: Denver City        :DH0700/  83 / 57 / 58 / 0.00/  0.0/ 0
+DMMT2: Dimmitt            :DH0718/  77 / 57 / 57 / 0.00/  0.0/ 0
+FYDT2: Floydada           :DH0700/  83 / 53 / 61 / 0.00/  0.0/ 0
+FRIT2: Friona             :DH0700/  76 / 55 / 60 / 0.00/  0.0/ 0
+GHRT2: Guthrie            :DH0800/  89 / 61 / 66 / 0.00/  0.0/ 0
+HRTT2: Hart               :DH0700/  80 / 52 / 58 / 0.00/  0.0/ 0
+JAYT2: Jayton             :DHM   /   M /  M /  M / 0.00/  0.0/ 0
+JJYT2: Jayton RAWS        :DH0800/  92 / 63 / 69 / 0.00/     /
+LHPT2: Lake Alan Henry    :DH0800/  87 / 62 / 66 / 0.00/  0.0/ 0
+LLLT2: Levelland          :DH0700/  83 / 53 / 58 / 0.00/  0.0/ 0
+LFDT2: Littlefield 5SE    :DH0800/  86 / 56 / 59 / 0.00/  0.0/ 0
+MTDT2: Matador            :DH0800/  88 / 57 / 66 / 0.00/  0.0/ 0
+MATT2: Matador Wildlife Mgt:DH0800/  91 / 62 / 68 / 0.00/     /
+MEMT2: Memphis            :DH0800/  88 / 58 / 66 / 0.00/  0.0/ 0
+MOOT2: Morton             :DH0800/  83 / 53 / 57 / 0.00/  0.0/ 0
+MSET2: Muleshoe           :DH0900/  80 / 52 / 62 / 0.00/  0.0/ 0
+MLST2: Muleshoe Refuge    :DH0800/  82 / 50 / 60 / 0.00/  0.0/ 0
+MWRT2: Muleshoe Ref Cli St:DH0800/  82 / 50 / 60 / 0.00/     /
+OLTT2: Olton              :DH0903/  82 / 59 / 61 / 0.00/  0.0/ 0
+PDCT2: Paducah 7E         :DH0700/  90 / 61 / 68 / 0.00/  0.0/ 0
+PDUT2: Paducah 15S        :DH0600/  88 / 61 / 66 / 0.00/  0.0/ 0
+PKVT2: Plainview Wtr Plnt :DH0730/  85 / 53 / 60 / 0.00/  0.0/ 0
+PVWT2: Plainview Dly Hrld :DH0800/  85 / 55 / 61 / 0.00/  0.0/ 0
+PLNT2: Plains             :DH0800/  82 / 54 / 58 / 0.00/  0.0/ 0
+POST2: Post               :DH0600/  89 / 63 / 67 / 0.00/  0.0/ 0
+STOT2: Silverton          :DH0800/  85 / 58 / 62 / 0.00/  0.0/ 0
+SNYT2: Snyder             :DH0700/  88 / 55 / 63 / 0.00/  0.0/ 0
+TSPT2: Spur               :DH0700/  89 / 58 / 63 / 0.00/  0.0/ 0
+THKT2: Tahoka             :DH0621/  87 / 51 / 60 / 0.00/  0.0/ 0
+TULT2: Tulia              :DH0700/  81 / 58 / 60 / 0.00/  0.0/ 0
+TURT2: Turkey             :DH0800/  88 / 63 / 67 / 0.00/  0.0/ 0
+VIGT2: Vigo Park COOP     :DH0800/  83 / 57 / 60 / 0.00/  0.0/ 0
+CWRT2: White River Lake   :DHM   /   M /  M /  M / 0.00/  0.0/ 0
+
+AMTT2: Aspermont 10S      :DH0800/     /    /    /    M/
+MKZT2: Mackenzie Reservoir:DH0800/     /    /    / 0.00/
+PWRT2: Paducah 14SE       :DH0800/     /    /    /    M/
+KLDT2: Kirkland 1NNE      :DH0800/     /    /    / 0.00/
+
+KRKT2: Kirkland 1W        :DH0700/     /    /    / 0.00/  0.0/  0
+CDAT2: Childress USDA     :DH0700/     /    /    / 0.00/  0.0/  0
+CHHT2: Childress 7NW      :DH0700/     /    /    / 0.00/  0.0/  0
+DMNT2: Dumont             :DH0800/     /    /    / 0.00/  0.0/  0
+FLDT2: Floydada 9SE       :DH0700/     /    /    / 0.00/  0.0/  0
+FMTT2: Flomot 2E          :DH0800/     /    /    / 0.00/  0.0/  0
+BAXT2: Lubbock 7SW        :DH0800/     /    /    / 0.00/  0.0/  0
+HBXT2: Lubbock 7SW #2     :DH0800/     /    /    / 0.00/  0.0/  0
+NTFT2: Northfield 2S      :DH0700/     /    /    / 0.00/  0.0/  0
+PDHT2: Paducah 10S        :DH0700/     /    /    / 0.00/  0.0/  0
+PFRT2: Pitchfork Ranch    :DH0800/     /    /    / 0.00/  0.0/  0
+BUXT2: Reese 4E           :DH0730/     /    /    / 0.00/  0.0/  0
+RORT2: Roaring Springs    :DH0730/     /    /    / 0.00/  0.0/  0
+ROPT2: Ropesville 6NNW    :DH0700/     /    /    / 0.00/  0.0/  0
+SHWT2: Shallowater        :DH0700/     /    /    / 0.00/  0.0/  0
+SLAT2: Slaton             :DH0700/     /    /    / 0.00/  0.0/  0
+SLDT2: Southland          :DH0722/     /    /    / 0.00/  0.0/  0
+TEST2: Tell 3S            :DH0700/     /    /    / 0.00/  0.0/  0
+LIXT2: Woodrow 3W         :DH0645/     /    /    / 0.00/  0.0/  0
+.END
+
+.BR LUB 1023 C DH00/TAIRZX/DH08/DVH8/TAIRZN/TAIRZZ/DVH24/PPDRZZ
+
+ARST2: Abernathy 5NE              :DH0800/  85 / 53 / 61 / 0.00/
+ADXT2: Adrian 6WSW                :DH0800/  80 / 58 / 60 / 0.04/
+AIKT2: Aiken 3WSW                 :DH0800/  86 / 54 / 61 / 0.00/
+ABXT2: Albany 3ENE                :DH0800/  92 / 67 / 69 / 0.00/
+ANXT2: Amarillo 15NNW             :DH0800/  85 / 58 / 66 / 0.00/
+ASOT2: Amarillo 7SSE              :DH0800/  82 / 58 / 61 / 0.00/
+AMNT2: Amarillo 9NNE              :DH0800/  83 / 60 / 66 / 0.00/
+ATST2: Amherst 1NE                :DH0800/  85 / 54 / 60 / 0.00/
+AWST2: Andrews 2NE                :DH0800/  84 / 57 / 62 / 0.00/
+AOST2: Anton 6S                   :DH0800/  86 / 59 / 59 / 0.00/
+ASST2: Aspermont 3NE              :DH0800/  93 / 65 / 67 / 0.00/
+CTLT2: Castolon 1NW BBNP          :DH0800/  94 / 56 / 66 / 0.00/
+PGPT2: Persimmon Gap BBNP         :DH0800/  91 / 57 / 60 / 0.00/
+BIGT2: Big Lake 1WNW              :DH0800/  86 / 59 / 61 / 0.00/
+BLST2: Bootleg 11WNW              :DH0800/  80 / 51 / 58 / 0.00/
+BGXT2: Borger 7E                  :DH0800/  83 / 60 / 66 / 0.00/
+BYST2: Boys Ranch 1WSW            :DH0800/  85 / 54 / 70 / 0.00/
+BWST2: Brownfield 2S              :DH0800/  85 / 51 / 55 / 0.00/
+CNST2: Canadian 6E                :DH0800/  90 / 52 / 65 / 0.00/
+CATT2: Quitaque 3NNW              :DH0800/  87 / 65 / 67 / 0.00/
+CXST2: Childress 2NNE             :DH0800/  92 / 61 / 68 / 0.00/
+CEST2: Clarendon 2W               :DH0800/  86 / 59 / 65 / 0.00/
+CLUT2: Claude 12SSW               :DH0800/  80 / 64 / 64 / 0.00/
+CEET2: Clyde 2WNW                 :DH0800/  87 / 63 / 63 / 0.00/
+CRYT2: Colorado City 5NW          :DH0800/  90 / 56 / 61 / 0.00/
+COST2: Comanche Springs Mesonet   :DH0800/  91 / 62 / 67 / 0.00/
+CYAT2: Coyanosa 2N                :DH0800/  89 / 56 / 58 / 0.00/
+CRXT2: Crane 1NNW                 :DH0800/  88 / 54 / 64 / 0.00/
+CWST2: Crowell Mesonet            :DH0800/  93 / 65 / 70 / 0.00/
+DLTT2: Dell City 1N               :DH0800/  83 / 49 / 52 / 0.00/
+DVST2: Denver City 7W             :DH0800/  83 / 57 / 57 / 0.00/
+DMST2: Dimmitt 2NE                :DH0800/  77 / 58 / 59 / 0.00/
+OLET2: Doole 3WNW                 :DH0800/  92 / 64 / 67 / 0.00/
+DORN5: Dora NM 2SW                :DH0800/  78 / 57 / 58 / 0.00/
+DOZT2: Dozier 3W                  :DH0800/  90 / 54 / 66 / 0.00/
+DMAT2: Dumas 3SE                  :DH0800/  83 / 56 / 67 / 0.00/
+EAXT2: Earth 9WSW                 :DH0800/  85 / 59 / 62 / 0.00/
+KENN5: Endee                      :DH0800/  81 / 59 / 59 / 0.00/
+ESST2: Estelline 3 SSE            :DH0800/  91 / 62 / 69 / 0.00/
+FLST2: Floydada 2NE               :DH0800/  85 / 57 / 60 / 0.00/
+FVST2: Fluvanna 3W                :DH0800/  87 / 58 / 62 / 0.00/
+FCBT2: Fort Chadbourne            :DH0800/  90 / 62 / 63 / 0.00/
+FLET2: Fort Lancaster             :DH0800/  85 / 61 / 64 / 0.00/
+OFLC2: Fort Lewis CO              :DH0800/  64 / 28 / 43 / 0.00/
+FTTT2: Fort McKavett              :DH0800/  88 / 60 / 66 / 0.00/
+FAST2: Friona 2NE                 :DH0800/  77 / 56 / 59 / 0.00/
+FIHT2: Fritch 1WNW                :DH0800/  85 / 58 / 69 / 0.00/
+GGST2: Gail 2SE                   :DH0800/  90 / 57 / 64 / 0.00/
+GDST2: Goodlett Mesonet           :DH0800/  93 / 62 / 68 / 0.00/
+GNIT2: Goodnight                  :DH0800/  83 / 62 / 62 / 0.00/
+GHST2: Graham 5SW                 :DH0800/  88 / 58 / 67 / 0.00/
+PSST2: Guadalupe - Pine Springs   :DH0800/  72 / 64 / 65 / 0.00/
+PFST2: Guthrie 10W Pitchfork Ranch:DH0800/  89 / 61 / 66 / 0.00/
+HKBT2: Hackberry 2SSE             :DH0800/  90 / 63 / 69 / 0.00/
+HPPT2: Happy 1E                   :DH0800/  81 / 57 / 59 / 0.00/
+HAST2: Hart 3N                    :DH0800/  82 / 54 / 59 / 0.00/
+HAXT2: Haskell 1NNW               :DH0800/  92 / 62 / 68 / 0.00/
+HFST2: Hefner Mesonet             :DH0800/  93 / 64 / 70 / 0.00/
+HEST2: Hereford 2NW               :DH0800/  78 / 55 / 61 / 0.00/
+HCYN5: Hobbs 5NW                  :DH0800/  81 / 56 / 57 / 0.00/
+JTST2: Jayton 1S                  :DH0800/  92 / 62 / 69 / 0.00/
+TTJT2: Junction 1SSW              :DH0800/  87 / 59 / 69 / 0.00/
+KNTT2: Kent 9E                    :DH0800/  84 / 60 / 69 / 0.00/
+KXST2: Knox City Mesonet          :DH0800/  92 / 61 / 67 / 0.00/
+LHST2: Lake Alan Henry 1NW        :DH0800/  91 / 62 / 67 / 0.00/
+MLMT2: Lake McClellan 2NW         :DH0800/  85 / 63 / 64 / 0.00/
+LMST2: Lamesa 2SE                 :DH0800/  87 / 52 / 62 / 0.00/
+LEST2: Lesley 2S                  :DH0800/  90 / 64 / 68 / 0.00/
+LDST2: Levelland 4S               :DH0800/  83 / 54 / 59 / 0.00/
+LPBT2: Lipscomb 8W                :DH0800/  89 / 60 / 69 / 0.00/
+LOXT2: Lomax 1SSE                 :DH0800/  88 / 57 / 64 / 0.00/
+LWST2: Lubbock 3WNW TTU           :DH0800/  86 / 61 / 61 / 0.00/
+LFBT2: Lubbock 4SE                :DH0800/  84 / 60 / 60 / 0.00/
+MDOT2: McAdoo 3NNW                :DH0800/  87 / 59 / 62 / 0.00/
+MMYT2: McCamey 1SSW               :DH0800/  91 / 55 / 64 / 0.00/
+MCST2: Mclean 1E                  :DH0800/  86 / 61 / 63 / 0.00/
+MEST2: Memphis 1NE                :DH0800/  90 / 60 / 68 / 0.00/
+MXST2: Menard 2NW                 :DH0800/  88 / 59 / 68 / 0.00/
+MZST2: Mertzon 3NNE               :DH0800/  89 / 60 / 64 / 0.00/
+MIMT2: Miami 10E                  :DH0800/  87 / 62 / 64 / 0.00/
+MNST2: Morton 1NE                 :DH0800/  85 / 57 / 59 / 0.00/
+MUST2: Muleshoe 2S                :DH0800/  83 / 59 / 60 / 0.00/
+NEWT2: New Deal 6E                :DH0800/  85 / 54 / 61 / 0.00/
+NEHT2: New Home                   :DH0800/  87 / 51 / 57 / 0.00/
+NORT2: Northfield 1S              :DH0800/  90 / 61 / 67 / 0.00/
+OEST2: O'Donnell 1N               :DH0800/  87 / 51 / 61 / 0.00/
+OLST2: Odell Mesonet              :DH0800/  95 / 64 / 68 / 0.00/
+ONST2: Olton 6S                   :DH0800/  84 / 52 / 58 / 0.00/
+PADT2: Paducah 10SW               :DH0800/  90 / 60 / 66 / 0.00/
+PDJT2: Palo Duro 4E (JA Ranch)    :DH0800/  87 / 63 / 66 / 0.00/
+PDST2: Palo Duro Canyon Rim       :DH0800/  81 / 59 / 63 / 0.00/
+PDFT2: Palo Duro Canyon Floor     :DH0800/  84 / 64 / 67 / 0.00/
+PDWT2: Palo Duro Reservoir 1NW    :DH0800/  88 / 53 / 62 / 0.00/
+PAMT2: Pampa 2E                   :DH0800/  83 / 61 / 63 / 0.00/
+PHLT2: Panhandle 1SSW             :DH0800/  81 / 50 / 61 / 0.00/
+PTXT2: Pantex 1ESE                :DH0800/  81 / 61 / 62 / 0.00/
+PPST2: Plains 3N                  :DH0800/  82 / 54 / 58 / 0.00/
+PVST2: Plainview 1S               :DH0800/  85 / 55 / 61 / 0.00/
+PTST2: Post 1NE                   :DH0800/  89 / 60 / 66 / 0.00/
+RAST2: Ralls 1SE                  :DH0800/  87 / 53 / 60 / 0.00/
+REST2: Reese Center               :DH0800/  84 / 58 / 58 / 0.00/
+RRST2: Roaring Springs 3N         :DH0800/  88 / 59 / 65 / 0.00/
+ROMT2: Romero 11SSW               :DH0800/  84 / 47 / 66 / 0.00/
+ROTT2: Rotan 5W                   :DH0800/  91 / 64 / 69 / 0.00/
+SJST2: San Angelo 7NW             :DH0800/  91 / 63 / 63 / 0.00/
+SGST2: Seagraves 1SW              :DH0800/  86 / 53 / 56 / 0.00/
+SGVT2: Segovia 7SSW               :DH0800/  83 / 59 / 66 / 0.00/
+SMST2: Seminole 2N                :DH0800/  84 / 55 / 61 / 0.00/
+SEST2: Seymour Mesonet            :DH0800/  95 / 65 / 71 / 0.00/
+SIBT2: Sierra Blanca 1SSE         :DH0800/  81 / 62 / 68 / 0.00/
+STST2: Silverton 7E               :DH0800/  85 / 58 / 62 / 0.00/
+SLST2: Slaton 2NE                 :DH0800/  86 / 56 / 62 / 0.00/
+SMYT2: Smyer                      :DH0800/  84 / 58 / 58 / 0.00/
+SYST2: Snyder 3E                  :DH0800/  89 / 56 / 62 / 0.00/
+WTXT2: Snyder 3SSW                :DH0800/  90 / 56 / 65 / 0.00/
+SOPT2: South Plains 3ENE          :DH0800/  85 / 58 / 61 / 0.00/
+SPST2: Spur Mesonet               :DH0800/  89 / 58 / 63 / 0.00/
+XSTT2: Stamford 5ESE              :DH0800/  91 / 65 / 69 / 0.00/
+GCMT2: St Lawrence 5SW            :DH0800/  89 / 55 / 62 / 0.00/
+XSCT2: Sterling City 4WSW         :DH0800/  90 / 61 / 64 / 0.00/
+STNT2: Stinnett 1NNW              :DH0800/  84 / 53 / 61 / 0.00/
+SFOT2: Stratford 4WNW             :DH0800/  85 / 43 / 63 / 0.00/
+SDST2: Sundown 8SW                :DH0800/  85 / 55 / 58 / 0.00/
+SUNT2: Sunray 9NNE                :DH0800/  85 / 53 / 65 / 0.00/
+SWST2: Sweetwater 11SW            :DH0800/  87 / 62 / 65 / 0.00/
+TAST2: Tahoka 3NE                 :DH0800/  86 / 51 / 60 / 0.00/
+TZNT2: Tarzan 2WNW                :DH0800/  88 / 55 / 64 / 0.00/
+TTSN5: Tatum 2SW                  :DH0800/  81 / 56 / 56 / 0.00/
+TXNT2: Texline 2N                 :DH0800/  82 / 54 / 56 / 0.00/
+XTHT2: Throckmorton 1SW           :DH0800/  93 / 68 / 68 / 0.00/
+TCST2: Truscott Mesonet           :DH0800/  91 / 61 / 67 / 0.00/
+TLST2: Tulia 2NE                  :DH0800/  81 / 58 / 60 / 0.00/
+TUST2: Turkey 2WSW                :DH0800/  88 / 63 / 67 / 0.00/
+UMST2: Umbarger 3NNE              :DH0800/  80 / 53 / 61 / 0.00/
+VHNT2: Van Horn 3ENE              :DH0800/  85 / 57 / 68 / 0.00/
+VGST2: Vega 4E                    :DH0800/  80 / 53 / 60 / 0.00/
+VGOT2: Vigo Park                  :DH0800/  83 / 57 / 60 / 0.00/
+WGST2: Wall 2E                    :DH0800/  91 / 65 / 65 / 0.00/
+EIST2: Weinert 2NNE               :DH0800/  92 / 61 / 69 / 0.00/
+WEHT2: Welch                      :DH0800/  86 / 53 / 59 / 0.00/
+WGTT2: Wellington 6SE             :DH0800/  92 / 60 / 66 / 0.00/
+WLST2: White River Lake 6NW       :DH0800/  87 / 63 / 63 / 0.00/
+WOST2: Wolfforth 6SW              :DH0800/  85 / 56 / 57 / 0.00/
+.END
+
+
+ These data are preliminary and have not undergone final 
+ quality control by the National Centers for Environmental
+ Information /NCEI/. Therefore these data are subject to 
+ revision.  Final and certified Climate Data can be accessed
+ at: https://www.ncei.noaa.gov/
+ 
+$$
+

@@ -1,0 +1,58 @@
+SXUS83 KAPX 231938
+OMRAPX
+
+Marine Observations
+National Weather Service Gaylord MI
+338 PM EDT Sun Oct 23 2022
+
+                    WIND  DATA (KTS)   WAVES  WATER          
+SITE   DATE/TIME   DIR   SPEED   GUST  (FT)  TEMP(F) SITE NAME
+-------------------------------------------------------------
+
+Lake Superior/St Marys River
+
+GRMM4   231840Z    180     19     27                 Grand Marais
+WFPM4   231840Z    150     15     17                 Whitefish Point
+PTIM4   231900Z    120     10     17                 Point Iroquois
+CYAM    231900Z    110      9     16                 SOO (Canada)
+KANJ    231855Z    130     11     20                 Sault Ste Marie
+SWPM4   231900Z    140      9     15           51.79    S.W. Pier
+LTRM4   231900Z    150     10     13           53.24    Little Rapids
+RCKM4   231900Z    110     13     19           50.89    Rock Cut
+WNEM4   231900Z    140      8     14           53.41    West Nebish Island
+
+Lake Huron
+
+DTLM4   231900Z    140     11     13           49.64    DeTour Village
+KDRM    231915Z    140      8                        Drummond Island
+KMCD    231915Z    100      5                        Mackinac Island
+MACM4   231900Z    170     15     22           51.61    Mackinac City
+KSLH    231915Z    160      9                        Cheboygan Airport
+CYGM4   231850Z    140      6     23                 Cheboygan Marina
+SRLM4   231900Z    100     17                  50.36    Spectacle Reef Light
+KPZQ    231915Z    190     12     18                 Rogers City
+PRIM4   231850Z    130      7     15                 Presque Isle Light
+KAPN    231854Z    170     16     27                 Alpena Guard Base
+APNM4   231920Z    140     18     20                 Alpena Harbor Light
+TBIM4   231900Z    150     11     12                 Thunder Bay Island
+SPTM4   231850Z    180      8     11                 Sturgeon Point Light
+KOSC    231915Z    100      7                        Oscoda
+TAWM4   231840Z     90      3      5                 Tawas Point
+GSLM4   231840Z    150     10     14                 Gravelly Shoals
+
+Lake Michigan
+
+KISQ    231915Z    140      9                        Manistique
+PNLM4   231900Z    110     11     12           49.27    Port Inland
+NABM4   231840Z    120     10     12                 Naubinway
+KSJX    231915Z    160      8     14                 St James
+KPLN    231854Z    180     12     21                 Pellston
+KMGN    231915Z    160     11     19                 Harbor Springs
+KCVX    231915Z    170     12     18                 Charlevoix
+GTLM4   231840Z    190      4     11                 Grand Traverse Light
+KTVC    231853Z    180     13     28                 Traverse City
+KFKS    231915Z    160     13     18                 Frankfort
+MEEM4   231840Z    150     11     22                 Manistee Harbor
+BSBM4   231840Z    180     13     19                 Big Sable Point
+LDTM4   231900Z    170      5     10                 Ludington
+KLDM    231915Z    160     16     20                 Ludington Airport

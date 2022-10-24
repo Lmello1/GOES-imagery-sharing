@@ -1,0 +1,44 @@
+ASUS64 KOUN 231835
+RTPOK 
+
+OKLAHOMA TEMPERATURE AND PRECIPITATION TABLE
+NATIONAL WEATHER SERVICE NORMAN OK
+110 PM CDT Sun Oct 23 2022
+
+12 HOUR HIGH AND LOW...24 HOUR PRECIPITATION
+:
+:                                  HIGH   LOW   PCPN
+:
+:...WESTERN OKLAHOMA AND WESTERN NORTH TEXAS...
+LTS : ALTUS AFB                  :  85 /  63 /     0
+CSM : CLINTON                    :  77 /  63 /     0
+FDR : FREDERICK                  :  86 /  66 /     0
+GAG : GAGE                       :  83 /  66 /     T
+GUY : GUYMON                     :  84 /  65 /     0
+HBR : HOBART                     :  80 /  64 /     0
+FSI : LAWTON/FORT SILL           :  81 /  64 /     0
+LAW : LAWTON/AIRPORT             :  82 /  66 /     0
+SPS : WICHITA FALLS              :  84 /  67 /     0
+:
+:...NORTHERN AND CENTRAL OKLAHOMA...
+END : ENID/VANCE AFB             :  78 /  68 /     0
+GOK : GUTHRIE                    :  79 /  68 /     0
+OKC : OKLAHOMA CITY/WILL ROGERS  :  78 /  66 /     0
+PWA : OKLAHOMA CITY/WILEY POST   :  78 /  67 /     0
+TIK : OKLAHOMA CITY/TINKER AFB   :  79 /  67 /     0
+PNC : PONCA CITY                 :  85 /  72 /     0
+SWO : STILLWATER                 :  84 /  71 /     0
+:
+:...EASTERN OKLAHOMA...
+BVO : BARTLESVILLE               :  82 /  70 /     0
+MLC : MCALESTER                  :  77 /  69 /     0
+MKO : MUSKOGEE                   :  80 /  69 /     0
+TUL : TULSA/INTL AIRPORT         :  81 /  69 /     0
+RVS : TULSA/RIVERSIDE AIRPORT    :  81 /  69 /     0
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL
+QUALITY CONTROL BY THE NATIONAL CENTERS FOR ENVIRONMENTAL
+INFORMATION /NCEI/. THEREFORE THESE DATA ARE SUBJECT TO
+REVISION. FINAL AND CERTIFIED CLIMATE DATA CAN BE
+ACCESSED THROUGH NCEI. WWW.NCEI.NOAA.GOV .

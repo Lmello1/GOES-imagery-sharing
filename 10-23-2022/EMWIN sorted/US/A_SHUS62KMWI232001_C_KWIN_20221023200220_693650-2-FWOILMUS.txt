@@ -1,0 +1,27 @@
+SHUS62 KMWI 232001
+FWOILM
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:01:57 GMT
+ 
+Listing of Observations (Wilmington, NC)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+LUMBER 319201 221023 13 O 0  72  40  31 1 1 359 10     76  53  87  31  0 0.000
+TURNBU 319302 221023 13 R 1  76  42  30 0 0 328  2     79  50  99  30  0 0.000
+BACK I 319402 221023 13 R 1  74  57  57 0 0   5  9     79  54  81  44  0 0.000
+WHITEV 319701 221023 13 R 3  72  39  31 0 0 351  5     78  52  93  31  0 0.000
+BDR BE 319741 221023 13 R 2  70  43  39 0 0 333  7     77  52  88  38  0 0.000
+NATURE 319802 221023 13 R 0  78  47  34 0 0 350  3     80  51  95  31  0 0.000
+SUNNY  319803 221023 13 R 3  75  49  40 0 0 353  6     77  58  67  40  0 0.000
+BALD H 319841 221023 13 R 3  66  51  60 0 0   0  0     73  59  72  53  0 0.000
+HORTIC 319940 221023 13 R 3  68  57  68 0 0 293  9     76  56  74  46  0 0.000
+MARION 382901 221023 13 R 1  75  43  33 0 0 349  4     77  53  90  33  0 0.000
+HORRY  383001 221023 12 R 2  73  43  35 0 0 355  6     77  53  91  35  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:01:57 GMT
+

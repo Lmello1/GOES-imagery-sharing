@@ -1,0 +1,30 @@
+SHUS65 KMWI 232031
+FWOCYS
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:31:26 GMT
+ 
+Listing of Observations (Cheyenne, WY)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+AGATE  250105 221023 13 O 3  46  35  64 0 0 329 17     78  38  64  10  0 0.000
+KINCAN 250203 221023 13 O 2  48  36  62 0 0 315 28     79  41  71   9  0 0.000
+SCOTTS 251905 221023 12 O 2  56  36  47 0 0 270 25     81  49  47   9  0 0.000
+SANDST 482012 221023 13 R 3  27  24  90 0 0 271  7     55  26  97  26  2 0.070
+DODGE  482106 221023 12 R 2  38  26  62 0 0 303 20     63  33  89  16  0 0.000
+NWS Office:  CYS/Zone: 283
+SHARPN 481412 221023 12 R 3  34  31  92 0 0  27  8     64  32  97  25  2 0.060
+Count:     1  Zone Average:  34  31  92          8  0  64  32  97  25  2 0.060
+ 
+Zone: 296
+COW CR 482011 221023 12 R 4  29  28  97 0 0 266 13     57  29 100  27  2 0.090
+SAWMIL 482105 221023 12 R 2  28  22  79 0 0 291 10     54  27  92  19  0 0.000
+GUERNS 483101 221023 13 R 2  43  33  70 0 0 330 28     75  41  82  11  1 0.010
+Count:     3  Zone Average:  33  28  82         17  0  62  32  91  19  1 0.033
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:31:26 GMT
+

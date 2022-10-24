@@ -1,0 +1,110 @@
+FPUS66 KPDT 231725
+SFTPDT
+WAZ024-026>030-520-521-ORZ041-044-049-050-502-503-505>511-240100-
+
+Tabular State Forecast for Northeast Oregon and Southeast Washington
+National Weather Service Pendleton OR
+1025 AM PDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Mon      Tue      Wed      Thu      Fri      Sat      
+   Oct 23   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   
+
+...WASHINGTON...
+   Cle Elum
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Rain     Mocldy   
+     /51    33/52    32/50    31/47    28/52    29/52    30/52    
+      /00    80/80    50/80    80/40    20/30    30/50    50/40   
+
+   Ellensburg
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /54    37/56    35/53    35/53    32/56    33/56    33/57    
+      /00    60/60    30/70    70/30    10/20    20/40    40/40   
+
+   Goldendale
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /53    34/52    35/52    35/50    32/53    32/54    33/54    
+      /00    70/70    30/80    80/40    10/10    20/40    40/40   
+
+   Tri-Cities
+   Sunny    Rain     Mocldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /57    43/59    43/57    43/56    39/58    42/59    41/59    
+      /00    70/70    20/60    70/40    10/10    20/30    30/30   
+
+   Walla Walla
+   Ptcldy   Rain     Rain     Rain     Ptcldy   Mocldy   Mocldy   
+     /53    37/54    38/55    37/52    35/55    38/58    39/59    
+      /10    90/90    30/50    70/50    10/10    10/30    30/30   
+
+   Yakima
+   Sunny    Rain     Rain     Ptcldy   Ptcldy   Mocldy   Ptcldy   
+     /58    37/58    33/56    35/55    31/57    34/57    34/58    
+      /00    60/60    20/70    70/30    10/10    20/40    40/30   
+
+...OREGON...
+   Bend
+   Sunny    Rain     Rain     Rnsnow   Ptcldy   Ptcldy   Mocldy   
+     /47    30/53    31/50    33/44    27/52    32/54    34/53    
+      /10    60/90    40/80    80/60    10/10    20/40    40/40   
+
+   Enterprise
+   Ptcldy   Rnsnow   Ptcldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   
+     /40    26/44    25/44    25/40    16/44    21/47    23/49    
+      /20    50/100   60/30    70/70    20/10    10/20    20/30   
+
+   Hermiston
+   Sunny    Rain     Rain     Rain     Ptcldy   Mocldy   Ptcldy   
+     /57    40/57    40/58    41/56    37/59    38/60    39/60    
+      /10    70/70    20/60    70/50    10/10    20/30    30/30   
+
+   John Day
+   Mocldy   Rain     Ptcldy   Rnsnow   Ptcldy   Ptcldy   Mocldy   
+     /45    25/49    29/52    31/46    24/52    28/55    30/56    
+      /20    50/90    50/40    70/60    10/00    10/30    30/30   
+
+   La Grande
+   Ptcldy   Rain     Rain     Rain     Ptcldy   Mocldy   Mocldy   
+     /45    27/45    33/48    32/43    27/47    31/49    31/51    
+      /10    70/100   50/50    80/70    20/10    10/30    30/40   
+
+   Madras
+   Sunny    Rain     Rain     Rain     Ptcldy   Ptcldy   Mocldy   
+     /52    34/55    33/54    36/49    31/55    34/58    36/57    
+      /00    70/80    40/80    80/60    10/10    20/40    40/40   
+
+   Meacham
+   Ptcldy   Rain     Rain     Rnsnow   Ptcldy   Mocldy   Mocldy   
+     /42    22/44    30/47    23/41    20/47    24/50    26/50    
+      /20    80/100   50/50    80/60    20/10    10/30    30/30   
+
+   Pendleton (Downtown)
+   Ptcldy   Rain     Rain     Rain     Ptcldy   Mocldy   Mocldy   
+     /54    32/56    34/58    35/53    32/59    35/61    36/62    
+      /20    80/90    30/60    70/50    10/10    10/30    30/30   
+
+   Redmond
+   Sunny    Rain     Rain     Rain     Ptcldy   Ptcldy   Mocldy   
+     /50    28/54    27/52    32/47    26/54    30/57    32/55    
+      /10    50/80    40/80    80/60    10/10    20/40    40/40   
+
+   Seneca
+   Mocldy   Rnsnow   Ptcldy   Snow     Ptcldy   Ptcldy   Mocldy   
+     /40    14/46    21/46    23/40    12/45    16/49    18/49    
+      /20    40/80    50/40    70/60    10/00    10/20    30/30   
+
+   The Dalles
+   Sunny    Rain     Rain     Rain     Ptcldy   Rain     Ptcldy   
+     /58    42/57    44/58    44/56    40/60    40/60    41/60    
+      /00    90/90    40/90    90/50    20/10    20/50    50/40   
+
+
+$$
+

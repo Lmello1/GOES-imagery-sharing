@@ -1,0 +1,177 @@
+FPUS65 KSLC 232053
+SFTUT 
+UTZ101>131-WYZ021-241200-
+
+Tabular State Forecast for Utah
+National Weather Service Salt Lake City UT
+253 PM MDT SUN OCT 23 2022
+
+This product is issued routinely in the early morning and late
+afternoon. It may not represent the latest forecast.
+
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+...NORTHERN UTAH...
+   Salt Lake City
+   Sunny    Mocldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   30/50    40/52    41/52    35/49    32/54    35/57    38/59    
+    30/00    20/20    30/60    50/10    00/00    00/00    00/10   
+
+   Tooele
+   Ptcldy   Mocldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   31/44    36/47    37/46    31/41    29/47    34/51    37/51    
+    40/00    20/20    30/60    50/10    00/00    00/00    00/10   
+
+   Ogden
+   Sunny    Mocldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   29/48    37/49    37/49    29/46    28/51    33/54    35/55    
+    20/00    30/20    30/70    50/10    00/00    00/00    10/10   
+
+   Brigham City
+   Sunny    Mocldy   Rain     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   25/47    34/48    33/48    26/45    24/49    28/53    31/53    
+    20/00    50/20    40/80    50/10    00/00    00/00    10/20   
+
+   Provo
+   Ptcldy   Mocldy   Rain     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   30/44    32/49    36/49    31/44    27/51    31/55    35/55    
+    40/00    20/20    30/60    60/10    00/00    00/00    00/10   
+
+   Logan
+   Sunny    Mocldy   Rnsnow   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   19/45    28/47    26/46    20/43    16/47    20/52    24/52    
+    20/00    60/20    30/80    50/00    00/00    00/00    10/20   
+
+   Wendover
+   Sunny    Mocldy   Rain     Sunny    Ptcldy   Ptcldy   Ptcldy   
+   30/52    39/52    38/50    32/48    29/48    31/51    35/53    
+    00/00    10/10    30/50    20/00    00/00    00/00    10/10   
+
+   Park City
+   Sunny    Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   19/36    21/40    26/40    18/36    16/44    22/46    25/47    
+    40/00    30/30    40/70    70/20    00/00    00/00    00/10   
+
+   Heber
+   Sunny    Mocldy   Rnsnow   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   14/43    20/48    21/47    18/44    10/52    16/55    19/55    
+    30/00    20/20    30/60    60/10    00/00    00/00    00/10   
+
+   Randolph
+   Sunny    Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   11/39    21/42    19/39    14/36    9/43     15/47    17/47    
+    20/00    40/20    30/80    50/10    00/00    00/00    10/20   
+
+   Alta
+   Sunny    Mocldy   Snow     Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   16/26    18/30    22/30    15/26    14/34    21/36    23/36    
+    50/00    30/30    30/70    70/10    00/00    00/00    10/20   
+
+   Bear River RS
+   Sunny    Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   4/32     12/37    13/36    7/31     4/43     12/43    15/42    
+    40/00    30/30    30/70    60/20    00/00    00/00    00/20   
+
+   Mirror Lake
+   Sunny    Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   10/24    15/29    20/26    12/24    10/34    18/35    20/34    
+    50/10    30/40    40/70    70/20    00/00    00/00    00/20   
+
+   Soldier Summit
+   Ptcldy   Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   13/34    15/42    20/41    15/36    10/44    16/47    18/46    
+    30/00    10/20    30/60    70/20    00/00    00/00    00/10   
+
+   Duchesne
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   23/47    27/51    31/49    26/45    22/48    25/50    27/52    
+    10/00    00/10    20/40    60/20    00/00    00/00    00/10   
+
+...SOUTHERN UTAH...
+   Price
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   26/46    28/50    31/50    29/46    25/51    28/52    30/54    
+    10/00    00/10    20/40    60/20    00/00    00/00    00/10   
+
+   Hanksville
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   21/55    27/57    32/61    31/54    23/53    25/56    26/57    
+    00/00    00/00    10/10    50/20    00/00    00/00    00/00   
+
+   Richfield
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   17/43    21/52    28/52    21/42    16/52    22/56    25/56    
+    10/00    00/00    10/20    60/10    00/00    00/00    00/10   
+
+   Delta
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   20/45    25/52    31/54    25/46    18/50    22/53    25/55    
+    10/00    00/00    20/30    50/10    00/00    00/00    00/10   
+
+   Cedar City
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   19/45    25/57    31/56    25/45    20/54    26/58    29/59    
+    20/00    00/00    00/10    50/10    00/00    00/00    00/00   
+
+   Bryce Canyon
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   9/39     15/50    21/48    18/39    10/47    16/50    19/51    
+    00/00    00/00    10/10    60/20    00/00    00/00    00/10   
+
+   St George
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   37/61    40/66    45/67    42/60    36/67    40/70    43/70    
+    00/00    00/00    00/00    30/10    00/00    00/00    00/00   
+
+   Kanab
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Ptcldy   
+   27/55    31/62    36/62    33/54    28/58    32/62    33/63    
+    00/00    00/00    00/00    40/20    00/00    00/00    00/00   
+
+   Bullfrog
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   31/55    34/59    38/62    37/52    32/55    33/57    35/58    
+    00/00    00/00    00/00    40/20    00/00    00/00    00/00   
+
+...EXTREME SOUTHWEST WYOMING...
+   Evanston
+   Sunny    Mocldy   Snow     Ptcldy   Sunny    Ptcldy   Ptcldy   
+   12/38    26/42    27/40    20/36    17/44    23/47    26/48    
+    20/00    30/20    30/70    50/10    00/00    00/00    00/10   
+
+...EASTERN UTAH...
+   Manila
+   Sunny    Mocldy   Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   15/42    20/45    20/44    18/39    13/46    19/48    22/49    
+    10/00    00/10    20/40    50/10    00/00    00/00    00/10   
+
+   Vernal
+   Sunny    Ptcldy   Mocldy   Ptcldy   Sunny    Ptcldy   Ptcldy   
+   23/45    25/48    28/48    27/46    20/46    23/50    25/52    
+    10/00    00/10    10/30    50/10    00/00    00/00    00/00   
+
+   Moab
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   26/53    30/58    37/62    34/53    27/56    30/58    31/60    
+    20/00    00/00    00/10    50/30    00/00    00/00    00/00   
+
+   Blanding
+   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+   27/46    28/53    33/54    33/45    27/51    30/53    31/55    
+    10/00    00/00    00/00    40/40    00/00    00/00    00/00   
+
+$$
+
+For more information from NOAA's National Weather Service visit...
+http://weather.gov/saltlakecity

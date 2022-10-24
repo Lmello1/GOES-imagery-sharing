@@ -1,0 +1,473 @@
+FOUS56 KOTX 231933
+PFMOTX
+
+Point Forecast Matrices
+National Weather Service Spokane WA
+1233 PM PDT Sun Oct 23 2022
+
+WAZ036-240000-
+Spokane-Spokane WA
+47.62N 117.52W Elev. 2356 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          35          47          33          49
+Temp                      47 47 39 35 36 38 37 38 43 47 42 39 37 36 36 43 46 46
+Dewpt                     33 32 31 29 30 32 33 36 39 38 37 34 34 34 35 36 33 33
+RH                        58 56 73 78 79 79 85 92 86 71 82 82 89 92 96 76 60 60
+Wind dir                   W SW SW  S  S  S  S  S SW SW SW SW SW SW SW SW SW  S
+Wind spd                   2  6  8 10 10 11 14 16 14 13 12 11 11 10 10 11 12  9
+Wind gust                                      26 25                           
+Clouds                    FW SC SC SC B2 OV OV OV B2 B1 B1 B1 SC SC B1 B1 B2 B2
+PoP 12hr                      0          10          80          20          20
+QPF 12hr                      0           0        0.15           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  C  C  S  S              S  S  C
+Wind chill                      33 28 29 30 28 29 36    35 32 30 28 29 37      
+Min chill                          28    27    28    32    32    28    28    39
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    47      32    50      35    53      36    52
+Temp          37   37 41 46 36   33 42 49 39   38 45 50 41   38 44 49
+Dewpt         35   36 36 33 31   32 34 35 32   32 33 34 34   33 39 36
+PWind dir           S    SW      SW     S       S     S       S     S
+Wind char          GN    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    B2   B2 OV B2 B1   B1 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2
+PoP 12hr           60    40      20    10      20    30      30    30
+Rain           C    L  C  C  S             S    S  S  C  C    C  C  C
+Snow                L  C                                             
+
+$$
+WAZ041-240000-
+Wenatchee-Chelan WA
+47.40N 120.20W Elev. 1255 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          37          55          39          50
+Temp                      51 51 46 43 41 41 38 42 51 53 49 48 46 43 39 44 48 48
+Dewpt                     26 26 27 27 28 30 31 37 41 40 39 38 35 35 34 36 34 35
+RH                        37 37 47 53 59 65 76 82 68 61 68 68 65 73 82 73 58 60
+Wind dir                   W SW NW NW NW  E SE  W  W  W  W  W  W  W  W SW  S  S
+Wind spd                   3  5  6  8  4  5  5  8 11 16 11 11 10  6  6  6  6  6
+Clouds                    FW SC B2 B2 OV OV B2 B1 SC SC FW FW FW SC B2 B2 B2 B2
+PoP 12hr                      0          30          60          10          30
+QPF 12hr                      0           0        0.06           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                   C  L  L                          C  C  L
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            36    52      36    52      38    53      39    53
+Temp          43   40 43 49 42   39 42 52 45   41 43 51 45   42 44 51
+Dewpt         35   34 34 32 32   32 34 37 36   34 36 37 37   35 37 37
+PWind dir          SW     W       W    SW      SW    SW      SW    SW
+Wind char          LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2   B2 B2 SC SC   B1 B1 SC B1   B2 OV B2 B1   B1 B2 B1
+PoP 12hr           60    30      20    20      30    30      40    40
+Rain           L    C  C  S       S     S  C    C  C  C  C    C  C  C
+
+$$
+IDZ026-240000-
+Lewiston-Nez Perce ID
+46.38N 117.02W Elev. 1436 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          35          48          38          53
+Temp                      47 47 42 39 37 38 38 40 44 47 46 45 43 41 40 45 51 50
+Dewpt                     34 34 32 30 31 31 33 36 39 39 39 37 35 34 36 38 36 36
+RH                        60 60 67 70 79 76 82 85 82 74 76 73 73 76 85 76 56 58
+Wind dir                  NW  W  S SE SE SE SE  S  S SW SW SW SW SW SW SW SW SW
+Wind spd                   6  4  4  3  3  5  6  8  8  9 11 10  8  6  5  8  6  3
+Clouds                    SC SC FW SC SC B2 OV OV OV B2 B1 B1 SC SC B1 B2 B2 B2
+PoP 12hr                      5           5          90          50          20
+QPF 12hr                      0           0        0.25        0.08           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      L  L  D  D  C  C  S  S        S  S  C
+Wind chill                                     34                              
+Min chill                          37    33    31    36          36    36      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            39    50      37    54      38    56      39    57
+Temp          44   42 43 48 42   39 43 53 43   40 45 54 46   42 46 54
+Dewpt         35   37 38 35 33   34 36 36 32   32 35 35 33   34 37 38
+PWind dir           S    SW      SW     S      SE    SE       S     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2   OV OV B2 B1   B1 B2 SC SC   B1 B2 B2 B2   B2 B2 B2
+PoP 12hr           70    60      20    10      10    20      30    30
+Rain           C    L  L  C  S                        S  C    C  C  C
+
+$$
+WAZ034-240000-
+Moses Lake-Grant WA
+47.18N 119.30W Elev. 1181 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          38          56          35          53
+Temp                      54 54 47 42 40 41 41 47 54 55 49 44 41 38 36 46 51 51
+Dewpt                     29 27 32 33 34 34 36 38 39 37 37 36 35 33 31 33 34 34
+RH                        38 35 56 70 79 76 82 71 57 51 63 73 79 82 82 60 52 52
+Wind dir                   W  S  S  S  S  S  S  S SW  W SW SW SW SW SW SW  S  S
+Wind spd                   5  5  6  5  6  9 11 13 14 16 11 11 10  8  8  9 10 10
+Clouds                    CL FW B1 B1 B2 OV OV B2 B1 FW FW FW FW SC B2 B1 B2 B2
+PoP 12hr                      0          20          40           0          20
+QPF 12hr                      0           0        0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                   S  C  C                          S  S  C
+Wind chill                               35 34             38 35 32 30         
+Min chill                          38    35    34          38    32    30      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    55      32    55      36    56      36    57
+Temp          41   38 47 52 39   34 45 54 43   39 47 54 42   38 49 54
+Dewpt         36   34 35 32 33   30 34 37 35   33 35 36 36   32 38 37
+PWind dir           S     W      SW     S       S     S       S     S
+Wind char          GN    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    B2   B2 B2 SC SC   B1 B1 SC B1   B2 OV B1 B1   B1 B2 B1
+PoP 12hr           50    20      10    10      20    30      30    30
+Rain           C    C  S                   S    S  S  C  C    C  C  C
+
+$$
+WAZ034-240000-
+Ephrata-Grant WA
+47.30N 119.52W Elev. 1252 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          37          57          36          53
+Temp                      55 54 44 40 40 41 41 45 54 56 47 44 41 40 38 46 50 50
+Dewpt                     29 27 31 30 30 33 35 39 42 41 40 38 35 33 34 36 37 39
+RH                        37 35 60 67 67 73 79 79 64 57 76 79 79 76 85 68 61 66
+Wind dir                   W  S  S SW  S  S  S SW SW  W SW  W  W SW SW SW  S  S
+Wind spd                   5  6  6  5  3  6  9 12 12 14 11  9  6  6  8  9 10 10
+Clouds                    CL FW B1 B2 B2 OV OV B2 SC FW FW FW FW SC B2 B1 B2 B2
+PoP 12hr                      0          20          50           5          20
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                   S  C  C                          S  S  C
+Wind chill                                  35 39                   32         
+Min chill                          36    36    35          38    35    32      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    54      33    55      37    56      38    55
+Temp          41   39 46 51 39   37 44 54 44   43 47 53 43   42 48 52
+Dewpt         37   34 36 34 33   31 36 41 37   34 38 40 38   34 39 39
+PWind dir           S     W       W     S       S     S       S    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    B2   B2 B2 SC SC   B1 B1 SC B1   B2 OV B2 B1   B1 B2 B1
+PoP 12hr           50    20      10    10      30    30      40    30
+Rain           C    C  S                   C    S  C  C  C    C  C  C
+
+$$
+WAZ043-240000-
+Omak-Okanogan WA
+48.47N 119.52W Elev. 1294 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      56          35          54          30          52
+Temp                      54 54 44 42 39 38 38 43 51 53 44 41 36 33 34 42 48 49
+Dewpt                     29 27 25 27 27 30 32 36 36 35 34 33 30 28 29 31 32 33
+RH                        38 35 47 55 62 73 79 76 56 50 68 73 79 82 82 65 54 54
+Wind dir                   S  S SE  S  S  S  S  S  S  S SW  W  W SW  S  S  S  S
+Wind spd                   6  5  8  8  6 11 11 13 12 10 10  8  6  6  6  9 11  9
+Clouds                    FW SC B2 B2 OV OV B2 SC SC SC SC SC SC SC B1 B2 B2 B2
+PoP 12hr                      0          30          50           5          20
+QPF 12hr                      0        0.01        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                   C  C  C                          S  S  C
+Wind chill                         36    31 31 37       38 35    27 28 36      
+Min chill                          36    31    28          35    27    27    39
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            33    52      31    52      36    54      36    54
+Temp          41   36 43 50 39   34 42 51 42   38 45 52 43   39 45 51
+Dewpt         33   32 34 33 30   29 33 36 34   32 35 36 34   33 37 35
+PWind dir           S     W      SW     S       S     S       S     S
+Wind char          GN    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B2   OV B2 SC B1   B2 B2 B1 B1   B2 OV B2 B2   B2 OV B1
+PoP 12hr           50    20      10    20      30    30      40    40
+Rain           C    C  S                S  C    C  C  C  C    C  C  C
+Snow                   S                                             
+
+$$
+WAZ036-240000-
+Spokane Felts-Spokane WA
+47.68N 117.32W Elev. 1940 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          36          47          35          50
+Temp                      49 49 40 37 36 37 38 39 44 47 44 41 40 35 35 43 47 48
+Dewpt                     36 34 33 32 32 32 33 38 40 39 41 40 37 35 35 37 36 35
+RH                        61 56 76 82 85 82 82 96 86 74 89 96 89100100 79 65 60
+Wind dir                   W SW SW  S  S  S  S  S SW SW SW SW SW SW SW SW SW  S
+Wind spd                   2  4  4  3  5  6  9 12 11 10  9  6  6  6  6  8  9  6
+Clouds                    FW SC SC SC B1 OV OV OV B2 B1 B1 B1 B1 SC B1 B1 B2 B2
+PoP 12hr                      0          10          90          20          20
+QPF 12hr                      0           0        0.18        0.01           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  L  L  S  S  S  S        S  S  C
+Wind chill                               31 32 31 38    38          29         
+Min chill                          34    31    30    33    37    30    29      
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    49      33    51      36    55      37    53
+Temp          37   36 42 47 36   34 43 51 40   38 46 52 41   38 45 51
+Dewpt         37   36 38 36 34   34 37 37 36   33 35 36 37   35 41 39
+PWind dir           S    SW      SW     S       S     S       S     S
+Wind char          LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B2   OV OV B2 B1   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2
+PoP 12hr           60    50      20    20      20    30      30    40
+Rain           C    L  C  C  S    S     S  S    S  C  C  C    C  C  C
+Snow                L  C          S                                  
+
+$$
+WAZ037-240000-
+Deer Park-Spokane WA
+47.97N 117.43W Elev. 2199 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          31          45          29          47
+Temp                      49 48 37 33 31 33 34 38 43 45 40 35 34 30 30 41 45 45
+Dewpt                     34 32 31 29 29 30 32 38 39 38 38 35 34 29 30 35 35 34
+RH                        56 54 79 85 92 89 92100 86 76 92100100 96100 79 68 65
+Wind dir                  SW SW  S  S  S  S  S  S  S SW SW SW SW SW  S  S  S  S
+Wind spd                   3  4  4  4  4  6  9 11 10  8  6  6  6  6  6  9  8  5
+Clouds                    FW SC SC SC B2 OV OV OV OV B2 B2 B2 B1 B1 B2 B2 B2 B2
+PoP 12hr                      0          10          90          20          20
+QPF 12hr                      0           0        0.22           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  L  L  S  S              S  S  C
+Snow                                      D                                    
+Wind chill                               26 27 30 37       29 28 23 23 35      
+Min chill                          29    25    26    32    29    23    23    38
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            29    45      28    47      31    51      33    50
+Temp          33   31 39 43 32   29 40 47 35   33 43 49 36   33 42 48
+Dewpt         33   31 36 35 31   28 35 36 32   28 34 35 34   30 38 39
+PWind dir           S    SW       S     S       S     S       S     S
+Wind char          LT    LT      LT    GN      LT    LT      LT    LT
+Avg clouds    OV   OV OV B2 B1   B2 OV B2 B2   B2 OV B2 B2   B2 OV B2
+PoP 12hr           60    40      20    20      20    30      40    40
+Rain           C    L     C  S          S  S    S  C  C  C    C  C  C
+Snow           C    L  C     S                     C                 
+
+$$
+WAZ033-240000-
+Pullman-Whitman WA
+46.75N 117.12W Elev. 2523 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      44          31          44          32          47
+Temp                      43 44 37 31 32 34 36 39 42 44 40 37 35 35 36 43 45 45
+Dewpt                     37 36 35 30 31 33 34 37 39 41 40 37 35 35 36 39 36 37
+RH                        79 73 92 96 96 96 92 92 89 89100100100100100 86 70 73
+Wind dir                   W  W SW  S SE SE  S  S  S SW SW SW SW SW SW SW SW SW
+Wind spd                   9  5  2  4  5  8 10 12 12 13 10 11 11 10  9 14 11  6
+Clouds                    SC SC SC SC SC OV OV OV OV B2 B1 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                      5           5          90          50          20
+QPF 12hr                      0           0        0.32        0.10           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  D  D  C  C  S  S        S  S  C
+Snow                                      D  D                                 
+Wind chill                               27 29 31 35 37 34 29 26 27 29 36 39   
+Min chill                    36    26    26    27    32    29    26    27    37
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            30    45      28    47      30    51      32    51
+Temp          33   34 39 42 31   31 40 46 32   32 43 48 34   34 44 48
+Dewpt         33   34 38 36 31   30 35 36 32   29 34 36 33   32 37 39
+PWind dir           S    SW      SW     S      SE    SE      SE     S
+Wind char          LT    GN      LT    GN      LT    GN      LT    GN
+Avg clouds    B2   OV OV B2 B1   B1 B2 B1 SC   B1 B2 B2 B2   B2 B2 B2
+PoP 12hr           70    60      20    10      20    20      30    30
+Rain           C    L  L  C  S             S       S  S  C    C  C  C
+Snow           C    L  L     S                  S                    
+
+$$
+IDZ002-240000-
+Coeur d'Alene-Kootenai ID
+47.77N 116.82W Elev. 2320 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          33          44          34          47
+Temp                      47 45 38 36 35 36 39 38 40 43 42 39 38 37 37 41 45 45
+Dewpt                     34 32 34 34 33 32 35 35 35 37 39 38 36 35 35 36 35 35
+RH                        60 60 85 92 92 85 85 89 82 79 89 96 92 92 92 82 68 68
+Wind dir                   W SW  S  S  S  S  S  S  S SW SW SW SW SW SW SW SW  S
+Wind spd                   5  5  5  5  8  9 12 13 11 11 10 10 11 10 11 12 10  9
+Clouds                    SC SC SC B1 B1 OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2
+PoP 12hr                      5          10          90          40          30
+QPF 12hr                      0           0        0.33        0.07           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  D  D  C  C  S  S        C  C  C
+Snow                                      D                                    
+Wind chill                            29 29 31 29 33 37 36 32 31 30 29 34      
+Min chill                          31    29    28    32    32    30    29    36
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            33    45      33    47      34    51      35    50
+Temp          37   37 40 44 36   35 41 47 38   37 44 49 39   38 44 48
+Dewpt         36   36 36 34 34   33 36 36 35   32 35 34 36   35 39 38
+PWind dir           S    SW       S     S       S     S       S     S
+Wind char          GN    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    B2   OV OV B2 B2   B2 OV B2 B2   B2 B2 B2 B2   B2 B2 B2
+PoP 12hr           60    50      20    20      20    30      30    40
+Rain           C    L  C  C  S    S     S  S    S  C  C  C    C  C  C
+Snow                              S                                  
+
+$$
+IDZ001-240000-
+Sandpoint-Bonner ID
+48.30N 116.56W Elev. 2126 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          33          43          33          42
+Temp                      47 46 35 34 34 34 37 39 41 42 39 35 35 35 33 38 41 41
+Dewpt                     33 33 34 33 34 33 34 34 38 38 38 35 35 34 31 32 34 34
+RH                        58 60 96 96100 96 89 82 89 86 96100100 96 92 79 76 76
+Wind dir                  SW SW SW SW SW SW  S  S SW  S SW SW SW SW SW SW  S  S
+Wind spd                   4  3  3  4  3  4  6 11  9  6  4  4  4  5  4 10  8  4
+Clouds                    SC SC SC B2 B2 OV OV OV OV B2 B2 B2 OV B2 OV OV B2 B2
+PoP 12hr                      5          10          90          50          20
+QPF 12hr                      0           0        0.37        0.13           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                      D  D  D  D  C  C  C  C        S  S  C
+Wind chill                                  31 31 35                   31      
+Min chill                          29    29    29    32    32    30    29    33
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            31    42      30    42      31    46      31    46
+Temp          33   32 38 40 32   32 39 42 34   33 42 44 34   33 41 44
+Dewpt         33   32 34 34 32   31 33 36 33   32 34 35 34   32 36 37
+PWind dir           S     S      SW    SW       S     S       S     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV   OV OV B2 B2   OV OV OV OV   OV OV B2 B2   OV OV B2
+PoP 12hr           50    40      20    20      30    30      30    40
+Rain           C    C  C  C  S       S  S  C    C  C  C  C    C  C  C
+Snow           C    C  C     S    S  S                               
+
+$$
+IDZ004-240000-
+Mullan Pass-Shoshone ID
+47.45N 115.67W Elev. 6001 ft
+1233 PM PDT Sun Oct 23 2022
+
+Date                Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      27          24          30          25          30
+Temp                      25 24 24 26 28 28 28 24 24 24 29 33 34 33 30 23 24 22
+Dewpt                     18 20 22 22 21 22 24 21 22 24 29 28 27 25 22 20 21 20
+RH                        74 84 92 85 75 78 85 88 92100100 82 75 72 72 88 88 92
+Wind dir                  NW  W  W SW SW SW SW SW SW SW SW SW SW SW SW SW SW SW
+Wind spd                   4  6  9  9 12 14 16 18 19 19 19 18 19 21 17 13 11  8
+Wind gust                                   26 29 32 31 31 28 32 34 27         
+Clouds                    B1 B1 B1 B1 B1 B2 B2 OV OV OV OV OV OV OV OV OV B2 OV
+PoP 12hr                      0           5          90          90          50
+QPF 12hr                      0           0        0.40        0.36        0.07
+Snow 12hr                 00-00           T           4                        
+Snow                                      L  L  D  D  D  D  L  L  C  C  C  C  C
+Wind chill                19 16 15 17 17 17 16 11  9 10 16 21 22 20 18 11 13 13
+Min chill                    16    15    17    11     7    11    20    11    10
+
+
+Date               Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            23    29      23    28      25    33      29    34
+Temp          29   31 22 22 29   30 24 23 28   31 27 26 33   33 29 27
+Dewpt         21   22 21 21 21   22 20 21 19   18 19 21 22   20 24 25
+PWind dir           S    SW      SW    SW       S     S       S     S
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    OV   OV OV B2 B2   OV OV B2 B2   B1 B2 B2 B2   B2 B2 B2
+PoP 12hr           60    60      30    20      20    20      30    40
+Snow           C    L  L  L  C    C  S  S  S    S  S  S  C    C  C  C
+
+$$

@@ -1,0 +1,525 @@
+FOUS54 KOHX 231611
+PFMOHX
+
+Point Forecast Matrices
+National Weather Service Nashville TN
+1111 AM CDT Sun Oct 23 2022
+
+TNZ027-232200-
+Nashville-Davidson TN
+36.13N  86.68W Elev. 599 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      79          54          81          60          77
+Temp                   77 78 70 63 60 58 54 69 79 80 72 65 63 62 61 70 75 76 67
+Dewpt                  41 39 39 40 40 40 40 44 43 42 42 45 47 48 49 52 54 53 54
+RH                     28 25 32 43 47 51 59 40 28 26 34 48 56 60 65 53 48 45 63
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               12 11  8  6  5  5  5  9 11 12  9  9  8  9  9 13 17 17 13
+Clouds                 SC SC FW SC B1 SC FW SC SC SC B1 B1 B1 B1 B1 B2 OV OV B2
+PoP 12hr                      0           0           0          10          80
+QPF 12hr                      0           0           0           0        0.53
+Rain shwrs                                                        C  C  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    65      47    71      49    73      53    70
+Temp          58 52 63 61   52 47 69 63   54 49 71 65   57 53 69 64
+Dewpt         50 45 42 41   42 41 43 43   45 45 47 46   48 48 48 46
+PWind dir        SW    NW       N    NE       E    SE      NE     E
+Wind char        GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   FW FW FW FW   FW SC B1 B1   B1 B1 B1 B1
+PoP 12hr         50     5       0     0       5    30      40    40
+Rain shwrs     C                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ066-232200-
+Crossville-Cumberland TN
+35.95N  85.08W Elev. 1881 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          47          71          52          71
+Temp                   69 69 58 52 50 49 48 62 70 70 61 57 56 54 53 63 70 70 63
+Dewpt                  40 41 41 41 41 41 42 48 46 46 47 47 47 47 47 51 53 53 55
+RH                     35 36 53 66 71 74 80 60 42 42 60 69 72 77 80 65 55 55 75
+Wind dir                S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                5  5  2  2  2  2  3  5  6  5  3  4  5  5  5 10 12 12 10
+Clouds                 CL FW CL CL SC SC SC FW SC SC B1 B1 B1 B1 SC B1 B2 B2 OV
+PoP 12hr                      0           0           0           0          50
+QPF 12hr                      0           0           0           0        0.04
+Rain shwrs                                                              C  C  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    58      42    65      46    66      49    62
+Temp          53 48 58 51   46 42 64 55   48 46 65 57   51 49 62 53
+Dewpt         53 48 48 48   46 42 49 49   48 46 53 53   51 49 52 52
+PWind dir         S    NW       N    NE       E    SE      SE    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B2 B1   SC SC SC FW   FW SC SC B1   B1 B1 B1 B1
+PoP 12hr         70     5       0     0       5    20      40    40
+Rain shwrs     L  S                                 S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ006-232200-
+Clarksville-Montgomery TN
+36.62N  87.42W Elev. 550 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          55          81          60          76
+Temp                   79 79 69 63 61 59 56 71 79 80 69 63 61 60 62 70 75 74 66
+Dewpt                  46 44 43 43 43 42 43 46 45 44 45 48 49 51 53 56 57 58 56
+RH                     31 29 39 48 51 53 62 41 30 28 42 58 65 72 72 61 54 57 70
+Wind dir                S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd               13 13  6  6  5  5  5 10 12 12  6  8  9 10 10 13 16 16 10
+Clouds                 SC FW FW SC B1 B1 FW FW SC SC B1 B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                      0           0           0          20          90
+QPF 12hr                      0           0           0           0        0.78
+Rain shwrs                                                  S  S  L  L  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    64      43    69      46    71      49    69
+Temp          55 49 62 57   49 43 67 60   51 46 70 61   53 49 69 61
+Dewpt         51 45 44 43   43 41 44 44   45 44 48 47   48 47 48 47
+PWind dir        SW    NW       N    NE       E     E      NE    NE
+Wind char        GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2 B1 SC   FW FW FW FW   FW SC B1 SC   B1 B1 B1 B1
+PoP 12hr         40     0       0     0       5    30      40    30
+Rain shwrs     C                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ062-232200-
+Murfreesboro-Rutherford TN
+35.85N  86.40W Elev. 610 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          51          80          58          78
+Temp                   75 76 66 59 57 54 52 69 79 79 68 64 61 60 59 71 77 77 68
+Dewpt                  43 44 44 44 43 43 43 50 49 48 48 49 50 50 50 56 57 58 59
+RH                     32 32 45 57 59 66 71 51 35 34 49 58 67 69 72 59 50 52 73
+Wind dir                S  S SE  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd               11 10  5  4  4  4  4 10 11 11  6  5  5  5  8 13 16 16 11
+Clouds                 SC FW FW SC SC FW FW SC SC SC B1 B1 B1 B1 B1 B1 OV OV B2
+PoP 12hr                      0           0           0           5          70
+QPF 12hr                      0           0           0           0        0.31
+Rain shwrs                                                        C  C  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    65      43    71      46    73      50    70
+Temp          56 49 64 60   49 44 70 62   51 46 72 65   54 50 70 62
+Dewpt         55 48 49 48   46 44 50 50   49 46 55 53   53 50 54 52
+PWind dir        SW    NW       N    NE       E    SE       E     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   FW SC FW FW   FW SC SC B1   B1 B1 B1 B1
+PoP 12hr         60     5       0     0       5    20      40    30
+Rain shwrs     L                                    S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ059-232200-
+Franklin-Williamson TN
+35.93N  86.84W Elev. 707 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          52          79          58          75
+Temp                   75 76 67 61 57 55 53 67 76 78 68 62 60 59 59 69 74 74 64
+Dewpt                  46 46 46 45 44 43 43 50 50 48 50 51 51 51 52 58 60 60 61
+RH                     36 34 47 56 62 64 69 54 40 35 52 67 72 75 78 68 62 62 90
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               12 10  5  4  4  4  5  9 11 10  6  5  5  6  8 13 14 14 11
+Clouds                 SC FW FW SC B1 SC FW FW SC SC B1 B1 B1 B1 B1 B2 OV OV B2
+PoP 12hr                      0           0           0          10          80
+QPF 12hr                      0           0           0           0        0.62
+Rain shwrs                                                        C  C  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    64      43    70      46    71      50    68
+Temp          54 49 63 58   48 44 69 60   51 46 69 62   53 50 68 61
+Dewpt         53 47 49 48   46 44 50 50   50 46 55 55   53 50 55 54
+PWind dir        SW    NW       N    NE       E    SE       E     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   FW FW FW FW   FW SC B1 B1   B1 B2 B1 B1
+PoP 12hr         50     5       0     0       5    30      40    40
+Rain shwrs     C                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ032-232200-
+Cookeville-Putnam TN
+36.11N  85.50W Elev. 1000 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          52          75          56          75
+Temp                   73 73 62 57 55 54 53 66 74 74 64 60 59 57 57 68 75 72 67
+Dewpt                  42 44 44 42 42 41 43 49 48 47 48 48 48 49 50 55 55 55 57
+RH                     33 35 52 57 61 61 69 54 40 38 56 64 67 75 77 63 50 55 70
+Wind dir                S  S SE SE  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                8  5  3  4  4  4  5  8  8  6  4  5  5  6  6 11 13 12 10
+Clouds                 FW FW FW CL SC SC SC SC SC SC B1 B1 B2 B1 SC B1 B2 OV OV
+PoP 12hr                      0           0           0           0          60
+QPF 12hr                      0           0           0           0        0.12
+Rain shwrs                                                        S  S  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    60      44    68      48    70      51    67
+Temp          57 50 59 53   49 45 67 57   51 48 69 59   53 51 67 57
+Dewpt         57 50 49 48   46 45 50 50   49 48 54 54   53 51 53 52
+PWind dir         S     W      NE    NE       E    SE       E    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B2 B1   SC SC SC FW   FW SC SC B1   B1 B1 B1 B1
+PoP 12hr         70     5       0     0       5    20      40    40
+Rain shwrs     L  S                                 S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ078-232200-
+McMinnville-Warren TN
+35.67N  85.78W Elev. 1032 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          50          75          55          74
+Temp                   72 73 62 56 55 53 51 67 74 74 64 60 59 58 56 69 74 71 67
+Dewpt                  43 44 44 43 42 43 43 50 50 49 49 50 49 50 50 56 57 57 59
+RH                     35 35 52 62 61 69 74 54 43 41 58 69 69 75 80 63 55 61 75
+Wind dir                S  S  S SE  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                8  5  2  2  2  2  2  5  8  8  3  3  3  4  4 10 13 12  9
+Clouds                 FW FW FW FW SC FW FW SC FW SC B1 B1 B1 B1 B1 B1 B2 B2 OV
+PoP 12hr                      0           0           0           0          60
+QPF 12hr                      0           0           0           0        0.15
+Rain shwrs                                                        S  S  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    61      42    68      47    70      50    67
+Temp          55 48 60 56   48 42 66 59   50 47 70 61   53 50 67 59
+Dewpt         55 48 51 49   47 42 53 52   50 47 56 55   53 50 55 54
+PWind dir        SW    NW       N    NE       E    SE      SE    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B2 B1   SC SC SC FW   FW SC B1 B1   B1 B1 B1 B1
+PoP 12hr         60     5       0     0       5    20      40    30
+Rain shwrs     L                                    S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ060-232200-
+Columbia-Maury TN
+35.64N  87.09W Elev. 681 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      78          50          80          58          75
+Temp                   74 77 67 59 56 53 51 67 78 79 68 62 60 60 59 68 73 75 65
+Dewpt                  46 45 45 45 45 43 43 50 49 48 50 51 52 52 53 59 60 60 62
+RH                     37 32 45 60 66 69 74 54 36 34 52 67 75 75 80 73 64 60 90
+Wind dir                S  S  S SE SE SE SE  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd               10  9  3  2  2  2  3  6 10 10  4  4  5  5  5 11 13 13  8
+Clouds                 SC FW SC SC B1 SC FW FW SC SC B1 B1 B1 B1 B1 B2 OV B2 B2
+PoP 12hr                      0           0           0          10          80
+QPF 12hr                      0           0           0           0        0.68
+Rain shwrs                                                        C  C  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    65      42    70      46    72      49    68
+Temp          53 48 63 57   47 43 68 60   51 46 71 62   53 49 68 61
+Dewpt         53 47 48 48   46 43 50 51   50 46 54 55   53 49 54 54
+PWind dir        SW    NW       N    NE       E    SE       E     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   FW FW FW FW   FW SC B1 B1   B1 B2 B1 B1
+PoP 12hr         40     0       0     0       5    30      40    30
+Rain shwrs     C                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ094-232200-
+Lawrenceburg-Lawrence TN
+35.26N  87.35W Elev. 936 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          50          77          58          72
+Temp                   73 75 64 58 55 53 51 66 75 76 66 61 60 59 59 64 71 70 63
+Dewpt                  45 43 44 45 44 43 43 49 48 48 50 51 51 52 54 59 60 61 61
+RH                     37 32 48 62 66 69 74 54 38 37 56 70 72 78 83 84 68 73 93
+Wind dir                S  S  S  S  S  S SE  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               10 10  3  3  2  3  3  8 10 10  4  5  5  5  6 12 13 13  6
+Clouds                 SC FW SC SC B1 SC FW FW SC SC B1 B1 B1 B1 B2 B2 OV B2 B2
+PoP 12hr                      0           0           0          10          80
+QPF 12hr                      0           0           0           0        0.77
+Rain shwrs                                                        C  C  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    64      42    69      46    70      49    66
+Temp          52 47 62 57   46 43 67 59   50 46 69 61   52 49 66 59
+Dewpt         51 47 47 47   46 43 49 50   49 46 53 54   52 49 53 52
+PWind dir        SW    NW       N    NE       E    SE       E     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 FW   FW FW FW CL   FW SC B1 B1   SC B2 B1 B1
+PoP 12hr         40     0       0     0       5    30      30    30
+Rain shwrs     C                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ024-232200-
+Waverly-Humphreys TN
+36.11N  87.74W Elev. 756 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          55          79          60          73
+Temp                   75 76 67 62 59 58 55 67 78 77 67 64 61 61 60 67 73 70 65
+Dewpt                  48 46 44 44 43 43 43 48 48 48 50 51 52 52 55 61 62 61 61
+RH                     38 34 43 52 55 57 64 50 35 36 54 63 72 72 84 81 68 73 87
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               10 10  5  5  5  5  5  9 10  9  5  5  6  8  9 11 12 12  6
+Clouds                 SC FW SC SC B1 B1 FW CL SC SC B1 B2 B2 B2 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          20          90
+QPF 12hr                      0           0           0           0        0.80
+Rain shwrs                                                  S  S  L  L  D  D  C
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    64      42    68      44    69      48    67
+Temp          53 47 63 56   48 43 67 59   48 44 69 59   52 48 67 59
+Dewpt         52 46 46 45   44 42 48 48   48 44 53 52   52 48 53 52
+PWind dir        SW    NW      NE    NE       E     E      NE    NE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1 B1 SC   FW FW FW FW   FW SC B1 B1   B1 B1 B1 B1
+PoP 12hr         30     0       0     0       5    30      30    30
+Rain shwrs     C                                 S  C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ077-232200-
+Manchester-Coffee TN
+35.48N  86.08W Elev. 1020 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          50          75          55          74
+Temp                   72 73 63 57 54 52 51 66 74 74 64 59 58 58 56 69 73 73 67
+Dewpt                  42 43 44 43 42 42 43 50 49 48 49 50 50 50 50 56 57 57 59
+RH                     34 34 50 59 64 69 74 56 41 40 58 72 75 75 80 63 57 57 75
+Wind dir                S  S SE SE  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                9  8  4  2  3  3  3  8 10  9  5  4  5  5  5 12 14 13 10
+Clouds                 SC FW FW FW SC FW FW SC SC FW B1 B1 B1 B1 SC B1 OV OV B2
+PoP 12hr                      0           0           0           5          60
+QPF 12hr                      0           0           0           0        0.23
+Rain shwrs                                                        S  S  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    61      42    68      46    70      49    67
+Temp          54 47 59 54   47 43 65 57   48 46 69 61   52 49 67 57
+Dewpt         54 47 49 49   46 43 52 51   48 46 55 55   52 49 54 53
+PWind dir        SW    NW      NE    NE       E    SE      SE    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   SC SC FW FW   FW FW B1 B1   B1 B1 B1 B1
+PoP 12hr         60     5       0     0       5    20      40    30
+Rain shwrs     L                                    S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ064-232200-
+Smithville-DeKalb TN
+35.96N  85.82W Elev. 1100 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          48          75          55          75
+Temp                   72 73 63 55 52 50 49 65 74 74 64 58 57 56 56 69 75 73 68
+Dewpt                  43 44 45 43 42 41 42 50 49 49 48 48 49 49 50 56 57 56 58
+RH                     35 35 52 64 69 71 77 58 41 41 56 69 75 77 80 63 54 55 70
+Wind dir                S  S  S  S  S  S  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                9  6  2  2  3  3  3  6  9  8  4  4  4  5  5 11 13 13 10
+Clouds                 FW SC FW FW SC FW FW SC FW SC B1 B1 B1 B1 B1 B1 B2 OV OV
+PoP 12hr                      0           0           0           0          60
+QPF 12hr                      0           0           0           0        0.17
+Rain shwrs                                                        S  S  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    60      42    68      46    70      49    67
+Temp          56 47 59 54   47 43 67 58   49 46 69 60   52 49 67 58
+Dewpt         56 47 49 48   46 43 52 50   48 46 56 55   52 49 54 52
+PWind dir        SW    NW       N    NE       E    SE       E    SE
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B2 B1   SC SC SC FW   FW SC SC B1   B1 B1 B1 B1
+PoP 12hr         60     5       0     0       5    20      40    40
+Rain shwrs     L                                    S    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ008-232200-
+Portland-Sumner TN
+36.58N  86.52W Elev. 805 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          53          77          58          74
+Temp                   74 75 66 60 57 55 53 65 75 76 67 62 60 59 59 68 73 73 66
+Dewpt                  45 44 44 45 43 43 43 46 45 45 47 49 50 50 52 55 57 56 57
+RH                     35 33 45 58 59 64 69 50 34 33 49 62 69 72 78 63 57 55 73
+Wind dir                S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd               12 10  5  5  5  6  6 10 11 11  6  8  8  9 10 13 14 13 11
+Clouds                 FW SC FW FW SC SC FW SC SC SC B1 B1 B2 B1 B1 B2 OV OV OV
+PoP 12hr                      0           0           0           5          80
+QPF 12hr                      0           0           0           0        0.44
+Rain shwrs                                                        C  C  D  D  L
+Tstms                                                                   S  S  S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    60      44    67      46    69      50    66
+Temp          56 50 59 56   48 45 65 58   49 46 67 61   54 50 66 59
+Dewpt         54 47 46 45   45 43 47 47   48 46 52 52   53 50 52 51
+PWind dir        SW    NW       N    NE       E    SE      NE    NE
+Wind char        GN    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B1 SC   SC FW FW FW   FW SC B1 SC   B1 B1 B1 B1
+PoP 12hr         60     5       0     0       5    30      40    40
+Rain shwrs     L                                    C    C  C  C  C
+Tstms          S                                                   
+
+$$
+TNZ010-232200-
+Celina-Clay TN
+36.55N  85.50W Elev. 610 ft
+1111 AM CDT Sun Oct 23 2022
+
+Date             Sun 10/23/22            Mon 10/24/22            Tue 10/25/22
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      77          51          78          57          78
+Temp                   76 76 65 59 56 54 52 68 77 77 66 61 60 59 58 70 78 75 70
+Dewpt                  44 45 45 44 42 42 42 49 48 47 47 48 49 49 50 55 56 55 56
+RH                     32 33 48 57 59 64 69 51 36 35 50 62 67 69 75 59 47 50 61
+Wind dir                S  S  S SE  S SE  S  S  S  S SE  S  S  S  S  S  S  S  S
+Wind spd                5  4  2  2  2  2  2  5  5  5  2  3  3  4  4  9 10 10  8
+Clouds                 FW FW FW CL FW FW SC SC SC SC B1 B2 B2 B1 B1 B1 B2 B2 OV
+PoP 12hr                      0           0           0           0          60
+QPF 12hr                      0           0           0           0        0.12
+Rain shwrs                                                        S  S  L  L  L
+Tstms                                                                         S
+
+
+Date          Wed 10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    63      44    69      47    72      50    68
+Temp          59 50 62 58   51 45 67 60   52 47 71 62   54 50 68 60
+Dewpt         57 50 49 47   47 45 49 48   49 47 54 52   53 50 54 51
+PWind dir        SW     W       N    NE       E    SE       E     E
+Wind char        LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1 B2 B1   SC SC SC FW   FW SC SC SC   B1 B1 B2 B1
+PoP 12hr         70     5       0     0       5    20      40    40
+Rain shwrs     L  S                                 S    C  C  C  C
+Tstms          S                                                   
+
+$$

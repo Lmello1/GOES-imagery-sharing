@@ -1,0 +1,191 @@
+FOUS54 KMOB 232010
+PFMMOB
+
+Point Forecast Matrices
+National Weather Service Mobile AL
+310 PM CDT Sun Oct 23 2022
+
+ALZ263-241115-
+Mobile-Mobile AL
+30.68N  88.25W Elev. 215 ft
+310 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      59          82          66          82          52
+Temp          79 66 61 59 62 62 74 81 82 70 66 68 69 69 77 81 80 72 66 59 56 52
+Dewpt         50 55 57 59 59 59 62 63 62 67 66 68 68 69 71 70 70 69 64 56 53 51
+RH            36 68 87100 90 90 66 54 51 90100100 97100 82 69 72 90 93 90 90 96
+Wind dir      SE SE SE  E  E  E  E SE SE SE SE SE  S  S  S  S  S SW  W NW NW  N
+Wind spd       9  5  3  4  4  4  9 11 11 10  8  9  9  9 14 17 16 11  8 10  8  6
+Clouds        CL FW FW FW SC B1 SC B1 SC B1 SC B1 B1 B1 B1 B2 B1 B1 FW CL CL FW
+PoP 12hr                      5          20          10          70          20
+QPF 12hr                      0           0        0.04        0.07           0
+Rain shwrs                    S  S                    C  C  L  L  S  S         
+Tstms                                                 C  C  L  L  S  S         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      49    76      52    78      58    74      56    73
+Temp          71 64   54 51 73 64   54 53 77 67   60 59 72 64   59 57 72 64
+Dewpt         49 51   49 48 51 54   53 53 56 60   60 59 63 62   58 56 57 57
+PWind dir         N       N     N      NE    SE      SE    SE      NW     W
+Wind char        GN      LT    LT      LT    GN      LT    BZ      LT    GN
+Avg clouds    CL CL   CL CL CL CL   CL FW SC SC   B1 B1 B1 SC   FW FW SC SC
+PoP 12hr          0       0     0       5    30      40    40      20    10
+Rain shwrs                                    C    C  C  C  C    S         
+
+$$
+
+ALZ056-241115-
+Evergreen-Conecuh AL
+31.42N  87.04W Elev. 259 ft
+310 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          83          60          80          51
+Temp          80 63 55 50 49 49 71 82 83 68 62 60 60 61 72 79 79 69 64 59 54 51
+Dewpt         42 48 49 48 46 46 52 54 55 61 62 60 60 61 65 66 67 69 64 59 54 50
+RH            26 58 80 93 89 89 51 38 38 78100100100100 79 64 67100100100100 96
+Wind dir      SE SE SE  S  E  E SE SE SE  S  S SE SE SE SE  S  S  S SW  W NW NW
+Wind spd       5  1  1  0  1  1  5  6  8  3  3  3  3  4 11 16 16 12  8  4  5  3
+Clouds        CL FW SC FW FW FW FW FW SC SC SC SC SC B1 B2 B2 B1 B1 B1 SC FW FW
+PoP 12hr                      0           0           0          50          30
+QPF 12hr                      0           0           0        0.08        0.05
+Rain shwrs                                            S  S  C  C  C  C         
+Tstms                                                 S  S  C  C  C  C         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          72      46    76      50    79      57    73      54    73
+Temp          70 61   51 46 74 63   53 51 78 66   58 57 72 64   58 54 72 62
+Dewpt         49 51   48 46 50 53   51 50 55 57   57 57 60 61   58 54 56 57
+PWind dir        NW       N     N      NE     E       E    SE      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    FW CL   CL CL CL CL   CL FW FW SC   B1 B1 B1 SC   SC SC SC SC
+PoP 12hr          0       0     0       0    10      30    40      30    20
+Rain shwrs                                         C  C  C  C    C  S     S
+
+$$
+
+ALZ057-241115-
+Greenville-Butler AL
+31.85N  86.61W Elev. 450 ft
+310 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          81          56          79          50
+Temp          77 62 55 50 47 46 69 79 80 67 58 57 57 57 69 77 78 70 65 60 54 50
+Dewpt         40 46 46 44 43 44 51 51 52 56 58 57 57 57 63 64 65 67 65 59 54 50
+RH            26 56 72 80 86 93 53 38 38 68100100100100 81 64 64 90100 96100100
+Wind dir      SE SE SE SE  E  E SE  S  S SE  S  S SE SE SE  S  S  S SW  W NW NW
+Wind spd       5  2  2  2  2  2  5  6  6  3  4  4  4  5 12 14 13 13  8  8  6  6
+Clouds        CL FW SC SC SC FW FW FW FW SC SC SC SC SC B1 B1 B1 B1 B1 SC FW FW
+PoP 12hr                      0           0           0          40          30
+QPF 12hr                      0           0           0        0.04        0.07
+Rain shwrs                                                  C  C  C  C         
+Tstms                                                       C  C  C  C         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      44    74      49    77      56    71      53    71
+Temp          68 59   50 46 72 61   51 50 75 66   58 57 70 62   58 54 70 61
+Dewpt         49 50   49 45 50 53   51 50 54 56   56 56 59 60   58 54 56 57
+PWind dir        NW       N     N      NE     E       E     E      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    FW CL   CL CL CL CL   CL FW SC SC   B1 B1 B1 SC   SC SC SC FW
+PoP 12hr          0       0     0       0    10      30    40      30    20
+Rain shwrs                                         C  C  C  C    C  S     S
+
+$$
+
+FLZ202-241115-
+Pensacola-Escambia FL
+30.47N  87.20W Elev. 112 ft
+310 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      61          80          69          80          58
+Temp          77 68 65 63 62 61 74 79 80 70 70 70 70 70 76 79 79 74 72 68 62 58
+Dewpt         52 56 59 60 60 59 61 64 65 68 69 69 68 68 70 71 72 72 71 65 58 54
+RH            42 65 81 90 93 93 64 60 60 93 97 97 93 93 82 77 79 93 97 90 87 86
+Wind dir      SE SE SE SE  E  E  E SE SE SE SE SE  S  S  S  S  S  S SW  W NW  N
+Wind spd       9  5  5  4  5  5  9 11 12 10 10 10  9  9 13 18 17 14 13 11 12 10
+Clouds        CL FW FW SC FW SC SC SC SC SC B1 SC SC B1 B1 B1 B1 B1 B1 FW FW FW
+PoP 12hr                      0           0           5          50          30
+QPF 12hr                      0           0           0        0.12        0.06
+Rain shwrs                                            C  C  C  C  C  C         
+Tstms                                                 C  C  C  C  C  C         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          75      53    76      57    77      63    75      60    74
+Temp          72 67   59 55 74 68   61 58 76 69   65 63 74 69   65 60 73 68
+Dewpt         52 53   52 51 53 56   56 55 60 63   63 62 64 65   62 59 60 59
+PWind dir         N       N    NE       N    SE      SE    SE       W    SW
+Wind char        GN      LT    LT      LT    GN      GN    BZ      GN    GN
+Avg clouds    CL CL   CL CL CL CL   CL FW FW SC   B1 B1 B1 SC   SC FW FW FW
+PoP 12hr          5       0     0       0    20      30    40      30    20
+Rain shwrs                                    S    C  C  C  C    C  S  S  S
+
+$$
+
+FLZ205-241115-
+Crestview-Okaloosa FL
+30.78N  86.53W Elev. 190 ft
+310 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          82          59          80          55
+Temp          80 67 57 54 52 50 72 82 82 71 65 63 61 61 74 80 78 73 70 68 61 55
+Dewpt         44 50 51 51 50 49 55 58 60 64 65 63 61 61 67 68 69 70 69 66 59 54
+RH            28 54 80 90 93 96 55 44 47 79100100100100 79 67 74 90 97 93 93 96
+Wind dir      SE  S  E  E NE  E  E  S  S  S SE SE SE SE SE  S  S  S  S  W NW NW
+Wind spd       4  2  2  2  2  2  5  8  8  4  3  3  3  4 11 14 14 10  8  8  5  6
+Clouds        CL CL FW FW FW FW FW FW FW SC SC SC SC SC SC B1 B1 B1 B1 SC FW FW
+PoP 12hr                      0           0           0          30          30
+QPF 12hr                      0           0           0        0.06        0.05
+Rain shwrs                                                  C  C  C  C         
+Tstms                                                       C  C  C  C         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          76      48    78      51    80      58    76      56    75
+Temp          73 66   54 51 76 67   55 52 79 69   61 59 75 68   61 56 73 66
+Dewpt         52 53   50 49 52 54   53 52 56 59   60 59 62 63   60 56 59 58
+PWind dir        NW       N     N      NE    SE      SE    SE      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    GN      LT    GN
+Avg clouds    CL CL   CL CL CL CL   CL FW FW SC   B1 B1 B1 SC   SC FW FW FW
+PoP 12hr          0       0     0       0    10      30    40      30    20
+Rain shwrs                                         C  C  C  C    C  S  S  S
+
+$$

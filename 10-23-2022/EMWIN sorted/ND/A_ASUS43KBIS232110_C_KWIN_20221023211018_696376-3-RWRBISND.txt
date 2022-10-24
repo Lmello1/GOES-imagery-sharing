@@ -1,0 +1,65 @@
+ASUS43 KBIS 232110
+RWRBIS
+
+NWR BROADCAST TEXT
+NATIONAL WEATHER SERVICE BISMARCK ND
+400 PM CDT SUN OCT 23 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WILLISTON      CLOUDY    40  37  89 NE25G31   29.47S                  
+MINOT          CLOUDY    53  41  63 N15G26    29.39F                  
+MINOT AFB      CLOUDY    48  40  74 NE21G29   29.38F                  
+BISMARCK       PTSUNNY   65  46  50 E16       29.27S                  
+DICKINSON      CLOUDY    49  40  71 N16G23    29.34R                  
+GARRISON         N/A     51  43  74 NE14G25   29.35R                  
+HETTINGER ARPT CLOUDY    51  40  65 N14G24    29.33R                  
+JAMESTOWN      PTSUNNY   73  52  47 SE24G35   29.27F                  
+CARRINGTON     FAIR      66  48  52 E17G24    29.33F                  
+HAZEN          PTSUNNY   54  43  66 NE15G21   29.37R                  
+MANDAN         PTSUNNY   61  48  63 E8G16     29.28R                  
+OAKES          FAIR      70  54  56 SE25G32   29.27S                  
+RUGBY          FAIR      54  45  71 NE30G38   29.37F                  
+STANLEY        CLOUDY    45  43  93 NE21G30   29.43R                  
+TIOGA          CLOUDY    41  41 100 NE24      29.47S                  
+WATFORD CITY   CLOUDY    45  43  93 N13       29.44S                  
+$$
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND FORKS    MOSUNNY   77  53  43 E17G28    29.36F                  
+GRAND FORKS AF MOSUNNY   75  52  44 SE18      29.34F                  
+DEVILS LAKE    MOSUNNY   61  46  57 E22G29    29.38S                  
+FARGO          MOSUNNY   75  52  44 SE18G36   29.32F                  
+CANDO          FAIR      57  46  67 NE22G33   29.42F                  
+CAVALIER       FAIR      64  48  55 N13       29.44F                  
+GRAFTON        FAIR      70  48  46 NE17      29.40F                  
+GWINNER        SUNNY     72  55  56 SE23G32   29.28S                  
+LANGDON        FAIR      55  54  94 NE28      29.44F                  
+ROLLA          PTSUNNY   50  45  81 NE23G30   29.47S                  
+WALHALLA       FAIR      59  48  67 NE15      29.47F                  
+$$
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ABERDEEN       PTSUNNY   75  53  46 SE21G36   29.20F                  
+MOBRIDGE       CLOUDY    72  51  47 SE16G28   29.16F                  
+BUFFALO          N/A     46  38  73 NW26G33   29.34R                  
+RAPID CITY     PTSUNNY   48  36  63 N37G48    29.33R                  
+GLASGOW        LGT SNOW  34  32  92 NW9       29.60R FOG              
+SIDNEY         CLOUDY    41  39  93 N16       29.48S                  
+WOLF POINT     LGT RAIN  41  38  89 NE17      29.55R                  
+GLENDIVE       LGT RAIN  41  41 100 N14       29.47R FOG              
+MILES CITY     LGT RAIN  38  36  92 NW20      29.52R                  
+BAKER          CLOUDY    43  39  86 NW17      29.42R FOG              
+$$
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BILLINGS       CLOUDY    39  33  79 NW17G25   29.66R                  
+GREAT FALLS    LGT SNOW  32  31  96 N22G31    29.87R FOG     WCI  19  
+REGINA         CLOUDY    34  30  86 NE33G44   29.67F WCI  19          
+ESTEVAN        CLOUDY    41  37  87 NE21G30   29.53R                  
+$$
+
+  

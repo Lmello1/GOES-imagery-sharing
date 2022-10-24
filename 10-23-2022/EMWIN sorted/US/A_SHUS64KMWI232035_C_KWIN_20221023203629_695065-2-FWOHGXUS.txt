@@ -1,0 +1,24 @@
+SHUS64 KMWI 232035
+FWOHGX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:35:35 GMT
+ 
+Listing of Observations (Houston/Galveston, TX)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+RATCLI 413302 221023 13 O 2  84  58  42 0 0 213  7     86  64  96  34  0 0.000
+EASTER 413901 221023 12 O 1  84  62  48 0 0 153 16     86  66  89  36  0 0.000
+HUNTSV 414102 221023 13 O 2  84  56  38 0 0 169 12     86  66  96  36  0 0.000
+COLDSP 414201 221023 13 O 3  84  62  47 0 0 132  4     86  63  99  36  0 0.000
+CONROE 415109 221023 13 O 1  88  56  34 0 0 180  9     88  64  99  34  0 0.000
+DAYTON 415201 221023 13 O 2  85  66  54 0 0 173 13     85  68  94  42  0 0.000
+ANAHUA 416099 221023 13 O 2  83  70  64 0 0 167 14 11  83  67  88  52  0 0.000
+SAN BE 418302 221023 13 O 0  86  61  43 0 0 180 21  7  86  64  94  38  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:35:35 GMT
+

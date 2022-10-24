@@ -1,0 +1,422 @@
+FOUS55 KABQ 232102
+PFMABQ
+
+Point Forecast Matrices
+National Weather Service Albuquerque NM
+302 PM MDT Sun Oct 23 2022
+
+NMZ201-240945-
+Farmington-San Juan NM
+36.76N 108.23W Elev. 5500 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      29          51          25          57          31
+Temp             49 40 34 31 30 34 47 51 47 37 32 28 25 31 46 56 54 43 37 33 31
+Dewpt            19 24 24 23 22 24 22 18 18 19 18 18 18 19 19 20 21 22 23 24 24
+RH               30 52 66 72 72 66 37 27 31 48 56 66 74 61 34 24 27 43 56 69 75
+Wind dir          W  W  W  W  W  W  W NW NW  W  W NW NW  E  W  W  W NW NE  E  E
+Wind spd         19 12 11  9 11 14 21 27 23 13  9  5  8  5  8 10  9  4  5  9  9
+Wind gust                             39                                       
+Clouds           SC SC SC SC SC FW FW FW FW FW CL CL CL CL CL CL FW FW FW FW SC
+PoP 12hr                     10           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill             26 23 20 24          29 24 21 16 25                25 23
+Min chill              26    20    18          24    16    19                23
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          60      35    50      26    54      28    58      30    58
+Temp          54 57 41   35 47 49 35   26 46 52 34   28 51 55 36   30 51 55
+Dewpt         25 26 27   27 31 26 24   22 26 25 25   23 27 25 25   24 26 25
+PWind dir         S       E    NW      NW     E      NE     E       N     S
+Wind char        GN      LT    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    SC SC SC   SC B1 B1 FW   FW CL CL FW   FW FW FW FW   FW FW FW
+PoP 12hr          5      30    50      10     0       0     0       0     0
+Rain shwrs                C  C  C                                          
+
+$$
+
+NMZ205-240945-
+Gallup-McKinley NM
+35.53N 108.78W Elev. 6500 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      25          46          19          57          24
+Temp             50 40 37 33 27 30 42 46 43 30 25 21 19 27 48 57 54 38 31 26 24
+Dewpt            28 25 23 23 21 23 19 16 16 19 18 16 14 16 18 21 22 24 23 22 21
+RH               42 55 56 66 78 75 39 29 33 63 74 81 80 63 30 24 28 57 72 85 88
+Wind dir          W  W NW  W NW NW NW NW NW  W  W SW  S SW  W  W  W  W  S  S  S
+Wind spd         20 11  8  6  8 12 18 19 16  6  2  3  4  3  4  8  8  4  3  4  4
+Clouds           B2 B2 B2 SC SC SC SC SC CL CL CL CL CL CL CL CL CL CL FW FW FW
+PoP 12hr                     40          10           0           0           0
+QPF 12hr                   0.02           0           0           0           0
+Snow 12hr                     T       00-00       00-00                        
+Rain shwrs        C                                                            
+Snowshwrs            C     S                                                   
+Tstms             S                                                            
+Wind chill                26 19 20          23       12                        
+Min chill                    19    15          22    12    14          27    19
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          59      29    47      20    54      25    58      27    59
+Temp          54 54 38   30 46 43 28   20 46 51 32   25 53 54 34   27 53 54
+Dewpt         22 23 24   24 28 23 22   20 25 24 23   21 27 24 25   22 26 23
+PWind dir        SW      SW     W       N    NE       E    SW      SW    SW
+Wind char        GN      GN    GN      GN    GN      LT    LT      LT    GN
+Avg clouds    FW SC FW   FW B1 B1 FW   FW CL CL FW   FW FW FW FW   FW SC SC
+PoP 12hr          0      20    50      10     0       0     0       0     0
+Rain shwrs                S  C  C                                          
+Snowshwrs                 S  C  C                                          
+
+$$
+
+NMZ218-240945-
+Santa Fe-Santa Fe NM 
+35.62N 106.08W Elev. 6350 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      29          48          24          56          29
+Temp             51 44 39 33 31 34 43 47 46 36 30 27 24 33 47 55 53 41 36 32 29
+Dewpt            34 32 30 27 25 25 22 18 18 20 22 20 17 19 19 21 23 24 25 25 23
+RH               52 62 70 78 78 69 43 31 32 52 72 74 74 56 32 26 31 50 64 75 78
+Wind dir          W  W NW  N  N  N NW  N NW NW  N  N  N  N  N NW  W NW  N  N  N
+Wind spd         21 11  9  8 10 12 20 16 16  8  8 11 16 14 12 10  8  6  6  8  8
+Clouds           B2 B2 B2 B1 B1 B1 B1 SC FW FW CL CL CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          20           0           0           0
+QPF 12hr                   0.02        0.02           0           0           0
+Snow 12hr                     T           T       00-00                        
+Rain shwrs        C  C  S           S  S                                       
+Snowshwrs            C  S     S  S                                             
+Tstms             S                                                            
+Wind chill                27 22 25          29 23 17 11 23                25 21
+Min chill                    22    20          23    11    14                21
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          59      33    53      27    53      28    57      30    57
+Temp          53 56 40   33 50 46 33   27 46 50 34   28 51 54 36   30 51 53
+Dewpt         26 25 29   28 28 28 29   25 28 26 26   24 28 26 28   25 27 25
+PWind dir         W       W     W      NW     N      NE    NW      NW    NW
+Wind char        GN      GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    CL FW SC   SC SC SC SC   SC CL CL FW   FW FW FW FW   FW FW FW
+PoP 12hr          0      10    50      30     5       0     0       0     0
+Rain shwrs                   C  C  C    C                                  
+Snowshwrs                          C    C                                  
+
+$$
+
+NMZ219-240945-
+Albuquerque-Bernalillo NM 
+35.05N 106.61W Elev. 5300 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      38          53          32          60          36
+Temp             56 51 47 43 40 40 47 53 50 43 39 35 32 38 51 59 57 47 42 38 36
+Dewpt            37 36 31 28 28 27 23 20 18 21 21 21 19 20 19 21 24 25 24 25 24
+RH               49 56 53 55 62 59 38 27 28 41 48 56 58 48 28 23 28 42 48 59 61
+Wind dir          W NW NW NW  N NW NW NW NW NW NW NW NW NW NW NW NW NW  S  E  E
+Wind spd         23 16 11 10 10 12 19 23 21 13 10  8  8  6  9  8  8  4  4  4  4
+Clouds           B2 B2 B2 B2 B1 SC SC SC FW FW CL CL CL CL CL CL FW FW CL CL CL
+PoP 12hr                     40          20           0           0           0
+QPF 12hr                   0.02        0.01           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs        C  C  C  C  S  S                                             
+Snowshwrs                  C  S  S                                             
+Tstms             S                                                            
+Wind chill                                        29 25                        
+Min chill                                            25    26                  
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          65      41    59      33    58      34    61      35    63
+Temp          56 62 47   41 57 51 39   33 50 54 40   34 52 58 42   35 55 60
+Dewpt         27 27 30   30 28 29 29   28 29 27 28   27 30 28 29   28 28 26
+PWind dir        SW      SW     W      NW    NW      NE    SW       S     W
+Wind char        LT      GN    GN      GN    GN      GN    LT      GN    GN
+Avg clouds    CL FW SC   SC SC SC SC   SC CL CL FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       5    40      20     0       0     0       0     0
+Rain shwrs                   C  C  S    S                                  
+
+$$
+
+NMZ223-240945-
+Clines Corners-Torrance NM
+35.01N 105.66W Elev. 7100 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      29          41          25          55          30
+Temp             49 41 37 33 31 33 38 41 38 31 28 27 26 34 47 55 49 37 33 32 30
+Dewpt            34 34 30 26 25 23 23 20 18 20 19 18 15 17 19 20 21 23 22 21 21
+RH               56 76 75 75 78 66 54 42 44 63 68 68 62 49 32 25 33 56 63 63 69
+Wind dir          W  W  W NW NW NW NW NW NW NW  W NW NW NW NW  W  W  W  W  W  W
+Wind spd         29 23 23 18 14 16 24 24 21 18 17 19 21 21 20 19 16 13 12 12 12
+Wind gust        41                                                            
+Clouds           B1 B1 B1 B2 B1 B1 B1 B1 FW FW FW FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                     40          30           5           0           0
+QPF 12hr                   0.02        0.02           0           0           0
+Snow 12hr                     T           T       00-00                        
+Rain shwrs        S  S  C              C                                       
+Snowshwrs               C  C  S  S  C                                          
+Tstms             S                                                            
+Wind chill             26 22 20 23 27    27 19 16 13 11 22          28 24 22 20
+Min chill              26    20    18    27    16    11    14          24    20
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          59      34    52      26    52      28    56      30    56
+Temp          54 51 38   34 50 40 30   26 46 46 32   28 50 49 35   30 51 49
+Dewpt         25 25 27   25 25 26 26   23 26 24 24   23 27 24 25   25 26 24
+PWind dir         W       W     W      NW     N      NE     W       W     W
+Wind char        BZ      BZ    BZ      BZ    BZ      GN    BZ      BZ    BZ
+Avg clouds    CL FW SC   SC SC SC B1   B1 FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       5    40      30     5       0     0       0     0
+Rain shwrs                   C  C  C    C                                  
+Snowshwrs                    C     C    C                                  
+
+$$
+
+NMZ228-240945-
+Raton-Colfax NM
+36.75N 104.52W Elev. 6300 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      30          48          18          63          26
+Temp             52 44 37 35 32 39 46 47 42 31 24 21 18 32 56 63 55 42 34 30 26
+Dewpt            29 27 24 21 20 21 23 23 20 21 19 15 13 16 18 19 19 20 21 20 20
+RH               41 51 59 56 61 48 40 38 41 66 81 77 80 51 22 18 24 41 58 66 78
+Wind dir          W  W  W NW  N  N NE  N  N  N  N  N  N  N NE  S  S  S NE  N  N
+Wind spd         26 13 11  9  6 10 14 12  9  5  5  5  6  5  6  8  9  4  5  6  5
+Wind gust        36                                                            
+Clouds           SC SC SC B1 B2 B2 B1 B1 FW FW CL CL CL CL CL CL CL CL FW FW FW
+PoP 12hr                     10          30           0           0           0
+QPF 12hr                      0        0.02           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs                          C  S                                       
+Snowshwrs                     S  C                                             
+Wind chill                27 25             25 17 13  9                   23 19
+Min chill                    25    23          17     9    13          29    18
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          64      29    57      26    55      23    61      25    63
+Temp          56 56 36   29 55 45 31   26 49 49 30   23 55 54 34   25 58 56
+Dewpt         25 22 25   23 25 27 25   21 23 21 21   19 24 21 23   20 24 21
+PWind dir        SW       W    NW       N     N       N    SW       W     W
+Wind char        GN      BZ    GN      BZ    GN      LT    GN      GN    GN
+Avg clouds    FW FW FW   FW SC SC SC   SC FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       5    50      40    10       0     0       0     0
+Rain shwrs                   C  C  C    C                                  
+Snowshwrs                          C    C                                  
+
+$$
+
+NMZ229-240945-
+Las Vegas-San Miguel NM
+35.66N 105.14W Elev. 6850 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      30          44          23          60          28
+Temp             49 42 37 34 31 35 42 42 38 29 27 24 24 37 55 60 51 38 34 30 29
+Dewpt            30 28 26 24 22 20 19 22 19 21 18 16 12 15 15 17 20 22 22 21 20
+RH               48 57 64 66 69 54 39 44 46 72 68 71 60 40 20 18 29 52 61 69 69
+Wind dir          W  W  W  W NW  N NE NE  N  S NW NW NW  N SE  S  S SW  W  W NW
+Wind spd         26 18 11  9  8  9 11 13 11  8  6  8  6  6  6 11 11  9  6  6  6
+Wind gust        36                                                            
+Clouds           SC SC B1 B2 B1 B1 B1 B1 FW FW FW FW CL CL CL CL CL CL FW FW FW
+PoP 12hr                     30          40           5           0           0
+QPF 12hr                   0.02        0.03           0           0           0
+Snow 12hr                     T           T       00-00                        
+Rain shwrs        S     S           C  C                                       
+Snowshwrs               S  C  S  C                                             
+Tstms             S                                                            
+Wind chill                27 24 28          21 19 15 16                28 23 22
+Min chill                    24    23          19    14    18          28    21
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          61      33    54      27    53      26    59      30    61
+Temp          57 52 38   34 53 42 31   27 47 46 31   27 53 51 35   30 57 52
+Dewpt         22 21 24   23 22 25 25   21 22 21 22   19 21 21 23   20 21 21
+PWind dir         W       W     W       N    NE      SW    SW       W     W
+Wind char        GN      BZ    BZ      BZ    GN      GN    GN      GN    GN
+Avg clouds    FW FW FW   FW SC SC SC   SC FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       5    40      30    10       0     0       0     0
+Rain shwrs                   C  C  C    C                                  
+Snowshwrs                    C     C    C                                  
+
+$$
+
+NMZ230-240945-
+Clayton-Union NM
+36.46N 103.15W Elev. 5000 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      40          47          28          62          33
+Temp             64 53 48 45 43 47 45 46 43 35 32 30 29 43 57 62 54 43 38 35 34
+Dewpt            33 32 29 24 23 28 28 27 25 23 21 20 17 19 13 16 17 22 22 22 21
+RH               31 44 47 43 45 47 51 47 49 61 63 66 60 38 17 16 23 43 52 59 58
+Wind dir         SW  W  W NW  N  N NE  N  N  W  W  W  W  W NW  S  S  S SW  W  W
+Wind spd         28 17 14 12  9 13 18 17 11  8 10 11 10  8  8  8  9  8  8  5  8
+Wind gust        40                                                            
+Clouds           SC B1 B2 B2 B2 B2 B2 B2 SC SC CL CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                     10          40           5           0           0
+QPF 12hr                      0        0.06           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  C  C                                       
+Wind chill                                  28 23 21 20                      27
+Min chill                                      23    19    25                27
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          64      39    62      33    54      31    60      33    63
+Temp          58 59 45   40 60 52 37   34 50 49 35   32 56 54 37   34 59 56
+Dewpt         25 25 26   25 25 28 29   25 24 24 24   23 25 25 26   24 24 23
+PWind dir        SW      SW    NW       N     N       N    SW      SW     W
+Wind char        GN      BZ    GN      BZ    BZ      GN    GN      GN    GN
+Avg clouds    FW FW FW   FW SC SC SC   SC FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       0    30      40    20       5     0       0     0
+Rain shwrs                   C  C  C    C  S  S                            
+
+$$
+
+NMZ234-240945-
+Tucumcari-Quay NM
+35.19N 103.60W Elev. 4050 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      44          51          29          64          34
+Temp             70 60 56 52 47 46 51 49 43 37 35 32 29 36 54 64 60 47 42 38 34
+Dewpt            36 39 37 35 34 35 35 36 38 36 35 31 28 29 27 24 26 28 29 28 28
+RH               29 46 49 52 60 65 54 61 82 96100 96 96 75 35 22 27 47 60 67 78
+Wind dir         SW  W  W  W  W NW  N  N NE  W  W  W  W  W  W SW SE SE  W  W  W
+Wind spd         29 19 14 12  9 10 11 16 11  6  8  8  6  5  5  5  5  4  5  5  5
+Wind gust        41                                                            
+Clouds           B1 B2 B2 B2 B2 B2 B2 B2 B1 B1 FW FW FW FW CL CL CL CL CL CL CL
+PoP 12hr                     30          50          10           0           0
+QPF 12hr                   0.01        0.13           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C                                       
+Wind chill                                     28 24 22                        
+Min chill                                      28    22    23                29
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          69      42    67      37    59      34    65      37    67
+Temp          61 64 49   42 64 59 43   37 54 56 41   34 58 60 44   37 59 62
+Dewpt         30 30 31   31 31 32 34   30 30 29 31   29 32 31 32   31 32 31
+PWind dir        SW      SW     W       N    NE      NE    SW       S    SW
+Wind char        GN      GN    GN      BZ    BZ      LT    GN      GN    GN
+Avg clouds    CL CL FW   FW SC SC SC   SC FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr          0       0    10      40    10       5     0       0     0
+Rain shwrs                   S  S  C    C                                  
+
+$$
+
+NMZ238-240945-
+Roswell-Chaves NM
+33.31N 104.51W Elev. 3650 ft
+302 PM MDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+MDT 3hrly     15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          59          34          69          38
+Temp             76 68 66 62 58 52 55 59 57 46 41 35 34 43 61 69 64 52 47 40 39
+Dewpt            42 45 45 45 43 42 37 33 30 34 34 29 25 26 25 27 29 30 32 32 31
+RH               30 43 47 54 57 69 51 37 35 63 76 78 69 51 25 21 27 43 56 73 73
+Wind dir         SW SW SW  W NW NW NW NW NW  N  W  W  W  W  W  W SE  S  W NW  N
+Wind spd         20 14 13 13 13 16 18 20 18 12  6  6  6  5  8  9  6  4  4  4  4
+Clouds           B2 B2 B2 B2 B2 B1 B2 B1 FW FW CL CL CL CL CL CL CL CL CL CL CL
+PoP 12hr                     30          40           5           0           0
+QPF 12hr                   0.01        0.13           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  S  S                                       
+Wind chill                                           28                        
+Min chill                                            28                        
+
+
+Date           10/26/22  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+MDT 6hrly     12 18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     18 00 06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Max/Min          73      43    75      42    64      38    67      39    70
+Temp          64 69 50   43 70 67 48   42 59 61 46   39 60 64 46   39 63 67
+Dewpt         31 33 33   34 35 34 34   33 34 33 35   35 38 36 37   34 35 33
+PWind dir         E       W     W      NW     N       N     S       S    SW
+Wind char        LT      GN    GN      GN    BZ      LT    GN      GN    GN
+Avg clouds    CL CL FW   FW FW FW B1   B1 FW FW CL   CL FW FW FW   FW FW FW
+PoP 12hr          0       0    10      20     5       0     0       0     0
+Rain shwrs                         S    S                                  
+
+$$
+
+
+
+For information on how to interpret this product go to: 
+www.weather.gov/abq/feature_pfm

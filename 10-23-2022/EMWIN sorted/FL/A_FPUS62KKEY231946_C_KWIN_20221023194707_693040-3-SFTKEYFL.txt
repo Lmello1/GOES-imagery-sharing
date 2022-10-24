@@ -1,0 +1,44 @@
+FPUS62 KKEY 231946
+SFTKEY
+STZ000-241000-
+
+Tabular State Forecast for the Florida Keys
+National Weather Service Key West FL
+346 PM EDT Sun Oct 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+
+...Upper Keys...
+    Key Largo
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   72/84    74/83    70/84    70/84    70/84    73/84    72/84    
+    10/10    10/10    10/10    10/10    10/10    20/20    20/20   
+
+
+...Middle Keys...
+    Marathon
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   74/85    74/85    72/85    73/84    72/85    74/85    74/86    
+    00/00    00/00    00/10    10/10    10/10    10/10    20/20   
+
+
+...Lower Keys...
+    Key West
+   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+   75/83    75/83    72/86    71/84    72/84    75/84    74/84    
+    00/00    00/00    00/10    10/10    10/10    10/10    20/20   
+
+
+$$
+

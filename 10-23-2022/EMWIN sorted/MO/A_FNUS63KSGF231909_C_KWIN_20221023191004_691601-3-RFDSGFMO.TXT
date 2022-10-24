@@ -1,0 +1,615 @@
+FNUS63 KSGF 231909
+RFDSGF
+
+GRASSLAND FIRE DANGER INDEX - *** EXPERIMENTAL ***
+NATIONAL WEATHER SERVICE SPRINGFIELD MO
+209 PM CDT SUN OCT 23 2022
+
+THE GFDI DOES NOT ACCOUNT FOR PRECIPITATION THAT OCCURS WITHIN
+THE HOUR PRECEDING ANY GIVEN FORECAST HOUR BELOW OR ANY SNOW ON
+THE GROUND AT THE FORECAST HOUR. PLEASE MAKE APPROPRIATE ADJUSTMENTS.
+
+GFDI SCALE:
+
+(L)  LOW              0 TO2.0
+(M)  MODERATE         3 TO7.0
+(H)  HIGH             8 TO19.0
+(V)  VERY HIGH       20 TO49.0
+(X)  EXTREME         50+
+(-)  MISSING
+
+
+KSZ073-241315-
+BOURBON-
+INCLUDING THE CITIES OF FORT SCOTT AND PAWNEE STATION
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    61  *   V    V    V    V    X    X    X    V  
+MON OCT 24  VERY HIGH  34  *   V    V    H    H    H    M    M    L  
+TUE OCT 25  HIGH       14  *   M    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       12  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    4  *   L    L    L    L    M    M    L    L  
+$$
+
+
+KSZ097-241315-
+CRAWFORD-
+INCLUDING THE CITIES OF CHICOPEE, LONE OAK, AND PITTSBURG
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    57  *   V    V    V    V    V    X    X    V  
+MON OCT 24  VERY HIGH  30  *   V    V    H    H    H    M    M    L  
+TUE OCT 25  HIGH       13  *   M    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       12  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    M    L  
+$$
+
+
+KSZ101-241315-
+CHEROKEE-
+INCLUDING THE CITIES OF BAXTER SPRINGS, LOWELL, RIVERTON, 
+COLUMBUS, NEUTRAL, SHERWIN, AND STIPPVILLE
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    50  *   V    V    V    V    V    V    V    V  
+MON OCT 24  VERY HIGH  28  *   V    V    H    H    M    M    M    L  
+TUE OCT 25  HIGH       11  *   M    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       10  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    M    L  
+$$
+
+
+MOZ066-241315-
+VERNON-
+INCLUDING THE CITY OF NEVADA
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    52  *   H    V    V    V    V    X    X    V  
+MON OCT 24  VERY HIGH  30  *   V    V    H    H    H    M    M    L  
+TUE OCT 25  HIGH       11  *   M    L    M    M    H    H    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       10  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    4  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ077-241315-
+BARTON-
+INCLUDING THE CITIES OF KENOMA AND LAMAR
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    55  *   V    V    V    V    V    X    X    V  
+MON OCT 24  VERY HIGH  30  *   V    V    H    H    H    M    M    L  
+TUE OCT 25  HIGH       10  *   M    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       11  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ088-241315-
+JASPER-
+INCLUDING THE CITIES OF JOPLIN AND CARTHAGE
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  EXTREME    50  *   V    V    V    V    V    V    X    V  
+MON OCT 24  VERY HIGH  28  *   V    V    H    H    H    M    M    L  
+TUE OCT 25  HIGH       10  *   M    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       11  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    M    L  
+$$
+
+
+MOZ093-241315-
+NEWTON-
+INCLUDING THE CITY OF NEOSHO
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  40  *   V    V    V    V    V    V    V    V  
+MON OCT 24  VERY HIGH  23  *   V    H    H    H    H    M    M    L  
+TUE OCT 25  HIGH        8  *   L    M    M    M    M    H    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH        9  *   L    L    L    M    H    H    M    L  
+FRI OCT 28  MODERATE    4  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ101-241315-
+MCDONALD-
+INCLUDING THE CITIES OF ANDERSON, NOEL, GOODMAN, SOUTH WEST CITY, 
+PINEVILLE, AND ROCKY COMFORT
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  33  *   H    H    V    V    V    V    V    V  
+MON OCT 24  HIGH       19  *   H    H    H    H    H    M    L    L  
+TUE OCT 25  MODERATE    7  *   L    L    M    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH        8  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ067-241315-
+ST. CLAIR-
+INCLUDING THE CITIES OF TIFFIN, APPLETON CITY, AND JOHNSON CITY
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  40  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  22  *   V    H    H    H    M    M    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    L    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    7  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ078-241315-
+CEDAR-
+INCLUDING THE CITIES OF CEDAR SPRINGS, EL DORADO SPRINGS, FILLEY, 
+ARNICA, CAPLINGER MILLS, AND STOCKTON
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  98     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  47  *   H    H    V    V    V    V    V    V  
+MON OCT 24  VERY HIGH  25  *   V    H    H    H    H    M    M    L  
+TUE OCT 25  HIGH        8  *   L    L    L    M    M    H    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH        8  *   L    L    L    M    M    H    M    L  
+FRI OCT 28  MODERATE    4  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ089-241315-
+DADE-
+INCLUDING THE CITIES OF GREENFIELD, LOCKWOOD, AND MEINERT
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  49  *   H    V    V    V    V    V    V    V  
+MON OCT 24  VERY HIGH  25  *   V    H    H    H    H    M    M    L  
+TUE OCT 25  HIGH        9  *   L    L    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH       10  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ094-241315-
+LAWRENCE-
+INCLUDING THE CITIES OF AURORA, MOUNT VERNON, AND MARIONVILLE
+209 PM CDT SUN OCT 23 2022
+
+                CURING = 100     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  42  *   H    V    V    V    V    V    V    V  
+MON OCT 24  VERY HIGH  22  *   V    H    H    H    H    H    M    L  
+TUE OCT 25  HIGH        9  *   L    M    M    M    H    H    M    L  
+WED OCT 26  MODERATE    5  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH        9  *   L    L    L    M    H    H    M    M  
+FRI OCT 28  MODERATE    5  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ102-241315-
+BARRY-
+INCLUDING THE CITIES OF MONETT, MADRY, AND CASSVILLE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  98     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  27  *   H    H    H    V    V    V    V    V  
+MON OCT 24  HIGH       15  *   H    H    H    H    H    M    L    L  
+TUE OCT 25  HIGH        8  *   L    L    M    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ055-241315-
+BENTON-
+INCLUDING THE CITIES OF WARSAW, WHITAKERVILLE, COLE CAMP, 
+CROCKERVILLE, MORA, EDMONSON, AND LINCOLN
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  32  *   H    H    H    V    V    V    V    V  
+MON OCT 24  HIGH       19  *   H    H    H    H    M    M    L    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ068-241315-
+HICKORY-
+INCLUDING THE CITIES OF WEAUBLEAU, HERMITAGE, PITTSBURG, QUINCY, 
+WHEATLAND, AND CROSS TIMBERS
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  34  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  20  *   V    H    H    H    H    M    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ079-241315-
+POLK-
+INCLUDING THE CITY OF BOLIVAR
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  37  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  21  *   V    H    H    H    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    7  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ090-241315-
+GREENE-
+INCLUDING THE CITY OF SPRINGFIELD
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  96     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  33  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  20  *   V    H    H    H    H    H    M    L  
+TUE OCT 25  HIGH        8  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  HIGH        8  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    4  *   L    L    L    L    M    M    L    L  
+$$
+
+
+MOZ095-241315-
+CHRISTIAN-
+INCLUDING THE CITIES OF NIXA, CHRISTIAN CENTER, OZARK, 
+AND SELMORE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  94     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       18  *   H    M    H    H    H    H    H    H  
+MON OCT 24  HIGH       12  *   H    H    M    H    M    M    M    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+
+MOZ103-241315-
+STONE-
+INCLUDING THE CITIES OF KIMBERLING CITY, CRANE, ELSEY, 
+INDIAN POINT, AND SILVER DOLLAR CITY
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  92     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       17  *   M    H    H    H    H    H    H    H  
+MON OCT 24  HIGH        9  *   H    M    M    M    M    M    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+
+MOZ104-241315-
+TANEY-
+INCLUDING THE CITIES OF BRANSON, HOLLISTER, KIRBYVILLE, 
+EDGEWATER BEACH, FORSYTH, OZARK BEACH, AND POWERSITE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       14  *   M    M    M    H    H    H    H    H  
+MON OCT 24  HIGH        8  *   M    M    M    M    M    M    M    L  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+
+MOZ056-241315-
+MORGAN-
+INCLUDING THE CITIES OF VERSAILLES, ROCKY MOUNT, STOVER, 
+AND LAURIE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  93     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  29  *   M    M    H    H    V    V    V    V  
+MON OCT 24  HIGH       15  *   H    H    H    H    M    M    M    L  
+TUE OCT 25  MODERATE    5  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    3  *   L    L    L    L    M    L    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  LOW         2  *   L    L    L    L    L    L    L    L  
+$$
+
+
+MOZ057-241315-
+MILLER-
+INCLUDING THE CITIES OF AURORA SPRINGS, ELDON, AND LAKE OZARK
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  93     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *   M    M    H    H    V    V    V    V  
+MON OCT 24  HIGH       15  *   H    H    H    H    H    H    M    L  
+TUE OCT 25  MODERATE    5  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ069-241315-
+CAMDEN-
+INCLUDING THE CITIES OF OSAGE BEACH, CAMDENTON, DECATURVILLE, 
+ROACH, AND VILLAGE OF FOUR SEASONS
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  27  *   H    H    H    V    V    V    V    V  
+MON OCT 24  HIGH       19  *   H    H    H    H    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ080-241315-
+DALLAS-
+INCLUDING THE CITIES OF BUFFALO, CHARITY, FOOSE, MARCH, PLAD, 
+WINDYVILLE, AND OLIVE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  32  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  20  *   V    H    H    H    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ081-241315-
+LACLEDE-
+INCLUDING THE CITIES OF LYNCHBURG AND LEBANON
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  30  *   H    H    H    V    V    V    V    V  
+MON OCT 24  VERY HIGH  20  *   V    H    H    H    H    H    M    M  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    5  *   M    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ091-241315-
+WEBSTER-
+INCLUDING THE CITIES OF MARSHFIELD, NORTHVIEW, SEYMOUR, 
+AND ROGERSVILLE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  30  *   H    H    H    V    V    V    V    V  
+MON OCT 24  HIGH       18  *   H    H    H    H    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    6  *   L    L    L    M    M    M    M    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ092-241315-
+WRIGHT-
+INCLUDING THE CITIES OF DAWSON, GRAFF, MOUNTAIN GROVE, DUNCAN, 
+AND MANSFIELD
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  93     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  24  *   H    H    H    H    V    V    V    H  
+MON OCT 24  HIGH       14  *   H    H    M    H    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    5  *   M    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ096-241315-
+DOUGLAS-
+INCLUDING THE CITIES OF VANZANT, AVA, GOODHOPE, ROME, SQUIRES, 
+AND DOGWOOD
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       16  *   M    M    M    H    H    H    H    H  
+MON OCT 24  HIGH       10  *   H    M    M    M    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    5  *   L    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ105-241315-
+OZARK-
+INCLUDING THE CITY OF WASOLA
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       14  *   M    M    M    H    H    H    H    H  
+MON OCT 24  HIGH        9  *   H    M    M    M    H    H    M    L  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    L  
+WED OCT 26  MODERATE    4  *   L    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ058-241315-
+MARIES-
+INCLUDING THE CITY OF VICHY
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  25  *   H    H    H    H    V    V    V    V  
+MON OCT 24  HIGH       15  *   H    H    H    H    H    H    M    M  
+TUE OCT 25  MODERATE    5  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    4  *   L    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ070-241315-
+PULASKI-
+INCLUDING THE CITIES OF FORT LEONARD WOOD, LAQUEY, 
+AND WAYNESVILLE
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  95     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  24  *   H    H    H    H    V    V    V    V  
+MON OCT 24  HIGH       17  *   H    H    H    H    H    H    M    M  
+TUE OCT 25  MODERATE    6  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    5  *   L    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    5  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ071-241315-
+PHELPS-
+INCLUDING THE CITIES OF NORTHWYE AND ROLLA
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  23  *   H    H    H    H    H    V    V    H  
+MON OCT 24  HIGH       15  *   H    H    M    H    H    H    M    M  
+TUE OCT 25  MODERATE    5  *   L    L    L    L    M    M    M    M  
+WED OCT 26  MODERATE    4  *   L    L    L    L    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ082-241315-
+TEXAS-
+INCLUDING THE CITIES OF PLATO, ROBY, BENDAVIS, AND HUGGINS
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  VERY HIGH  21  *   H    H    H    H    H    V    V    H  
+MON OCT 24  HIGH       13  *   H    H    M    H    H    H    M    M  
+TUE OCT 25  MODERATE    7  *   L    L    L    M    M    M    M    M  
+WED OCT 26  MODERATE    5  *   M    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    4  *   L    L    L    M    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+
+MOZ097-241315-
+HOWELL-
+INCLUDING THE CITIES OF POMONA, POTTERSVILLE, SILOAM SPRINGS, 
+SOUTH FORK, WEST PLAINS, AND WHITE CHURCH
+209 PM CDT SUN OCT 23 2022
+
+                CURING =  90     (ALL TIME REFERENCES ARE IN CDT)
+
+DAY/DATE      24HR INDEX   *  1AM  4AM  7AM 10AM  1PM  4PM  7PM 10PM
+SUN OCT 23  HIGH       15  *   M    M    M    H    H    H    H    H  
+MON OCT 24  HIGH        9  *   H    M    M    M    H    H    M    M  
+TUE OCT 25  MODERATE    7  *   L    L    L    L    M    M    M    M  
+WED OCT 26  MODERATE    5  *   M    L    L    M    M    M    L    L  
+THU OCT 27  MODERATE    3  *   L    L    L    L    M    M    L    L  
+FRI OCT 28  MODERATE    3  *   L    L    L    L    L    M    L    L  
+$$
+
+LINDENBERG

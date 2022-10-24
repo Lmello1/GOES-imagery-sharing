@@ -1,0 +1,129 @@
+ASUS43 KIND 232009
+RWRIN 
+
+WEATHER ROUNDUP FOR INDIANA
+NATIONAL WEATHER SERVICE INDIANAPOLIS IN
+400 PM EDT SUN OCT 23 2022
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - STATION DOES NOT REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
++ - STATION NOT QUALITY CONTROLLED BY THE NATIONAL WEATHER SERVICE.
+    USE DATA WITH CAUTION...ESPECIALLY DEWPOINT AND RELATIVE
+    HUMIDITY OBSERVATIONS.
+
+INZ001>003-010>013-019-020-232100-
+NORTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY /AIRPORT/ MOSUNNY   79  55  44 S16G32    29.88F                  
+KNOX *+        MOSUNNY   79  52  38 S21G30    29.93F                  
+LA PORTE +     SUNNY     77  59  52 S18G30    29.93F                  
+MICHIGAN CITY+ SUNNY     77  52  41 S13G26    29.92F                  
+MONTICELLO +   SUNNY     78  49  36 S21G28    29.94F                  
+RENSSELAER +   SUNNY     77  52  41 S20G29    29.94S                  
+VALPARAISO     SUNNY     81  53  37 S20G39    29.92F                  
+
+$$
+
+LMZ046-743>745-232100-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT)
+BURNS HARBOR     1930   78     160/ 13/ 17 1012.5F
+MICHIGAN CITY    1940   78                 1011.2F
+5NW MICH CITY    1940   71                   N/A     2
+
+$$
+
+INZ004-005-014>016-021>024-232100-
+NORTH CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKHART        MOSUNNY   77  54  44 S17G32    29.98S                  
+GOSHEN         SUNNY     76  52  43 S22G32    29.98F                  
+LOGANSPORT +   MOSUNNY   77  50  38 S21G26    29.98F                  
+PERU/GRISSOM   MOSUNNY   78  52  40 S18       29.97F                  
+PLYMOUTH *+    SUNNY     77  52  41 S14G26    29.95F                  
+ROCHESTER +    SUNNY     75  52  43 S17G26    29.97F                  
+SOUTH BEND     SUNNY     76  53  44 S21G32    29.96F                  
+WARSAW +       MOSUNNY   76  51  41 S8G16     29.99F                  
+
+$$
+
+INZ006>009-017-018-025>027-232100-
+NORTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANGOLA *+      SUNNY     75  50  41 S17G23    30.02F                  
+AUBURN +       MOSUNNY   73  52  46 S8        30.04F                  
+FORT WAYNE     PTSUNNY   75  49  39 S17G25    30.04F                  
+HUNTINGTON +   MOSUNNY  N/A N/A N/A S15       30.02F                  
+KENDALLVILLE + FAIR      75  54  48 S15G24    30.03F                  
+
+$$
+
+INZ028-029-035-036-043>045-051>053-232100-
+WEST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAWFORDSVL +  SUNNY     75  44  32 S24G32    29.97F                  
+GREENCASTLE +  FAIR      78  52  40 S20       29.99F                  
+LAFAYETTE      SUNNY     79  51  37 S15G28    29.94F                  
+TERRE HAUTE    MOSUNNY   79  54  41 S20G31    29.96F                  
+
+$$
+
+INZ030>032-037>040-046>048-054>057-064-065-232100-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBUS       SUNNY     77  46  33 S17G29    30.04F                  
+FISHERS *+     SUNNY     78  53  41 S16G23    30.01S                  
+FRANKFORT +    SUNNY     77  50  38 S20G28    29.97S                  
+GREENWOOD *+   MOSUNNY   78  54  42 S16       30.02F                  
+INDIANAPOLIS   MOSUNNY   78  49  35 S20       30.00S                  
+-EAGLE CREEK   SUNNY     78  49  35 S14G26    29.99F                  
+KOKOMO +       SUNNY     77  52  41 S23       30.01F                  
+MARION +       SUNNY     76  51  40 S16G24    30.03S                  
+MT COMFORT *+    N/A    N/A N/A N/A MISG        N/A                   
+SHELBYVILLE    SUNNY     80  51  36 S17G29    30.02F                  
+
+$$
+
+INZ033-034-041-042-049-050-058-059-232100-
+EAST CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUNCIE         SUNNY     77  46  33 S18G29    30.03F                  
+RICHMOND +     FAIR      73  52  46 SE14G20   30.08F                  
+
+$$
+
+INZ060-061-067>069-081>083-085>088-232100-
+SOUTHWEST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSVILLE     PTSUNNY   80  47  31 S17G29    30.00S                  
+HUNTINGBURG +  MOSUNNY   80  51  36 S16G23    30.02F                  
+WASHINGTON +   MOSUNNY   78  50  36 S18G25    29.99F                  
+
+$$
+
+INZ062-063-066-070>080-084-089>092-232100-
+SOUTH CENTRAL AND SOUTHEAST INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE +   SUNNY     75  46  35 S9G18     30.06F                  
+BLOOMINGTON    SUNNY     78  50  37 S20G26    30.01F                  
+FRENCH LICK *+ MOSUNNY   77  43  29 S10G20    30.02F                  
+JEFFERSONVL +  FAIR      79  46  31 S15       30.05F                  
+MADISON *+     SUNNY     77  46  33 SE12G18   30.08F                  
+
+$$
+
+  

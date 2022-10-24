@@ -1,0 +1,18 @@
+SHUS63 KMWI 232028
+FWOFSD
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 20:28:48 GMT
+ 
+Listing of Observations (Sioux Falls, SD)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+REDSTN 216901 221023 13 R 2  77  54  46 0 0 151  9     79  53  90  17  0 0.000
+LAKE A 395901 221023 12 R 2  80  41  25 0 0 164 17     80  50  89  18  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 20:28:49 GMT
+

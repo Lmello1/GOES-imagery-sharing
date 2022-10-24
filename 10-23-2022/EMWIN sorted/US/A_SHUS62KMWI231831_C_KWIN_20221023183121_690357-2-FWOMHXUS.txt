@@ -1,0 +1,28 @@
+SHUS62 KMWI 231831
+FWOMHX
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:06 GMT
+ 
+Listing of Observations (Morehead City, NC)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+HWY PA 315140 221023 13 R 3  61  56  84 0 0 185  3     74  54  92  44  0 0.000
+POCOSI 315201 221023 13 R 4  61  60  97 0 0 347  5     74  57  98  48  3 0.280
+TIDEWA 315240 221023 13 R 4  58  57  97 0 0 279 11     75  58  97  45  1 0.010
+BEAUFO 317801 221023 13 R 3  62  57  86 0 0 347  4     75  56  93  44  0 0.000
+PAMLIC 317840 221023 13 R 4  59  57  95 0 0 296  6     73  57  95  50  1 0.020
+FAIRFI 317901 221023 13 R 4  61  60  98 0 0 352 12     71  59 100  50  4 0.650
+WILLIA 318741 221023 13 R 2  71  52  52 0 0 149  8     76  52  82  42  0 0.000
+CUNNIN 318840 221023 13 R 3  65  56  73 0 0 165  7     77  55  88  39  0 0.000
+NEW BE 319004 221023 13 R 3  64  57  79 0 0 186  6     75  57  89  46  0 0.000
+SANDY  319505 221023 13 R 2  71  59  66 0 0 355  8     76  57  87  47  0 0.000
+HOFMAN 319507 221023 13 R 3  67  59  76 0 0 347  4     78  55  96  46  1 0.010
+CEDAR  319604 221023 13 R 4  61  59  96 0 0 300  6     68  60  97  72  5 0.750
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:06 GMT
+

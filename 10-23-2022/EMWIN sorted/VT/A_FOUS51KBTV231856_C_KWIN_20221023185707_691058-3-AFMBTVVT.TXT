@@ -1,0 +1,1002 @@
+FOUS51 KBTV 231856
+AFMBTV
+
+Area Forecast Matrices
+National Weather Service Burlington VT
+254 PM EDT Sun Oct 23 2022
+
+VTZ005-240900-
+Western Chittenden-
+Including the cities of Burlington and Shelburne
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          64          52          72          60
+Temp          64 55 53 52 51 51 57 63 63 55 54 54 53 57 64 70 69 64 60 61 60 60
+Dewpt         47 43 42 43 46 48 52 54 55 54 53 53 53 56 59 60 60 60 59 59 59 59
+RH            54 64 66 71 83 89 83 72 75 96 96 96100 96 84 71 73 87 96 93 96 96
+Wind dir      SE SE SE SE SE  E  S  S  S SE  S  S SE SE  S  S  S SE  S  S SE SE
+Wind spd       2  5  5  3  3  2  2  3  3  4  4  5  5  5  8 10  9 10  9  8  6  6
+Wind gust                                                  20                  
+Clouds        B1 B2 B2 B2 OV OV B2 B2 B2 B2 B1 B1 B2 B2 B1 B1 SC SC B1 B2 B2 B2
+PoP 12hr                     40          30          20          10          10
+QPF 12hr              0.07-0.18        0.03           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA    PA                     
+Rain shwrs           S  C  C  C  C  S  C  S  S                                S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      50    59      38    54      38    56      39    57
+Temp          68 62   59 53 55 48   42 39 52 44   41 40 54 46   43 41 55 47
+Dewpt         61 59   56 50 44 40   37 35 36 37   36 34 39 39   39 38 43 42
+PWind dir         S       S    NW       N     N      SE     S      SE     S
+Wind char        LT      LT    GN      GN    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B1 B1 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ017-240900-
+Eastern Chittenden-
+Including the cities of Richmond and Underhill
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          63          52          71          59
+Temp          62 53 51 50 50 50 56 62 61 54 53 53 53 56 62 68 67 62 60 60 60 60
+Dewpt         43 41 41 41 47 48 52 54 55 54 53 53 53 56 58 59 60 59 58 58 58 58
+RH            50 64 68 71 89 93 86 75 81100100100100100 87 73 78 90 93 93 93 93
+Wind dir      SE SE SE SE SE  E SE SE SE SE SE SE SE SE SE  S SE SE SE SE SE SE
+Wind spd       5  8  8  5  5  4  4  4  4  5  5  5  6  6  6  9 10 10  9  8  6  8
+Wind gust                                               18    20 23 23 21 20 18
+Clouds        B1 B2 B2 B2 OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 SC B1 B1 B2 B2 B2
+PoP 12hr                     50          40          20          10          10
+QPF 12hr              0.10-0.23   0.03-0.08           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA                        
+Rain shwrs           S  C  C  C  C  C  C  S  S  S  S                          S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      49    57      36    52      37    54      38    56
+Temp          66 60   58 53 53 45   40 37 51 42   39 38 52 43   41 40 54 45
+Dewpt         60 58   55 50 44 39   36 34 34 35   34 32 37 38   37 36 41 40
+PWind dir        SE       S    NW       N     N      SE     S      SE     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B1   B2 B1 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+NYZ028-240900-
+Eastern Clinton-
+Including the cities of Champlain and Plattsburgh
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          64          50          72          57
+Temp          62 54 51 50 50 50 57 63 62 54 52 51 50 55 63 70 69 63 59 59 58 60
+Dewpt         46 45 44 43 43 46 50 52 54 53 52 51 50 55 58 60 60 59 58 58 57 58
+RH            56 71 77 77 77 86 77 67 75 96100100100100 84 71 73 87 96 96 96 93
+Wind dir      SE  S  S  S  S SE SE SE SE  S  S  S  S  S SE  S  S  S  S  S  S  S
+Wind spd       4  4  5  4  4  3  3  4  3  3  3  4  4  4  8 11 11 10 10 10  9  8
+Wind gust                                                        21 20    19   
+Clouds        B1 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B1 B1 B1 B1 SC SC SC SC B1 B1 B1
+PoP 12hr                     30          20          10           5          10
+QPF 12hr              0.02-0.06           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA                                    
+Rain shwrs              S  C  S  S     S                                      S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      49    58      36    53      37    55      39    57
+Temp          69 61   57 53 54 46   40 38 51 43   40 40 54 45   42 41 55 46
+Dewpt         60 59   54 49 42 38   34 33 35 36   34 34 38 39   37 38 42 42
+PWind dir         S      SW    NW       N     N      SW    SW       W     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+NYZ031-240900-
+Western Clinton-
+Including the cities of Dannemora and Ellenburg
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          63          48          70          54
+Temp          61 51 48 47 47 47 56 62 60 52 49 49 49 53 62 68 66 60 56 56 56 56
+Dewpt         43 41 39 38 39 43 49 52 53 52 49 49 49 53 57 58 58 57 56 55 55 56
+RH            51 68 71 71 74 86 77 70 78100100100100100 84 70 75 90100 96 96100
+Wind dir      SE SE  S  S  S SE SE SE  E SE  S  S SW  S  S  S  S  S  S  S  S  S
+Wind spd       4  5  5  4  3  3  3  4  4  3  4  4  4  4  5  9  9  9  9  8  6  6
+Wind gust                                                        19 20 19 18 18
+Clouds        B1 B2 B2 B2 B2 B2 B2 B1 B1 B1 SC SC B1 B1 B1 SC SC SC SC B1 B1 B1
+PoP 12hr                     30          20          10           5          10
+QPF 12hr              0.01-0.06           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA    PA PA                           
+Rain shwrs              S  C  S  S  S  S                                      S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      44    54      32    50      34    53      36    54
+Temp          66 58   54 49 51 42   37 34 48 39   36 36 52 42   39 38 53 43
+Dewpt         58 57   52 46 40 36   32 31 33 34   32 32 37 37   35 36 40 40
+PWind dir         S      SW    NW       N    NE       S     W      SW     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B1 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ011-240900-
+Western Rutland-
+Including the cities of Fair Haven and Rutland
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          62          52          70          57
+Temp          61 52 48 47 48 48 55 61 61 55 53 52 52 56 62 69 68 63 59 59 58 59
+Dewpt         44 42 43 45 47 48 52 55 56 54 53 52 52 55 58 60 60 59 59 58 58 59
+RH            53 69 83 93 96100 90 81 84 96100100100 96 87 73 76 87100 96100100
+Wind dir      SE SE  E  E NE NE  E SE  E SE SE SE SE SE  S  S SE SE SE SE SE SE
+Wind spd       4  5  5  4  4  4  4  3  3  4  3  4  3  4  5  8  8  6  5  4  4  4
+Wind gust                                                                    14
+Clouds        B2 B2 B2 OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B2 B2 OV B2
+PoP 12hr                     60          50          30          20          20
+QPF 12hr              0.13-0.19   0.06-0.12   0.00-0.05           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs     S  S  C  L  L  C  C  C  C  C  C  S  C  S  S  S  S  S  S  S  S  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      50    60      37    55      36    56      38    57
+Temp          67 60   57 52 57 47   41 38 53 43   39 38 54 44   40 39 55 46
+Dewpt         62 60   56 51 47 42   38 35 37 38   35 34 40 41   38 38 43 43
+PWind dir        SE       S    NW       N     N       E     S       E     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5      10    10      10    10
+Rain shwrs     C  C    C     S                                             
+
+$$
+VTZ019-240900-
+Eastern Rutland-
+Including the cities of East Wallingford and Killington
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          60          51          68          56
+Temp          59 49 47 46 47 49 55 59 59 53 51 51 52 55 61 66 65 61 57 57 57 57
+Dewpt         41 42 43 45 47 48 51 54 55 53 51 51 52 54 57 59 59 58 57 57 57 57
+RH            51 77 86 96100 96 86 83 87100100100100 96 87 78 81 90100100100100
+Wind dir       E  E  E  E  E  E  E SE  E SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd       5  8  8  9  8  6  5  4  4  5  4  5  5  5  6  8  8  8  8  5  5  5
+Wind gust                                                                    17
+Clouds        B2 B2 B2 OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B2 B2 OV B2
+PoP 12hr                     70          50          30          20          30
+QPF 12hr              0.12-0.24   0.08-0.17   0.01-0.07           0   0.00-0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs     S  C  C  L  L  C  C  C  C  C  C  C  C  S  C  S  S  S  C  C  C  C
+Obvis                                                                F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      49    57      35    53      35    54      36    55
+Temp          63 58   55 52 55 44   39 37 51 41   37 37 51 41   38 38 53 43
+Dewpt         60 58   55 50 46 40   36 33 35 36   33 33 38 39   36 37 41 41
+PWind dir        SE       S    NW       N     N       E    SE       S    SW
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         60      30    20       5     5      10    10      10    10
+Rain shwrs     C  L    C     S                                             
+
+$$
+VTZ008-240900-
+Washington-
+Including the cities of Montpelier and Waitsfield
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          61          52          69          58
+Temp          60 51 48 48 48 48 55 60 60 54 53 52 53 55 61 67 66 61 59 59 58 58
+Dewpt         43 42 42 43 47 47 51 54 55 54 53 52 53 55 58 59 59 59 58 58 58 58
+RH            53 71 80 83 96 96 86 81 84100100100100100 90 75 78 93 96 96100100
+Wind dir      SE SE SE SE  E NE SE  S SE SE  S SE SE SE  S  S  S SE SE SE SE SE
+Wind spd       4  5  4  3  3  2  3  4  3  4  4  4  4  4  6  9  9  9  8  6  5  5
+Wind gust                                                  19       18 17    16
+Clouds        B1 B2 B2 OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B2 B2 B2 B2 B2
+PoP 12hr                     60          50          30          20          20
+QPF 12hr              0.13-0.21   0.06-0.18   0.00-0.05           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA                     
+Rain shwrs           S  C  L  C  C  C  C  C  C  S  S  S  S        S  S  S  S  S
+Obvis                                                                   F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      49    58      36    54      35    55      37    56
+Temp          65 59   56 52 54 45   39 36 52 42   38 36 53 42   39 38 55 44
+Dewpt         60 58   55 50 45 39   35 33 34 34   33 32 37 37   36 35 40 40
+PWind dir        SE       S    NW       N     N      SE     S       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW SC SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ021-240900-
+Eastern Windsor-
+Including the cities of Springfield and White River Junction
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          60          51          68          56
+Temp          59 51 49 48 48 48 54 59 59 55 53 52 52 54 60 66 65 60 59 58 58 58
+Dewpt         44 44 45 46 48 48 51 54 55 54 53 52 52 54 57 60 60 59 59 58 58 58
+RH            57 77 86 93100100 90 83 87 96100100100100 90 81 84 96100100100100
+Wind dir       E SE NE NE  N  N NE  E  E SE SE SE SE SE SE  S SE SE SE SE SE SE
+Wind spd       3  3  3  4  4  3  3  2  3  3  2  3  3  3  4  6  6  6  5  3  3  3
+Wind gust                                                                    13
+Clouds        B2 B2 OV OV OV OV OV OV OV B2 B2 B2 B2 OV OV B2 B2 B2 B2 OV OV OV
+PoP 12hr                     70          50          50          30          30
+QPF 12hr              0.16-0.28   0.13-0.21        0.04        0.01   0.02-0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA  S  C PA                  
+Rain shwrs     C  C  C  L  L  C  C  C  C  C  C  C  C  S  C  S  S  C  C  C  C  C
+Obvis                                                 F              F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      51    61      37    56      36    55      37    57
+Temp          64 59   56 52 59 47   41 38 54 43   38 37 53 43   39 38 55 45
+Dewpt         61 59   56 51 48 41   37 34 37 36   34 33 40 40   37 37 43 42
+PWind dir        SE       S    NW       N     N      SW     S       W     E
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    OV B2   B2 B1 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         60      30    10       5     5      10    10      10    10
+Rain shwrs     C  L    C     S                                             
+
+$$
+VTZ020-240900-
+Western Windsor-
+Including the cities of Bethel and Ludlow
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          59          51          67          56
+Temp          58 50 47 47 47 48 53 58 58 53 52 52 52 55 60 65 64 60 58 58 57 57
+Dewpt         43 42 43 45 47 47 51 53 54 53 52 52 52 54 57 59 59 59 58 58 57 57
+RH            57 74 86 93100 96 93 83 86100100100100 96 90 81 84 96100100100100
+Wind dir      SE SE  E  E NE NE  E SE SE SE SE SE SE SE SE SE SE SE SE SE SE SE
+Wind spd       4  5  4  4  4  3  3  3  3  4  3  4  3  4  5  8  8  8  6  5  4  4
+Wind gust           16 19 17 13                   16 17 17 20 20 23 20 20 19 17
+Clouds        B2 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 OV OV B2
+PoP 12hr                     70          50          40          30          30
+QPF 12hr              0.14-0.27   0.11-0.20   0.02-0.07           0   0.01-0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs     S  C  C  L  L  C  C  C  C  C  C  C  C  S  C  S  S  C  C  C  C  C
+Obvis                                                 F              F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      50    58      36    53      35    53      37    55
+Temp          63 58   56 52 56 46   40 37 52 42   38 36 51 42   39 38 53 44
+Dewpt         61 58   55 50 47 40   36 33 36 35   33 33 39 39   37 36 42 41
+PWind dir        SE      SW    NW       N     N      SE     S       W    SE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      30    10       5     5      10    10      10    10
+Rain shwrs     C  C    C     S                                             
+
+$$
+VTZ002-240900-
+Western Franklin-
+Including the cities of St. Albans and Swanton
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          64          52          73          60
+Temp          64 55 53 52 51 50 57 63 63 55 54 53 53 55 63 70 70 64 61 61 61 61
+Dewpt         48 45 42 42 44 48 52 54 55 55 54 53 53 55 59 61 60 60 59 59 59 59
+RH            56 69 66 69 77 93 83 72 75100100100100100 87 73 71 87 93 93 93 93
+Wind dir       S SE SE SE SE SE  S  S  S SE  S SE SE SE  S  S  S SE  S  S SE SE
+Wind spd       2  5  6  4  3  3  3  3  3  4  4  5  5  5  8 10  9 10 10  9  8  8
+Wind gust                                                  20 19               
+Clouds        B1 B2 B2 B2 B2 OV B2 B2 B2 B2 B2 B1 B2 B1 B1 SC SC SC B1 B1 B1 B1
+PoP 12hr                     30          30          10           5          10
+QPF 12hr              0.05-0.12        0.03           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA                           
+Rain shwrs              C  C  C  C  S  S  S                                   S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          71      49    58      37    53      38    55      39    57
+Temp          68 62   59 53 54 47   41 38 51 44   41 39 53 45   43 41 54 47
+Dewpt         61 59   56 50 44 40   36 35 35 36   36 34 39 39   39 39 43 42
+PWind dir         S       S    NW       N     N      SE     S      SE     S
+Wind char        GN      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ016-240900-
+Eastern Franklin-
+Including the cities of Enosburg Falls and Richford
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          63          52          71          60
+Temp          64 55 52 50 50 50 57 63 62 55 54 53 53 55 62 69 68 62 60 60 60 60
+Dewpt         45 42 41 41 44 48 52 54 55 55 53 53 53 55 58 59 59 58 58 58 57 57
+RH            50 61 66 71 80 93 83 72 78100 96100100100 87 70 73 87 93 93 90 90
+Wind dir      SE SE SE SE SE  E SE  S SE SE SE SE SE SE  S  S  S SE  S  S SE SE
+Wind spd       3  5  6  5  5  4  4  4  4  5  5  5  6  6  6  9  9 10 10  9  8  8
+Wind gust                                                        20       18   
+Clouds        B1 B2 B2 B2 OV OV B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 SC B1 B1 B2 B1 B1
+PoP 12hr                     40          40          20          10          10
+QPF 12hr              0.10-0.17   0.02-0.16           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA                           
+Rain shwrs           S  C  C  C  C  S  C  S  S  S  S                          S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      48    57      36    53      36    54      38    56
+Temp          67 61   58 52 53 45   39 37 50 42   39 38 52 44   41 40 54 45
+Dewpt         59 58   55 49 43 38   34 32 33 34   33 32 36 37   36 36 40 40
+PWind dir        SE       S    NW       N    NE      SE     S      SE     S
+Wind char        GN      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ009-240900-
+Western Addison-
+Including the cities of Middlebury and Vergennes
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          64          52          71          59
+Temp          63 55 52 51 50 51 56 62 63 56 53 53 53 57 63 69 68 64 60 60 60 60
+Dewpt         47 43 42 43 48 49 52 55 56 55 53 53 53 56 58 60 60 60 59 59 59 60
+RH            56 64 69 74 93 93 86 78 78 96100100100 96 84 73 76 87 96 96 96100
+Wind dir      SE SE SE  S  N  N  N  S  S  S SE  S  S  S  S  S  S SE  S  S SE SE
+Wind spd       2  4  3  2  2  2  2  3  3  3  3  3  3  4  8  9  8  8  6  5  4  4
+Wind gust                                                  19                  
+Clouds        B1 B2 B2 OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 SC B1 B2 B2 B2 B2
+PoP 12hr                     50          40          20          20          20
+QPF 12hr              0.13-0.20   0.03-0.09           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs        S  S  C  C  C  C  S  C  S  S  S  S  S  S        S  S  S  S  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      51    60      38    55      38    57      39    58
+Temp          68 62   59 54 57 49   43 40 53 45   41 40 55 46   42 41 56 48
+Dewpt         61 60   56 51 45 41   38 36 37 37   36 35 39 40   39 38 43 43
+PWind dir         S       S    NW       N     N      SE     S      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 SC   FW SC SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5      10    10      10    10
+Rain shwrs     C  C    C     S                                             
+
+$$
+VTZ018-240900-
+Eastern Addison-
+Including the cities of Bristol and Ripton
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      48          60          52          69          57
+Temp          60 52 50 50 49 49 55 59 59 53 52 53 53 56 61 67 66 61 58 59 58 58
+Dewpt         42 41 41 42 47 49 52 54 55 53 52 53 53 55 57 59 59 58 58 58 58 58
+RH            51 66 71 74 93100 90 83 87100100100100 96 87 75 78 90100 96100100
+Wind dir      SE SE SE  E  E  E SE SE SE SE SE SE SE SE  S  S SE SE SE SE SE SE
+Wind spd       5  6  6  5  5  4  4  4  3  5  4  5  4  5  6  9  9  9  8  6  5  6
+Clouds        B2 B2 B2 OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     60          50          30          20          20
+QPF 12hr              0.15-0.23   0.04-0.14        0.01           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs     S  S  S  C  L  C  C  C  C  S  S  S  S  S  S        S  S  S  S  C
+Obvis                                                                F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          64      49    55      36    51      36    52      38    53
+Temp          63 59   57 52 52 45   40 37 49 41   39 37 50 42   40 39 52 44
+Dewpt         60 58   55 50 44 39   36 33 35 35   33 32 38 38   37 36 41 40
+PWind dir        SE       S    NW       N     N       E     S      SE     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5      10    10      10    10
+Rain shwrs     C  C    C  S  S                                             
+
+$$
+VTZ007-240900-
+Caledonia-
+Including the cities of Hardwick and St. Johnsbury
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          61          51          68          57
+Temp          60 50 47 46 47 48 55 61 60 54 53 52 52 55 60 66 65 60 58 57 57 57
+Dewpt         44 42 42 43 47 48 52 55 56 54 53 52 52 54 58 59 59 59 57 57 56 56
+RH            55 74 83 89100100 90 81 87100100100100 96 93 78 81 96 96100 96 96
+Wind dir       S  S SE  E NE NE  E  S SE  S  S  S SE  S  S  S  S  S  S  S SE SE
+Wind spd       3  3  3  3  3  3  3  4  3  3  3  4  3  4  6  9  8  6  6  5  4  4
+Wind gust                                                        18            
+Clouds        B2 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B2 OV B2 B2 B1 B1 B2 B2 OV B2
+PoP 12hr                     70          50          30          20          20
+QPF 12hr              0.13-0.19   0.08-0.17   0.00-0.09           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs           S  C  L  C  C  C  C  C  C  C  S  S  S        S  S  S  S  S
+Obvis                                                 F              F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      49    58      34    53      33    53      35    55
+Temp          65 59   56 51 54 45   38 34 52 41   36 34 52 41   37 36 54 43
+Dewpt         60 58   55 50 46 39   34 32 34 34   32 31 37 37   35 34 41 39
+PWind dir        SE       S    NW       N     N       E     S       S     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 SC   FW SC SC SC   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ010-240900-
+Orange-
+Including the cities of Bradford and Randolph
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          60          51          67          56
+Temp          60 50 48 47 47 48 54 59 59 54 52 52 52 55 60 65 65 61 58 58 57 58
+Dewpt         44 43 44 45 47 48 51 54 55 53 52 52 52 55 57 59 59 59 58 58 57 58
+RH            55 77 86 93100100 90 83 87 96100100100100 90 81 81 93100100100100
+Wind dir      SE  S SE NE NE NE  E SE SE SE  S  S SE SE SE  S SE SE SE SE SE SE
+Wind spd       4  4  3  2  3  3  2  4  3  4  4  4  3  4  5  9  8  8  6  5  4  4
+Wind gust                                                                    14
+Clouds        B2 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B2 OV B2 B2 B2 B2 B2 OV OV OV
+PoP 12hr                     70          50          30          20          30
+QPF 12hr              0.13-0.20   0.12-0.23   0.01-0.09           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs     S  S  C  L  L  C  C  C  C  C  C  C  S  S  S  S  S  S  C  C  S  C
+Obvis                                                 F              F  F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      50    59      36    54      35    54      36    56
+Temp          64 59   56 52 56 46   39 36 53 41   37 36 52 42   38 37 55 44
+Dewpt         60 59   56 51 46 40   36 33 35 35   33 33 38 38   36 36 41 40
+PWind dir        SE       S    NW       N     N      SE     S       W    SE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      30    20       5     5       5    10      10    10
+Rain shwrs     C  C    C  S  S                                             
+
+$$
+VTZ003-240900-
+Orleans-
+Including the cities of Derby and Newport
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          62          52          69          58
+Temp          62 52 49 48 48 49 56 62 61 55 54 53 53 55 61 67 66 61 59 59 58 58
+Dewpt         45 42 42 41 46 48 52 55 55 54 53 53 53 55 58 59 58 58 57 57 57 57
+RH            54 69 77 77 93 96 86 78 81 96 96100100100 90 75 75 90 93 93 96 96
+Wind dir       S  S  S SE SE  E SE  S SE SE  S  S  S  S  S  S  S  S  S  S SE SE
+Wind spd       4  5  5  3  4  3  4  4  4  5  5  5  5  6  8 10 10 10  9  8  6  6
+Wind gust                                                           19 18 17 17
+Clouds        B1 B2 B2 B2 OV OV OV B2 B2 B2 B2 B2 B2 B2 B2 B1 SC B1 B2 B2 B2 B2
+PoP 12hr                     60          50          30          10          10
+QPF 12hr              0.10-0.17   0.06-0.14           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA                     
+Rain shwrs           S  C  L  C  C  C  C  S  S  S  S                          S
+Obvis                                                                   F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      47    56      34    51      34    53      36    54
+Temp          66 59   56 52 52 44   38 35 50 41   37 36 51 42   38 38 53 44
+Dewpt         59 57   54 50 44 38   33 32 33 33   31 31 35 36   35 35 39 39
+PWind dir        SE       S    NW       N     N      SE    SW       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B1 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ006-240900-
+Lamoille-
+Including the cities of Johnson and Stowe
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          63          52          70          58
+Temp          63 51 48 47 48 49 56 62 62 54 53 52 53 55 61 68 67 62 59 59 58 59
+Dewpt         44 42 42 41 46 48 52 54 55 54 53 52 53 55 58 59 59 58 57 57 57 57
+RH            50 71 80 79 93 96 86 75 78100100100100100 90 73 75 87 93 93 96 93
+Wind dir      SE SE SE SE  E  E SE  S SE SE  S  S  S SE  S  S  S SE  S  S SE SE
+Wind spd       4  5  5  4  4  3  3  4  4  5  5  5  5  5  6 10  9 10 10  8  6  6
+Wind gust                                            16 17    19 24 23 21 20 20
+Clouds        B1 B2 B2 B2 OV OV B2 B2 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B2 B2 B2
+PoP 12hr                     60          50          20          10          10
+QPF 12hr              0.11-0.20   0.03-0.16           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA                        
+Rain shwrs           S  C  L  C  C  C  C  S  S  S  S                    S     S
+Obvis                                                                   F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      48    58      35    53      35    55      36    56
+Temp          66 60   56 52 53 45   39 36 51 41   38 37 53 43   39 38 54 44
+Dewpt         59 58   54 49 44 39   34 32 34 34   32 32 37 37   35 35 40 39
+PWind dir        SE       S    NW       N    NE      SE    SW       S     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 SC   FW SC SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ001-240900-
+Grand Isle-
+Including the cities of Alburgh and South Hero
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      51          63          52          72          62
+Temp          63 55 54 53 52 51 54 61 63 56 54 54 53 56 63 69 69 64 63 63 62 62
+Dewpt         47 47 46 45 46 48 51 52 53 54 53 53 53 56 58 60 60 60 61 61 61 60
+RH            56 74 74 74 80 89 90 72 70 93 96 96100100 84 73 73 87 93 93 97 93
+Wind dir       S SE  S SE  S SE  S  S SE SE  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       3  6  9  6  5  4  3  2  3  3  4  6  8  8 10 13 12 13 13 12 12 10
+Clouds        B1 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1 B1 B2 B2 B1 SC SC SC SC B1 B1 B1
+PoP 12hr                     30          30          10           5          10
+QPF 12hr              0.03-0.08        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA                                    
+Rain shwrs              C  C  C  S     S                                      S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      52    58      40    53      41    55      43    56
+Temp          67 64   61 56 54 49   45 41 50 47   44 43 52 48   46 44 53 49
+Dewpt         61 61   58 51 44 41   38 37 36 38   38 38 40 41   42 41 43 44
+PWind dir         S       S    NW       N     N      SW    SW       S     S
+Wind char        GN      GN    GN      GN    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B1 B1 B1 SC   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         40      40    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+VTZ004-240900-
+Essex-
+Including the cities of Island Pond and Lunenburg
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          62          51          69          55
+Temp          61 50 47 47 47 48 56 62 60 54 52 51 51 54 61 67 65 59 56 56 56 56
+Dewpt         45 43 41 42 46 48 52 55 56 54 52 51 51 54 58 59 59 58 56 56 55 55
+RH            56 77 79 83 96100 86 78 87100100100100100 90 75 81 96100100 96 96
+Wind dir       S SE  E  E  E  E  E SE SE SE SE SE SE SE  S  S  S  S SE SE SE SE
+Wind spd       3  3  4  4  5  5  5  4  3  3  3  3  3  4  5  8  8  6  6  5  4  4
+Wind gust                                               16 18    17            
+Clouds        B1 B2 B2 OV OV OV OV OV B2 B2 B2 B2 B2 B2 B2 B1 SC B1 B2 B2 B2 B2
+PoP 12hr                     60          50          30          20          10
+QPF 12hr              0.09-0.18   0.06-0.16   0.00-0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA                     
+Rain shwrs           S  C  L  C  C  C  C  C  C  C  S  S  S                    S
+Obvis                                                                      F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          67      47    58      33    53      32    53      34    55
+Temp          66 58   55 51 54 44   36 33 52 40   35 33 52 40   36 35 54 42
+Dewpt         59 57   54 50 46 39   33 31 33 32   30 30 35 35   34 33 39 38
+PWind dir        SE       S    NW       N     N       E    SW       S     W
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B2 B2 SC   FW FW SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      50    20       5     5       5    10      10    10
+Rain shwrs     S  C    C  S  C                                             
+
+$$
+NYZ026-240900-
+Northern St. Lawrence-
+Including the cities of Massena and Norfolk
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          67          50          73          58
+Temp          67 55 51 49 49 50 60 66 64 54 51 50 50 54 64 71 70 63 59 59 58 59
+Dewpt         46 45 44 43 42 44 48 49 51 51 50 50 50 54 57 58 58 59 57 57 56 57
+RH            47 69 77 80 77 80 64 54 63 90 96100100100 78 63 66 87 93 93 93 93
+Wind dir      NE  E SE SE  E  E NE NE NE NE  E SE SE SE SE  S  S  S  S  S  S SE
+Wind spd       4  4  3  2  3  3  3  4  4  3  3  3  2  3  4  4  6  6  8  6  5  5
+Wind gust                                                  16       19 19 17   
+Clouds        B1 B1 B1 B1 B2 B1 B1 SC SC SC SC SC B1 B1 B1 B1 B1 B1 B1 B1 B2 SC
+PoP 12hr                     10          10          10           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                           PA                           
+Rain shwrs                    S                                            S  S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          73      45    55      36    53      37    57      38    57
+Temp          71 61   54 48 53 44   40 37 52 43   40 39 55 45   42 40 56 46
+Dewpt         58 58   51 44 38 36   35 33 33 35   34 35 37 39   38 38 41 41
+PWind dir         S      SW    NW       N    NE       E     N       S     E
+Wind char        LT      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B1 FW   FW SC SC SC   B1 B1 SC SC   SC SC SC SC
+PoP 12hr         60      50    20       5     5      10    10      10    10
+Rain shwrs     S  L    C     S                                             
+
+$$
+NYZ087-240900-
+Southwestern St. Lawrence-
+Including the cities of Ogdensburg, Potsdam, and Gouverneur
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          68          50          73          59
+Temp          66 55 51 50 49 49 61 67 65 55 51 51 51 56 65 71 70 64 61 61 60 61
+Dewpt         47 45 43 42 42 44 48 50 52 51 51 51 51 55 58 59 59 60 59 58 58 58
+RH            50 69 74 74 77 83 62 54 63 86100100100 96 78 66 68 87 93 90 93 90
+Wind dir      NE  E SE SE SE  E NE NE NE NE SE SE SE SE  S  S  S  S  S  S  S SE
+Wind spd       3  4  4  4  3  3  2  3  3  3  3  4  3  4  6  8  8  8 10  9  8  8
+Wind gust                                               17 18    18    19 18   
+Clouds        B1 B1 B1 B1 B2 B1 B1 SC SC SC SC SC B1 B1 SC B1 SC B1 B1 B1 B1 SC
+PoP 12hr                     20          20          10           5          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S     S                                         S  S  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          72      46    55      36    54      38    57      40    58
+Temp          71 61   54 48 53 45   41 38 52 44   41 40 55 46   43 42 56 47
+Dewpt         59 58   51 44 39 37   36 34 35 36   35 35 39 40   39 39 42 42
+PWind dir         S      SW     N       N    NE       E    NW      SE    SE
+Wind char        GN      GN    GN      LT    GN      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B1 FW   FW SC SC SC   B1 B1 SC SC   SC SC SC SC
+PoP 12hr         60      50    20       5     5      10    10      10    10
+Rain shwrs     C  L    C     S                                             
+
+$$
+NYZ029-240900-
+Southeastern St. Lawrence-
+Including the cities of South Colton and Star Lake
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          67          50          71          57
+Temp          64 53 49 48 48 48 59 66 64 54 50 50 50 55 63 69 68 61 59 59 59 59
+Dewpt         42 40 39 40 41 44 48 51 52 52 50 50 50 55 57 58 58 58 58 57 57 57
+RH            45 61 68 74 77 86 67 58 65 93100100100100 81 68 70 90 96 93 93 93
+Wind dir      SE SE SE SE SE SE  E  E  E SE SE SE SE SE  S  S  S SE  S  S  S SE
+Wind spd       4  5  5  5  4  5  3  3  3  3  5  5  5  5  8 10 10 11 11 11 10 10
+Clouds        B1 B1 B1 B2 B2 B2 B1 B1 SC SC SC SC B1 B1 SC B1 SC SC B1 B1 B2 SC
+PoP 12hr                     30          20          20          10          20
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                        PA PA                           
+Rain shwrs              S  S  S  S                 S              S  S  S  S  C
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          70      44    54      35    54      37    56      38    58
+Temp          68 60   53 47 51 43   39 36 52 42   40 39 54 44   42 40 55 46
+Dewpt         58 57   51 45 39 37   34 32 34 35   34 34 37 38   37 37 40 41
+PWind dir         S      SW    NW      NE    NE      SE     W      SE     S
+Wind char        GN      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B1 SC   FW SC SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         60      50    20       5     5      10    10      10    10
+Rain shwrs     C  L    C     S                                             
+
+$$
+NYZ027-240900-
+Northern Franklin-
+Including the cities of Fort Covington and Malone
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      50          66          50          74          58
+Temp          67 56 52 50 50 51 60 66 64 54 51 51 51 55 64 71 70 63 59 59 58 59
+Dewpt         47 44 41 41 42 43 48 50 53 52 51 51 51 54 57 58 58 58 56 56 56 57
+RH            49 64 66 71 74 74 64 56 67 93100100100 96 78 63 66 84 90 90 93 93
+Wind dir      NE SE SE SE SE  E NE NE NE  E SE SE SE SE SE  S  S  S  S  S  S SE
+Wind spd       4  4  4  3  3  3  3  4  4  3  4  4  3  3  4  5  5  8  9  8  6  6
+Wind gust                                                  17       19 19 18   
+Clouds        B1 B1 B1 B1 B2 B1 B1 B1 SC SC SC SC B1 B1 SC B1 SC SC B1 B1 B1 SC
+PoP 12hr                     20          20          20          10          10
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                           PA                           
+Rain shwrs              S  S  S  S                 S                          S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          74      46    55      36    53      36    57      38    58
+Temp          71 61   55 50 53 44   39 38 51 42   39 39 54 45   42 41 55 46
+Dewpt         58 57   52 46 38 36   34 33 33 34   33 34 37 38   37 37 41 40
+PWind dir         S      SW    NW      NE    NE       E     N       S     E
+Wind char        LT      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    SC B1   B2 B2 B1 FW   FW FW SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      50    20       5     5      10    10      10    10
+Rain shwrs     S  C    C     S                                             
+
+$$
+NYZ030-240900-
+Southern Franklin-
+Including the cities of Saranac Lake and Tupper Lake
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      46          64          49          69          55
+Temp          63 52 47 46 47 46 57 64 62 53 50 49 49 53 61 67 66 60 58 57 57 57
+Dewpt         42 40 38 38 39 42 48 51 53 52 50 49 49 53 56 58 57 57 56 56 56 56
+RH            46 63 71 73 74 86 72 63 72 96100100100100 84 73 73 90 93 96 96 96
+Wind dir      SE SE SE SE SE  E  E SE  E SE  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       4  5  4  4  3  4  3  3  3  4  4  5  4  4  6 10  9  9 10  9  8  8
+Wind gust                                               18    19 19 21 21 19 18
+Clouds        B1 B2 B1 B2 B2 B2 B2 B1 B1 SC SC SC B1 B1 SC B1 SC SC B1 B1 B1 B1
+PoP 12hr                     30          20          20          10          10
+QPF 12hr                   0.02           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA                        
+Rain shwrs              S  S  S  S  S  S        S  S              S  S  S  S  S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          68      43    52      33    51      34    54      36    55
+Temp          66 59   53 47 50 42   37 34 49 41   37 37 52 43   39 38 53 44
+Dewpt         57 56   51 45 39 36   33 31 32 33   32 32 35 37   36 36 39 39
+PWind dir         S      SW    NW      NE    NE      SE     W       S     S
+Wind char        GN      GN    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B1 B1   B2 B2 B1 SC   FW SC SC SC   SC B1 SC SC   SC SC SC SC
+PoP 12hr         50      50    20       5     5      10    10      10    10
+Rain shwrs     S  C    C     S                                             
+
+$$
+NYZ035-240900-
+Eastern Essex-
+Including the cities of Port Henry and Ticonderoga
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      49          63          51          71          59
+Temp          62 55 52 51 50 50 55 62 62 56 53 52 52 56 62 68 68 64 61 60 60 60
+Dewpt         45 43 43 42 46 48 51 54 55 54 53 52 52 55 58 59 59 59 58 58 58 59
+RH            54 64 71 71 86 93 86 75 78 93100100100 96 87 73 73 84 90 93 93 96
+Wind dir       S  S  S SW SW  N  E SE  S  S  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       3  4  4  3  3  2  2  3  3  3  3  4  4  4  8 11  9 10  8  8  8  6
+Wind gust                                                     19       18      
+Clouds        B1 B2 B2 B2 OV B2 B2 B2 B1 B2 B1 B1 B2 B2 B1 B1 SC B1 B1 B2 B2 B2
+PoP 12hr                     40          30          20          10          20
+QPF 12hr              0.06-0.16        0.02           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs           S  C  C  C  C  S  C  S  S  S  S     S        S  S  S  S  S
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          69      51    59      38    53      38    56      40    57
+Temp          67 62   59 53 56 49   43 39 51 45   41 39 54 47   43 41 55 48
+Dewpt         61 59   55 49 44 39   36 35 36 36   35 35 39 39   38 38 43 42
+PWind dir         S       S    NW       N     N       W    SE      SW     S
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 SC   FW SC SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5      10    10      10    10
+Rain shwrs     S  C    C  S  S                                             
+
+$$
+NYZ034-240900-
+Western Essex-
+Including the cities of Lake Placid and Newcomb
+254 PM EDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+EDT 3hrly     17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      47          63          50          68          56
+Temp          60 51 48 48 47 48 55 62 60 53 51 50 50 53 59 65 65 60 58 57 57 57
+Dewpt         42 40 39 40 44 46 51 54 54 53 51 50 50 53 56 58 58 58 57 56 56 57
+RH            51 66 71 74 89 93 86 75 81100100100100100 90 78 78 93 96 96 96100
+Wind dir      SE SE SE SE  E  E  E SE SE SE  S  S  S  S  S  S  S  S  S  S  S  S
+Wind spd       4  4  4  3  3  3  3  3  3  3  3  4  4  4  6  9  9  9  8  6  6  5
+Wind gust                                            14 19 20 20 24 23 21 19 16
+Clouds        B1 B2 B2 B2 OV B2 B2 B2 B1 B1 B1 B1 B1 B2 B2 B1 B1 B1 B2 B2 B2 B2
+PoP 12hr                     40          40          20          20          30
+QPF 12hr              0.02-0.18        0.01           0        0.01   0.00-0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                  PA PA PA PA PA PA PA                  
+Rain shwrs           S  C  C  C  C  S  C  S  S  S  S  S  S  S  S  S  C  C  S  C
+Obvis                                                                   F  F   
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+EDT 6hrly     14 20   02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          66      46    56      34    53      35    55      37    56
+Temp          64 59   54 49 53 44   38 35 51 41   38 36 52 43   39 38 54 44
+Dewpt         59 58   52 47 42 38   33 32 34 35   33 32 37 38   35 35 40 40
+PWind dir         S      SW    NW       N    NE      SW    SW       W     S
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    B2 B2   B2 B1 B1 SC   FW SC SC SC   SC SC SC SC   SC SC SC SC
+PoP 12hr         50      40    20       5     5      10    10      10    10
+Rain shwrs     C  C    C     S                                             
+
+$$

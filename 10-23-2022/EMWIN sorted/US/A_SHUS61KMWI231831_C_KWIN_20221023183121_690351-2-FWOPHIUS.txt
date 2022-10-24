@@ -1,0 +1,29 @@
+SHUS61 KMWI 231831
+FWOPHI
+Weather Information Management System (WIMS)
+USDA National Information Technology Center (KMWI)
+23-OCT-22 18:31:05 GMT
+ 
+Listing of Observations (Philadelphia, PA)
+ 
+ST NME STAT'N   DATE HR T W DBT DPT  RH Y M DIR WS 10 TMX TMN HMX HMN PD PPAMT
+------ ------ ------ -- - - --- --- --- - - --- -- -- --- --- --- --- -- -----
+Stations not in a Zone:
+TUCKAH 182101 221023 13 R 3  62  58  87 0 0  35  1     73  44 100  28  2 0.020
+COYLE  280051 221023 13 R 3  60  56  89 0 0  28  9     69  51  95  40  0 0.000
+ANCORA 280071 221023 13 R 3  62  56  83 0 0  41  4     71  46 100  31  1 0.020
+WOODBI 280091 221023 13 R 4  60  60 100 0 0  43  3     67  49 100  49  2 0.070
+BLUE M 280101 221023 13 R 3  60  47  63 0 0 124  1     64  46  73  32  0 0.000
+TEETER 280191 221023 13 R 3  62  46  56 0 0  71  7     68  47  83  33  0 0.000
+MIDDLE 280231 221023 13 R 3  64  52  67 0 0  41  1     72  45 100  29  0 0.000
+JACKSO 280291 221023 13 R 3  61  54  79 0 0  59  3     72  44 100  32  1 0.010
+E.B. F 281501 221023 13 R 8  59  58  98 0 0  18  7     66  53  98  56  3 0.210
+WALLKI 305803 221023 12 R 3  58  43  59 0 0  31  4     71  35  98  29  0 0.000
+HOPEWE 360112 221023 12 R 3  63  49  61 0 0  70  5     72  45  95  30  0 0.000
+TREXLE 360771 221023 12 R 3  63  48  59 0 0  61  4     70  42  96  30  0 0.000
+CAMP W 361031 221023 12 R 3  63  48  58 0 0  72  4     70  32 100  29  0 0.000
+ 
+ 
+ 
+End of WIMS Bulletin @ 23-OCT-22 18:31:05 GMT
+

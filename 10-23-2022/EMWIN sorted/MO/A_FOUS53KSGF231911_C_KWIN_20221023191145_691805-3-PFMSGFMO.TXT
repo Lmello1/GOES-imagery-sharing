@@ -1,0 +1,199 @@
+FOUS53 KSGF 231911
+PFMSGF
+
+Point Forecast Matrices
+National Weather Service Springfield MO
+211 PM CDT Sun Oct 23 2022
+
+MOZ090-241000-
+SPRINGFIELD-GREENE MO
+37.23N  93.40W Elev. 1268 ft
+211 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      64          72          47          55          37
+Temp          83 76 71 70 67 66 68 70 68 63 60 57 53 48 50 50 51 49 45 43 40 37
+Dewpt         58 59 59 58 58 59 63 64 64 61 59 57 53 48 49 46 42 40 40 38 36 34
+RH            43 56 66 66 73 78 84 81 87 93 96100100100 96 86 71 71 82 82 85 89
+Wind dir       S  S  S  S  S  S  S  S  S  S  S NW NW  N  N NW NW NW NW NW NW NW
+Wind spd      23 23 21 19 18 18 20 18 16 11  8  8  9 10 12 16 14  9  5  6  5  4
+Wind gust     35 41 40 35 31 31 33 31 27                24 28 28 19            
+Clouds        B1 SC B1 B2 B1 B2 OV OV OV OV OV OV OV OV B2 B2 B1 FW CL CL CL CL
+PoP 12hr                     10          90          90          70           5
+QPF 12hr                      0        0.98        1.07        0.71           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       C  L  D  D  D  D  D  L  L  C  C               
+Tstms                                  S  S                                    
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      40    62      43    61      43    60      43    61
+Temp          59 54   44 40 59 55   47 44 59 55   48 44 57 55   48 44 59 55
+Dewpt         38 39   39 38 42 42   43 42 47 46   47 44 47 46   46 44 48 47
+PWind dir         N      SE    SE      SE     E      NE    NE      NE    NW
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   CL FW SC SC   B1 B1 B1 B1   B1 SC SC SC   SC SC SC SC
+PoP 12hr          0       0     5      30    40      40    30      10     5
+Rain shwrs                           S  C  C  C    C  C  C  S              
+
+$$
+MOZ088-241000-
+JOPLIN-JASPER MO
+37.15N  94.51W Elev. 981 ft
+211 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      67          71          47          57          38
+Temp          85 80 75 73 71 69 69 68 63 59 55 54 51 48 49 52 56 52 46 43 41 39
+Dewpt         59 58 59 59 60 61 63 65 62 56 55 53 50 47 46 42 39 37 38 36 35 34
+RH            41 47 58 62 68 76 81 90 97 90100 96 96 96 89 69 53 56 73 76 79 82
+Wind dir       S  S  S  S  S  S  S  S  W  N NW NW  N  N  N NW NW NW NW NW NW  N
+Wind spd      25 24 23 21 20 18 18 16 13  9  8  9 10  8 13 13 13  5  3  3  2  1
+Wind gust     37 41 40 36 33 32 31 26 24                24 24                  
+Clouds        SC SC SC B1 B2 OV OV OV OV OV B2 B2 OV OV B2 B1 SC FW CL CL CL CL
+PoP 12hr                     30         100          90          50           5
+QPF 12hr                      0        1.89        0.19        0.21           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  L  D  D  D  D  L  L  C  C  S  S               
+Tstms                         S  S  S     S                                    
+Heat index       81                                                            
+Max heat         82                                                            
+Wind           Y  Y  Y                                                         
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          65      42    66      45    61      44    61      43    62
+Temp          61 56   46 44 62 58   49 47 58 57   48 45 59 56   48 45 59 56
+Dewpt         38 39   39 39 42 43   45 46 47 46   47 45 47 45   46 44 47 46
+PWind dir        NE      SE    SE      SE    NE      NE    NE      NE    NW
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW FW SC SC   B1 B2 B2 B1   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0     5      40    40      30    20       5     0
+Rain shwrs                           S  C  C  C    C  S  S                 
+
+$$
+MOZ057-241000-
+OSAGE BEACH-MILLER MO
+38.11N  92.55W Elev. 869 ft
+211 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      67          74          49          55          40
+Temp          83 78 73 71 69 67 70 71 71 67 62 58 54 50 52 50 51 49 47 45 42 40
+Dewpt         58 59 59 58 58 58 61 61 62 62 61 58 54 50 50 46 43 43 42 39 37 35
+RH            43 52 62 63 68 73 73 71 73 84 97100100100 93 86 74 80 83 79 82 82
+Wind dir       S  S  S  S  S  S  S  S  S  S SW  W NW  N  N NW NW NW NW NW NW NW
+Wind spd      18 19 19 17 16 13 14 14 13 11  6  5  6  5  8 12 11  6  5  5  3  2
+Wind gust     28 35 39 33 29 26 27 27 25             17    26 26 20 17 18 13   
+Clouds        SC FW B1 B2 B2 B2 OV OV OV OV OV OV OV OV B2 B2 B2 B1 FW CL CL CL
+PoP 12hr                     10          80          90          70          10
+QPF 12hr                      0        0.28        0.74        0.83        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       S  C  L  D  D  D  D  L  L  C  C               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          62      39    63      42    61      43    60      44    61
+Temp          59 54   44 40 59 56   47 43 58 55   47 43 56 55   47 45 57 55
+Dewpt         36 40   39 38 40 42   42 41 45 46   45 43 45 46   46 45 48 49
+PWind dir         N       E    SE      SE    NE      NE    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW FW SC SC   B1 B1 B1 B1   SC SC SC SC   SC SC SC SC
+PoP 12hr          0       0     0      20    30      30    30      10     5
+Rain shwrs                              S  S  C    C  C  C  S              
+
+$$
+MOZ058-241000-
+ROLLA/VICHY-MARIES MO
+38.14N  91.77W Elev. 1148 ft
+211 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      66          74          51          57          39
+Temp          79 75 70 70 67 66 69 71 71 69 63 60 57 52 54 52 51 48 46 44 42 40
+Dewpt         59 59 57 56 57 58 60 61 62 60 61 60 57 52 54 50 47 45 43 40 38 35
+RH            50 58 63 61 70 75 73 71 73 73 93100100100100 93 86 89 89 86 86 82
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  S  W  N  N  N NW NW NW NW NW NW
+Wind spd      21 23 21 19 18 17 18 17 17 14 11  9  8  6 10 13 14 11 11 10  9  6
+Wind gust     33 40 39 35 31 28 29 29 29             17    24 25 25 21 20      
+Clouds        SC FW B1 B2 OV B2 OV OV OV OV OV OV OV OV OV OV B2 B2 SC FW CL CL
+PoP 12hr                     10          60          90          80          20
+QPF 12hr                      0        0.07        0.88        1.35        0.25
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  C  L  D  D  D  D  D  L  L  S  S         
+Tstms                                                    S  S     S            
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          61      39    62      41    61      43    60      44    60
+Temp          58 51   43 40 58 52   45 42 58 53   47 44 56 53   47 45 57 53
+Dewpt         38 39   38 37 41 41   41 39 45 45   45 43 46 46   46 45 48 47
+PWind dir         N       E    SE       E     E      NE    NE      NE    NE
+Wind char        LT      LT    GN      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   FW FW SC SC   B1 B1 B1 B1   SC SC SC SC   SC B1 SC SC
+PoP 12hr          0       0     0      20    20      30    30      20     5
+Rain shwrs                              S  S  S    C  C  C  C    S         
+
+$$
+MOZ097-241000-
+WEST PLAINS-HOWELL MO
+36.87N  91.90W Elev. 1228 ft
+211 PM CDT Sun Oct 23 2022
+
+Date           10/23/22      Mon 10/24/22            Tue 10/25/22            Wed
+CDT 3hrly     16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07
+UTC 3hrly     21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12
+
+Min/Max                      62          73          53          61          39
+Temp          75 73 68 66 64 63 67 70 71 70 65 62 58 54 58 55 52 48 45 44 42 40
+Dewpt         58 58 57 56 57 58 61 61 61 59 61 62 58 54 58 54 48 45 43 40 38 36
+RH            55 59 68 70 78 84 81 73 71 68 87100100100100 96 86 89 93 86 86 85
+Wind dir       S  S  S  S  S  S  S  S  S  S  S  S  S NE NE NW NW NW NW NW NW NW
+Wind spd      17 18 17 14 13 12 14 16 16 12 11  9  8  5 10 12 14 11  9  8  6  5
+Wind gust     28 33 33 31 24    25 28 27             17    26 33 29 25 23 19 17
+Clouds        SC FW B1 B2 B2 B2 OV B2 OV B2 OV OV OV OV OV B2 B1 B1 SC FW CL CL
+PoP 12hr                      5          50         100          80           5
+QPF 12hr                      0        0.02        1.10        1.21        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             C  L  L  D  D  D  D  L  L               
+Tstms                                           S  S  C  S  C  S               
+
+
+Date           10/26  Thu 10/27/22  Fri 10/28/22  Sat 10/29/22  Sun 10/30/22
+CDT 6hrly     13 19   01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     18 00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Max/Min          63      38    63      41    62      45    61      44    62
+Temp          59 53   43 39 59 53   45 43 59 55   48 46 58 54   48 46 59 54
+Dewpt         38 39   40 38 42 42   42 41 47 47   47 45 50 49   47 45 50 48
+PWind dir         N      NE    SE       E    NE      NE    NE      NE    NE
+Wind char        LT      LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    CL CL   CL FW FW SC   SC B1 B1 B1   B1 B1 SC SC   SC B1 SC SC
+PoP 12hr          0       0     0      20    30      40    30      10     5
+Rain shwrs                              S  S  C    C  C  C  C              
+
+$$

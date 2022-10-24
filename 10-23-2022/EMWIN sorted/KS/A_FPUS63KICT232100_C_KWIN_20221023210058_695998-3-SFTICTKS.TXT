@@ -1,0 +1,178 @@
+FPUS63 KICT 232100
+SFTKS 
+KSZ001>105-241100-
+
+Tabular State Forecast for Kansas
+National Weather Service Wichita KS
+400 PM CDT SUN OCT 23 2022
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Mon      Tue      Wed      Thu      Fri      Sat      Sun      
+   Oct 24   Oct 25   Oct 26   Oct 27   Oct 28   Oct 29   Oct 30   
+
+Colby
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   38/56    29/65    35/65    38/62    33/59    31/63    33/65    
+    10/10    00/00    00/00    10/20    30/10    10/00    00/00   
+
+Goodland
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   36/56    28/64    33/64    35/59    31/59    29/63    30/66    
+    10/00    00/00    00/00    10/20    30/10    00/00    00/00   
+
+Hill City
+   Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    
+   44/60    31/67    35/66    41/66    36/61    32/65    34/66    
+    00/10    00/00    00/00    10/20    30/20    10/00    00/00   
+
+Tribune
+   Mocldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+   38/56    26/65    33/65    36/62    31/58    28/62    30/64    
+    00/10    00/00    00/00    00/20    30/20    10/00    00/00   
+
+Dodge City
+   Mocldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   47/57    34/68    36/68    44/69    39/60    35/65    35/66    
+    10/10    10/00    00/00    00/10    40/30    10/00    00/00   
+
+Elkhart
+   Mocldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   45/54    31/66    34/69    41/67    36/59    33/64    34/66    
+    10/20    00/00    00/00    00/10    40/20    10/00    00/00   
+
+Garden City
+   Mocldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   44/56    30/66    34/67    41/66    36/59    32/63    33/65    
+    00/10    00/00    00/00    00/10    40/20    10/00    00/00   
+
+Liberal
+   Mocldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   47/56    32/67    34/69    41/70    37/60    33/64    33/66    
+    10/20    10/00    00/00    00/10    40/30    10/00    00/00   
+
+Concordia
+   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   Sunny    
+   51/58    36/63    36/64    44/64    42/60    38/63    37/63    
+    20/30    10/00    00/00    10/30    40/20    10/10    00/00   
+
+Great Bend
+   Mocldy   Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   50/58    35/66    36/66    44/66    41/59    36/63    35/65    
+    20/30    10/00    00/00    10/20    50/30    10/00    00/00   
+
+Hays
+   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    
+   48/58    33/65    35/66    43/65    38/59    33/63    34/65    
+    10/10    00/00    00/00    10/20    40/30    10/00    00/00   
+
+McPherson
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   50/58    38/64    37/65    44/65    43/59    38/62    36/63    
+    30/60    10/00    00/00    10/20    50/30    10/10    00/00   
+
+Russell
+   Mocldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    
+   49/59    35/66    36/67    44/66    40/60    35/64    35/65    
+    20/30    10/00    00/00    10/20    40/30    10/00    00/00   
+
+Salina
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   52/60    37/65    36/66    45/67    43/61    38/63    36/65    
+    30/50    10/00    00/00    10/20    40/30    10/10    00/00   
+
+Hutchinson
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   50/59    39/65    37/66    44/66    43/60    38/63    37/64    
+    40/60    20/00    00/00    10/20    50/40    20/10    00/00   
+
+Medicine Lodge
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   54/59    40/68    38/68    45/69    44/61    39/64    38/66    
+    20/50    10/00    00/00    00/10    50/40    10/10    00/00   
+
+Newton
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   51/61    40/63    39/66    45/65    44/60    41/63    39/63    
+    40/70    20/10    00/00    00/10    50/40    20/10    00/00   
+
+Wichita
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   52/63    43/65    39/67    46/67    46/61    42/63    40/65    
+    40/70    20/10    00/00    00/10    50/40    20/10    00/00   
+
+Winfield/Arkansas City
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   54/66    43/65    39/67    45/67    46/61    42/64    40/65    
+    50/80    40/10    00/00    00/10    50/40    20/10    00/00   
+
+Emporia
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   53/67    41/62    36/65    42/65    43/59    40/62    38/63    
+    30/90    20/10    00/00    00/10    50/30    20/10    00/00   
+
+Garnett
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   56/70    43/57    36/62    41/63    43/58    40/60    40/61    
+    20/100   40/20    00/00    00/10    40/30    20/20    00/00   
+
+Hiawatha
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   53/65    37/58    36/62    41/61    42/58    38/60    37/60    
+    20/80    10/10    00/00    00/20    30/20    10/10    10/00   
+
+Lawrence
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   56/71    41/59    36/64    42/63    43/59    40/62    39/62    
+    20/90    30/10    00/00    00/10    40/30    20/10    10/00   
+
+Manhattan
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+   52/61    37/62    36/64    43/64    43/59    38/62    37/62    
+    40/70    10/10    00/00    10/20    40/30    10/10    00/00   
+
+Olathe
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   59/69    43/57    38/62    43/62    44/57    42/60    41/60    
+    20/90    60/20    00/00    00/10    30/30    20/20    10/00   
+
+Topeka
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   55/67    41/60    37/64    43/64    44/59    40/61    39/62    
+    20/90    20/10    00/00    00/10    40/30    20/10    10/00   
+
+Chanute
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   59/71    45/60    38/65    43/66    46/61    43/63    42/64    
+    30/90    50/30    00/00    00/10    50/40    20/10    00/00   
+
+Coffeyville
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   61/71    45/62    38/67    43/67    46/62    43/64    42/65    
+    30/90    60/30    00/00    00/10    50/40    30/10    00/00   
+
+Eureka
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Ptcldy   Sunny    
+   54/68    43/62    38/65    43/65    44/60    41/63    40/63    
+    40/90    30/10    00/00    00/10    50/40    20/10    00/00   
+
+Iola
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   58/71    44/60    37/64    42/65    44/59    42/62    41/63    
+    30/90    50/20    00/00    00/10    40/40    20/20    00/00   
+
+Pittsburg
+   Shwrs    Ptcldy   Sunny    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+   64/71    47/57    38/64    42/66    45/60    43/61    42/62    
+    30/100   90/40    00/00    00/10    40/40    30/20    00/00   
+
+
+$$
+

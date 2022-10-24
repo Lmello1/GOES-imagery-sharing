@@ -1,0 +1,70 @@
+ASUS63 KBIS 231624
+RTPBIS
+
+Regional Temperature And Precipitation Summary
+National Weather Service Bismarck ND
+1115 AM CDT Sun Oct 23 2022
+
+:
+:VALUES REPRESENT YESTERDAYS HIGHS...AND THIS MORNINGS LOWS
+:AND PRECIPITATION FOR 24 HOURS ENDING AT 7 AM CDT.
+:ASOS SITES ARE AUTOMATED AND MAY UNDER-ESTIMATE
+:WINTER PRECIP.
+:
+:................................................................
+:       STATION             MAX  / MIN  / 24-HR  / SNOW / SNOW
+:        NAME               TEMP / TEMP / PRECIP / FALL / DEPTH
+:................................................................
+: CENTRAL TIME ZONE STATIONS
+.BR BIS 1023 C DH01/TAIRZX/DH07/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+BIS  : Bismarck ASOS      :  55  /  42  /  0.00 /   0.0 /  0
+JMS  : Jamestown FAA      :  63  /  36  /  0.00 /    M  /  M 
+MOT  : Minot FAA          :  51  /  44  /  0.00 /    M  /  M 
+XWA  : Williston Basin Air:  50  /  40  /  0.05 /    M  /  M 
+N60  : Garrison ASOS      :  50  /  43  /  0.01 /    M  /  M 
+MIB  : Minot Air Force Bas:  50  /  43  /    T  /    M  /  M 
+.END
+: MOUNTAIN TIME ZONE STATIONS
+.BR BIS 1023 M DH00/TAIRZX/DH06/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+DIK  : Dickinson Theodore :  48  /  42  /    T  /    M  /  M 
+HEI  : Hettinger ASOS     :  54  /  43  /  0.00 /    M  /  M 
+.END
+:
+.BR BIS  1023  C DH06/TX/TN/PP/SF/SD
+:
+: COOPERATIVE OBSERVATIONS
+: VALUES ARE FOR THE PREVIOUS 24 HOURS
+: CENTRAL TIME ZONE STATIONS
+ALYN8:  Ashley            :  59  /  32  /  0.00 /    M  /  M
+BOTN8:  Bottineau         :  51  /  41  /  0.00 /    M  /  M
+FTYN8:  Fort Yates        :   M  /   M  /  0.00 /    M  /  M
+JTWN8:  Jamestown Hosp    :  60  /  39  /  0.00 /    M  /  M
+LFDN8:  Lansford          :   M  /   M  /    T  /  0.0  /  0
+MAXN8:  Max               :  50  /  38  /  0.05 /  0.0  /  0
+MFTN8:  Moffit 3SE        :   M  /   M  /  0.00 /      M  /  M
+MONN8:  Montpelier        :   M  /   M  /  0.00 /    M  /  M
+UNDN8:  Underwood         :  49  /  41  /  0.00 /  0.0  /  0
+UPMN8:  Upham 3N          :   M  /   M  /  0.00 /    M  /  M
+VLAN8:  Velva 3NE         :   M  /   M  /  0.01 /    M  /  M
+WTDN8:  Watford City      :  47  /  40  /    T  /    M  /  M
+WLWN8:  Willow City       :  48  /  39  /  0.02 /    M  /  M
+.END
+:
+.BR BIS  1023  M DH06/TX/TN/PP/SF/SD
+:
+: MOUNTAIN TIME ZONE STATIONS
+.BR BIS  1023  M DH06/TX/TN/PP/SF/SD
+BOWN8:  Bowman            :  51  /  39  /  0.00 /  0.0  /  0
+DNCN8:  Dunn Center 1E    :  51  /  40  /    T  /    M  /  M
+GLUN8:  Heart Butte Dam   :  52  /  40  /  0.00 /    M  /  M
+KLLN8:  Killdeer          :  53  /  40  /  0.01 /  0.0  /  0
+.END
+
+
+ These data are preliminary and have not undergone final quality
+ control by the National Center for Environmental Information /NCEI/.
+ Therefore these data are subject to revision. Final and certified
+ climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$

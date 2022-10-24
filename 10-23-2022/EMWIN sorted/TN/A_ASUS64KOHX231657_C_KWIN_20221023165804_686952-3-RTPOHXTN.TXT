@@ -1,0 +1,203 @@
+ASUS64 KOHX 231657
+RTPOHX
+TNZ005>011-022>033-056>065-075>080-093>097
+Middle Tennessee Temperature and Precipitation Summary
+National Weather Service Nashville TN
+1157 AM CDT Sun Oct 23 2022
+
+.BR OHX 1023 C DH06/PPDRZZ/TAIRZX/TAIRZN/SFDRZZ/SDIRZZ
+:                            OBS            MAX   MIN     SNOW  SNOW
+:ID     LOCATION             TIME     PCPN  TEMP  TEMP    FALL  DEPTH
+:Bedford County...
+SHET1: Shelbyville         : DHM   /     M/   M /   M /     M/    M
+SMAT1: Shelbyville Airport : DHM   /     M/   M /   M /     M/    M
+SHLT1: Shelbyville WTP     : DHM   /     M/   M /   M /     M/    M
+NDPT1: Normandy Dam        : DH0700/  0.00/   M /   M /     M/    M
+UNVT1: Unionville          : DH0700/  0.00/   M /   M /     M/    M
+:Cannon County...
+WOOT1: Woodbury            : DHM   /     M/   M /   M /     M/    M
+WDBT1: Woodbury #2         : DH0700/  0.00/   M /   M /     M/    M
+:Cheatham County...
+KINT1: Kingston Springs    : DHM   /     M/   M /   M /     M/    M
+CHET1: Cheatham Dam        : DHM   /     M/   M /   M /     M/    M
+:Clay County...
+DAHT1: Dale Hollow Dam     : DHM   /     M/   M /   M /     M/    M
+CLAT1: Celina              : DH0700/  0.00/   M /   M /     M/    M
+CELT1: Celina Fish Hatchery: DHM   /     M/   M /   M /     M/    M
+:Coffee County...
+WART1: Wartrace 6E         : DHM   /     M/   M /   M /     M/    M
+TULT1: Tullahoma           : DHM   /     M/   M /   M /     M/    M
+MNCT1: Manchester 2N       : DHM   /     M/   M /   M /     M/    M
+MANT1: Manchester          : DH0700/  0.00/   M /   M /     M/    M
+:Cumberland County...
+BGLT1: Big Lick            : DH0700/  0.00/   M /   M /     M/    M
+CRST1: Crossville EXP      : DHM   /     M/   M /   M /     M/    M
+CSST1: Crossville RAWS     : DH0700/  0.00/  72 /  39 /     M/    M
+CBOT1: Crab Orchard        : DH0700/  0.00/   M /   M /     M/    M
+:Davidson County...
+BNCT1: Bells Bend          : DHM   /     M/   M /   M /     M/    M
+SHBT1: Shelby Bottoms      : DHM   /     M/   M /   M /     M/    M
+BFDT1: Berry Field         : DH0600/  0.00/  77 /  56 /   0.0/    0
+JLTT1: Joelton             : DHM   /     M/   M /   M /     M/    M
+OHIT1: Old Hickory Dam     : DHM   /     M/   M /   M /     M/    M
+JPPT1: Percy Priest Dam    : DH0700/  0.00/   M /   M /     M/    M
+WPKT1: Warner Park         : DHM   /     M/   M /   M /     M/    M
+ANTT1: Antioch             : DH0700/  0.00/   M /   M /     M/    M
+BELT1: Bellevue            : DH0700/  0.00/   M /   M /     M/    M
+:DeKalb County...
+LNCT1: Edgar Evans S.P.    : DHM   /     M/   M /   M /     M/    M
+SMIT1: Smithville          : DHM   /     M/   M /   M /     M/    M
+GVST1: Temperance Hall     : DH0700/  0.00/   M /   M /     M/    M
+CEHT1: Center Hill Dam     : DH0700/  0.00/   M /   M /     M/    M
+:Dickson County...
+DCKT1: Dickson             : DHM   /     M/   M /   M /     M/    M
+CTET1: Charlotte           : DHM   /     M/   M /   M /     M/    M
+BURT1: Burns RAWS          : DH0700/  0.00/  75 /  55 /     M/    M
+MGBT1: Montgomery Bell     : DHM   /     M/   M /   M /     M/    M
+:Fentress County...
+ALLT1: Allardt             : DHM   /     M/   M /   M /     M/    M
+JAMT1: Jamestown           : DHM   /     M/   M /   M /     M/    M
+JAGT1: Jamestown 5W        : DH0700/  0.00/   M /   M /     M/    M
+:Giles County...
+ARMT1: Ardmore             : DHM   /     M/   M /   M /     M/    M
+PULT1: Pulaski             : DH0600/  0.00/  73 /   M /   0.0/    0
+PSKT1: Pulaski #3          : DH0700/  0.00/   M /   M /     M/    M
+ELKT1: Elkton              : DH0700/  0.00/   M /   M /     M/    M
+:Grundy County...
+COAT1: Coalmont            : DHM   /     M/   M /   M /     M/    M
+CLMT1: Coalmont #2         : DH0700/  0.00/   M /   M /     M/    M
+PELT1: Pelham              : DH0700/  0.00/   M /   M /     M/    M
+:Hickman County...
+CENT1: Centerville         : DHM   /     M/   M /   M /     M/    M
+CNVT1: Centerville #2      : DHM   /     M/   M /   M /     M/    M
+CNTT1: Centerville 2N      : DH0700/  0.00/   M /   M /     M/    M
+:Houston County...
+EMGT1: Ellis Mills         : DH0700/  0.00/   M /   M /     M/    M
+:Humphreys County...
+MCET1: McEwen              : DH0700/  0.00/   M /   M /     M/    M
+TDUT1: Tennessee NWR       : DHM   /     M/   M /   M /     M/    M
+:Jackson County...
+GAIT1: Gainesboro          : DHM   /     M/   M /   M /     M/    M
+JNCT1: Gainesboro #2       : DH0700/  0.00/   M /   M /     M/    M
+PENT1: Penitentiary Branch : DH0700/  0.00/   M /   M /     M/    M
+:Lawrence County...
+DNNT1: Dunn                : DH0700/  0.00/   M /   M /     M/    M
+IRCT1: Iron City           : DHM   /     M/   M /   M /     M/    M
+:Lewis County...
+HOHT1: Hohenwald           : DH0700/  0.00/  72 /  50 /     M/    M
+MERT1: Meriwether Lewis    : DH0700/  0.00/  75 /  51 /     M/    M
+:Macon County...
+LFFT1: Lafayette RAWS      : DH0700/  0.00/  75 /  54 /     M/    M
+RBST1: Red Boiling Springs : DHM   /     M/   M /   M /     M/    M
+SLLT1: Red Boiling Springs2: DHM   /     M/   M /   M /     M/    M
+:Marshall County...
+LWST1: Lewisburg Exp       : DHM   /     M/   M /   M /     M/    M
+LSBT1: Lewisburg RAWS      : DH0700/  0.00/  73 /  55 /     M/    M
+:Maury County...
+CLBT1: Columbia            : DH0700/  0.00/   M /   M /     M/    M
+COLT1: Columbia #2         : DHM   /     M/   M /   M /     M/    M
+CMBT1: Columbia 3NW        : DHM   /     M/   M /   M /     M/    M
+MTPT1: Mount Pleasant      : DHM   /     M/   M /   M /     M/    M
+MPLT1: Mt Pleasant #2      : DH0700/  0.00/   M /   M /     M/    M
+NEST1: Neapolis Exp        : DHM   /     M/   M /   M /     M/    M
+:Montgomery County...
+CKVT1: Clarksville         : DH0700/  0.00/   M /   M /     M/    M
+CLKT1: Clarksville 3S      : DHM   /     M/   M /   M /     M/    M
+PTRT1: Port Royal 4W       : DHM   /     M/   M /   M /     M/    M
+FCRT1: Ft Campbell RAWS    : DH0700/  0.00/  77 /  58 /     M/    M
+:Overton County...
+ALPT1: Alpine              : DH0700/  0.00/   M /   M /     M/    M
+LVNT1: Livingston          : DHM   /     M/   M /   M /     M/    M
+LVGT1: Livingston #2       : DH0700/  0.00/   M /   M /     M/    M
+:Perry County...
+LNDT1: Linden              : DHM   /     M/   M /   M /     M/    M
+LDNT1: Linden #2           : DHM   /     M/   M /   M /     M/    M
+LBLT1: Lobelville          : DH0700/  0.00/  79 /  46 /     M/    M
+LBVT1: Lobelville #2       : DHM   /     M/   M /   M /     M/    M
+MSLT1: Mousetail Landing   : DH1200/  0.00/  76 /  56 /     M/    M
+FLTT1: Flatwoods           : DHM   /     M/   M /   M /     M/    M
+:Pickett County...
+BYDT1: Byrdstown           : DH0630/  0.00/  75 /  45 /     M/    M
+BYGT1: Byrdstown #2        : DH0700/  0.00/   M /   M /     M/    M
+PIKT1: Pickett State Park  : DHM   /     M/   M /   M /     M/    M
+:Putnam County...
+COOT1: Cookeville          : DHM   /     M/   M /   M /     M/    M
+MTYT1: Monterey            : DH0600/  0.00/  72 /  50 /     M/    M
+MNYT1: Monterey #2         : DH0700/  0.00/   M /   M /     M/    M
+:Robertson County...
+SPRT1: Springfield Exp     : DHM   /     M/   M /   M /     M/    M
+SPST1: Springfield         : DH0700/  0.00/   M /   M /     M/    M
+ORLT1: Orlinda             : DH0700/  0.00/   M /   M /     M/    M
+:Rutherford County...
+CSTT1: Christiana          : DH1300/  0.00/  74 /  46 /     M/    M
+EGLT1: Eagleville          : DHM   /     M/   M /   M /     M/    M
+LAST1: Lascassas           : DH0700/  0.00/   M /   M /     M/    M
+MURT1: Murfreesboro        : DH0600/  0.00/  76 /  37 /     M/    M
+MUGT1: Murfreesboro 5N     : DH0700/  0.00/   M /   M /     M/    M
+SRNT1: Smyrna              : DHM   /     M/   M /   M /     M/    M
+MSRT1: Stones River        : DHM   /     M/   M /   M /     M/    M
+:Smith County...
+CRTT1: Carthage            : DHM   /     M/   M /   M /     M/    M
+CTHT1: Carthage #2         : DH0700/  0.00/   M /   M /     M/    M
+CORT1: Cordell Hull Dam    : DHM   /     M/   M /   M /     M/    M
+:Stewart County...
+DVRT1: Fort Donelson       : DHM   /     M/   M /   M /     M/    M
+DOVT1: Dover               : DH0700/  0.00/   M /   M /     M/    M
+DCRT1: Cross Creeks        : DHM   /     M/   M /   M /     M/    M
+:Sumner County...
+BETT1: Bethpage            : DH0700/  0.00/  77 /  40 /   0.0/    0
+BPGT1: Bethpage #2         : DH0700/  0.00/   M /   M /     M/    M
+GTNT1: Gallatin 6E         : DHM   /     M/   M /   M /     M/    M
+PRTT1: Portland            : DHM   /     M/   M /   M /     M/    M
+WHST1: White House         : DH0744/  0.00/  75 /  36 /   0.0/    0
+:Van Buren County...
+FCFT1: Fall Creek Falls    : DH0658/  0.00/  71 /  43 /     M/    M
+FALT1: Fall Creek          : DH0700/  0.00/   M /   M /     M/    M
+SPET1: Spencer 5 NE        : DHM   /     M/   M /   M /     M/    M
+:Warren County...
+GRTT1: Great Falls         : DH0700/  0.00/   M /   M /     M/    M
+MRST1: Morrison            : DH0700/  0.00/   M /   M /     M/    M
+MCMT1: McMinnville         : DHM   /     M/   M /   M /     M/    M
+MCGT1: McMinnville 3NE     : DH0700/  0.00/   M /   M /     M/    M
+GGRT1: Great Falls Dam     : DH0700/  0.00/   M /   M /     M/    M
+RKIT1: Rock Island S.P.    : DH0800/  0.00/  75 /  48 /     M/    M
+:Wayne County...
+CLFT1: Clifton             : DH0700/  0.00/   M /   M /     M/    M
+CLLT1: Collinwood          : DH0700/  0.00/   M /   M /     M/    M
+WAYT1: Waynesboro          : DHM   /     M/   M /   M /     M/    M
+WNBT1: Waynesboro #2       : DH0700/  0.00/   M /   M /     M/    M
+:White County...
+SPAT1: Sparta              : DH0800/  0.00/  76 /  41 /   0.0/    0
+CAFT1: Sparta 2S           : DHM   /     M/   M /   M /     M/    M
+:Williamson County...
+BRTT1: Brentwood           : DHM   /     M/   M /   M /     M/    M
+FBNT1: Fairview - Bowie    : DH0731/  0.00/  72 /  54 /     M/    M
+FRAT1: Franklin            : DH0700/  0.00/   M /   M /     M/    M
+THOT1: Thompson Station    : DHM   /     M/   M /   M /     M/    M
+:Wilson County...
+GVLT1: Gladeville          : DHM   /     M/   M /   M /     M/    M
+HNTT1: Hunters Point       : DH0700/  0.00/   M /   M /     M/    M
+LBNT1: Lebanon             : DHM   /     M/   M /   M /     M/    M
+LNNT1: Lebanon 7N          : DH0700/  0.00/  76 /  46 /     M/    M
+LBST1: Lebanon 3SE         : DH0700/  0.00/   M /   M /     M/    M
+NSHT1: WFO Old Hickory     : DH0600/  0.00/  77 /  40 /   0.0/    0
+STLT1: Statesville         : DH0700/  0.00/   M /   M /     M/    M
+WTRT1: Watertown           : DHM   /     M/   M /   M /     M/    M
+.END
+
+
+MIDDLE TENNESSEE EVAPORATION DATA
+ Crossville        M
+ Lewisburg         M
+ Neapolis          M
+ Springfield       M
+ WFO Nashville     M
+
+
+ THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY CONTROL BY THE
+ NATIONAL CLIMATIC DATA CENTER /NCDC/. THEREFORE...THESE DATA ARE SUBJECT TO
+ REVISION. FINAL AND CERTIFIED DATA CAN BE ACCESSED AT WWW.NCDC.NOAA.GOV.
+
+
+ $$
+
